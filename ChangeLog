@@ -1,3 +1,7 @@
+2005-01-03  Takeshi AIHANA <aihana@gnome.gr.jp>
+
+	* configure.in: Added Japanese "ja" to ALL_LINGUAS.
+
 2004-12-30  Martin Willemoes Hansen  <mwh@sysrq.dk>
 
 	* configure.in: Added Danish "da" to ALL_LINGUAS.

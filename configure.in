@@ -6,7 +6,7 @@ GETTEXT_PACKAGE=gnome-backgrounds
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [The domain name to use with gettext.])
 
-ALL_LINGUAS="bg cs cy da el en_CA en_GB es fi lt nl pa pt sk sv zh_CN"
+ALL_LINGUAS="bg cs cy da el en_CA en_GB es fi ja lt nl pa pt sk sv zh_CN"
 
 AM_GLIB_GNU_GETTEXT()
 AC_PROG_INTLTOOL([0.23])
