@@ -1,3 +1,7 @@
+2004-11-17  Marcel Telka  <marcel@telka.sk>
+
+	* configure.in (ALL_LINGUAS): Added sk.
+
 2004-11-16  Thomas Wood  <thos@gnome.org>
 
 	* Makefile.am:
