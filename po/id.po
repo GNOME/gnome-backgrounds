@@ -1,0 +1,58 @@
+# Indonesian translation of gnome-backgrounds.
+# Copyright (C) 2005 THE gnome-backgrounds's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-backgrounds package.
+# ahmad riza h nst <ari@160c.afraid.org>, 2005.
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-02-25 07:04+0100\n"
+"PO-Revision-Date: 2005-02-26 09:47+0700\n"
+"Last-Translator: ahmad riza h nst <ari@160c.afraid.org>\n"
+"Language-Team: Indonesian <sukarelawan@gnome.linux.or.id>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Telapak Aqua (Merek GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Pulau Fraser (Merek GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Merah Kabur (Merek GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Warna Aneh (Merek GNOME)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Artefak Alien (Ubin Semi Transparan)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Tempat Sapi (Ubin Semi Transparan)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Bentuk Ubin Permata (Ubin Semi Transparan)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Elipsis (Semi Transparan)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "Segi Empat (Semi Transparan)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Tentakel (Semi Transparan)"
+
