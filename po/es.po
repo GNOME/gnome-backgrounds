@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: es\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-22 22:44+0100\n"
-"PO-Revision-Date: 2004-11-22 22:51+0100\n"
+"POT-Creation-Date: 2005-01-01 14:13+0100\n"
+"PO-Revision-Date: 2005-01-01 14:18+0100\n"
 "Last-Translator: \n"
 "Language-Team:  <es@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -41,16 +41,20 @@ msgid "Black (GNOME Branded)"
 msgstr "Negro (Marca Gnome)"
 
 #: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Isla Fraser (Marca Gnome)"
+
+#: branded/gnome-branded.xml.in.in.h:4
 msgid "Hills (GNOME Branded)"
 msgstr "Colinas (Marca Gnome)"
 
-#: branded/gnome-branded.xml.in.in.h:4
+#: branded/gnome-branded.xml.in.in.h:5
 msgid "Red Blurred (GNOME Branded)"
 msgstr "Red Blurred (Marca Gnome)"
 
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Weird Colours (GNOME Branded)"
-msgstr "Colores (Marca Gnome)"
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Colores curiosos (Marca Gnome)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"
@@ -86,7 +90,7 @@ msgstr "Rejilla (Translúcido)"
 
 #: translucent/gnome-translucent.xml.in.in.h:3
 msgid "Masle (Translucent)"
-msgstr ""
+msgstr "Masle (Translúcido)"
 
 #: translucent/gnome-translucent.xml.in.in.h:4
 msgid "Rectangles (Translucent)"
@@ -99,4 +103,3 @@ msgstr "Tentáculos (Tránslúcido)"
 #: translucent/gnome-translucent.xml.in.in.h:6
 msgid "Waves (Translucent)"
 msgstr "Ondas (Translúcido)"
-
