@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-12-07 13:43+0100\n"
-"PO-Revision-Date: 2004-12-07 14:26+0100\n"
+"POT-Creation-Date: 2004-12-18 15:08+0100\n"
+"PO-Revision-Date: 2004-12-18 15:08+0100\n"
 "Last-Translator: Hendrik Brandt <heb@gnome-de.org>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgid "Red Blurred (GNOME Branded)"
 msgstr "Fließendes Rot (GNOME-Markenzeichen)"
 
 #: branded/gnome-branded.xml.in.in.h:6
-msgid "Weird Colours (GNOME Branded)"
+msgid "Weird Colors (GNOME Branded)"
 msgstr "Seltsame Farben (GNOME-Markenzeichen)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
