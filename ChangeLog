@@ -1,3 +1,7 @@
+2004-11-18  Adam Weinberger  <adamw@gnome.org>
+
+	* configure.in: Added en_CA to ALL_LINGUAS.
+
 2004-11-17  Marcel Telka  <marcel@telka.sk>
 
 	* configure.in (ALL_LINGUAS): Added sk.
