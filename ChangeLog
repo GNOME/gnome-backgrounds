@@ -1,3 +1,7 @@
+2004-11-21  Dafydd Harries  <daf@muse.19inch.net>
+
+	* configure.in: Added "cy" to ALL_LINGUAS.
+
 2004-11-20  Thomas Wood  <thos@gnome.org>
 
 	* tiles/Makefile.am:

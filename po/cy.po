@@ -1,0 +1,99 @@
+# GNOME Backgrounds in Welsh.
+# This file is distributed under the same license as GNOME Backgrounds.
+# Dafydd Harries <daf@muse.19inch.net>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-11-20 16:14-0500\n"
+"PO-Revision-Date: 2004-11-21 14:57-0500\n"
+"Last-Translator: Dafydd Harries <daf@muse.19inch.net>\n"
+"Language-Team: Welsh <cy@pengwyn.linux.org.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "Dyledus (Haniaethol)"
+
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "Dyledus Eiledol (Haniaethol)"
+
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr "Scie (Haniaethol)"
+
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr "Scie Eiledol (Haniaethol)"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Troed Aqua (Brand GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "Du (Brand GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Hills (GNOME Branded)"
+msgstr "Bryniau (Brand GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Coch Cymylog (Brand GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Weird Colours (GNOME Branded)"
+msgstr "Lliwiau Od (Brand GNOME)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Eitem Estron (Teilsen Hanner-Tryloyw)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Sbotiau Buwch (Teilsen Hanner-Tryloyw)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Teil Deiamwnt (Teilsen Hanner-Tryloyw)"
+
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Greche Pattern (Tile)"
+msgstr "Patrwm Greche (Teilsen)"
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "Lledr (Teilsen)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "Patrwm Wal Garreg (Teilsen)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Elipsis (Hanner-Tryloyw)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "Grid (Hanner-Tryloyw)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr "Masle (Hanner-Tryloyw)"
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "Petryalau (Hanner-Tryloyw)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "Teimlyddion (Hanner-Tryloyw)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "Tonnau (Hanner-Tryloyw)"
