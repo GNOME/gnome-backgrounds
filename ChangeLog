@@ -1,5 +1,10 @@
 2005-01-10  Thomas Wood  <thos@gnome.org>
 
+	* abstract/Makefile.am: Fix
+	* tiles/gnome-tiles.xml.in.in: Add shade and colours for Diamond wallpaper
+
+2005-01-10  Thomas Wood  <thos@gnome.org>
+
 	* abstract/Makefile.am: Remove unused files
 	* configure.in: Get ready for release
 	* translucent/gnome-translucent.xml.in.in: Fixed Rectangles wallpaper style option

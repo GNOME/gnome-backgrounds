@@ -3,9 +3,8 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/abstract
 background_DATA =\
 	due.jpg \
 	due-alt.jpg \
-	scie.jpg
-	scie-alt.jpg \
-
+	scie.jpg \
+	scie-alt.jpg
 
 metadata_in_files = gnome-abstract.xml.in
 metadatadir = $(datadir)/gnome-background-properties

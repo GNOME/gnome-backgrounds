@@ -36,5 +36,8 @@
     <_name>Diamond Tile Pattern (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/tiles-trans.png</filename>
     <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
 </wallpapers>
