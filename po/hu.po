@@ -1,0 +1,56 @@
+# Hungarian translation of gnome-backgrounds.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Gabor Kelemen <kelemeng@gnome.hu>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-02-27 14:58+0100\n"
+"PO-Revision-Date: 2005-02-27 18:18+0100\n"
+"Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
+"Language-Team: Hungarian <gnome@gnome.hu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Kék tappancs (GNOME logós)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Fraser-sziget (GNOME logós)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Elmosódott vörös (GNOME logós)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Furcsa színek (GNOME logós)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Idegen alkotás (Áttetsző csempe)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Tehénfoltok (Áttetsző csempe)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Gyémántcsempe (Áttetsző)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Ellipszis (Áttetsző)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "Téglalapok (Áttetsző)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Karok (Áttetsző)"
