@@ -1,3 +1,7 @@
+2004-11-21  David Lodge <dave@cirt.net>
+                                                                                
+        * configure.in: [ALL_LINGUAS] Added en_GB
+                                                                                
 2004-11-21  Dafydd Harries  <daf@muse.19inch.net>
 
 	* configure.in: Added "cy" to ALL_LINGUAS.
