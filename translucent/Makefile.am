@@ -19,7 +19,7 @@ CLEANFILES = gnome-translucent.xml gnome-translucent.xml.in
 EXTRA_DIST = $(background_DATA) gnome-translucent.xml.in.in
 
 gnome-translucent.xml.in: gnome-translucent.xml.in.in Makefile
-	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-translucent.xml.in.in > gnome-translucent.xml.in.tmp \
+	sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/gnome-translucent.xml.in.in > gnome-translucent.xml.in.tmp \
 	&& mv gnome-translucent.xml.in.tmp gnome-translucent.xml.in
 
 MAINTAINERCLEANFILES = \

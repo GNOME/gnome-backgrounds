@@ -1,3 +1,12 @@
+2005-01-12  Thomas Wood  <set EMAIL_ADDRESS environment variable>
+
+	* abstract/Makefile.am:
+	* branded/Makefile.am:
+	* tiles/Makefile.am:
+	* translucent/Makefile.am:
+
+	Fix make distcheck (Andrew Johnson)
+
 2005-01-12  Maxim Dziumanenko <mvd@mylinux.com.ua>
 
 	* configure.in: Added uk to ALL_LINGUAS.
