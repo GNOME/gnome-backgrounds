@@ -1,0 +1,9 @@
+2004-11-15  Christian Rose  <menthos@menthos.com>
+
+	* gnome-backgrounds.pot: Removed. This is a generated
+	file and not supposed to be stored in CVS.
+	* .cvsignore: Added this.
+	* POTFILES.in: The contents of this file needs to reflect
+	what's available in a fresh checkout. No generated files can
+	be listed here.
+
