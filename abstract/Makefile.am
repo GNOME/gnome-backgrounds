@@ -14,7 +14,7 @@ metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 noinst_DATA = gnome-abstract.xml.in
 CLEANFILES = gnome-abstract.xml gnome-abstract.xml.in
 
-EXTRA_DIST = $(background_DATA)
+EXTRA_DIST = $(background_DATA) gnome-abstract.xml.in.in
 
 gnome-abstract.xml.in: gnome-abstract.xml.in.in Makefile
 	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-abstract.xml.in.in > gnome-abstract.xml.in.tmp \

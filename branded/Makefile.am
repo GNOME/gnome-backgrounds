@@ -17,7 +17,7 @@ metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 noinst_DATA = gnome-branded.xml.in
 CLEANFILES = gnome-branded.xml gnome-branded.xml.in
 
-EXTRA_DIST = $(background_DATA)
+EXTRA_DIST = $(background_DATA) gnome-branded.xml.in.in
 
 gnome-branded.xml.in: gnome-branded.xml.in.in Makefile
 	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-branded.xml.in.in > gnome-branded.xml.in.tmp \

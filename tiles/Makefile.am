@@ -17,7 +17,7 @@ metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 noinst_DATA = gnome-tiles.xml.in
 CLEANFILES = gnome-tiles.xml gnome-tiles.xml.in
 
-EXTRA_DIST = $(background_DATA)
+EXTRA_DIST = $(background_DATA) gnome-tiles.xml.in.in
 
 gnome-tiles.xml.in: gnome-tiles.xml.in.in Makefile
 	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-tiles.xml.in.in > gnome-tiles.xml.in.tmp \

@@ -1,3 +1,12 @@
+2005-01-12  Thomas Wood  <thos@gnome.org>
+
+	* abstract/Makefile.am:
+	* branded/Makefile.am:
+	* tiles/Makefile.am:
+	* translucent/Makefile.am:
+
+	Added the .xml.in.in files to EXTRA_DIST
+
 2005-01-11  Thomas Wood  <thos@gnome.org>
 
 	* AUTHORS:
