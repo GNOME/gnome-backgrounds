@@ -1,0 +1,104 @@
+# gnome-backgrounds's Portuguese translation.
+# Copyright © 2004 gnome-backgrounds
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-12-09 22:40+0000\n"
+"PO-Revision-Date: 2004-12-09 22:45+0000\n"
+"Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
+"Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "Duo (Abstracto)"
+
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "Duo Alternativo (Abstracto)"
+
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr "Ciência (Abstracto)"
+
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr "Ciência Alternativo (Abstracto)"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Pé Aqua (Marca GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "Preto (Marca GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Ilha Fraser (Marca GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Hills (GNOME Branded)"
+msgstr "Montes (Marca GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Esborratado Vermelho (Marca GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Cores Estranhas (Marca GNOME)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Artefactos Alígenas (Mosaico Translúcido)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Malhas de Vaca (Mosaico Translúcido)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Padrão de Mosaico de Diamante (Mosaico Translúcido)"
+
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Greche Pattern (Tile)"
+msgstr "Padrão Grego (Mosaico)"
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "Cabedal (Mosaico)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "Padrão de Parede de Pedra (Mosaico)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Elípse (Translúcido)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "Grelha (Translúcido)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr "Masle (Translúcido)"
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "Rectângulos (Translúcido)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "Tentáculos (Translúcido)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "Ondas (Translúcido)"
