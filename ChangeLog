@@ -1,3 +1,14 @@
+2005-02-10  Thomas Wood  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.9.91 release
+
+	* po/POTFILES.in: Removed gnome-abstract.xml.in.in (again)
+	* po/POTFILES.skip: Added & gnome-abstract.xml.in.in added to list
+
+
 2005-01-26  Thomas Wood  <thos@gnome.org>
 
 	* NEWS: Updated for 2.9.90 release
