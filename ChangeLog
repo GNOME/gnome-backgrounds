@@ -1,3 +1,7 @@
+2004-12-09  Duarte Loreto <happyguy_pt@hotmail.com>
+
+	* configure.in: Added Portuguese (pt) to ALL_LINGUAS.
+
 2004-12-08  Thomas Wood  <thos@gnome.org>
 
 	* AUTHORS: Updated
