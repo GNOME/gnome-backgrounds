@@ -1,0 +1,56 @@
+# Traditional Chinese translation of gnome-background.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# Woodman Tuen <wmtuen@gmail.com>, 2005.
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-background 2.9.91\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-03-01 16:41+0800\n"
+"PO-Revision-Date: 2005-02-21 11:12+0800\n"
+"Last-Translator: Woodman Tuen <wmtuen@gmail.com>\n"
+"Language-Team: Chinese/Traditional <zh-l10n@linux.org.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Aqua Foot（GNOME 標誌）"
+
+#: ../branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "芬瑟島（GNOME 標誌）"
+
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "模糊紅彩（半透明）"
+
+#: ../branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "斜紋（GNOME 標誌）"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Alien Artifact（半透明鋪排）"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "牛型斑點（半透明鋪排）"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "鑽石型圖案（半透明鋪排）"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "橢圓（半透明）"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "正方型（半透明）"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Tentacles（半透明）"
