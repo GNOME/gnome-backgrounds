@@ -1,0 +1,57 @@
+# Italian translation of Gnome-backgrounds.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the Gnome-backgrounds.
+# Ida Gasparretti <vampiria74@tin.it>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-03-03 22:10+0100\n"
+"PO-Revision-Date: 2005-02-23 14:21+0100\n"
+"Last-Translator: Ida Gasparretti <vampiria74@tin.it>\n"
+"Language-Team: Italian <tp@lists.linux.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain;charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Piede Aqua (Marchio GNOME)"
+
+#: ../branded/gnome-branded.xml.in.in.h:2
+#, fuzzy
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Rosso sfumato (Marchio GNOME)"
+
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Rosso sfumato (Marchio GNOME)"
+
+#: ../branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Colori surreali (Marchio GNOME)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Manufatto alieno (piastrella semitrasparente)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Macchie di mucca (piastrella semitrasparente)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Motivo a diamanti (piastrella semitrasparente)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Ellissi (semitrasparente)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "Rettangoli (semitrasparente)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Tentacoli (semitrasparente)"
