@@ -4,7 +4,7 @@
   <wallpaper deleted="false">
     <_name>Rectangles (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/rects.png</filename>
-    <options>wallpaper</options>
+    <options>stretched</options>
     <shade_type>solid</shade_type>
     <pcolor>#76848F</pcolor>
     <scolor>#76848F</scolor>

@@ -1,3 +1,9 @@
+2005-01-10  Thomas Wood  <thos@gnome.org>
+
+	* abstract/Makefile.am: Remove unused files
+	* configure.in: Get ready for release
+	* translucent/gnome-translucent.xml.in.in: Fixed Rectangles wallpaper style option
+
 2005-01-03  Takeshi AIHANA <aihana@gnome.gr.jp>
 
 	* configure.in: Added Japanese "ja" to ALL_LINGUAS.
