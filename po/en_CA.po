@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-20 15:47-0500\n"
-"PO-Revision-Date: 2004-11-20 18:33-0400\n"
+"POT-Creation-Date: 2004-11-28 17:37-0500\n"
+"PO-Revision-Date: 2004-11-28 18:33-0400\n"
 "Last-Translator: Adam Weinberger <adamw@gnome.org>\n"
 "Language-Team: Canadian English <adamw@FreeBSD.org>\n"
 "MIME-Version: 1.0\n"
@@ -41,14 +41,18 @@ msgid "Black (GNOME Branded)"
 msgstr "Black (GNOME Branded)"
 
 #: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Fraser Island (GNOME Branded)"
+
+#: branded/gnome-branded.xml.in.in.h:4
 msgid "Hills (GNOME Branded)"
 msgstr "Hills (GNOME Branded)"
 
-#: branded/gnome-branded.xml.in.in.h:4
+#: branded/gnome-branded.xml.in.in.h:5
 msgid "Red Blurred (GNOME Branded)"
 msgstr "Red Blurred (GNOME Branded)"
 
-#: branded/gnome-branded.xml.in.in.h:5
+#: branded/gnome-branded.xml.in.in.h:6
 msgid "Weird Colours (GNOME Branded)"
 msgstr "Weird Colours (GNOME Branded)"
 
