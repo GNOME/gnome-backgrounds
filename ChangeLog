@@ -1,3 +1,7 @@
+2005-01-22  Changwoo Ryu  <cwryu@debian.org>
+
+	* configure.in: Added ko to ALL_LINGUAS.
+	
 2005-01-19  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* configure.in: Add «no» and «nb» to ALL_LINGUAS.
