@@ -3,12 +3,14 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Marcel Telka <marcel@telka.sk>, 2004.
 #
+# $Id$
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-17 08:02+0100\n"
-"PO-Revision-Date: 2004-11-17 08:52+0100\n"
+"POT-Creation-Date: 2004-11-20 18:02+0100\n"
+"PO-Revision-Date: 2004-11-20 18:05+0100\n"
 "Last-Translator: Marcel Telka <marcel@telka.sk>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "MIME-Version: 1.0\n"
@@ -64,12 +66,12 @@ msgid "Diamond Tile Pattern (Translucent Tile)"
 msgstr "Vzorka diamantovej dlažby (priehľadná dlažba)"
 
 #: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Grass Pattern (Tile)"
-msgstr "Vzorka trávy (dlažba)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
 msgid "Greche Pattern (Tile)"
 msgstr "Vzorka Greche (dlažba)"
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "Koža (dlažba)"
 
 #: tiles/gnome-tiles.xml.in.in.h:6
 msgid "Stone Wall Pattern (Tile)"
