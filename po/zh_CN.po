@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-29 11:32+0100\n"
-"PO-Revision-Date: 2004-11-29 20:36+0800\n"
+"POT-Creation-Date: 2005-02-07 22:41+0100\n"
+"PO-Revision-Date: 2005-02-08 08:10+0800\n"
 "Last-Translator: Funda Wang <fundawang@linux.net.cn>\n"
 "Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
 "MIME-Version: 1.0\n"
@@ -17,88 +17,57 @@ msgstr ""
 
 #: abstract/gnome-abstract.xml.in.in.h:1
 msgid "Due (Abstract)"
-msgstr ""
+msgstr "幻舞一(抽象)"
 
 #: abstract/gnome-abstract.xml.in.in.h:2
 msgid "Due Alternate (Abstract)"
-msgstr ""
+msgstr "幻舞二(抽象)"
 
 #: abstract/gnome-abstract.xml.in.in.h:3
 msgid "Scie (Abstract)"
-msgstr ""
+msgstr "行云一(抽象)"
 
 #: abstract/gnome-abstract.xml.in.in.h:4
 msgid "Scie Alternate (Abstract)"
-msgstr ""
+msgstr "行云二(抽象)"
 
 #: branded/gnome-branded.xml.in.in.h:1
 msgid "Aqua Foot (GNOME Branded)"
-msgstr ""
+msgstr "水晶脚(GNOME 品牌)"
 
 #: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "黑色 (GNOME 招牌)"
+msgid "Fraser Island (GNOME Branded)"
+msgstr "海滩风(GNOME 品牌)"
 
 #: branded/gnome-branded.xml.in.in.h:3
-msgid "Fraser Island (GNOME Branded)"
-msgstr ""
+msgid "Red Blurred (GNOME Branded)"
+msgstr "赤焰霞(GNOME 品牌)"
 
 #: branded/gnome-branded.xml.in.in.h:4
-msgid "Hills (GNOME Branded)"
-msgstr ""
-
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Red Blurred (GNOME Branded)"
-msgstr ""
-
-#: branded/gnome-branded.xml.in.in.h:6
-msgid "Weird Colours (GNOME Branded)"
-msgstr ""
+msgid "Weird Colors (GNOME Branded)"
+msgstr "光与彩(GNOME 招牌)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"
-msgstr ""
+msgstr "鸟瞰(透明平铺)"
 
 #: tiles/gnome-tiles.xml.in.in.h:2
 msgid "Cow Spots (Translucent Tile)"
-msgstr ""
+msgstr "水渍(透明平铺)"
 
 #: tiles/gnome-tiles.xml.in.in.h:3
 msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr ""
-
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr ""
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr ""
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr ""
+msgstr "菱形(透明平铺)"
 
 #: translucent/gnome-translucent.xml.in.in.h:1
 msgid "Ellipsis (Translucent)"
-msgstr ""
+msgstr "椭圆(透明)"
 
 #: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "网格 (透明)"
+msgid "Rectangles (Translucent)"
+msgstr "矩形(透明)"
 
 #: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr ""
-
-#: translucent/gnome-translucent.xml.in.in.h:4
-msgid "Rectangles (Translucent)"
-msgstr "矩形 (透明)"
-
-#: translucent/gnome-translucent.xml.in.in.h:5
 msgid "Tentacles (Translucent)"
-msgstr ""
+msgstr "全透明"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "波浪 (透明)"
