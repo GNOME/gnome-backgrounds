@@ -1,3 +1,8 @@
+2005-03-01  Pawan Chitrakar  <pawan@nplinux.org>
+
+	
+	* configure.in: Added "ne" to ALL_LINGUAS.
+	
 2005-03-01  Abel Cheung  <maddog@linuxhall.org>
 
 	* configure.in: Added "ca" "de" "vi" "zh_TW" to ALL_LINGUAS.
