@@ -1,3 +1,7 @@
+2005-03-08  Baris Cicek <baris@teamforce.name.tr>
+
+	* configure.in: Added "tr" to ALL_LINGUAS.
+
 2005-03-07  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:
