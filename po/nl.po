@@ -1,0 +1,110 @@
+# Dutch translation of gnome-backgrounds.
+# Copyright (C) 2004 The Free Software Foundation Inc.
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Tino Meinen <a.t.meinen@chello.nl>, 2004.
+#
+# Het is vaak onzinnig om de titels letterlijk te vertalen (welke betekenis is 
+# ook vaak onduidelijk). Het beste is om dat geval het plaatje te bekijken en zelf een
+# naam te verzinnen.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GNOME 2.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-12-17 20:23+0100\n"
+"PO-Revision-Date: 2004-12-19 03:38+0100\n"
+"Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "Puls (abstract)"
+
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "Puls Alternatief (abstract)"
+
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr "Spoor (abstract)"
+
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr "Spoor Alternatief (abstract)"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Aqua voet (GNOME logo)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "Zwart goud (GNOME logo)"
+
+# in Australie
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Fraser eiland (GNOME logo)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Hills (GNOME Branded)"
+msgstr "Heuvels (GNOME logo)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Rood zweem (GNOME logo)"
+
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Lichtval (GNOME logo)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Buitenaards motief (doorzichtige tegel)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Koeienvlekken (doorzichtige tegel)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Diamantpatroon (doorzichtige tegel)"
+
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Greche Pattern (Tile)"
+msgstr "Grieks patroon (tegel)"
+
+# leder
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "Leer (tegel)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "Stenen muur (tegel)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Ellipsen (doorzichtig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "Raster (doorzichtig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr "Buiging (doorzichtig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "Rechthoeken (doorzichtig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "Tentakels (doorzichtig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "Golven (doorzichtig)"
