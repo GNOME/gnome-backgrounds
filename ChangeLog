@@ -1,3 +1,18 @@
+2005-01-25  Thomas Wood  <thos@gnome.org>
+
+	* AUTHORS:
+	* Makefile.am:
+	* branded/Makefile.am:
+	* branded/gnome-branded.xml.in.in:
+	* configure.in:
+	* po/POTFILES.in:
+	* tiles/Makefile.am:
+	* tiles/gnome-tiles.xml.in.in:
+	* translucent/Makefile.am:
+	* translucent/gnome-translucent.xml.in.in:
+
+	Reduced the number of backgrounds to be installed
+
 2005-01-22  Changwoo Ryu  <cwryu@debian.org>
 
 	* configure.in: Added ko to ALL_LINGUAS.
@@ -6,7 +21,7 @@
 
 	* configure.in: Add «no» and «nb» to ALL_LINGUAS.
 
-2005-01-12  Thomas Wood  <set EMAIL_ADDRESS environment variable>
+2005-01-12  Thomas Wood  <thos@gnome.org>
 
 	* abstract/Makefile.am:
 	* branded/Makefile.am:

@@ -2,11 +2,6 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <_name>Stone Wall Pattern (Tile)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/stone-wall.png</filename>
-    <options>wallpaper</options>
-  </wallpaper>
-  <wallpaper deleted="false">
     <_name>Alien Artifact (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/alien-artifact-trans.png</filename>
     <options>wallpaper</options>
@@ -15,22 +10,12 @@
     <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <_name>Greche Pattern (Tile)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/greche.png</filename>
-    <options>wallpaper</options>
-  </wallpaper>
-  <wallpaper deleted="false">
     <_name>Cow Spots (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/cow-trans.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
     <pcolor>#76848F</pcolor>
     <scolor>#76848F</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <_name>Leather (Tile)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/leather_skin-resynth-hig.png</filename>
-    <options>wallpaper</options>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Diamond Tile Pattern (Translucent Tile)</_name>

@@ -5,13 +5,8 @@ Maintainers:
 
 Backgrounds:
 
-Abstract
- - Lapo Calamandrei <lapo@it.gnome.org>
-
 Branded
- - GNOME-Black.png         Shane Semler <watchitman@yahoo.com>
  - GNOME-Aqua.png          Zeus <zeus@bajingloncat.com>
- - GNOME-Hills.png         Andrew Fitzsimon <andrewf1@fitzsimon.com.au>
  - GNOME-FraserIsland.png  Andrew Fitzsimon <andrewf1@fitzsimon.com.au>
  - GNOME-Redblurred.png    Martin Benavides <benavideslee@yahoo.com>
  - GNOME-Weirdcolours.png  Martin Benavides <benavideslee@yahoo.com>
@@ -19,15 +14,9 @@ Branded
 Tiles
  - alien-artifact-trans.png        Lapo Calamandrei <lapo@it.gnome.org>
  - cow-trans.png                   Lapo Calamandrei <lapo@it.gnome.org>
- - greche.png                      Lapo Calamandrei <lapo@it.gnome.org>
- - leather_skin-resynth-hig.png    Garrett LeSage <garrett@linuxart.com> and
-                                      Lapo Calamandrei <lapo@it.gnome.org>
- - stone-wall.png                  Lapo Calamandrei <lapo@it.gnome.org>
  - tiles-trans.png                 Lapo Calamandrei <lapo@it.gnome.org>
 
 Translucent
- - masle.png               Jakub Steiner <jimmac@ximian.com>
  - rects.png               Jakub Steiner <jimmac@ximian.com>
  - ellipsis.png            Lapo Calamandrei <lapo@it.gnome.org>
  - waves.png               Lapo Calamandrei <lapo@it.gnome.org>
- - grid.png                Lapo Calamandrei <lapo@it.gnome.org>

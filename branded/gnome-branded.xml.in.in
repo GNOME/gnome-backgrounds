@@ -7,11 +7,6 @@
     <options>scaled</options>
   </wallpaper>
   <wallpaper deleted="false">
-    <_name>Hills (GNOME Branded)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Hills.jpg</filename>
-    <options>scaled</options>
-  </wallpaper>
-  <wallpaper deleted="false">
     <_name>Aqua Foot (GNOME Branded)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Aqua.jpg</filename>
     <options>scaled</options>
@@ -19,11 +14,6 @@
   <wallpaper deleted="false">
     <_name>Weird Colors (GNOME Branded)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Weirdcolours.jpg</filename>
-    <options>scaled</options>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <_name>Black (GNOME Branded)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Black.jpg</filename>
     <options>scaled</options>
   </wallpaper>
   <wallpaper deleted="false">

@@ -10,22 +10,6 @@
     <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <_name>Waves (Translucent)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/waves.png</filename>
-    <options>stretched</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#76848F</pcolor>
-    <scolor>#76848F</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <_name>Masle (Translucent)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/masle.png</filename>
-    <options>scaled</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#76848F</pcolor>
-    <scolor>#76848F</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
     <_name>Ellipsis (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/ellipsis.png</filename>
     <options>scaled</options>
@@ -38,14 +22,6 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/tentacles.png</filename>
     <options>stretched</options>
     <shade_type>horizontal-gradient</shade_type>
-    <pcolor>#76848F</pcolor>
-    <scolor>#76848F</scolor>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <_name>Grid (Translucent)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/grid.png</filename>
-    <options>stretched</options>
-    <shade_type>vertical-gradient</shade_type>
     <pcolor>#76848F</pcolor>
     <scolor>#76848F</scolor>
   </wallpaper>

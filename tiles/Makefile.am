@@ -3,10 +3,7 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/tiles
 background_DATA =\
 	alien-artifact-trans.png \
 	tiles-trans.png \
-	cow-trans.png \
-	greche.png \
-	leather_skin-resynth-hig.png \
-	stone-wall.png
+	cow-trans.png
 
 
 metadata_in_files = gnome-tiles.xml.in
