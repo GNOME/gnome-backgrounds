@@ -2,12 +2,12 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Stone Wall Pattern (Tile)</name>
+    <_name>Stone Wall Pattern (Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/stone-wall.png</filename>
     <options>wallpaper</options>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Alien Artifact (Translucent Tile)</name>
+    <_name>Alien Artifact (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/alien-artifact-trans.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
@@ -15,12 +15,12 @@
     <scolor>#768FC4</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Greche Pattern (Tile)</name>
+    <_name>Greche Pattern (Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/greche.png</filename>
     <options>wallpaper</options>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Cow Spots (Translucent Tile)</name>
+    <_name>Cow Spots (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/cow-trans.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
@@ -28,12 +28,12 @@
     <scolor>#768FC4</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Grass Pattern (Tile)</name>
+    <_name>Grass Pattern (Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/grass.png</filename>
     <options>wallpaper</options>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Diamond Tile Pattern (Translucent Tile)</name>
+    <_name>Diamond Tile Pattern (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/tiles-trans.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>

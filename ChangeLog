@@ -1,3 +1,14 @@
+2004-11-16  Thomas Wood  <thos@gnome.org>
+
+	* Makefile.am:
+	* abstract/gnome-abstract.xml.in.in:
+	* branded/gnome-branded.xml.in.in:
+	* configure.in:
+	* tiles/gnome-tiles.xml.in.in:
+	* translucent/gnome-translucent.xml.in.in:
+
+	i18n work
+
 2004-11-06  Thomas Wood  <thos@gnome.org>
 
 	* branded/GNOME-Aqua.jpg: Higher quality version
