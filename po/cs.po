@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-20 11:10+0100\n"
-"PO-Revision-Date: 2004-11-20 16:21+0100\n"
+"POT-Creation-Date: 2004-12-11 20:20+0100\n"
+"PO-Revision-Date: 2004-12-11 22:17+0100\n"
 "Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -41,15 +41,20 @@ msgid "Black (GNOME Branded)"
 msgstr "Černé (motiv GNOME)"
 
 #: branded/gnome-branded.xml.in.in.h:3
+#, fuzzy
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Černé (motiv GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
 msgid "Hills (GNOME Branded)"
 msgstr "Kopce (motiv GNOME)"
 
-#: branded/gnome-branded.xml.in.in.h:4
+#: branded/gnome-branded.xml.in.in.h:5
 msgid "Red Blurred (GNOME Branded)"
 msgstr "Červené rozostřené (motiv GNOME)"
 
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Weird Colours (GNOME Branded)"
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colors (GNOME Branded)"
 msgstr "Divné barvy (motiv GNOME)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
