@@ -7,8 +7,7 @@ test -z "$srcdir" && srcdir=.
 PKG_NAME="gnome-backgrounds"
 
 (test -f $srcdir/configure.in \
-  && test -f $srcdir/index.theme.in \
-  && test -d $srcdir/48x48) || {
+  && test -d $srcdir/translucent ) || {
     echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
     echo " top-level $PKG_NAME directory"
     exit 1

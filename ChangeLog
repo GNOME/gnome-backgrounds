@@ -1,3 +1,18 @@
+2003-08-10 Mark Finlay <sisobATtuxfamilyDOTorg>
+
+	* Autogen.sh: Fix up file checks so that it actually runs
+	* configure.in: Add translucent/Makefile; Added AM_INIT
+	* Makefile.am: added translucent subdir
+
+	* translucent: ADDED
+	* translucent/ellipsis.png : ADDED
+	* translucent/waves.png : ADDED
+	* translucent/grid.png : ADDED
+	* translucent/grids.png : ADDED
+	* translucent/tentacles.png : ADDED
+
+	Now we have some backgrounds and the module actually builds.
+
 2003-08-30 Mark Finlay <sisobATtuxfamilyDOTorg>
 
 	* AUTHORS
