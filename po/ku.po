@@ -1,0 +1,56 @@
+# Kurdish Translation of gnome-backgrounds.
+# Copyright (C) 2005 gnome-backgrounds.
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Abdullah Ulas <ulas@sdf.lonestar.org>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-03-23 04:26+0100\n"
+"PO-Revision-Date: 2005-03-23 10:30+EET\n"
+"Last-Translator: Abdullah Ulas <ulas@sdf.lonestar.org>\n"
+"Language-Team: Kurdish <ku@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Aqua Pê (Bî Logoya GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Adaya Fraser (Bî Logoya GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Reþberîya Sor (Bî Logoya GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Rengên Tevlhevkîrî (Bî Logoya GNOME)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "TîÂþtên Jý ûzayê (Sazkîrîna Awrengî)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Belekîyîn ÇÂêlekan (Sazkîrîna Awrengî)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Sazkîrîna Elmasîi Sazkîrîna Awrengî)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Elipsên (Awrengî)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "ÇarkûÂþeyan (Awrengîf)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Mýlîn Axtapotan (Awrengî)"
