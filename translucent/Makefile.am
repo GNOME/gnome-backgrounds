@@ -7,6 +7,7 @@ background_DATA =\
 	grid.png \
 	grids.png \
    masle.png \
+   rects.png \
 	tentacles.png \
 	waves.png \
 	$(NULL)
