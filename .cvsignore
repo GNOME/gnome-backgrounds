@@ -1,0 +1,14 @@
+Makefile
+Makefile.in
+aclocal.m4
+config.log
+config.status
+config.cache
+configure
+intltool-extract
+intltool-extract.in
+intltool-merge
+intltool-merge.in
+intltool-update
+intltool-update.in
+autom4te.cache

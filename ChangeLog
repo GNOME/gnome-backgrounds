@@ -1,0 +1,12 @@
+2003-08-30 Mark Finlay <sisobATtuxfamilyDOTorg>
+
+	* AUTHORS
+	* Makefile.am
+	* ChangeLog
+	* NEWS
+	* configure.in
+	* README
+	* autogen.sh
+	* COPYING
+
+	All added. This module does nothing yet.
