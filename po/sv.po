@@ -1,0 +1,235 @@
+# Swedish messages for gnome-backgrounds.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Christian Rose <menthos@menthos.com>, 2004.
+#
+# $Id$
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-12-07 13:51+0100\n"
+"PO-Revision-Date: 2004-12-07 13:52+0100\n"
+"Last-Translator: Christian Rose <menthos@menthos.com>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Osäker
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "Due (abstrakt)"
+
+# Osäker
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "Alternativ Due (abstrakt)"
+
+# Osäker
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr "Scie (abstrakt)"
+
+# Osäker
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr "Alternativ Scie (abstrakt)"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Aqua-fot (GNOME-märkt)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "Svart (GNOME-märkt)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Fraserön (GNOME-märkt)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Hills (GNOME Branded)"
+msgstr "Kullar (GNOME-märkt)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Rödsuddig (GNOME-märkt)"
+
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colours (GNOME Branded)"
+msgstr "Konstiga färger (GNOME-märkt)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Rymdföremål (halvgenomskinlig bricka)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Kofläckar (halvgenomskinlig bricka)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Diamantbrickmönster (halvgenomskinlig bricka)"
+
+# Osäker
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Greche Pattern (Tile)"
+msgstr "Greche-mönster (bricka)"
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "Läder (bricka)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "Stenväggsmönster (bricka)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Ellips (halvgenomskinlig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "Rutnät (halvgenomskinlig)"
+
+# Osäker
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr "Masle (halvgenomskinlig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "Rektanglar (halvgenomskinlig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "Tentakler (halvgenomskinlig)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "Vågor (halvgenomskinlig)"
+
+# Osäker
+#~ msgid "Due"
+#~ msgstr "Due"
+
+# Osäker
+#~ msgid "Due Alternate"
+#~ msgstr "Alternativ Due"
+
+# Osäker
+#~ msgid "Scie"
+#~ msgstr "Scie"
+
+# Osäker
+#~ msgid "Scie Alternate"
+#~ msgstr "Alternativ Scie"
+
+#~ msgid "Red Blurred"
+#~ msgstr "Rödsuddig"
+
+#~ msgid "Alien Artifact"
+#~ msgstr "Rymdföremål"
+
+#~ msgid "Cow Spots"
+#~ msgstr "Kofläckar"
+
+#~ msgid "(Translucent Tile)"
+#~ msgstr "(Halvgenomskinlig bricka)"
+
+#~ msgid "Translucent Tile"
+#~ msgstr "Halvgenomskinlig bricka"
+
+#~ msgid "Diamond Tile Pattern"
+#~ msgstr "Diamantbrickmönster"
+
+#~ msgid "Diamond (Translucent Tile)"
+#~ msgstr "Diamant (halvgenomskinlig bricka)"
+
+#~ msgid "Diamond"
+#~ msgstr "Diamant"
+
+# Osäker
+#~ msgid "Greche Pattern"
+#~ msgstr "Greche-mönster"
+
+# Osäker
+#~ msgid "Greche"
+#~ msgstr "Greche"
+
+#~ msgid "Leather"
+#~ msgstr "Läder"
+
+#~ msgid "(Tile)"
+#~ msgstr "(Bricka)"
+
+#~ msgid "Tile"
+#~ msgstr "Bricka"
+
+#~ msgid "Stone Wall (Tile)"
+#~ msgstr "Stenvägg (bricka)"
+
+#~ msgid "Stone Wall Pattern"
+#~ msgstr "Stenväggsmönster"
+
+#~ msgid "Stone Wall"
+#~ msgstr "Stenvägg"
+
+# Osäker
+#~ msgid "Masle"
+#~ msgstr "Masle"
+
+#~ msgid "(Abstract)"
+#~ msgstr "(Abstrakt)"
+
+#~ msgid "Abstract"
+#~ msgstr "Abstrakt"
+
+#~ msgid "Aqua Foot"
+#~ msgstr "Aqua-fot"
+
+#~ msgid "(GNOME Branded)"
+#~ msgstr "(GNOME-märkt)"
+
+#~ msgid "GNOME Branded"
+#~ msgstr "GNOME-märkt"
+
+#~ msgid "Black"
+#~ msgstr "Svart"
+
+#~ msgid "Fraser Island"
+#~ msgstr "Fraserön"
+
+#~ msgid "Hills"
+#~ msgstr "Kullar"
+
+#~ msgid "Weird Colours"
+#~ msgstr "Konstiga färger"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Konstiga färger (GNOME-märkt)"
+
+#~ msgid "Weird Colors"
+#~ msgstr "Konstiga färger"
+
+#~ msgid "Ellipsis"
+#~ msgstr "Ellips"
+
+#~ msgid "Translucent"
+#~ msgstr "Halvgenomskinlig"
+
+#~ msgid "(Translucent)"
+#~ msgstr "(Halvgenomskinlig)"
+
+#~ msgid "Grid"
+#~ msgstr "Rutnät"
+
+#~ msgid "Rectangles"
+#~ msgstr "Rektanglar"
+
+#~ msgid "Tentacles"
+#~ msgstr "Tentakler"
+
+#~ msgid "Waves"
+#~ msgstr "Vågor"

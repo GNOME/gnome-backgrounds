@@ -1,3 +1,8 @@
+2004-12-07  Christian Rose  <menthos@menthos.com>
+
+	* .cvsignore: Added "notexist" entry.
+	* sv.po: Added Swedish translation.
+
 2004-11-30  Marcel Telka  <marcel@telka.sk>
 
 	* sk.po: Updated Slovak translation.
