@@ -1,0 +1,100 @@
+# Slovak translations for gnome-backgrounds package.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Marcel Telka <marcel@telka.sk>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-11-17 08:02+0100\n"
+"PO-Revision-Date: 2004-11-17 08:52+0100\n"
+"Last-Translator: Marcel Telka <marcel@telka.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "Dvojfarebné čiary (abstraktné)"
+
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "Alternatívne dvojfarebné čiary (abstraktné)"
+
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr "Jednofarebné čiary (abstraktné)"
+
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr "Alternatívne dvojfarebné čiary (abstraktné)"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Vodná stopa (značka GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "Čierne (značka GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Hills (GNOME Branded)"
+msgstr "Kopce (značka GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Rozmazaná červená (značka GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Weird Colours (GNOME Branded)"
+msgstr "Zvláštne farby (značka GNOME)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Cudzí artefakt (priehľadná dlažba)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Kravské fľaky (priehľadná dlažba)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Vzorka diamantovej dlažby (priehľadná dlažba)"
+
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Grass Pattern (Tile)"
+msgstr "Vzorka trávy (dlažba)"
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Greche Pattern (Tile)"
+msgstr "Vzorka Greche (dlažba)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "Vzorka kamennej steny (dlažba)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Elipsa (priehľadné)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "Mriežka (priehľadné)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr "Šmuhy (priehľadné)"
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "Obdĺžniky (priehľadné)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "Tykadlá (priehľadné)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "Vlny (priehľadné)"
