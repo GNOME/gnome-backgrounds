@@ -1,0 +1,57 @@
+# Serbian translation of PACKAGE
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004, 2005.
+#
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Maintainer: Danilo Šegan <dsegan@gmx.net>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-background\n"
+"PO-Revision-Date: 2005-03-06 13:01+0100\n"
+"Last-Translator: Danilo Šegan <danilo@gnome.org>\n"
+"Language-Team: Serbian (sr) <gnom@prevod.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Vodeno stopalo (Gnom naznaka)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Ledeno ostrvo (Gnom naznaka)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Zamućeno crveno (Gnom naznaka)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Čudne boje (Gnom naznaka)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Strano oštećenje (providni šablon)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Kravlje šare (providni šablon)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Dijamantski šablon (providni šablon)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Nastavljanje (providno)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "Pravougaonici (providno)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Oblici (providno)"
