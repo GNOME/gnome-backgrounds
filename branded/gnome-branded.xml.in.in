@@ -26,4 +26,9 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Black.jpg</filename>
     <options>scaled</options>
   </wallpaper>
+  <wallpaper deleted="false">
+    <_name>Fraser Island (GNOME Branded)</_name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-FraserIsland.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
 </wallpapers>

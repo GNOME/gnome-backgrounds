@@ -22,3 +22,6 @@ EXTRA_DIST = $(background_DATA)
 gnome-tiles.xml.in: gnome-tiles.xml.in.in Makefile
 	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-tiles.xml.in.in > gnome-tiles.xml.in.tmp \
 	&& mv gnome-tiles.xml.in.tmp gnome-tiles.xml.in
+
+MAINTAINERCLEANFILES = \
+	Makefile.in

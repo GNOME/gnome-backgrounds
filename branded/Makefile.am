@@ -3,6 +3,7 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/branded
 background_DATA =\
 	GNOME-Aqua.jpg \
 	GNOME-Black.jpg \
+	GNOME-FraserIsland.jpg \
 	GNOME-Hills.jpg \
 	GNOME-Redblurred.jpg \
 	GNOME-Weirdcolours.jpg
@@ -21,3 +22,6 @@ EXTRA_DIST = $(background_DATA)
 gnome-branded.xml.in: gnome-branded.xml.in.in Makefile
 	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-branded.xml.in.in > gnome-branded.xml.in.tmp \
 	&& mv gnome-branded.xml.in.tmp gnome-branded.xml.in
+
+MAINTAINERCLEANFILES = \
+	Makefile.in

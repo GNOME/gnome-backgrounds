@@ -1,3 +1,25 @@
+2004-11-28  Thomas Wood  <thos@gnome.org>
+
+	* AUTHORS: Corrected and tidied
+
+	* Makefile.am:
+	* abstract/Makefile.am:
+	* tiles/Makefile.am:
+	* branded/Makefile.am:
+	* translucent/Makefile.am:
+	
+	Better maintainer-clean and other updates
+
+	* branded/GNOME-FraserIsland.jpg:
+	* branded/gnome-branded.xml.in.in:
+
+	New background
+
+	* tiles/gnome-tiles.xml.in.in:
+	* translucent/gnome-translucent.xml.in.in:
+
+	Use default GNOME background colour for translucent backgrounds
+
 2004-11-24   Amanpreet Singh Alam <amanlinux@netscape.net>
 	*  configure.in: pa is add to ALL_LINGUAS
 

@@ -11,8 +11,8 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/alien-artifact-trans.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Greche Pattern (Tile)</_name>
@@ -24,8 +24,8 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/cow-trans.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Leather (Tile)</_name>
@@ -36,8 +36,5 @@
     <_name>Diamond Tile Pattern (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/tiles-trans.png</filename>
     <options>wallpaper</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
   </wallpaper>
 </wallpapers>

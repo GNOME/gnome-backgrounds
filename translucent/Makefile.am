@@ -21,3 +21,6 @@ EXTRA_DIST = $(background_DATA)
 gnome-translucent.xml.in: gnome-translucent.xml.in.in Makefile
 	sed -e 's^\@datadir\@^$(datadir)^g' < gnome-translucent.xml.in.in > gnome-translucent.xml.in.tmp \
 	&& mv gnome-translucent.xml.in.tmp gnome-translucent.xml.in
+
+MAINTAINERCLEANFILES = \
+	Makefile.in

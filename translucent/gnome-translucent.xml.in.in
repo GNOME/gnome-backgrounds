@@ -6,47 +6,47 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/rects.png</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Waves (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/waves.png</filename>
     <options>stretched</options>
     <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Masle (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/masle.png</filename>
     <options>scaled</options>
     <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Ellipsis (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/ellipsis.png</filename>
     <options>scaled</options>
     <shade_type>solid</shade_type>
-    <pcolor>#DEDAD2</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Tentacles (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/tentacles.png</filename>
     <options>stretched</options>
     <shade_type>horizontal-gradient</shade_type>
-    <pcolor>#2A00C1</pcolor>
-    <scolor>#768FC4</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <_name>Grid (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/grid.png</filename>
     <options>stretched</options>
     <shade_type>vertical-gradient</shade_type>
-    <pcolor>#FFFFFF</pcolor>
-    <scolor>#3D4453</scolor>
+    <pcolor>#76848F</pcolor>
+    <scolor>#76848F</scolor>
   </wallpaper>
 </wallpapers>
