@@ -1,5 +1,4 @@
-# List of source files containing translatable strings.
-# Please keep this file sorted alphabetically.
+abstract/gnome-abstract.xml.in.in
 branded/gnome-branded.xml.in.in
 tiles/gnome-tiles.xml.in.in
 translucent/gnome-translucent.xml.in.in

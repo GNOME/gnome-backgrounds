@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.5.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-01-19 15:48+0100\n"
+"POT-Creation-Date: 2005-02-04 15:02+0100\n"
 "PO-Revision-Date: 2005-01-19 15:52+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <i18n-nb@lister.ping.uio.no>\n"
@@ -36,22 +36,14 @@ msgid "Aqua Foot (GNOME Branded)"
 msgstr "Aqua Foot (GNOME logo)"
 
 #: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "Sort (GNOME logo)"
-
-#: branded/gnome-branded.xml.in.in.h:3
 msgid "Fraser Island (GNOME Branded)"
 msgstr "Fraser Island (GNOME logo)"
 
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Hills (GNOME Branded)"
-msgstr "Hauger (GNOME logo)"
-
-#: branded/gnome-branded.xml.in.in.h:5
+#: branded/gnome-branded.xml.in.in.h:3
 msgid "Red Blurred (GNOME Branded)"
 msgstr "Uskarp rød (GNOME logo)"
 
-#: branded/gnome-branded.xml.in.in.h:6
+#: branded/gnome-branded.xml.in.in.h:4
 msgid "Weird Colors (GNOME Branded)"
 msgstr "Rare farger (GNOME logo)"
 
@@ -67,39 +59,38 @@ msgstr "Kuflekker (gjennomsiktig flis)"
 msgid "Diamond Tile Pattern (Translucent Tile)"
 msgstr "Diamant flismønster (gjennomsiktig flis)"
 
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "Greche-mønster (flis)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "Lær (flis)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "Steinvegg-mønster (flis)"
-
 #: translucent/gnome-translucent.xml.in.in.h:1
 msgid "Ellipsis (Translucent)"
 msgstr "Ellipse (gjennomsiktig)"
 
 #: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Rutenett (gjennomsiktig)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "Masle (gjennomsiktig)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
 msgid "Rectangles (Translucent)"
 msgstr "Rektangler (gjennomsiktig)"
 
-#: translucent/gnome-translucent.xml.in.in.h:5
+#: translucent/gnome-translucent.xml.in.in.h:3
 msgid "Tentacles (Translucent)"
 msgstr "Tentakler (gjennomsiktig)"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Bølger (gjennomsiktig)"
+#~ msgid "Black (GNOME Branded)"
+#~ msgstr "Sort (GNOME logo)"
 
+#~ msgid "Hills (GNOME Branded)"
+#~ msgstr "Hauger (GNOME logo)"
+
+#~ msgid "Greche Pattern (Tile)"
+#~ msgstr "Greche-mønster (flis)"
+
+#~ msgid "Leather (Tile)"
+#~ msgstr "Lær (flis)"
+
+#~ msgid "Stone Wall Pattern (Tile)"
+#~ msgstr "Steinvegg-mønster (flis)"
+
+#~ msgid "Grid (Translucent)"
+#~ msgstr "Rutenett (gjennomsiktig)"
+
+#~ msgid "Masle (Translucent)"
+#~ msgstr "Masle (gjennomsiktig)"
+
+#~ msgid "Waves (Translucent)"
+#~ msgstr "Bølger (gjennomsiktig)"

@@ -1,3 +1,8 @@
+2005-02-04  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* POTFILES.in: Add missing file.
+	* nb.po: Update
+
 2005-02-03  Francisco Javier F. Serrador  <serrador@cvs.gnome.org>
 
 	* es.po: Updated Spanish translation.
