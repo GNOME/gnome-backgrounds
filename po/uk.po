@@ -1,0 +1,104 @@
+# Ukrainian translation to gnome-backgrounds.
+# Copyright (C) 2003 Free Software Foundation, Inc
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Maxim V. Dziumanenko <mvd@mylinux.com.ua>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-01-12 14:08+0200\n"
+"PO-Revision-Date: 2005-01-12 14:13+0200\n"
+"Last-Translator: Maxim V. Dziumanenko <mvd@mylinux.com.ua>\n"
+"Language-Team: Ukrainian <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "Дю (абстрактна)"
+
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "Дю альтернативна (абстрактна)"
+
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr "Сай (абстрактна)"
+
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr "Сай (абстрактна)"
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Водяна стопа (значок GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "Чорнота (значок GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Острів Фразер (значок GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Hills (GNOME Branded)"
+msgstr "Пагорби (значок GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Червона туманність (значок GNOME)"
+
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Таємничі кольори (значок GNOME)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Іноземний артефакт (прозорий візерунок)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Плями (прозорий візерунок)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Діаманти (прозорий візерунок)"
+
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Greche Pattern (Tile)"
+msgstr "Меандри (візерунок)"
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "Шкіра (візерунок)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "Кам'яна стіна (візерунок)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Еліпси (прозоре)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "Сітка (прозоре)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr "Стрічки (прозоре)"
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "Прямокутники (прозоре)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "Щупальця (прозоре)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "Хвилі (прозоре)"
