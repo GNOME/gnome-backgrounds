@@ -1,3 +1,7 @@
+2005-01-19  Kjartan Maraas  <kmaraas@gnome.org>
+
+	* configure.in: Add «no» and «nb» to ALL_LINGUAS.
+
 2005-01-12  Thomas Wood  <set EMAIL_ADDRESS environment variable>
 
 	* abstract/Makefile.am:
