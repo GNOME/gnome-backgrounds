@@ -1,3 +1,7 @@
+2004-12-15  Tommi Vainikainen  <thv@iki.fi>
+
+	* configure.in (ALL_LINGUAS): Added "fi" (Finnish).
+
 2004-12-15  Kostas Papadimas  <pkst@gnome.org>
 
 	* configure.in: Added Greek "el" to ALL_LINGUAS.
