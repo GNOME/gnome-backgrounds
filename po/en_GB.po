@@ -8,48 +8,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-21 23:06+0000\n"
-"PO-Revision-Date: 2004-11-21 23:08+0100\n"
+"POT-Creation-Date: 2005-02-13 21:56+0000\n"
+"PO-Revision-Date: 2005-02-13 21:56+0100\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: English/GB <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "Due (Abstract)"
-
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "Due Alternate (Abstract)"
-
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "Scie (Abstract)"
-
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "Scie Alternate (Abstract)"
-
 #: branded/gnome-branded.xml.in.in.h:1
 msgid "Aqua Foot (GNOME Branded)"
 msgstr "Aqua Foot (GNOME Branded)"
 
 #: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "Black (GNOME Branded)"
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Fraser Island (GNOME Branded)"
 
 #: branded/gnome-branded.xml.in.in.h:3
-msgid "Hills (GNOME Branded)"
-msgstr "Hills (GNOME Branded)"
-
-#: branded/gnome-branded.xml.in.in.h:4
 msgid "Red Blurred (GNOME Branded)"
 msgstr "Red Blurred (GNOME Branded)"
 
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Weird Colours (GNOME Branded)"
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
 msgstr "Weird Colours (GNOME Branded)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
@@ -64,39 +44,15 @@ msgstr "Cow Spots (Translucent Tile)"
 msgid "Diamond Tile Pattern (Translucent Tile)"
 msgstr "Diamond Tile Pattern (Translucent Tile)"
 
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "Greche Pattern (Tile)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "Leather (Tile)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "Stone Wall Pattern (Tile)"
-
 #: translucent/gnome-translucent.xml.in.in.h:1
 msgid "Ellipsis (Translucent)"
 msgstr "Ellipsis (Translucent)"
 
 #: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Grid (Translucent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "Masle (Translucent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
 msgid "Rectangles (Translucent)"
 msgstr "Rectangles (Translucent)"
 
-#: translucent/gnome-translucent.xml.in.in.h:5
+#: translucent/gnome-translucent.xml.in.in.h:3
 msgid "Tentacles (Translucent)"
 msgstr "Tentacles (Translucent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Waves (Translucent)"
 
