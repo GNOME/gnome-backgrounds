@@ -1,104 +1,63 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# Vietnamese translation for gnome-background.HEAD.vi.po.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-background.HEAD.vi.po package.
 # pclouds <pclouds@gmail.com>, 2004.
-#
+# Clytie Siddall <clytie@riverland.net.au>, 2005.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-12-20 12:23+0100\n"
-"PO-Revision-Date: 2004-12-20 21:11+0700\n"
-"Last-Translator: pclouds <pclouds@gmail.com>\n"
+"POT-Creation-Date: 2005-02-11 06:51+0100\n"
+"PO-Revision-Date: 2005-03-02 23:00+1000\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
 "Language-Team: Gnome-vi <gnomevi-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr ""
-
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr ""
-
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr ""
-
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr ""
-
 #: branded/gnome-branded.xml.in.in.h:1
 msgid "Aqua Foot (GNOME Branded)"
-msgstr ""
+msgstr "Bàn chân màu nước biển (nhãn GNOME)"
 
 #: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr ""
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Đảo Fraser (nhãn GNOME)"
 
 #: branded/gnome-branded.xml.in.in.h:3
-msgid "Fraser Island (GNOME Branded)"
-msgstr ""
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Màu đỏ mờ (nhãn GNOME)"
 
 #: branded/gnome-branded.xml.in.in.h:4
-msgid "Hills (GNOME Branded)"
-msgstr ""
-
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Red Blurred (GNOME Branded)"
-msgstr ""
-
-#: branded/gnome-branded.xml.in.in.h:6
 msgid "Weird Colors (GNOME Branded)"
-msgstr ""
+msgstr "Những màu lạ (nhãn GNOME)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"
-msgstr ""
+msgstr "Đồ tạo tác xa lạ (Lát Trong mờ)"
 
 #: tiles/gnome-tiles.xml.in.in.h:2
 msgid "Cow Spots (Translucent Tile)"
-msgstr ""
+msgstr "Chấm bị bò cái (Lát Trong mờ)"
 
 #: tiles/gnome-tiles.xml.in.in.h:3
 msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr ""
-
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr ""
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr ""
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr ""
+msgstr "Mẫu Lát Hình thoi (Lát Trong mờ)"
 
 #: translucent/gnome-translucent.xml.in.in.h:1
 msgid "Ellipsis (Translucent)"
-msgstr ""
+msgstr "Hình bầu dục (Trong mờ)"
 
 #: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Lưới (mờ)"
+msgid "Rectangles (Translucent)"
+msgstr "Hình chữ nhật (Trong mờ)"
 
 #: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr ""
-
-#: translucent/gnome-translucent.xml.in.in.h:4
-msgid "Rectangles (Translucent)"
-msgstr ""
-
-#: translucent/gnome-translucent.xml.in.in.h:5
 msgid "Tentacles (Translucent)"
-msgstr ""
+msgstr "Tua cảm (Trong mờ)"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Sóng (mờ)"
+#  msgid "Grid (Translucent)"
+#  msgstr "Lưới (Trong mờ)"
+
+#  msgid "Waves (Translucent)"
+#  msgstr "Biển cả (Trong mờ)"
+
