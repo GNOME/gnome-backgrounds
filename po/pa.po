@@ -1,57 +1,39 @@
+# translation of gnome-backgrounds.HEAD.po to Punjabi
 # translation of pa.po to Punjabi
 # translation of gnome-backgrounds.po to Punjabi
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 # Amanpreet Singh Alam <aalam@redhat.com>, 2004.
+# Amanpreet Singh Alam <amanpreetalam@yahoo.com>, 2005.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: pa\n"
+"Project-Id-Version: gnome-backgrounds.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-24 15:46+0530\n"
-"PO-Revision-Date: 2004-11-24 15:54+0530\n"
-"Last-Translator: Amanpreet Singh Alam <aalam@redhat.com>\n"
+"POT-Creation-Date: 2005-03-01 07:03+0100\n"
+"PO-Revision-Date: 2005-03-01 14:31+0530\n"
+"Last-Translator: Amanpreet Singh Alam <amanpreetalam@yahoo.com>\n"
 "Language-Team: Punjabi <fedora-trans-pa@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9\n"
+"X-Generator: KBabel 1.9.1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "ਸਿੱਧਾ (ਗੂੜਾ)"
-
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "ਸਿੱਧਾ ਬਦਲਵਾਂ (ਗੂੜਾ)"
-
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "ਸਾਇਸ (ਗੂੜਾ)"
-
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "ਸਾਇਸ ਬਦਲਵਾਂ (ਗੂੜਾ)"
 
 #: branded/gnome-branded.xml.in.in.h:1
 msgid "Aqua Foot (GNOME Branded)"
-msgstr "ਐਕਵਾ ਫੁੱਟ (ਗਨੋਮ ਨਾਂ)"
+msgstr "ਐਕਵਾ ਪੈਰ (ਗਨੋਮ ਨਾਂ)"
 
 #: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "ਕਾਲਾ (ਗਨੋਮ ਨਾਂ)"
+msgid "Fraser Island (GNOME Branded)"
+msgstr "ਕਾਲਾ ਟਾਪੂ (ਗਨੋਮ ਨਾਂ)"
 
 #: branded/gnome-branded.xml.in.in.h:3
-msgid "Hills (GNOME Branded)"
-msgstr "ਪਹਾੜੀ (ਗਨੋਮ ਨਾਂ)"
-
-#: branded/gnome-branded.xml.in.in.h:4
 msgid "Red Blurred (GNOME Branded)"
 msgstr "ਲਾਲ ਭੂਰਾ (ਗਨੋਮ ਨਾਂ)"
 
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Weird Colours (GNOME Branded)"
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
 msgstr "ਫੈਲੇ ਰੰਗ (ਗਨੋਮ ਨਾਂ)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
@@ -66,39 +48,15 @@ msgstr "ਧੱਬਾ (ਕਲਪਨਿਕ ਟਾਇਲ)"
 msgid "Diamond Tile Pattern (Translucent Tile)"
 msgstr "ਚੌਰਸ ਟਾਇਲ ਤਰਤੀਬ (ਕਲਪਨਿਕ ਟਾਇਲ)"
 
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "ਗਰੀਚੀ ਪੈਟਰਨ (ਟਾਇਲ)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "ਚਮੜਾ (ਟਾਇਲ)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "ਪੱਧਰ ਕੰਧ ਤਰਤੀਬ (ਟਾਇਲ)"
-
 #: translucent/gnome-translucent.xml.in.in.h:1
 msgid "Ellipsis (Translucent)"
 msgstr "ਅੰਡਾਕਾਰ (ਕਲਪਨਿਕ)"
 
 #: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "ਜਾਲ (ਕਲਪਨਿਕ)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "ਮਾਸਲੀ (ਕਲਪਨਿਕ)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
 msgid "Rectangles (Translucent)"
 msgstr "ਚਤਰਭੁਜ (ਕਲਪਨਿਕ)"
 
-#: translucent/gnome-translucent.xml.in.in.h:5
+#: translucent/gnome-translucent.xml.in.in.h:3
 msgid "Tentacles (Translucent)"
 msgstr "ਰੇਸ਼ੇਦਾਰ (ਕਲਪਨਿਕ)"
-
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "ਤਰੰਗ"
 
