@@ -1,14 +1,14 @@
 # Danish translation of gnome-backgrounds.
 # Copyright (C) 2004 Thomas Wood <thos@gnome.org>
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Martin Willemoes Hansen <mwh@sysrq.dk>, 2004.
+# Martin Willemoes Hansen <mwh@sysrq.dk>, 2004, 2005.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-12-30 17:15+0100\n"
-"PO-Revision-Date: 2004-12-30 17:14+0100\n"
+"PO-Revision-Date: 2005-01-03 12:08+0100\n"
 "Last-Translator: Martin Willemoes Hansen <mwh@sysrq.dk>\n"
 "Language-Team: Danish <dansk@klid.dk>\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "Scie (abstrakt)"
 
 #: abstract/gnome-abstract.xml.in.in.h:4
 msgid "Scie Alternate (Abstract)"
-msgstr "Alternativ scie (abstrakt)"
+msgstr "Alternativ Scie (abstrakt)"
 
 #: branded/gnome-branded.xml.in.in.h:1
 msgid "Aqua Foot (GNOME Branded)"
@@ -57,15 +57,15 @@ msgstr "Underlige farver (GNOME-mærket)"
 
 #: tiles/gnome-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"
-msgstr "Rumgenstand (gennemsigtige tern)"
+msgstr "Rumgenstand (gennemsigtig tern)"
 
 #: tiles/gnome-tiles.xml.in.in.h:2
 msgid "Cow Spots (Translucent Tile)"
-msgstr "Koplettet (gennemsigtige tern)"
+msgstr "Koplettet (gennemsigtig tern)"
 
 #: tiles/gnome-tiles.xml.in.in.h:3
 msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Diamanttern-mønster (gennemsigtige tern)"
+msgstr "Diamanttern-mønster (gennemsigtig tern)"
 
 #: tiles/gnome-tiles.xml.in.in.h:4
 msgid "Greche Pattern (Tile)"
