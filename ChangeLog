@@ -1,3 +1,20 @@
+2004-11-02  Thomas Wood  <thos@gnome.org>
+
+	* branded/GNOME-Black.jpg:
+	* branded/GNOME-Bluewave.jpg:
+	
+	Removed - No 1600x1200 version available
+	
+	* branded/GNOME-Redblured.jpg:
+	* branded/GNOME-Redblurred.jpg:
+
+	Fixed spelling error
+	
+	* branded/Makefile.am:
+	* translucent/Makefile.am:
+
+	Updated to refelect current content
+
 2004-07-04  Thomas Wood <thos@gnome.org>
 
 	* abstract/*:
