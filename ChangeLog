@@ -1,3 +1,10 @@
+2004-12-07  Thomas Wood  <thos@gnome.org
+
+	* branded/gnome-branded.xml.in.in:
+
+	"Source code messages in GNOME should use American English spellings"
+	(Christian Rose <menthos@gnome.org>)
+
 2004-12-07  Christian Rose  <menthos@menthos.com>
 
 	* configure.in: Added "sv" to ALL_LINGUAS.
