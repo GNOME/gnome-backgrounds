@@ -1,3 +1,6 @@
+2004-11-24   Amanpreet Singh Alam <amanlinux@netscape.net>
+	*  configure.in: pa is add to ALL_LINGUAS
+
 2004-11-21  David Lodge <dave@cirt.net>
                                                                                 
         * configure.in: [ALL_LINGUAS] Added en_GB
