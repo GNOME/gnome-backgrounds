@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds 2.9.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-01-13 18:04+0900\n"
+"PO-Revision-Date: 2005-01-13 20:25+0900\n"
+"Last-Translator: Young-Ho Cha <ganadist at mizi.com>\n"
+"Language-Team: GNOME Korea <gnome-kr-hackers@lists.kldp.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: abstract/gnome-abstract.xml.in.in.h:1
+msgid "Due (Abstract)"
+msgstr "예정 (추상)"
+
+#: abstract/gnome-abstract.xml.in.in.h:2
+msgid "Due Alternate (Abstract)"
+msgstr "예정 (추상)"
+
+#: abstract/gnome-abstract.xml.in.in.h:3
+msgid "Scie (Abstract)"
+msgstr ""
+
+#: abstract/gnome-abstract.xml.in.in.h:4
+msgid "Scie Alternate (Abstract)"
+msgstr ""
+
+#: branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "아쿠아 발바닥 (그놈 스타일)"
+
+#: branded/gnome-branded.xml.in.in.h:2
+msgid "Black (GNOME Branded)"
+msgstr "검정 (그놈 스타일)"
+
+#: branded/gnome-branded.xml.in.in.h:3
+msgid "Fraser Island (GNOME Branded)"
+msgstr "프레이저 섬 (그놈 스타일)"
+
+#: branded/gnome-branded.xml.in.in.h:4
+msgid "Hills (GNOME Branded)"
+msgstr "언덕 (그놈 스타일)"
+
+#: branded/gnome-branded.xml.in.in.h:5
+msgid "Red Blurred (GNOME Branded)"
+msgstr "붉은 얼룩 (그놈 스타일)"
+
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Weird Colors (GNOME Branded)"
+msgstr "기묘한 색 (그놈 스타일)"
+
+#: tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "낯선 공예품 (반투명 반복)"
+
+#: tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "얼룩 소 (반투명 반복)"
+
+#: tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "다이아몬드 (반투명 반복)"
+
+#: tiles/gnome-tiles.xml.in.in.h:4
+msgid "Greche Pattern (Tile)"
+msgstr ""
+
+#: tiles/gnome-tiles.xml.in.in.h:5
+msgid "Leather (Tile)"
+msgstr "가죽 (반복)"
+
+#: tiles/gnome-tiles.xml.in.in.h:6
+msgid "Stone Wall Pattern (Tile)"
+msgstr "돌 벽 (반복)"
+
+#: translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "타원 (반투명)"
+
+#: translucent/gnome-translucent.xml.in.in.h:2
+msgid "Grid (Translucent)"
+msgstr "격자 (반투명)"
+
+#: translucent/gnome-translucent.xml.in.in.h:3
+msgid "Masle (Translucent)"
+msgstr ""
+
+#: translucent/gnome-translucent.xml.in.in.h:4
+msgid "Rectangles (Translucent)"
+msgstr "사각형 (반투명)"
+
+#: translucent/gnome-translucent.xml.in.in.h:5
+msgid "Tentacles (Translucent)"
+msgstr "촉수 (반투명)"
+
+#: translucent/gnome-translucent.xml.in.in.h:6
+msgid "Waves (Translucent)"
+msgstr "물결 (반투명)"
