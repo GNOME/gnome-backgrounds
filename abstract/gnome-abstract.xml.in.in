@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Due (Abstract)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/abstract/due.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Due Alternate (Abstract)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/abstract/due-alt.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Scie (Abstract)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/abstract/scie.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Scie Alternate (Abstract)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/abstract/scie-alt.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+</wallpapers>

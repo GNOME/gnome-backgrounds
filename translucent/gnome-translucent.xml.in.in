@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Rectangles (Translucent)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/rects.png</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Waves (Translucent)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/waves.png</filename>
+    <options>stretched</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Masle (Translucent)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/masle.png</filename>
+    <options>scaled</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ellipsis (Translucent)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/ellipsis.png</filename>
+    <options>scaled</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Tentacles (Translucent)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/tentacles.png</filename>
+    <options>stretched</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>#2A00C1</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grid (Translucent)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/grid.png</filename>
+    <options>stretched</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>#FFFFFF</pcolor>
+    <scolor>#3D4453</scolor>
+  </wallpaper>
+</wallpapers>

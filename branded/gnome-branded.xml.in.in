@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Red Blurred (GNOME Branded)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Redblurred.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Hills (GNOME Branded)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Hills.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Aqua Foot (GNOME Branded)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Aqua.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Wierd Colours (GNOME Branded)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Wierdcolours.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+</wallpapers>

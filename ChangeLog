@@ -1,3 +1,22 @@
+2004-11-03  Thomas Wood  <thos@gnome.org>
+
+	* abstract/Makefile.am:
+	* abstract/gnome-abstract.xml.in.in:
+	* branded/Makefile.am:
+	* branded/gnome-branded.xml.in.in:
+	* configure.in:
+	* po/POTFILES.in:
+	* po/gnome-backgrounds.pot:
+	* tiles/Makefile.am:
+	* tiles/gnome-tiles.xml.in.in:
+	* translucent/Makefile.am:
+	* translucent/gnome-translucent.xml.in.in:
+
+	XML files for gnome-background-properties added from patch by Andrew
+	Johnson. Makefiles updated to reflect changes.
+	
+	* translucent/grids.png: Removed.
+
 2004-11-02  Thomas Wood  <thos@gnome.org>
 
 	* branded/GNOME-Black.jpg:

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Stone Wall Pattern (Tile)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/stone-wall.png</filename>
+    <options>wallpaper</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Alien Artifact (Translucent Tile)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/alien-artifact-trans.png</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Greche Pattern (Tile)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/greche.png</filename>
+    <options>wallpaper</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cow Spots (Translucent Tile)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/cow-trans.png</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Grass Pattern (Tile)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/grass.png</filename>
+    <options>wallpaper</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Diamond Tile Pattern (Translucent Tile)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/tiles-trans.png</filename>
+    <options>wallpaper</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#DEDAD2</pcolor>
+    <scolor>#768FC4</scolor>
+  </wallpaper>
+</wallpapers>
