@@ -1,3 +1,17 @@
+2004-11-06  Thomas Wood  <thos@gnome.org>
+
+	* branded/GNOME-Aqua.jpg: Higher quality version
+	* branded/GNOME-Black.jpg: Re-added with 1600x1200 version
+	* branded/GNOME-Weirdcolours.jpg: (added)
+	* branded/GNOME-Wierdcolours.jpg: (removed)
+
+	Corrected filename spelling mistake
+	
+	* branded/Makefile.am:
+	* branded/gnome-branded.xml.in.in:
+
+	Updated to reflect changes
+
 2004-11-03  Thomas Wood  <thos@gnome.org>
 
 	* abstract/Makefile.am:

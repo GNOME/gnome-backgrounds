@@ -17,8 +17,13 @@
     <options>scaled</options>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Wierd Colours (GNOME Branded)</name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Wierdcolours.jpg</filename>
+    <name>Weird Colours (GNOME Branded)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Weirdcolours.jpg</filename>
+    <options>scaled</options>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Black (GNOME Branded)</name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Black.jpg</filename>
     <options>scaled</options>
   </wallpaper>
 </wallpapers>
