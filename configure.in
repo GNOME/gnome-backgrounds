@@ -5,5 +5,8 @@ AM_MAINTAINER_MODE
 
 AC_OUTPUT([
 Makefile
+abstract/Makefile
+branded/Makefile
+tiles/Makefile
 translucent/Makefile
 ])	

@@ -1,2 +1,1 @@
-SUBDIRS = translucent
-
+SUBDIRS = abstract branded tiles translucent
