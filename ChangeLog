@@ -1,3 +1,12 @@
+2004-11-20  Thomas Wood  <thos@gnome.org>
+
+	* tiles/Makefile.am:
+	* tiles/gnome-tiles.xml.in.in:
+	* tiles/grass.png:
+	* tiles/leather_skin-resynth-hig.png:
+
+	Added leather_skin-resynth-hig.png and removed grass.png
+
 2004-11-18  Adam Weinberger  <adamw@gnome.org>
 
 	* configure.in: Added en_CA to ALL_LINGUAS.

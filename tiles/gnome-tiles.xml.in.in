@@ -28,8 +28,8 @@
     <scolor>#768FC4</scolor>
   </wallpaper>
   <wallpaper deleted="false">
-    <_name>Grass Pattern (Tile)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/grass.png</filename>
+    <_name>Leather (Tile)</_name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/leather_skin-resynth-hig.png</filename>
     <options>wallpaper</options>
   </wallpaper>
   <wallpaper deleted="false">
