@@ -1,0 +1,58 @@
+# translation of gnome-backgrounds.gnome-2-10.po to Galego
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Ignacio Casal Quinteiro <nacho.resa@gmail.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds.gnome-2-10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-06-03 20:47+0000\n"
+"PO-Revision-Date: 2005-06-03 23:28+0200\n"
+"Last-Translator: Ignacio Casal Quinteiro <nacho.resa@gmail.com>\n"
+"Language-Team: Galego\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+
+#: ../branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "Pe Aqua (Marca GNOME)"
+
+#: ../branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Isla Fraser (Marca GNOME)"
+
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "Red Blurred (Marca GNOME)"
+
+#: ../branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Cores curiosas (Marca GNOME)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "Artefacto alieníxena (Enlosado translúcido)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "Pintas de vaca (Enlosado translúcido)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "Patrón enlosado diamante (Enlosado translúcido)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "Elipse (Translúcido)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "Rectángulos (Translúcido)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "Tentáculos (Translúcido)"
+
