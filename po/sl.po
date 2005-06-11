@@ -5,14 +5,14 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: gnome-backgrounds 2.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-06-10 04:46+0000\n"
-"PO-Revision-Date: 2005-06-10 12:05+0100\n"
+"POT-Creation-Date: 2005-06-10 04:36+0000\n"
+"PO-Revision-Date: 2005-06-10 11:45+0100\n"
 "Last-Translator: Matjaz Horvat <matjaz@owca.info>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Slovenian\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../branded/gnome-branded.xml.in.in.h:1
@@ -25,9 +25,11 @@ msgstr "Otok Fraser (GNOME)"
 
 #: ../branded/gnome-branded.xml.in.in.h:3
 msgid "Red Blurred (GNOME Branded)"
+msgstr "Rde?e motno (GNOME)"
 
 #: ../branded/gnome-branded.xml.in.in.h:4
 msgid "Weird Colors (GNOME Branded)"
+msgstr "?udne barve (GNOME)"
 
 #: ../tiles/gnome-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"
