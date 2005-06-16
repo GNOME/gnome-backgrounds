@@ -1,3 +1,4 @@
+# translation of gnome-backgrounds.HEAD.hi.po to Hindi
 # translation of hi.po to Hindi
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
@@ -5,54 +6,55 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: hi\n"
+"Project-Id-Version: gnome-backgrounds.HEAD.hi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-03-01 07:03+0100\n"
-"PO-Revision-Date: 2005-03-05 19:16+0530\n"
+"POT-Creation-Date: 2005-06-16 06:16+0000\n"
+"PO-Revision-Date: 2005-06-16 17:25+0530\n"
 "Last-Translator: Rajesh Ranjan <rranjan@redhat.com>\n"
 "Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 
-#: branded/gnome-branded.xml.in.in.h:1
+#: ../branded/gnome-branded.xml.in.in.h:1
 msgid "Aqua Foot (GNOME Branded)"
 msgstr "एक्वा फुट (GNOME Branded)"
 
-#: branded/gnome-branded.xml.in.in.h:2
+#: ../branded/gnome-branded.xml.in.in.h:2
 msgid "Fraser Island (GNOME Branded)"
 msgstr "फ्रैजर द्वीप (GNOME Branded)"
 
-#: branded/gnome-branded.xml.in.in.h:3
+#: ../branded/gnome-branded.xml.in.in.h:3
 msgid "Red Blurred (GNOME Branded)"
-msgstr ""
+msgstr "लाल धुंधलका (GNOME Branded)"
 
-#: branded/gnome-branded.xml.in.in.h:4
+#: ../branded/gnome-branded.xml.in.in.h:4
 msgid "Weird Colors (GNOME Branded)"
-msgstr ""
+msgstr "विचित्र रंग (GNOME Branded)"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
+#: ../tiles/gnome-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"
-msgstr ""
+msgstr "विदेशी आर्टिफेक्ट (Translucent Tile)"
 
-#: tiles/gnome-tiles.xml.in.in.h:2
+#: ../tiles/gnome-tiles.xml.in.in.h:2
 msgid "Cow Spots (Translucent Tile)"
-msgstr ""
+msgstr "गाय का धव्बा (Translucent Tile)"
 
-#: tiles/gnome-tiles.xml.in.in.h:3
+#: ../tiles/gnome-tiles.xml.in.in.h:3
 msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr ""
+msgstr "हीरा टाइल प्रारूप (Translucent Tile)"
 
-#: translucent/gnome-translucent.xml.in.in.h:1
+#: ../translucent/gnome-translucent.xml.in.in.h:1
 msgid "Ellipsis (Translucent)"
-msgstr ""
+msgstr "Ellipsis (Translucent)"
 
-#: translucent/gnome-translucent.xml.in.in.h:2
+#: ../translucent/gnome-translucent.xml.in.in.h:2
 msgid "Rectangles (Translucent)"
-msgstr ""
+msgstr "आयताकार (Translucent)"
 
-#: translucent/gnome-translucent.xml.in.in.h:3
+#: ../translucent/gnome-translucent.xml.in.in.h:3
 msgid "Tentacles (Translucent)"
-msgstr ""
+msgstr "टेंटेकल (Translucent)"
 
