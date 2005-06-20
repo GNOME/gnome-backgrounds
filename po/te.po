@@ -1,0 +1,62 @@
+# Telugu translation of gnome-backgrounds
+# Copyright (C) 2004 The GNOME Foundation
+# This file is distributed under the same license as the gnome-background package.
+# విక్రం ఫణీంద్ర <vikramphaneendra@yahoo.co.in>, 2005.
+# దండు ప్రసాద్ <dandu_prasad2000@yahoo.com>, 2005.
+# రమణ సాయి <rmn_sai@yahoo.com>, 2005
+# Free Software Foundation, Andhra Pradesh
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-05-17 04:46+0000\n"
+"PO-Revision-Date: 2005-02-13 21:56+0100\n"
+"Last-Translator: విక్రం ఫణీంద్ర <vikramphaneendra@yahoo.co.in>, 2005\n"
+"Last-Translator: దండు ప్రసాద్ <dandu_prasad2000@yahoo.com>, 2005\n"
+"Last-Translator: రమణ సాయి <rmn_sai@yahoo.com>, 2005\n"
+"Language-Team: Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../branded/gnome-branded.xml.in.in.h:1
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "ఆక్వాఫూట్ (గ్నోమ్ మచ్చెపడిన)"
+
+#: ../branded/gnome-branded.xml.in.in.h:2
+msgid "Fraser Island (GNOME Branded)"
+msgstr "ఫ్రెజర్ ఐస్ ల్యాండ్ (గ్నోమ్ మచ్చెపడిన)"
+
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "Red Blurred (GNOME Branded)"
+msgstr "రెడ్ బ్లర్డ్ (గ్నోమ్ మచ్చెపడిన)"
+
+#: ../branded/gnome-branded.xml.in.in.h:4
+msgid "Weird Colors (GNOME Branded)"
+msgstr "వికారమైన రంగులు (గ్నోమ్ మచ్చెపడిన)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:1
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "అలైన్ ఆర్టిఫాక్ట్ (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చె పెంకు)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:2
+msgid "Cow Spots (Translucent Tile)"
+msgstr "ఆవు మచ్చలు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చె పెంకు)"
+
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "వజ్రపు పెంకు సరళి(ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చె పెంకు)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:1
+msgid "Ellipsis (Translucent)"
+msgstr "దీర్ఘవృత్తములు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును పోనిచ్చెడు)."          
+
+#: ../translucent/gnome-translucent.xml.in.in.h:2
+msgid "Rectangles (Translucent)"
+msgstr "దీర్ఘచతురస్రాలు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చెడు)"
+
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Tentacles (Translucent)"
+msgstr "పొడుగు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చెడు)"
