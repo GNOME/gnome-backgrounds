@@ -1,3 +1,11 @@
+2005-07-18  Thomas Wood <thos@gnome.org>
+
+	* branded/gnome-branded.xml.in.in:
+	* tiles/gnome-tiles.xml.in.in:
+	* translucent/gnome-translucent.xml.in.in:
+
+	Added translator comments. Fixes bug 163228
+
 2005-07-07  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:

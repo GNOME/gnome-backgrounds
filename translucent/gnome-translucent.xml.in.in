@@ -2,6 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
+    <!-- Translators: This is the name of a desktop background image that shows blurred rectangles.
+         You might want to translate it into the equivalent words of your language  -->
     <_name>Rectangles (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/rects.png</filename>
     <options>stretched</options>
@@ -10,6 +12,8 @@
     <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <!-- Translators: This is the name of a desktop background image that shows some ellipsis.
+         You might want to translate it into the equivalent words of your language  -->
     <_name>Ellipsis (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/ellipsis.png</filename>
     <options>scaled</options>
@@ -18,6 +22,8 @@
     <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <!-- Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+         You might want to translate it into the equivalent words of your language  -->
     <_name>Tentacles (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/tentacles.png</filename>
     <options>stretched</options>

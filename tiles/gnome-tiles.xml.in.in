@@ -2,6 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
+    <!-- Translators: This is the name of a desktop background image that shows a strange "alien" like pattern.
+         You might want to translate it into the equivalent words of your language  -->
     <_name>Alien Artifact (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/alien-artifact-trans.png</filename>
     <options>wallpaper</options>
@@ -10,6 +12,8 @@
     <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <!-- Translators: This is the name of a desktop background image that shows a pattern similar to that associated with cow skin.
+         You might want to translate it into the equivalent words of your language  -->
     <_name>Cow Spots (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/cow-trans.png</filename>
     <options>wallpaper</options>
@@ -18,6 +22,8 @@
     <scolor>#76848F</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <!-- Translators: This is the name of a desktop background image that shows a diamond pattern.
+         You might want to translate it into the equivalent words of your language  -->
     <_name>Diamond Tile Pattern (Translucent Tile)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/tiles-trans.png</filename>
     <options>wallpaper</options>
