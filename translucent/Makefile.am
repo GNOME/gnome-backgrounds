@@ -1,9 +1,9 @@
 backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/translucent
 
 background_DATA =\
-	ellipsis.png \
-	rects.png \
-	tentacles.png
+	ellipsis.svg \
+	rects.svg \
+	tentacles.svg
 
 metadata_in_files = gnome-translucent.xml.in
 metadatadir = $(datadir)/gnome-background-properties

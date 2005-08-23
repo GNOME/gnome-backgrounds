@@ -17,6 +17,12 @@ Tiles
  - tiles-trans.png                 Lapo Calamandrei <lapo@it.gnome.org>
 
 Translucent
- - rects.png               Jakub Steiner <jimmac@ximian.com>
- - ellipsis.png            Lapo Calamandrei <lapo@it.gnome.org>
- - waves.png               Lapo Calamandrei <lapo@it.gnome.org>
+
+ - rects.svg
+ - ellipsis.svg
+ - waves.svg
+
+ SVG versions by Andreas Nilsson <nisses.mail@home.se> based on:
+   rects.png        Jakub Steiner <jimmac@ximian.com>
+   ellipsis.png     Lapo Calamandrei <lapo@it.gnome.org>
+   waves.png        Lapo Calamandrei <lapo@it.gnome.org>

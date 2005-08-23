@@ -1,3 +1,14 @@
+2005-08-21  Thomas Wood  <thos@gnome.org>
+
+	* AUTHORS:
+	* translucent/Makefile.am:
+	* translucent/ellipsis.svg:
+	* translucent/gnome-translucent.xml.in.in:
+	* translucent/rects.svg:
+	* translucent/tentacles.svg:
+
+	Added SVG versions of translucent backgrounds by Andreas Nilsson <nisses.mail@home.se>
+
 2005-07-18  Thomas Wood <thos@gnome.org>
 
 	* branded/gnome-branded.xml.in.in:
