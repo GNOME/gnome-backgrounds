@@ -6,16 +6,16 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: es\n"
+"Project-Id-Version: gnome-control-center\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-02-03 23:21+0100\n"
-"PO-Revision-Date: 2005-02-03 23:21+0100\n"
+"POT-Creation-Date: 2005-08-16 03:25+0200\n"
+"PO-Revision-Date: 2005-08-24 00:43+0200\n"
 "Last-Translator: Francisco Javier F. Serrador <serrador@cvs.gnome.org>\n"
 "Language-Team: Spanish <traductores@es.gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: KBabel 1.10.2\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #: ../branded/gnome-branded.xml.in.in.h:1
@@ -28,7 +28,7 @@ msgstr "Isla Fraser (Marca Gnome)"
 
 #: ../branded/gnome-branded.xml.in.in.h:3
 msgid "Red Blurred (GNOME Branded)"
-msgstr "Red Blurred (Marca Gnome)"
+msgstr "Rojo difuminado (Marca Gnome)"
 
 #: ../branded/gnome-branded.xml.in.in.h:4
 msgid "Weird Colors (GNOME Branded)"
@@ -57,40 +57,4 @@ msgstr "Rectángulos (Translúcido)"
 #: ../translucent/gnome-translucent.xml.in.in.h:3
 msgid "Tentacles (Translucent)"
 msgstr "Tentáculos (Translúcido)"
-
-#~ msgid "Due (Abstract)"
-#~ msgstr "Vencimiento (Abstracto)"
-
-#~ msgid "Due Alternate (Abstract)"
-#~ msgstr "Vencimiento Alternativo (Abstracto)"
-
-#~ msgid "Scie (Abstract)"
-#~ msgstr "Scie (Abstracto)"
-
-#~ msgid "Scie Alternate (Abstract)"
-#~ msgstr "Scie Alternativo (Abstracto)"
-
-#~ msgid "Black (GNOME Branded)"
-#~ msgstr "Negro (Marca Gnome)"
-
-#~ msgid "Hills (GNOME Branded)"
-#~ msgstr "Colinas (Marca Gnome)"
-
-#~ msgid "Greche Pattern (Tile)"
-#~ msgstr "Patrón (Enlosado)"
-
-#~ msgid "Leather (Tile)"
-#~ msgstr "Cuero (Enlosado)"
-
-#~ msgid "Stone Wall Pattern (Tile)"
-#~ msgstr "Patrón pared de piedra (Enlosado)"
-
-#~ msgid "Grid (Translucent)"
-#~ msgstr "Rejilla (Translúcido)"
-
-#~ msgid "Masle (Translucent)"
-#~ msgstr "Masle (Translúcido)"
-
-#~ msgid "Waves (Translucent)"
-#~ msgstr "Ondas (Translúcido)"
 
