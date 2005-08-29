@@ -6,94 +6,103 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-11-20 16:14-0500\n"
-"PO-Revision-Date: 2004-11-21 14:57-0500\n"
+"POT-Creation-Date: 2005-08-28 23:09+0100\n"
+"PO-Revision-Date: 2005-08-29 13:00+0100\n"
 "Last-Translator: Dafydd Harries <daf@muse.19inch.net>\n"
 "Language-Team: Welsh <cy@pengwyn.linux.org.uk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "Dyledus (Haniaethol)"
-
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "Dyledus Eiledol (Haniaethol)"
-
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "Scie (Haniaethol)"
-
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "Scie Eiledol (Haniaethol)"
-
-#: branded/gnome-branded.xml.in.in.h:1
+#. Translators: This is the name of a desktop background image that shows a large aqua coloured (light blue) GNOME foot.
+#. You might want to translate it into the equivalent words of your language
+#: branded/gnome-branded.xml.in.in.h:3
 msgid "Aqua Foot (GNOME Branded)"
 msgstr "Troed Aqua (Brand GNOME)"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "Du (Brand GNOME)"
+#. Translators: This is the name of a desktop background image that shows a picture of an island called Fraser Island.
+#. You might want to translate it into the equivalent words of your language
+#: branded/gnome-branded.xml.in.in.h:6
+msgid "Fraser Island (GNOME Branded)"
+msgstr "Ynys Fraser (Brand GNOME)"
 
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Hills (GNOME Branded)"
-msgstr "Bryniau (Brand GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:4
+#. Translators: This is the name of a desktop background image that shows a mixture of blurred red and orange colours.
+#. You might want to translate it into the equivalent words of your language
+#: branded/gnome-branded.xml.in.in.h:9
 msgid "Red Blurred (GNOME Branded)"
 msgstr "Coch Cymylog (Brand GNOME)"
 
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Weird Colours (GNOME Branded)"
-msgstr "Lliwiau Od (Brand GNOME)"
+#. Translators: This is the name of a desktop background image that shows a mixture of mainly red and orange colours.
+#. You might want to translate it into the equivalent words of your language
+#: branded/gnome-branded.xml.in.in.h:12
+msgid "Weird Colors (GNOME Branded)"
+msgstr "Lliwiau Coch ac Oren (Brand GNOME)"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
+#. Translators: This is the name of a desktop background image that shows a strange "alien" like pattern.
+#. You might want to translate it into the equivalent words of your language
+#: tiles/gnome-tiles.xml.in.in.h:3
 msgid "Alien Artifact (Translucent Tile)"
 msgstr "Eitem Estron (Teilsen Hanner-Tryloyw)"
 
-#: tiles/gnome-tiles.xml.in.in.h:2
+#. Translators: This is the name of a desktop background image that shows a pattern similar to that associated with cow skin.
+#. You might want to translate it into the equivalent words of your language
+#: tiles/gnome-tiles.xml.in.in.h:6
 msgid "Cow Spots (Translucent Tile)"
 msgstr "Sbotiau Buwch (Teilsen Hanner-Tryloyw)"
 
-#: tiles/gnome-tiles.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows a diamond pattern.
+#. You might want to translate it into the equivalent words of your language
+#: tiles/gnome-tiles.xml.in.in.h:9
 msgid "Diamond Tile Pattern (Translucent Tile)"
 msgstr "Teil Deiamwnt (Teilsen Hanner-Tryloyw)"
 
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "Patrwm Greche (Teilsen)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "Lledr (Teilsen)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "Patrwm Wal Garreg (Teilsen)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
+#. Translators: This is the name of a desktop background image that shows some ellipsis.
+#. You might want to translate it into the equivalent words of your language
+#: translucent/gnome-translucent.xml.in.in.h:3
 msgid "Ellipsis (Translucent)"
 msgstr "Elipsis (Hanner-Tryloyw)"
 
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Grid (Hanner-Tryloyw)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "Masle (Hanner-Tryloyw)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
+#. Translators: This is the name of a desktop background image that shows blurred rectangles.
+#. You might want to translate it into the equivalent words of your language
+#: translucent/gnome-translucent.xml.in.in.h:6
 msgid "Rectangles (Translucent)"
 msgstr "Petryalau (Hanner-Tryloyw)"
 
-#: translucent/gnome-translucent.xml.in.in.h:5
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: translucent/gnome-translucent.xml.in.in.h:9
 msgid "Tentacles (Translucent)"
 msgstr "Teimlyddion (Hanner-Tryloyw)"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Tonnau (Hanner-Tryloyw)"
+#~ msgid "Due (Abstract)"
+#~ msgstr "Dyledus (Haniaethol)"
+
+#~ msgid "Due Alternate (Abstract)"
+#~ msgstr "Dyledus Eiledol (Haniaethol)"
+
+#~ msgid "Scie (Abstract)"
+#~ msgstr "Scie (Haniaethol)"
+
+#~ msgid "Scie Alternate (Abstract)"
+#~ msgstr "Scie Eiledol (Haniaethol)"
+
+#~ msgid "Hills (GNOME Branded)"
+#~ msgstr "Bryniau (Brand GNOME)"
+
+#~ msgid "Greche Pattern (Tile)"
+#~ msgstr "Patrwm Greche (Teilsen)"
+
+#~ msgid "Leather (Tile)"
+#~ msgstr "Lledr (Teilsen)"
+
+#~ msgid "Stone Wall Pattern (Tile)"
+#~ msgstr "Patrwm Wal Garreg (Teilsen)"
+
+#~ msgid "Grid (Translucent)"
+#~ msgstr "Grid (Hanner-Tryloyw)"
+
+#~ msgid "Masle (Translucent)"
+#~ msgstr "Masle (Hanner-Tryloyw)"
+
+#~ msgid "Waves (Translucent)"
+#~ msgstr "Tonnau (Hanner-Tryloyw)"
