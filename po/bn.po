@@ -1,0 +1,78 @@
+# Bengali translation of gnome-backgrounds
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Mahay Alam Khan <makl10n@yahoo.com>, 2005.
+# Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-01 05:45+0200\n"
+"PO-Revision-Date: 2005-09-30 23:11+0600\n"
+"Last-Translator: Mahay Alam Khan <makl10n@yahoo.com>\n"
+"Language-Team: Bengali <gnome-translation@bengalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Translators: This is the name of a desktop background image that shows a large aqua coloured (light blue) GNOME foot.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "Aqua Foot (GNOME Branded)"
+msgstr "একুয়া ফুট (গুহ্নোম ব্রান্ডকৃত)"
+
+# ফ্রেজার আইল্যান্ড
+#. Translators: This is the name of a desktop background image that shows a picture of an island called Fraser Island.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:6
+msgid "Fraser Island (GNOME Branded)"
+msgstr "ফ্রেজার দ্বীপ (গুহ্নোম ব্রান্ডকৃত)"
+
+#. Translators: This is the name of a desktop background image that shows a mixture of blurred red and orange colours.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:9
+msgid "Red Blurred (GNOME Branded)"
+msgstr "সুর্যাস্ত (গুহ্নোম ব্রান্ডকৃত)"
+
+#. Translators: This is the name of a desktop background image that shows a mixture of mainly red and orange colours.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:12
+msgid "Weird Colors (GNOME Branded)"
+msgstr "গোলকধাঁধা(গুহ্নোম ব্রান্ডকৃত)"
+
+#. Translators: This is the name of a desktop background image that shows a strange "alien" like pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Alien Artifact (Translucent Tile)"
+msgstr "বিস্ময়কর ভিনগ্রহী (অর্ধস্বচ্ছ টাইল)"
+
+#. Translators: This is the name of a desktop background image that shows a pattern similar to that associated with cow skin.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Cow Spots (Translucent Tile)"
+msgstr "গো‌-সাদৃশ্য (অর্ধস্বচ্ছ টাইল)"
+
+#. Translators: This is the name of a desktop background image that shows a diamond pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Diamond Tile Pattern (Translucent Tile)"
+msgstr "হীরক টাইল (অর্ধস্বচ্ছ টাইল)"
+
+#. Translators: This is the name of a desktop background image that shows some ellipsis.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipsis (Translucent)"
+msgstr "ইলিপসিস (অর্ধস্বচ্ছ)"
+
+#. Translators: This is the name of a desktop background image that shows blurred rectangles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
+msgid "Rectangles (Translucent)"
+msgstr "বর্গ (অর্ধস্বচ্ছ)"
+
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:9
+msgid "Tentacles (Translucent)"
+msgstr "টেনটাক্যালস্ (অর্ধস্বচ্ছ)"
