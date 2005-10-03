@@ -1,6 +1,14 @@
+2005-10-02  Thomas Wood  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Update for 2.12.1 release
+
 2005-10-01  Runa Bhattacharjee <runa@bengalinux.org>
 
 	* configure.in: Added "bn" (Bengali) to ALL_LINGUAS.
+
 2005-09-07  Inaki Larranaga  <dooteo@euskalgnu.org>
 
 	* configure.in: Added "eu" (Basque) to ALL_LINGUAS.
