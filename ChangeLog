@@ -1,3 +1,7 @@
+2005-11-01  Simos Xenitellis  <simos@gnome.org>
+
+	* configure.in: Added ky (Kirghiz) to ALL_LINGUAS.
+
 2005-10-02  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:
