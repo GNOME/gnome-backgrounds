@@ -1,3 +1,8 @@
+2005-11-28  Vincent Untz  <vuntz@gnome.org>
+
+	* NEWS:
+	* configure.in: version 2.12.2
+
 2005-11-01  Simos Xenitellis  <simos@gnome.org>
 
 	* configure.in: Added ky (Kirghiz) to ALL_LINGUAS.
