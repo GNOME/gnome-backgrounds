@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+	<!-- Translators: This is the name of a desktop background image that shows an orange/red flower.
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Fresh Flower</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/nature/FreshFlower.jpg</filename>
+		<options>stretched</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<!-- Translators: This is the name of a desktop background image that shows a yellow flower.
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Open Flower</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/nature/OpenFlower.jpg</filename>
+		<options>stretched</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<!-- Translators: This is the name of a desktop background image that shows a pebble beach.
+		  You might want to translate it into the equivalent words of your language  -->
+		<_name>Green Meadow</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/nature/GreenMeadow.jpg</filename>
+		<options>stretched</options>
+	</wallpaper>
+</wallpapers>

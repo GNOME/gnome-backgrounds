@@ -2,31 +2,10 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <!-- Translators: This is the name of a desktop background image that shows a mixture of blurred red and orange colours.
+    <!-- Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
          You might want to translate it into the equivalent words of your language  -->
-    <_name>Red Blurred (GNOME Branded)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Redblurred.jpg</filename>
-    <options>scaled</options>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <!-- Translators: This is the name of a desktop background image that shows a large aqua coloured (light blue) GNOME foot.
-         You might want to translate it into the equivalent words of your language  -->
-    <_name>Aqua Foot (GNOME Branded)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Aqua.jpg</filename>
-    <options>scaled</options>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <!-- Translators: This is the name of a desktop background image that shows a mixture of mainly red and orange colours.
-         You might want to translate it into the equivalent words of your language  -->
-    <_name>Weird Colors (GNOME Branded)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Weirdcolours.jpg</filename>
-    <options>scaled</options>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <!-- Translators: This is the name of a desktop background image that shows a picture of an island called Fraser Island.
-         You might want to translate it into the equivalent words of your language  -->
-    <_name>Fraser Island (GNOME Branded)</_name>
-    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-FraserIsland.jpg</filename>
+    <_name>GNOME Curves</_name>
+    <filename>@datadir@/pixmaps/backgrounds/gnome/branded/GNOME-Curves.png</filename>
     <options>scaled</options>
   </wallpaper>
 </wallpapers>

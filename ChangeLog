@@ -1,3 +1,83 @@
+2006-01-28  Thomas Wood  <thos@gnome.org>
+
+	* AUTHORS:
+	* Makefile.am:
+	* NEWS:
+	* abstract/Makefile.am:
+	* abstract/due-alt.jpg:
+	* abstract/due.jpg:
+	* abstract/gnome-abstract.xml.in.in:
+	* abstract/intenso-alt.jpg:
+	* abstract/intenso.jpg:
+	* abstract/onda-alt.jpg:
+	* abstract/onda.jpg:
+	* abstract/raggi-alt.jpg:
+	* abstract/raggi.jpg:
+	* abstract/scie-alt.jpg:
+	* abstract/scie.jpg:
+	* autogen.sh:
+	* branded/GNOME-Aqua.jpg:
+	* branded/GNOME-Black.jpg:
+	* branded/GNOME-FraserIsland.jpg:
+	* branded/GNOME-Hills.jpg:
+	* branded/GNOME-Redblurred.jpg:
+	* branded/GNOME-Weirdcolours.jpg:
+	* branded/Makefile.am:
+	* branded/gnome-branded.xml.in.in:
+	* configure.in:
+	* nature/FreshFlower.jpg:
+	* nature/GreenMeadow.jpg:
+	* nature/Makefile.am:
+	* nature/OpenFlower.jpg:
+	* nature/gnome-nature.xml.in.in:
+	* tiles/Makefile.am:
+	* tiles/alien-artifact-trans.png:
+	* tiles/cow-trans.png:
+	* tiles/gnome-tiles.xml.in.in:
+	* tiles/greche.png:
+	* tiles/leather_skin-resynth-hig.png:
+	* tiles/pattern-boats.svg:
+	* tiles/pattern-clouds.svg:
+	* tiles/pattern-stars.svg:
+	* tiles/stone-wall.png:
+	* tiles/tiles-trans.png:
+	* translucent/Makefile.am:
+	* translucent/ellipsis.png:
+	* translucent/gnome-translucent.xml.in.in:
+	* translucent/grid.png:
+	* translucent/masle.png:
+	* translucent/rects.png:
+	* translucent/tentacles.png:
+	* translucent/waves.png:
+
+	- New backgrounds for 2.14
+	- Removed all old backgrounds
+	- Release for 2.13.90
+
+2006-01-17  Thomas Wood <thos@gnome.org>
+
+	* Makefile.am:
+	* NEWS:
+	* branded/Makefile.am:
+	* branded/gnome-branded.xml.in.in:
+	* configure.in:
+	* nature/Makefile.am:
+	* nature/NATURE-FreshFlower.jpg:
+	* nature/NATURE-OpenFlower.jpg:
+	* nature/NATURE-PebbleBeach.jpg:
+	* nature/gnome-nature.xml.in.in:
+	* tiles/Makefile.am:
+	* tiles/gnome-tiles.xml.in.in:
+	* tiles/pattern-boats.svg:
+	* tiles/pattern-clouds.svg:
+	* tiles/pattern-stars.svg:
+	* translucent/Makefile.am:
+	* translucent/gnome-translucent.xml.in.in:
+
+	- New backgrounds (see NEWS)
+	- Require automake 1.9
+	- 2.13.5 release
+
 2005-11-28  Vincent Untz  <vuntz@gnome.org>
 
 	* configure.in: post-release bump to 2.12.3.

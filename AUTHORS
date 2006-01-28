@@ -6,23 +6,27 @@ Maintainers:
 Backgrounds:
 
 Branded
- - GNOME-Aqua.png          Zeus <zeus@bajingloncat.com>
- - GNOME-FraserIsland.png  Andrew Fitzsimon <andrewf1@fitzsimon.com.au>
- - GNOME-Redblurred.png    Martin Benavides <benavideslee@yahoo.com>
- - GNOME-Weirdcolours.png  Martin Benavides <benavideslee@yahoo.com>
+ - GNOME-Curves.png   Jakub Steiner <jimmac@ximian.com>, Lapo Calamandrei <lapo@it.gnome.org>
 
-Tiles
- - alien-artifact-trans.png        Lapo Calamandrei <lapo@it.gnome.org>
- - cow-trans.png                   Lapo Calamandrei <lapo@it.gnome.org>
- - tiles-trans.png                 Lapo Calamandrei <lapo@it.gnome.org>
+
+Tiles by Andreas Nilsson <nisses.mail@home.se>
+ - pattern-boats.svg
+ - pattern-clouds.svg
+ - pattern-stars.svg
+
 
 Translucent
-
  - rects.svg
  - ellipsis.svg
- - waves.svg
+ - tentacles.svg
 
  SVG versions by Andreas Nilsson <nisses.mail@home.se> based on:
    rects.png        Jakub Steiner <jimmac@ximian.com>
    ellipsis.png     Lapo Calamandrei <lapo@it.gnome.org>
-   waves.png        Lapo Calamandrei <lapo@it.gnome.org>
+   tentacles.png    Lapo Calamandrei <lapo@it.gnome.org>
+
+
+Nature
+ - FreshFlower.jpg  Jens Ansorg <jens@ansorg-web.de>
+ - OpenFlower.jpg   Garrett LeSage <garrett@linuxart.com>
+ - GreenMeadow.jpg  Timothy Schellhase, retouched by Lapo

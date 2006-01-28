@@ -1,10 +1,7 @@
 backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/branded
 
 background_DATA =\
-	GNOME-Aqua.jpg \
-	GNOME-FraserIsland.jpg \
-	GNOME-Redblurred.jpg \
-	GNOME-Weirdcolours.jpg
+	GNOME-Curves.png
 
 
 metadata_in_files = gnome-branded.xml.in

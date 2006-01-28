@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128.00000px"
+   height="128.00000px"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.42"
+   sodipodi:docbase="/home/andreas"
+   sodipodi:docname="pattern-stars.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3230">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.10309278;"
+         offset="0.0000000"
+         id="stop3232" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.078431375;"
+         offset="1.0000000"
+         id="stop3234" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0000000"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000000"
+     inkscape:cx="62.088480"
+     inkscape:cy="94.627143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="885"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>star pattern</dc:title>
+        <dc:date>2005-08-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="opacity:1.0000000;fill:#000000;fill-opacity:0.11764706;fill-rule:nonzero;stroke:none;stroke-width:1.9119999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       id="path1656"
+       sodipodi:sides="5"
+       sodipodi:cx="12.626907"
+       sodipodi:cy="13.058313"
+       sodipodi:r1="60.530830"
+       sodipodi:r2="30.265415"
+       sodipodi:arg1="0.94569587"
+       sodipodi:arg2="1.5740144"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.0000000"
+       inkscape:randomized="0.0000000"
+       d="M 48.048262,62.143026 L 12.529511,43.323572 L -23.109628,61.914034 L -16.187161,22.318163 L -44.880841,-5.8319036 L -5.0837701,-11.484043 L 12.821700,-47.472204 L 30.495175,-11.369547 L 70.255044,-5.4613865 L 41.380782,22.503422 L 48.048262,62.143026 z "
+       transform="matrix(0.251094,0.000000,0.000000,0.251094,26.80875,42.91999)" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1721"
+       transform="translate(33.20154,30.52371)"
+       width="256.00000"
+       height="256.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1725"
+       transform="translate(66.46060,-4.611711e-6)"
+       width="256.00000"
+       height="256.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1737"
+       transform="translate(66.46056,64.47627)"
+       width="256.00000"
+       height="256.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1739"
+       transform="translate(-29.68697,31.04751)"
+       width="256.00000"
+       height="256.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1743"
+       transform="translate(-0.539440,64.47627)"
+       width="256.00000"
+       height="256.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1763"
+       transform="translate(98.46056,30.00000)"
+       width="256.00000"
+       height="256.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1770"
+       transform="translate(-29.44937,-31.52373)"
+       width="128.00000"
+       height="128.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1772"
+       transform="translate(34.55063,-30.52373)"
+       width="128.00000"
+       height="128.00000" />
+    <use
+       x="0.0000000"
+       y="0.0000000"
+       xlink:href="#path1656"
+       id="use1774"
+       transform="translate(98.46056,-31.00000)"
+       width="128.00000"
+       height="128.00000" />
+  </g>
+</svg>

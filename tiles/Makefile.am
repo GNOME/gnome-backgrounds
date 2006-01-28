@@ -1,10 +1,9 @@
 backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/tiles
 
 background_DATA =\
-	alien-artifact-trans.png \
-	tiles-trans.png \
-	cow-trans.png
-
+	pattern-boats.svg \
+	pattern-clouds.svg \
+	pattern-stars.svg
 
 metadata_in_files = gnome-tiles.xml.in
 metadatadir = $(datadir)/gnome-background-properties
