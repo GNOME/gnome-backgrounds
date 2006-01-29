@@ -1,59 +1,56 @@
+# translation of mk.po to Macedonian
 # translation of gnome-backgrounds.
 # Copyright (C) 2005 THE gnome-backgrounds'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Арангел Ангов <ufo@linux.net.mk>, 2005.
-# , fuzzy
-# 
-# 
+# Arangel Angov <ufo@linux.net.mk>, 2006.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds VERSION\n"
+"Project-Id-Version: mk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-03-24 20:32+0100\n"
-"PO-Revision-Date: 2005-03-24 22:09+0100\n"
-"Last-Translator: Арангел Ангов <ufo@linux.net.mk>\n"
-"Language-Team: \n"
+"POT-Creation-Date: 2006-01-29 06:55+0100\n"
+"PO-Revision-Date: 2006-01-29 12:28+0100\n"
+"Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
+"Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Аква нога (Гном)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "Гном кривини"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Остров"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Бродови"
 
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Замаглено црвено (Гном)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Облаци"
 
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Чудни бои (Гном)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Ѕвезди"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Вонземјански артефакт"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Црно-бели точки"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Дијаманти"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
+#. Translators: This is the name of a desktop background image that shows some ellipsis.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
 msgid "Ellipsis (Translucent)"
-msgstr "Три точки"
+msgstr "Елипси"
 
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "Правоаголници"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Tentacles"
 
