@@ -1,13 +1,13 @@
 # Norwegian translation of gnome-backgrounds (bokmål dialect).
 # Copyright (C) 1999-2004 Free Software Foundation, Inc.
-# Kjartan Maraas <kmaraas@gnome.org>, 1999-2004.
+# Kjartan Maraas <kmaraas@gnome.org>, 1999-2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds 2.5.2\n"
+"Project-Id-Version: gnome-backgrounds 2.13.x\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-02-04 15:02+0100\n"
-"PO-Revision-Date: 2005-01-19 15:52+0100\n"
+"POT-Creation-Date: 2006-01-29 13:55+0100\n"
+"PO-Revision-Date: 2006-01-29 13:57+0100\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian <i18n-nb@lister.ping.uio.no>\n"
 "MIME-Version: 1.0\n"
@@ -15,82 +15,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8-bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "Due (abstract)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "GNOME kurver"
 
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "Due alternativ (abstrakt)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Båtmønster"
 
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "Scie (abstrakt)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Skymønster"
 
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "Scie alternativ (abstrakt)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Stjernemønster"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Aqua Foot (GNOME logo)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
+msgstr "Ellipser (gjennomsiktig)"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Fraser Island (GNOME logo)"
-
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Uskarp rød (GNOME logo)"
-
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Rare farger (GNOME logo)"
-
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Fremmed artifakt (gjennomsiktig flis)"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Kuflekker (gjennomsiktig flis)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Diamant flismønster (gjennomsiktig flis)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
-msgstr "Ellipse (gjennomsiktig)"
-
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "Rektangler (gjennomsiktig)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Tentakler (gjennomsiktig)"
 
-#~ msgid "Black (GNOME Branded)"
-#~ msgstr "Sort (GNOME logo)"
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Frisk blomst"
 
-#~ msgid "Hills (GNOME Branded)"
-#~ msgstr "Hauger (GNOME logo)"
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Grønn eng"
 
-#~ msgid "Greche Pattern (Tile)"
-#~ msgstr "Greche-mønster (flis)"
-
-#~ msgid "Leather (Tile)"
-#~ msgstr "Lær (flis)"
-
-#~ msgid "Stone Wall Pattern (Tile)"
-#~ msgstr "Steinvegg-mønster (flis)"
-
-#~ msgid "Grid (Translucent)"
-#~ msgstr "Rutenett (gjennomsiktig)"
-
-#~ msgid "Masle (Translucent)"
-#~ msgstr "Masle (gjennomsiktig)"
-
-#~ msgid "Waves (Translucent)"
-#~ msgstr "Bølger (gjennomsiktig)"
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Åpen blomst"
