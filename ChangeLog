@@ -1,3 +1,10 @@
+2006-01-29  Thomas Wood  <thos@gnome.org>
+
+	* branded/GNOME-Curves.png: Added missing file to cvs (fixes bug 329009)
+	* po/POTFILES.in: Add new file
+	* po/POTFILES.skip: Remove deleted file
+	* translucent/gnome-translucent.xml.in.in: Fix typo (fixes bug 329045)
+
 2006-01-28  Thomas Wood  <thos@gnome.org>
 
 	* AUTHORS:
