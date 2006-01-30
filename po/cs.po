@@ -1,57 +1,98 @@
-# Czech translation of gnome-backgrounds.
-# Copyright (C) 2004, 2005 gnome-backgrounds' COPYRIGHT HOLDER
-# Copyright (C) 2004, 2005 Miloslav Trmac <mitr@volny.cz>
+# Czech translation of gnome-2.12
 # This file is distributed under the same license as the gnome-backgrounds package.
+# Copyright (C) 2004, 2005, 2006 gnome-backgrounds' COPYRIGHT HOLDER
+# Copyright (C) 2004, 2005 Miloslav Trmac <mitr@volny.cz>
+# Copyright (C) 2006 Lukas Novotny <lukasnov@cvs.gnome.org>
 # Miloslav Trmac <mitr@volny.cz>, 2004, 2005.
-#
+# Lukas Novotny <lukasnov@cvs.gnome.org>, 2006.
+# 
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds VERSION\n"
+"Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-01-28 12:19+0100\n"
-"PO-Revision-Date: 2005-01-28 14:59+0100\n"
-"Last-Translator: Miloslav Trmac <mitr@volny.cz>\n"
+"POT-Creation-Date: 2006-01-30 06:53+0100\n"
+"PO-Revision-Date: 2006-01-30 13:52+0100\n"
+"Last-Translator: Lukas Novotny <lukasnov@cvs.gnome.org>\n"
 "Language-Team: Czech <cs@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Chodidlo z vody (motiv GNOME)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "GNOME křivky"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Fraserův ostrov (GNOME Branded)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Vzor - lodě"
 
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Červené rozostřené (motiv GNOME)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Vzor - mraky"
 
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Divné barvy (motiv GNOME)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Vzor - hvězdy"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Zbytek po mimozemšťanech (průhledná dlaždice)"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Kraví fleky (průhledná dlaždice)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Čtvercový vzor (průhledná dlaždice)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
 msgstr "Elipsy (průhledné)"
 
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "Obdélníky (průhledné)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Chapadla (průhledné)"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Veselá kytka"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Zelená louka"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Otevřená květina"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Chodidlo z vody (motiv GNOME)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Fraserův ostrov (GNOME Branded)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Červené rozostřené (motiv GNOME)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Divné barvy (motiv GNOME)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Zbytek po mimozemšťanech (průhledná dlaždice)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Kraví fleky (průhledná dlaždice)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Čtvercový vzor (průhledná dlaždice)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Obdélníky (průhledné)"
