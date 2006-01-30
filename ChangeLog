@@ -1,3 +1,7 @@
+2006-01-30  Thomas Wood  <thos@gnome.org>
+
+	* NEWS: Updated for 2.13.90
+
 2006-01-29  Thomas Wood  <thos@gnome.org>
 
 	* branded/GNOME-Curves.png: Added missing file to cvs (fixes bug 329009)
