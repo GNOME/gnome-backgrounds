@@ -1,59 +1,76 @@
+# translation of gnome-backgrounds.HEAD.gu.po to Gujarati
 # translation of gnome-backgrounds.HEAD.po to Gujarati
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 # Ankit Patel <ankit@redhat.com>, 2005.
+# Ankit Patel <ankit644@yahoo.com>, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds.HEAD\n"
+"Project-Id-Version: gnome-backgrounds.HEAD.gu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-02-22 07:23+0100\n"
-"PO-Revision-Date: 2005-02-22 20:41+0530\n"
-"Last-Translator: Ankit Patel <ankit@redhat.com>\n"
-"Language-Team: Gujarati <gu@li.org>\n"
+"POT-Creation-Date: 2006-01-30 05:15+0100\n"
+"PO-Revision-Date: 2006-01-30 15:41+0530\n"
+"Last-Translator: Ankit Patel <ankit644@yahoo.com>\n"
+"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"\n"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "એક્વા ફુટ (જીનોમ બ્રાન્ડ)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "જીનોમ વણાંકો"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "ફ્રાસર ટાપુ (જીનોમ બ્રાન્ડ)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "બોટ ભાત"
 
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "લાલ ઝાંખુ (જીનોમ બ્રાન્ડ)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "વાદળ ભાત"
 
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "વિવિધ રંગો (જીનોમ બ્રાન્ડ)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "તારા ભાત"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "એલીઅન આર્ટીફેક્ટ (ટ્રાન્સલ્યુસન્ટ તકતી0"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "કાવ સ્પોટ્સ (ટ્રાન્સલ્યુસન્ટ તકતી)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "હીરાની તકતીની ભાત (ટ્રાન્સલ્યુસન્ટ તકતી)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
 msgstr "ઉપવલયો (ટ્રાન્સલ્યુસન્ટ)"
 
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "લંબચોરસો (ટ્રાન્સલ્યુસન્ટ)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "ટેન્ટેક્લસ (ટ્રાન્સલ્યુસન્ટ)"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "તાજું ફૂલ"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "ગ્રીન મીડો"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "ફૂલ ખોલો"
 
