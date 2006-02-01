@@ -1,16 +1,16 @@
 # Bulgarian translation of gnome-backgrounds.
-# Copyright (C) 2004 Free Software Foundation
+# Copyright (C) 2004, 2006 Free Software Foundation
 # This file is distributed under the same license
 # as the gnome-backgrounds package.
 # Vladimir Petkov <vpetkov@i-space.org>, 2004.
-# Alexander Shopov <ash@contact.bg>, 2004.
+# Alexander Shopov <ash@contact.bg>, 2004, 2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome backgrounds gnome 2.10 proposed\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-12-10 09:58+0200\n"
-"PO-Revision-Date: 2004-12-10 10:25+0200\n"
+"POT-Creation-Date: 2006-02-01 10:46+0200\n"
+"PO-Revision-Date: 2006-02-01 10:46+0200\n"
 "Last-Translator: Vladimir Petkov <vpetkov@i-space.org>\n"
 "Language-Team: Bulgarian <dict@linux.zonebg.com>\n"
 "MIME-Version: 1.0\n"
@@ -18,90 +18,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "Дю (абстрактна)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "Извивките на GNOME"
 
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "Дю - алтернативна (абстрактна)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Шаблон с лодки"
 
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "Сай (абстрактна)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Шаблон с облаци"
 
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "Сай - алтернативна (абстрактна)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Шаблон със звезди"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Аква-стъпало (с логото на GNOME)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
+msgstr "Овали (прозрачен)"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "Чернота (с логото на GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Островът на Фрейзър (с логото на GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Hills (GNOME Branded)"
-msgstr "Хълмове (с логото на GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Червенина (с логото на GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:6
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Странни цветове (с логото на GNOME)"
-
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Извънземен артефакт (прозрачна плочка)"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Петна (прозрачна плочка)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Плочки  (прозрачна плочка)"
-
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "Меандри (плочка)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "Кожа (плочка)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "Каменна стена (плочка)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
-msgstr "Пропуск (прозрачна)"
-
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Мрежа (прозрачна)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "Ленти (прозрачна)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
-msgid "Rectangles (Translucent)"
-msgstr "Правоъгълници (прозрачна)"
-
-#: translucent/gnome-translucent.xml.in.in.h:5
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
-msgstr "Пипала (прозрачна)"
+msgstr "Пипала (прозрачен)"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Вълни (прозрачна)"
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Червено цвете"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Зелена морава"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Оранжево цвете"
