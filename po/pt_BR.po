@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-01-29 06:55+0100\n"
-"PO-Revision-Date: 2006-01-29 06:27-0300\n"
+"POT-Creation-Date: 2006-01-31 23:03+0100\n"
+"PO-Revision-Date: 2006-02-01 15:31-0200\n"
 "Last-Translator: Evandro Fernandes Giovanini <evandrofg@ig.com.br>\n"
 "Language-Team: Brazilian Portuguese <gnome-l10n-br@listas.cipsga.org.br>\n"
 "MIME-Version: 1.0\n"
@@ -40,17 +40,35 @@ msgstr "Padrão de Nuvens"
 msgid "Stars Pattern"
 msgstr "Padrão de Estrelas"
 
-#. Translators: This is the name of a desktop background image that shows some ellipsis.
+#. Translators: This is the name of a desktop background image that shows some ellipses.
 #. You might want to translate it into the equivalent words of your language
 #: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipsis (Translucent)"
-msgstr "Elipse (Translúcido)"
+msgid "Ellipses (Translucent)"
+msgstr "Elipses (Translúcido)"
 
 #. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
 #. You might want to translate it into the equivalent words of your language
 #: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Tentáculos (Translúcido)"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Flôr Nova"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Planície Verde"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Flôr Aberta"
 
 #~ msgid "Due (Abstract)"
 #~ msgstr "Duo (Abstrato)"
