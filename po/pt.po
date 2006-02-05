@@ -1,104 +1,130 @@
 # gnome-backgrounds's Portuguese translation.
-# Copyright © 2004 gnome-backgrounds
+# Copyright © 2004, 2006 gnome-backgrounds
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2004.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 2.10\n"
+"Project-Id-Version: 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-12-09 22:40+0000\n"
-"PO-Revision-Date: 2004-12-09 22:45+0000\n"
+"POT-Creation-Date: 2006-02-05 14:11+0000\n"
+"PO-Revision-Date: 2006-02-05 14:15+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "Duo (Abstracto)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "Curvas GNOME"
 
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "Duo Alternativo (Abstracto)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Padrão de Barcos"
 
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "Ciência (Abstracto)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Padrão de Nuvens"
 
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "Ciência Alternativo (Abstracto)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Padrão de Estrelas"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Pé Aqua (Marca GNOME)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
+msgstr "Elípses (Translúcido)"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "Preto (Marca GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Ilha Fraser (Marca GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Hills (GNOME Branded)"
-msgstr "Montes (Marca GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Esborratado Vermelho (Marca GNOME)"
-
-#: branded/gnome-branded.xml.in.in.h:6
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Cores Estranhas (Marca GNOME)"
-
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Artefactos Alígenas (Mosaico Translúcido)"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Malhas de Vaca (Mosaico Translúcido)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Padrão de Mosaico de Diamante (Mosaico Translúcido)"
-
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "Padrão Grego (Mosaico)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "Cabedal (Mosaico)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "Padrão de Parede de Pedra (Mosaico)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
-msgstr "Elípse (Translúcido)"
-
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Grelha (Translúcido)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "Masle (Translúcido)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
-msgid "Rectangles (Translucent)"
-msgstr "Rectângulos (Translúcido)"
-
-#: translucent/gnome-translucent.xml.in.in.h:5
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Tentáculos (Translúcido)"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Ondas (Translúcido)"
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Flor Alaranjada"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Planície Verde"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Flor Amarelada"
+
+#~ msgid "Due (Abstract)"
+#~ msgstr "Duo (Abstracto)"
+
+#~ msgid "Due Alternate (Abstract)"
+#~ msgstr "Duo Alternativo (Abstracto)"
+
+#~ msgid "Scie (Abstract)"
+#~ msgstr "Ciência (Abstracto)"
+
+#~ msgid "Scie Alternate (Abstract)"
+#~ msgstr "Ciência Alternativo (Abstracto)"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Pé Aqua (Marca GNOME)"
+
+#~ msgid "Black (GNOME Branded)"
+#~ msgstr "Preto (Marca GNOME)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Ilha Fraser (Marca GNOME)"
+
+#~ msgid "Hills (GNOME Branded)"
+#~ msgstr "Montes (Marca GNOME)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Esborratado Vermelho (Marca GNOME)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Cores Estranhas (Marca GNOME)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Artefactos Alígenas (Mosaico Translúcido)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Malhas de Vaca (Mosaico Translúcido)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Padrão de Mosaico de Diamante (Mosaico Translúcido)"
+
+#~ msgid "Greche Pattern (Tile)"
+#~ msgstr "Padrão Grego (Mosaico)"
+
+#~ msgid "Leather (Tile)"
+#~ msgstr "Cabedal (Mosaico)"
+
+#~ msgid "Stone Wall Pattern (Tile)"
+#~ msgstr "Padrão de Parede de Pedra (Mosaico)"
+
+#~ msgid "Grid (Translucent)"
+#~ msgstr "Grelha (Translúcido)"
+
+#~ msgid "Masle (Translucent)"
+#~ msgstr "Masle (Translúcido)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Rectângulos (Translúcido)"
+
+#~ msgid "Waves (Translucent)"
+#~ msgstr "Ondas (Translúcido)"
