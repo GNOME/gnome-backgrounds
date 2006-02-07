@@ -5,6 +5,8 @@ srcdir=`dirname $0`
 test -z "$srcdir" && srcdir=.
 
 PKG_NAME="gnome-backgrounds"
+REQUIRED_AUTOMAKE_VERSION=1.9
+
 
 (test -f $srcdir/configure.in \
   && test -d $srcdir/translucent ) || {
