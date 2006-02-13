@@ -1,3 +1,20 @@
+2006-02-13  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* NEWS:
+	Updated for 2.13.91
+
+	* AUTHORS
+	* branded/gnome-branded.xml.in.in:
+	* nature/gnome-nature.xml.in.in:
+	* tiles/gnome-tiles.xml.in.in:
+	* tiles/pattern-clouds.svg:
+	* tiles/pattern-stars.svg:
+	* translucent/gnome-translucent.xml.in.in:
+
+	- Updated colours and other tweaks to patterns
+	- Use zoom option for images
+
 2006-02-11  Thomas Wood  <thos@gnome.org>
 
 	* AUTHORS:

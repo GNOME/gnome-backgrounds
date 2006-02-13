@@ -13,9 +13,9 @@
    height="128.00000px"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
-   sodipodi:docbase="/home/andreas"
-   sodipodi:docname="pattern-stars.svg">
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/lapo/Desktop/Varie/Sfondi vari"
+   sodipodi:docname="pattern-stars-white.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -32,14 +32,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#6e6e6e"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0000000"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000000"
-     inkscape:cx="62.088480"
-     inkscape:cy="94.627143"
+     inkscape:zoom="2.1871407"
+     inkscape:cx="-10.672378"
+     inkscape:cy="48.485904"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -88,91 +88,100 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="opacity:1.0000000;fill:#000000;fill-opacity:0.11764706;fill-rule:nonzero;stroke:none;stroke-width:1.9119999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491;fill-rule:nonzero;stroke:none;stroke-width:1.91199994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1656"
        sodipodi:sides="5"
        sodipodi:cx="12.626907"
        sodipodi:cy="13.058313"
-       sodipodi:r1="60.530830"
+       sodipodi:r1="60.53083"
        sodipodi:r2="30.265415"
        sodipodi:arg1="0.94569587"
        sodipodi:arg2="1.5740144"
        inkscape:flatsided="false"
-       inkscape:rounded="0.0000000"
-       inkscape:randomized="0.0000000"
-       d="M 48.048262,62.143026 L 12.529511,43.323572 L -23.109628,61.914034 L -16.187161,22.318163 L -44.880841,-5.8319036 L -5.0837701,-11.484043 L 12.821700,-47.472204 L 30.495175,-11.369547 L 70.255044,-5.4613865 L 41.380782,22.503422 L 48.048262,62.143026 z "
-       transform="matrix(0.251094,0.000000,0.000000,0.251094,26.80875,42.91999)" />
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 48.048262,62.143026 L 12.529511,43.323572 L -23.109628,61.914034 L -16.187161,22.318163 L -44.880841,-5.8319036 L -5.0837701,-11.484043 L 12.8217,-47.472204 L 30.495175,-11.369547 L 70.255044,-5.4613865 L 41.380782,22.503422 L 48.048262,62.143026 z "
+       transform="matrix(0.251094,0,0,0.251094,26.80875,42.91999)" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1721"
        transform="translate(33.20154,30.52371)"
-       width="256.00000"
-       height="256.00000" />
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1725"
-       transform="translate(66.46060,-4.611711e-6)"
-       width="256.00000"
-       height="256.00000" />
+       transform="translate(66.4606,-4.611711e-6)"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1737"
        transform="translate(66.46056,64.47627)"
-       width="256.00000"
-       height="256.00000" />
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1739"
        transform="translate(-29.68697,31.04751)"
-       width="256.00000"
-       height="256.00000" />
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1743"
-       transform="translate(-0.539440,64.47627)"
-       width="256.00000"
-       height="256.00000" />
+       transform="translate(-0.53944,64.47627)"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1763"
-       transform="translate(98.46056,30.00000)"
-       width="256.00000"
-       height="256.00000" />
+       transform="translate(98.46056,30)"
+       width="256"
+       height="256"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1770"
        transform="translate(-29.44937,-31.52373)"
-       width="128.00000"
-       height="128.00000" />
+       width="128"
+       height="128"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1772"
        transform="translate(34.55063,-30.52373)"
-       width="128.00000"
-       height="128.00000" />
+       width="128"
+       height="128"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
     <use
-       x="0.0000000"
-       y="0.0000000"
+       x="0"
+       y="0"
        xlink:href="#path1656"
        id="use1774"
-       transform="translate(98.46056,-31.00000)"
-       width="128.00000"
-       height="128.00000" />
+       transform="translate(98.46056,-31)"
+       width="128"
+       height="128"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.13725491" />
   </g>
 </svg>

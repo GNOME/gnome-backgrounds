@@ -8,8 +8,7 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/ellipsis.svg</filename>
     <options>stretched</options>
     <shade_type>solid</shade_type>
-    <pcolor>#76848F</pcolor>
-    <scolor>#76848F</scolor>
+    <pcolor>#BABDB6</pcolor>
   </wallpaper>
   <wallpaper deleted="false">
     <!-- Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
@@ -17,8 +16,7 @@
     <_name>Tentacles (Translucent)</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/translucent/tentacles.svg</filename>
     <options>stretched</options>
-    <shade_type>horizontal-gradient</shade_type>
-    <pcolor>#76848F</pcolor>
-    <scolor>#76848F</scolor>
+    <shade_type>solid</shade_type>
+    <pcolor>#346603</pcolor>
   </wallpaper>
 </wallpapers>
