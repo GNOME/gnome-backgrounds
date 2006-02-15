@@ -1,106 +1,131 @@
 # Lithuanian translation of gnome-backgrounds.
-# Copyright (C) 2004 Free Software Foundation, Inc.
+# Copyright (C) 2004-2006 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Žygimantas Beručka <uid0@akl.lt>, 2004.
+# Žygimantas Beručka <zygis@gnome.org>, 2004-2006.
 # 
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-12-11 18:29+0200\n"
-"PO-Revision-Date: 2004-12-11 18:38+0200\n"
-"Last-Translator: Žygimantas Beručka <uid0@akl.lt>\n"
+"POT-Creation-Date: 2006-02-15 16:26+0200\n"
+"PO-Revision-Date: 2006-02-15 16:28+0200\n"
+"Last-Translator: Žygimantas Beručka <zygis@gnome.org>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
-#: abstract/gnome-abstract.xml.in.in.h:1
-msgid "Due (Abstract)"
-msgstr "Due (abstraktus)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "GNOME kreivės"
 
-#: abstract/gnome-abstract.xml.in.in.h:2
-msgid "Due Alternate (Abstract)"
-msgstr "Due alternatyvus (abstraktus)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Laivelių raštas"
 
-#: abstract/gnome-abstract.xml.in.in.h:3
-msgid "Scie (Abstract)"
-msgstr "Scie (abstraktus)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Debesų raštas"
 
-#: abstract/gnome-abstract.xml.in.in.h:4
-msgid "Scie Alternate (Abstract)"
-msgstr "Scie alternatyvus (abstraktus)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Žvaigždžių raštas"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Aqua pėda (su GNOME ženklu)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
+msgstr "Elipsės (peršviečiamas)"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Black (GNOME Branded)"
-msgstr "Juodas (su GNOME ženklu)"
-
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Frazerio sala (su GNOME ženklu)"
-
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Hills (GNOME Branded)"
-msgstr "Kalvos (su GNOME ženklu)"
-
-#: branded/gnome-branded.xml.in.in.h:5
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Ištepta raudona (su GNOME ženklu)"
-
-#: branded/gnome-branded.xml.in.in.h:6
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Keistos spalvos (su GNOME ženklu)"
-
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Ateivių artefaktas (peršviečiamos plytelės)"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Karvių dėmės (peršviečiamos plytelės)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Deimantinių plytelių raštas (peršviečiamos plytelės)"
-
-#: tiles/gnome-tiles.xml.in.in.h:4
-msgid "Greche Pattern (Tile)"
-msgstr "Greche raštas (išklotas)"
-
-#: tiles/gnome-tiles.xml.in.in.h:5
-msgid "Leather (Tile)"
-msgstr "Oda (išklotas)"
-
-#: tiles/gnome-tiles.xml.in.in.h:6
-msgid "Stone Wall Pattern (Tile)"
-msgstr "Akmeninės sienos raštas (išklotas)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
-msgstr "Elipsė (peršviečiamas)"
-
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Grid (Translucent)"
-msgstr "Grotelės (peršviečiamas)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
-msgid "Masle (Translucent)"
-msgstr "Masle (peršviečiamas)"
-
-#: translucent/gnome-translucent.xml.in.in.h:4
-msgid "Rectangles (Translucent)"
-msgstr "Stačiakampiai (peršviečiamas)"
-
-#: translucent/gnome-translucent.xml.in.in.h:5
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Čiuptuvėliai (peršviečiamas)"
 
-#: translucent/gnome-translucent.xml.in.in.h:6
-msgid "Waves (Translucent)"
-msgstr "Bangos (peršviečiamas)"
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Gyva gėlė"
 
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Žalia pieva"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Prasiskleidęs žiedas"
+
+#~ msgid "Due (Abstract)"
+#~ msgstr "Due (abstraktus)"
+
+#~ msgid "Due Alternate (Abstract)"
+#~ msgstr "Due alternatyvus (abstraktus)"
+
+#~ msgid "Scie (Abstract)"
+#~ msgstr "Scie (abstraktus)"
+
+#~ msgid "Scie Alternate (Abstract)"
+#~ msgstr "Scie alternatyvus (abstraktus)"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Aqua pėda (su GNOME ženklu)"
+
+#~ msgid "Black (GNOME Branded)"
+#~ msgstr "Juodas (su GNOME ženklu)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Frazerio sala (su GNOME ženklu)"
+
+#~ msgid "Hills (GNOME Branded)"
+#~ msgstr "Kalvos (su GNOME ženklu)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Ištepta raudona (su GNOME ženklu)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Keistos spalvos (su GNOME ženklu)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Ateivių artefaktas (peršviečiamos plytelės)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Karvių dėmės (peršviečiamos plytelės)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Deimantinių plytelių raštas (peršviečiamos plytelės)"
+
+#~ msgid "Greche Pattern (Tile)"
+#~ msgstr "Greche raštas (išklotas)"
+
+#~ msgid "Leather (Tile)"
+#~ msgstr "Oda (išklotas)"
+
+#~ msgid "Stone Wall Pattern (Tile)"
+#~ msgstr "Akmeninės sienos raštas (išklotas)"
+
+#~ msgid "Grid (Translucent)"
+#~ msgstr "Grotelės (peršviečiamas)"
+
+#~ msgid "Masle (Translucent)"
+#~ msgstr "Masle (peršviečiamas)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Stačiakampiai (peršviečiamas)"
+
+#~ msgid "Waves (Translucent)"
+#~ msgstr "Bangos (peršviečiamas)"
