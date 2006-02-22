@@ -1,77 +1,73 @@
 # translation of eu.po to Basque
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Iñaki Larrañaga Murgoitio  <dooteo@euskalgnu.org>, 2005.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Iñaki Larrañaga Murgoitio  <dooteo@euskalgnu.org>, 2005, 2006.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds\n"
+"Project-Id-Version: eu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-09-07 08:53+0200\n"
-"PO-Revision-Date: 2005-09-07 09:53+0200\n"
-"Last-Translator: Iñaki Larrañaga Murgoitio  <dooteo@euskalgnu.org>\n"
+"POT-Creation-Date: 2006-02-22 14:12+0100\n"
+"PO-Revision-Date: 2006-02-22 14:17+0100\n"
+"Last-Translator: Iñaki Larrañaga <dooteo@euskalgnu.org>\n"
 "Language-Team: Basque <itzulpena@euskalgnu.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10.2\n"
 
-#. Translators: This is the name of a desktop background image that shows a large aqua coloured (light blue) GNOME foot.
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
 #. You might want to translate it into the equivalent words of your language
 #: ../branded/gnome-branded.xml.in.in.h:3
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Ura Oina (GNOME marka)"
+msgid "GNOME Curves"
+msgstr "GNOME kurbak"
 
-#. Translators: This is the name of a desktop background image that shows a picture of an island called Fraser Island.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:6
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Fraser uhartea (GNOME marka)"
-
-#. Translators: This is the name of a desktop background image that shows a mixture of blurred red and orange colours.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:9
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Gorri lauzotua (GNOME marka)"
-
-#. Translators: This is the name of a desktop background image that shows a mixture of mainly red and orange colours.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:12
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Kolore bitixka (GNOME marka)"
-
-#. Translators: This is the name of a desktop background image that shows a strange "alien" like pattern.
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Alien gauzakia (Lauza zeharrargitsua)"
+msgid "Boats Pattern"
+msgstr "Txalupa ereduak"
 
-#. Translators: This is the name of a desktop background image that shows a pattern similar to that associated with cow skin.
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Behi-orbanak (Lauza zeharrargitsua)"
+msgid "Clouds Pattern"
+msgstr "Laino ereduak"
 
-#. Translators: This is the name of a desktop background image that shows a diamond pattern.
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Erronbo-eredu lauza (Lauza zeharrargitsua)"
+msgid "Stars Pattern"
+msgstr "Izar ereduak"
 
-#. Translators: This is the name of a desktop background image that shows some ellipsis.
+#. Translators: This is the name of a desktop background image that shows some ellipses.
 #. You might want to translate it into the equivalent words of your language
 #: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipsis (Translucent)"
-msgstr "Elipsia (Zeharrargitsua)"
-
-#. Translators: This is the name of a desktop background image that shows blurred rectangles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Rectangles (Translucent)"
-msgstr "Laukizuzenak (Zeharrargitsua)"
+msgid "Ellipses (Translucent)"
+msgstr "Elipsiak (zeharrargitsua)"
 
 #. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:9
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Garroak (Zeharrargitsua)"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Lora freskoa"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Belardi berdea"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Irekitako lorea"
+
