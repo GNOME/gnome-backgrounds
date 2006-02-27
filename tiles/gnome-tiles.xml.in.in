@@ -8,8 +8,8 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/pattern-boats.svg</filename>
     <options>wallpaper</options>
     <shade_type>solid</shade_type>
-    <pcolor>#76848F</pcolor>
-    <scolor>#76848F</scolor>
+    <pcolor>#FCAF3E</pcolor>
+    <scolor>#555753</scolor>
   </wallpaper>
   <wallpaper deleted="false">
     <!-- Translators: This is the name of a desktop background image that shows a clouds pattern.
@@ -28,7 +28,7 @@
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/pattern-stars.svg</filename>
     <options>wallpaper</options>
     <shade_type>vertical-gradient</shade_type>
-    <pcolor>#000000</pcolor>
+    <pcolor>#332133</pcolor>
     <scolor>#75507B</scolor>
   </wallpaper>
 </wallpapers>
