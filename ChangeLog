@@ -1,6 +1,13 @@
+2006-02-28  Thomas Woods  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Updated for 2.13.92
+
 2006-02-28  Clytie Siddall <clytie@riverland.net.au>
 
-	* configure.in	Added lv in ALL_LINGUAS line.
+	* configure.in: Added lv in ALL_LINGUAS line.
 	
 2006-02-27  Thomas Wood  <thos@gnome.org>
 

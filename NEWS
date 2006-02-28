@@ -1,4 +1,17 @@
 ===============
+Version 2.13.92
+===============
+
+* Revised colours
+
+Translations
+Alexander Sigachov (ru), GNOME PL Team (pl), Iñaki Larrañaga (eu)
+Jesús Corrius (ca), Kostas Papadimas (el), Mate ORY (hu)
+Raivis Dejus (lv), Satoru SATOH (ja), Woodman Tuen (zh_HK)
+Woodman Tuen (zh_TW), Žygimantas Beručka (lt)
+
+
+===============
 Version 2.13.91
 ===============
 
@@ -25,8 +38,8 @@ Translations
 
  Lukas Novotny (cs), Francisco Javier F. Serrador (es), Ignacio Casal Quinteiro
  (gl), Ankit Patel (gu), Ida Gasparretti (it), Kjartan Maraas (nb), Kjartan
- Maraas (no), Evandro Fernandes Giovanini (pt_BR), Слободан Д.
- Средојевић (sr), Theppitak Karoonboonyanan (th), Clytie Siddall (vi),
+ Maraas (no), Evandro Fernandes Giovanini (pt_BR), –°–ª–æ–±–æ–¥–∞–Ω –î.
+ –°—Ä–µ–¥–æ—ò–µ–≤–∏—õ (sr), Theppitak Karoonboonyanan (th), Clytie Siddall (vi),
  Funda Wang (zh_CN)
 
 ==============
@@ -48,7 +61,7 @@ Version 2.12.1
 
 Translations
 
-Mahay Alam Khan (bn), Iñaki Larrañaga Murgoitio (eu)
+Mahay Alam Khan (bn), I√±aki Larra√±aga Murgoitio (eu)
 
 
 ==============
@@ -69,7 +82,7 @@ Version 2.11.92
 * Release for GNOME 2.11.92
 
 Translations
-  Игор Несторовић (sr)
+  –ò–≥–æ—Ä –ù–µ—Å—Ç–æ—Ä–æ–≤–∏—õ (sr)
 
 
 ==============
@@ -104,8 +117,8 @@ Version 2.10.0
 
 Translations
 
-  Jesús Corrius (ca), Rajesh Ranjan (hi), Ida Gasparretti (it), (ne),
-  Dan Damian (ro), Данило Шеган (sr), Woodman Tuen (zh_TW)
+  Jes√∫s Corrius (ca), Rajesh Ranjan (hi), Ida Gasparretti (it), (ne),
+  Dan Damian (ro), –î–∞–Ω–∏–ª–æ –®–µ–≥–∞–Ω (sr), Woodman Tuen (zh_TW)
 
 
 ==============
@@ -116,7 +129,7 @@ Version 2.9.92
 
 Translations
 
-  (ar), Adam Weinberger (en_CA), David Lodge (en_GB), Benoît Dejean (fr),
+  (ar), Adam Weinberger (en_CA), David Lodge (en_GB), Beno√Æt Dejean (fr),
   Ankit Patel (gu), Gabor Kelemen (hu), ahmad riza h nst (id),
   GNOME PL Team (pl)
 
@@ -156,6 +169,6 @@ Translations
  Vladimir Petkov (bg), Miloslav Trmac (cs), Dafydd Harries (cy), Martin
  Willemoes Hansen (da), Hendrik Brandt (de), Kostas Papadimas (el), Adam
  Weinberger (en_CA), David Lodge (en_GB), Francisco Javier F. Serrador (es),
- Tommi Vainikainen (fi), Takeshi AIHANA (ja), Žygimantas Beručka (lt), Tino
+ Tommi Vainikainen (fi), Takeshi AIHANA (ja), ≈Ωygimantas Beruƒçka (lt), Tino
  Meinen (nl), Amanpreet Singh Alam (pa), Raphael Higino (pt_BR), Duarte Loreto
  (pt), Marcel Telka (sk), Christian Rose (sv), Funda Wang (zh_CN)
