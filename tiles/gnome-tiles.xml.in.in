@@ -7,7 +7,7 @@
     <_name>Boats Pattern</_name>
     <filename>@datadir@/pixmaps/backgrounds/gnome/tiles/pattern-boats.svg</filename>
     <options>wallpaper</options>
-    <shade_type>solid</shade_type>
+    <shade_type>vertical-gradient</shade_type>
     <pcolor>#FCAF3E</pcolor>
     <scolor>#555753</scolor>
   </wallpaper>

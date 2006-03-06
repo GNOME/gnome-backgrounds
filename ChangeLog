@@ -1,3 +1,10 @@
+2006-03-06  Thomas Wood  <thos@gnome.org>
+
+	* branded/GNOME-Curves.png:
+	* tiles/gnome-tiles.xml.in.in:
+
+	Updates from Lapo Calamandrei
+
 2006-03-01  Vladimer Sichinava <vlsichinava@gmail.com>
 
 	* configure.in: Added ka in ALL_LINGUAS line.
