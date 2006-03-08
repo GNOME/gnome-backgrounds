@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD.hi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-06-16 06:16+0000\n"
+"POT-Creation-Date: 2006-03-08 06:41+0100\n"
 "PO-Revision-Date: 2005-06-16 17:25+0530\n"
 "Last-Translator: Rajesh Ranjan <rranjan@redhat.com>\n"
 "Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
@@ -16,45 +16,84 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"\n"
 
-#: ../branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "एक्वा फुट (GNOME Branded)"
-
-#: ../branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "फ्रैजर द्वीप (GNOME Branded)"
-
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
 #: ../branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "लाल धुंधलका (GNOME Branded)"
+msgid "GNOME Curves"
+msgstr ""
 
-#: ../branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "विचित्र रंग (GNOME Branded)"
-
-#: ../tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "विदेशी आर्टिफेक्ट (Translucent Tile)"
-
-#: ../tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "गाय का धव्बा (Translucent Tile)"
-
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "हीरा टाइल प्रारूप (Translucent Tile)"
+msgid "Boats Pattern"
+msgstr ""
 
-#: ../translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr ""
+
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr ""
+
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+#, fuzzy
+msgid "Ellipses (Translucent)"
 msgstr "Ellipsis (Translucent)"
 
-#: ../translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "आयताकार (Translucent)"
-
-#: ../translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "टेंटेकल (Translucent)"
 
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr ""
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr ""
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr ""
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "एक्वा फुट (GNOME Branded)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "फ्रैजर द्वीप (GNOME Branded)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "लाल धुंधलका (GNOME Branded)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "विचित्र रंग (GNOME Branded)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "विदेशी आर्टिफेक्ट (Translucent Tile)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "गाय का धव्बा (Translucent Tile)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "हीरा टाइल प्रारूप (Translucent Tile)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "आयताकार (Translucent)"
