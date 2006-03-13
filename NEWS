@@ -1,14 +1,27 @@
 ===============
+Version 2.14.0
+===============
+
+* Release for 2.14.0
+
+Translations
+
+Rhys Jones (cy), Rajesh Ranjan (hi), Alina Kirakosyan (ka), Elian Myftiu (sq),
+Daniel Nylander (sv), Maxim V. Dziumanenko (uk)
+
+
+===============
 Version 2.13.92
 ===============
 
 * Revised colours
 
 Translations
-Alexander Sigachov (ru), GNOME PL Team (pl), IÃ±aki LarraÃ±aga (eu)
-JesÃºs Corrius (ca), Kostas Papadimas (el), Mate ORY (hu)
+
+Alexander Sigachov (ru), GNOME PL Team (pl), Iñaki Larrañaga (eu)
+Jesús Corrius (ca), Kostas Papadimas (el), Mate ORY (hu)
 Raivis Dejus (lv), Satoru SATOH (ja), Woodman Tuen (zh_HK)
-Woodman Tuen (zh_TW), Å½ygimantas BeruÄka (lt)
+Woodman Tuen (zh_TW), ygimantas Beru?ka (lt)
 
 
 ===============
@@ -38,8 +51,8 @@ Translations
 
  Lukas Novotny (cs), Francisco Javier F. Serrador (es), Ignacio Casal Quinteiro
  (gl), Ankit Patel (gu), Ida Gasparretti (it), Kjartan Maraas (nb), Kjartan
- Maraas (no), Evandro Fernandes Giovanini (pt_BR), â€“Â°â€“Âªâ€“Ã¦â€“Â±â€“Ã¦â€“Â¥â€“âˆâ€“Î© â€“Ã®.
- â€“Â°â€”Ã„â€“Âµâ€“Â¥â€“Ã¦â€”Ã²â€“Âµâ€“â‰¤â€“âˆâ€”Ãµ (sr), Theppitak Karoonboonyanan (th), Clytie Siddall (vi),
+ Maraas (no), Evandro Fernandes Giovanini (pt_BR), –°–ª–æ–±–æ–¥–?–? –î.
+ –°—Ä–µ–¥–æ—ò–µ–?–?—õ (sr), Theppitak Karoonboonyanan (th), Clytie Siddall (vi),
  Funda Wang (zh_CN)
 
 ==============
@@ -61,7 +74,7 @@ Version 2.12.1
 
 Translations
 
-Mahay Alam Khan (bn), IâˆšÂ±aki LarraâˆšÂ±aga Murgoitio (eu)
+Mahay Alam Khan (bn), I?±aki Larra?±aga Murgoitio (eu)
 
 
 ==============
@@ -82,7 +95,7 @@ Version 2.11.92
 * Release for GNOME 2.11.92
 
 Translations
-  â€“Ã²â€“â‰¥â€“Ã¦â€”Ã„ â€“Ã¹â€“Âµâ€”Ã…â€”Ã‡â€“Ã¦â€”Ã„â€“Ã¦â€“â‰¤â€“âˆâ€”Ãµ (sr)
+  –ò–?–æ—Ä –ù–µ—Å—Ç–æ—Ä–æ–?–?—õ (sr)
 
 
 ==============
@@ -117,8 +130,8 @@ Version 2.10.0
 
 Translations
 
-  Jesâˆšâˆ«s Corrius (ca), Rajesh Ranjan (hi), Ida Gasparretti (it), (ne),
-  Dan Damian (ro), â€“Ã®â€“âˆâ€“Î©â€“âˆâ€“Âªâ€“Ã¦ â€“Â®â€“Âµâ€“â‰¥â€“âˆâ€“Î© (sr), Woodman Tuen (zh_TW)
+  Jes??s Corrius (ca), Rajesh Ranjan (hi), Ida Gasparretti (it), (ne),
+  Dan Damian (ro), –î–?–?–?–ª–æ –®–µ–?–?–? (sr), Woodman Tuen (zh_TW)
 
 
 ==============
@@ -129,7 +142,7 @@ Version 2.9.92
 
 Translations
 
-  (ar), Adam Weinberger (en_CA), David Lodge (en_GB), BenoâˆšÃ†t Dejean (fr),
+  (ar), Adam Weinberger (en_CA), David Lodge (en_GB), Beno?Æt Dejean (fr),
   Ankit Patel (gu), Gabor Kelemen (hu), ahmad riza h nst (id),
   GNOME PL Team (pl)
 
@@ -169,6 +182,6 @@ Translations
  Vladimir Petkov (bg), Miloslav Trmac (cs), Dafydd Harries (cy), Martin
  Willemoes Hansen (da), Hendrik Brandt (de), Kostas Papadimas (el), Adam
  Weinberger (en_CA), David Lodge (en_GB), Francisco Javier F. Serrador (es),
- Tommi Vainikainen (fi), Takeshi AIHANA (ja), â‰ˆÎ©ygimantas BeruÆ’Ã§ka (lt), Tino
+ Tommi Vainikainen (fi), Takeshi AIHANA (ja), ??ygimantas Beruƒçka (lt), Tino
  Meinen (nl), Amanpreet Singh Alam (pa), Raphael Higino (pt_BR), Duarte Loreto
  (pt), Marcel Telka (sk), Christian Rose (sv), Funda Wang (zh_CN)
