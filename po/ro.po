@@ -1,56 +1,94 @@
 # Romanian translation of gnome-backgrounds.
 # Copyright (C) 2005 Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Dan Damian <dand@gnome.ro>, 2005.
+# Dan Damian <dand@gnome.ro>, 2005-2006.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-02-28 23:02+0100\n"
-"PO-Revision-Date: 2005-08-30 16:03+0300\n"
+"POT-Creation-Date: 2006-03-14 06:45+0100\n"
+"PO-Revision-Date: 2006-03-14 11:09+0200\n"
 "Last-Translator: Dan Damian <dand@gnome.ro>\n"
 "Language-Team: Română <gnomero-list@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Talpă Aqua (marcat GNOME)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "Curbe GNOME"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Insula Fraser (marcat GNOME)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Model cu bărci"
 
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Roşu difuz (marcat GNOME)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Model cu nori"
 
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Culori ciudate (marcat GNOME)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Model cu stele"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Semne extraterestre (tapet transparent)"
-
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Pete de văcuţă (tapet transparent)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Diamant (tapet transparent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
 msgstr "Elipse (transparent)"
 
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "Dreptunghiuri (transparent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Tentacule (transparent)"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Floare proaspătă"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Pajişte verde"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Floare deschisă"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Talpă Aqua (marcat GNOME)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Insula Fraser (marcat GNOME)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Roşu difuz (marcat GNOME)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Culori ciudate (marcat GNOME)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Semne extraterestre (tapet transparent)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Pete de văcuţă (tapet transparent)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Diamant (tapet transparent)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Dreptunghiuri (transparent)"
