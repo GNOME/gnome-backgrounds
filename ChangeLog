@@ -1,3 +1,7 @@
+2006-03-24  Thomas Wood  <thos@gnome.org>
+
+	* MAINTAINERS: Added. Fixes bug 335022 "does not have a MAINTAINERS file"
+
 2006-03-22  Tommi Vainikainen  <thv@iki.fi>
 
 	* configure.in (ALL_LINGUAS): Added Dzongkha (dz).
