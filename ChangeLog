@@ -1,3 +1,7 @@
+2006-03-28  Yair Hershkovitz  <yairhr@gmail.com>
+
+	* configure.in: Added "he" too ALL_LINGUAS
+
 2006-03-24  Ales Nyakhaychyk  <nab@mail.by>
 
 	* configure.in: Added be (Belarusian) to ALL_LINGUAS
