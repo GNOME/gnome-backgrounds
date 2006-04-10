@@ -1,3 +1,10 @@
+2006-04-10  Michiel Sikkes  <michiel.sikkes@gmail.com>
+
+	* configure.in: Modified to use LINGUAS as stated on
+	http://live.gnome.org/GnomeGoals/PoLinguas.
+
+	* po/LINGUAS: File with all supported languages.
+
 2006-03-28  Yair Hershkovitz  <yairhr@gmail.com>
 
 	* configure.in: Added "he" too ALL_LINGUAS
