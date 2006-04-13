@@ -1,15 +1,14 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Dzongkha translation of gnome-background
+# Copyright @ 2006, Free Software Foundation, Inc.
+# Mindu Dorji
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-bcakgrounds.HEAD.dz\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-02-21 05:21+0100\n"
-"PO-Revision-Date: 2006-03-22 12:03-0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2006-04-04 22:18+0200\n"
+"PO-Revision-Date: 2006-04-12 11:03+0530\n"
+"Last-Translator: Mindu Dorji\n"
 "Language-Team: DZONGKHA <pgeyleg@dit.gov.bt>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
