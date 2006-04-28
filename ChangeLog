@@ -1,3 +1,10 @@
+2006-04-28  Thomas Wood  <thos@gnome.org>
+
+	* configure.in:
+	* po/LINGUAS:
+
+	Patch from Bug 339157 - Use po/LINGUAS - based on the new guidelines
+
 2006-04-11  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:
