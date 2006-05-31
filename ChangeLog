@@ -1,3 +1,9 @@
+2006-05-29  Elijah Newren  <newren gmail com>
+
+	* NEWS:
+	* configure.in:
+	New release (2.14.2.1) since 2.14.2 didn't have translations in it
+
 2006-05-29  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:
