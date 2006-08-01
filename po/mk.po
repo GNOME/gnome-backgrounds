@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-02-04 15:01+0100\n"
+"POT-Creation-Date: 2006-07-31 09:24+0200\n"
 "PO-Revision-Date: 2006-02-04 22:34+0100\n"
 "Last-Translator: Arangel Angov <ufo@linux.net.mk>\n"
 "Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
@@ -22,7 +22,7 @@ msgstr ""
 #. You might want to translate it into the equivalent words of your language
 #: ../branded/gnome-branded.xml.in.in.h:3
 msgid "GNOME Curves"
-msgstr "Гном кривини"
+msgstr "GNOME кривини"
 
 #. Translators: This is the name of a desktop background image that shows a boats pattern.
 #. You might want to translate it into the equivalent words of your language
@@ -71,4 +71,3 @@ msgstr "Зеленo поле"
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
 msgstr "Отворен цвет"
-
