@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-02-01 06:53+0100\n"
+"POT-Creation-Date: 2006-08-15 11:15+0200\n"
 "PO-Revision-Date: 2006-02-02 12:26+0100\n"
 "Last-Translator: Mate ORY <orymate at gmail d0t com>\n"
 "Language-Team: Hungarian <gnome@fsf.hu>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.10.2\n"
-"Plural-Forms:  nplurals=1; plural=0;\n"
+"Plural-Forms:   nplurals=2; plural=(n != 1);\n"
 
 #. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
 #. You might want to translate it into the equivalent words of your language
@@ -24,9 +24,9 @@ msgstr ""
 msgid "GNOME Curves"
 msgstr "GNOME görbék"
 
+# http://cvs.gnome.org/viewcvs/*checkout*/gnome-backgrounds/tiles/pattern-boats.svg
 #. Translators: This is the name of a desktop background image that shows a boats pattern.
 #. You might want to translate it into the equivalent words of your language
-# http://cvs.gnome.org/viewcvs/*checkout*/gnome-backgrounds/tiles/pattern-boats.svg
 #: ../tiles/gnome-tiles.xml.in.in.h:3
 msgid "Boats Pattern"
 msgstr "Vitorlás-minta"
@@ -67,10 +67,9 @@ msgstr "Friss virág"
 msgid "Green Meadow"
 msgstr "Zöld mező"
 
+# http://cvs.gnome.org/viewcvs/*checkout*/gnome-backgrounds/nature/OpenFlower.jpg
 #. Translators: This is the name of a desktop background image that shows a yellow flower.
 #. You might want to translate it into the equivalent words of your language
-# http://cvs.gnome.org/viewcvs/*checkout*/gnome-backgrounds/nature/OpenFlower.jpg
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
 msgstr "Kinyílt virág"
-
