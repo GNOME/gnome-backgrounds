@@ -6,53 +6,84 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds \n"
+"Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-02-13 21:56+0000\n"
-"PO-Revision-Date: 2005-02-13 21:56+0100\n"
+"POT-Creation-Date: 2006-09-10 10:08+0100\n"
+"PO-Revision-Date: 2006-09-10 10:08-0000\n"
 "Last-Translator: David Lodge <dave@cirt.net>\n"
 "Language-Team: English/GB <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Aqua Foot (GNOME Branded)"
+#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#. You might want to translate it into the equivalent words of your language
+#: ../branded/gnome-branded.xml.in.in.h:3
+msgid "GNOME Curves"
+msgstr "GNOME Curves"
 
-#: branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Fraser Island (GNOME Branded)"
+#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:3
+msgid "Boats Pattern"
+msgstr "Boats Pattern"
 
-#: branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Red Blurred (GNOME Branded)"
+#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:6
+msgid "Clouds Pattern"
+msgstr "Clouds Pattern"
 
-#: branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Weird Colours (GNOME Branded)"
+#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. You might want to translate it into the equivalent words of your language
+#: ../tiles/gnome-tiles.xml.in.in.h:9
+msgid "Stars Pattern"
+msgstr "Stars Pattern"
 
-#: tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Alien Artifact (Translucent Tile)"
+#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:3
+msgid "Ellipses (Translucent)"
+msgstr "Ellipses (Translucent)"
 
-#: tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Cow Spots (Translucent Tile)"
-
-#: tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Diamond Tile Pattern (Translucent Tile)"
-
-#: translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
-msgstr "Ellipsis (Translucent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "Rectangles (Translucent)"
-
-#: translucent/gnome-translucent.xml.in.in.h:3
+#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. You might want to translate it into the equivalent words of your language
+#: ../translucent/gnome-translucent.xml.in.in.h:6
 msgid "Tentacles (Translucent)"
 msgstr "Tentacles (Translucent)"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Fresh Flower"
+msgstr "Fresh Flower"
+
+#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Green Meadow"
+msgstr "Green Meadow"
+
+#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:9
+msgid "Open Flower"
+msgstr "Open Flower"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Aqua Foot (GNOME Branded)"
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Fraser Island (GNOME Branded)"
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Red Blurred (GNOME Branded)"
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Weird Colours (GNOME Branded)"
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Alien Artifact (Translucent Tile)"
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Cow Spots (Translucent Tile)"
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Diamond Tile Pattern (Translucent Tile)"
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Rectangles (Translucent)"
 
