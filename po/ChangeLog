@@ -1,3 +1,8 @@
+2006-09-19  Guntupalli Karunakar  <karunakar@indlinux.org>
+
+	* as.po: Added Assamese translation.
+	* LINGUAS: Added 'as' for Assamese.
+
 2006-09-10  Raphael Higino  <raphaelh@cvs.gnome.org>
 
 	* pt_BR.po: Updated Brazilian Portuguese translation.
