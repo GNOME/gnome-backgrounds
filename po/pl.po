@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-02-26 22:54+0100\n"
+"POT-Creation-Date: 2006-11-12 15:54+0100\n"
 "PO-Revision-Date: 2006-02-26 01:29+0100\n"
 "Last-Translator: GNOME PL Team <translators@gnomepl.org>\n"
 "Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
@@ -72,4 +72,3 @@ msgstr "Zielona łąka"
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
 msgstr "Żółty kwiatek"
-
