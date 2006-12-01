@@ -1,19 +1,23 @@
-# translation of gnome-backgrounds.HEAD.po to 
+# translation of gnome-backgrounds.HEAD.ar.po to Arabic
+# translation of gnome-backgrounds.HEAD.po to
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER, 2005.
-# Djihed Afifi <djihed@gmail.com>, 2006.
 #
+# Djihed Afifi <djihed@gmail.com>, 2006.
+# Khaled Hosny <khaledhosny@eglug.org>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds.HEAD\n"
+"Project-Id-Version: gnome-backgrounds.HEAD.ar\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-07-18 17:26+0200\n"
-"PO-Revision-Date: 2006-10-05 21:07-0000\n"
-"Last-Translator: Djihed Afifi <djihed@gmail.com>\n"
-"Language-Team: Arabeyes <support@arabeyes.org>\n"
+"PO-Revision-Date: 2006-11-24 18:02+0200\n"
+"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"Language-Team: Arabic <support@arabeyes.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n"
 
 #. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
 #. You might want to translate it into the equivalent words of your language
@@ -31,7 +35,7 @@ msgstr "نمط الزوارق"
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:6
 msgid "Clouds Pattern"
-msgstr "نمط السحب"
+msgstr "نمط السُّحُب"
 
 #. Translators: This is the name of a desktop background image that shows a stars pattern.
 #. You might want to translate it into the equivalent words of your language
@@ -67,20 +71,5 @@ msgstr "مَرْج أخضر"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
-msgstr "زهرة مفتوحة"
-
-#~ msgid "Aqua Foot (GNOME Branded)"
-#~ msgstr "ساق مائيّة (بشعار جنوم) "
-#~ msgid "Fraser Island (GNOME Branded)"
-#~ msgstr "جزيرة فرايزة (بشعار جنوم)"
-#~ msgid "Red Blurred (GNOME Branded)"
-#~ msgstr "أحمر ضبابي (بشعار جنوم)"
-#~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "ألوان عجيبة (بشعار جنوم)"
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "رقاع بقريّة (مربّع شفّاف)"
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "نمط مربّعات ماسيّة (مربّع شفّاف)"
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "مستطيلات (شفافّ)"
+msgstr "زهرة متفتّحة"
 
