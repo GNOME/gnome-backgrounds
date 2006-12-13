@@ -1,21 +1,23 @@
-# translation of gnome-backgrounds to Malayalam
+# translation of gnome-backgrounds.HEAD.ml.po to Malayalam
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-# Ani Peter <peter.ani@gmail.com>, 2006.
 #
+# Ani Peter <peter.ani@gmail.com>, 2006.
+# Ani Peter <apeter@redhat.com>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds\n"
+"Project-Id-Version: gnome-backgrounds.HEAD.ml\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-11 07:41+0200\n"
-"PO-Revision-Date: 2006-07-14 10:13+0530\n"
-"Last-Translator: Ani Peter <peter.ani@gmail.com>\n"
-"Language-Team: Malayalam\n"
+"POT-Creation-Date: 2006-12-13 07:28+0100\n"
+"PO-Revision-Date: 2006-12-13 16:32+0530\n"
+"Last-Translator: Ani Peter <apeter@redhat.com>\n"
+"Language-Team: Malayalam <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
 
 #. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
 #. You might want to translate it into the equivalent words of your language
@@ -39,7 +41,7 @@ msgstr "മേഘമല്‍ഹാര്‍"
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:9
 msgid "Stars Pattern"
-msgstr "നക്ഷത്ത്രക്കൂട്ടം"
+msgstr "നക്ഷത്റ കൂട്ടം"
 
 #. Translators: This is the name of a desktop background image that shows some ellipses.
 #. You might want to translate it into the equivalent words of your language
