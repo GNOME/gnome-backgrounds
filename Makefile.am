@@ -1,6 +1,10 @@
 SUBDIRS = branded tiles translucent nature po
 
-EXTRA_DIST = intltool-extract.in intltool-merge.in intltool-update.in
+EXTRA_DIST = \
+	intltool-extract.in \
+	intltool-merge.in \
+	intltool-update.in \
+	MAINTAINERS
 
 DISTCLEANFILES = \
 	intltool-extract \
