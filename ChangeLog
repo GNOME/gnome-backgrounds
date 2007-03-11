@@ -1,3 +1,10 @@
+2007-03-11  Thomas Wood  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Release for GNOME 2.18.0
+
 2007-02-20  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* Makefile.am: Dist MAINTAINERS.
