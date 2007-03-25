@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-01-29 23:16+0100\n"
+"POT-Creation-Date: 2006-12-04 15:31+0100\n"
 "PO-Revision-Date: 2006-01-29 23:18+0100\n"
 "Last-Translator: Ignacio Casal Quinteiro <nacho.resa@gmail.com>\n"
 "Language-Team: Galego <trasno@ceu.fi.udc.es>\n"
@@ -62,11 +62,10 @@ msgstr "Flor fresca"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Pradeira verde"
+msgstr "Prado verde"
 
 #. Translators: This is the name of a desktop background image that shows a yellow flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
 msgstr "Flor aberta"
-
