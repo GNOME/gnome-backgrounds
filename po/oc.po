@@ -1,4 +1,4 @@
-# French translation of gnome-backgrounds.
+# Occitan translation of gnome-backgrounds.
 # Copyright (C) 1998-2006 Free Software Foundation, Inc.
 # This file is distributed under the GNU General Public License Version 2.
 #
