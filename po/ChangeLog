@@ -1,3 +1,9 @@
+2007-11-08  Nurali Abdurahmonov  <mavnur@gmail.com>
+
+	* uz@cyrillik.po: Added uzbek cyrillic translation
+	* uz.po: Added uzbek latin translation
+	* LINGUAS: Added 'uz' and 'uz@cyrillic' for Uzbek
+
 2007-11-02  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* nb.po: Updated Norwegian bokmål translation.
