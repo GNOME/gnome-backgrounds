@@ -1,3 +1,9 @@
+2007-12-19  Andre Klapper  <a9016009@gmx.de>
+
+	* af.po: Added Afrikaans translation.
+	* LINGUAS: Added 'af'.
+	Committed on behalf of Friedel Wolff.
+
 2007-11-08  Nurali Abdurahmonov  <mavnur@gmail.com>
 
 	* uz@cyrillik.po: Added uzbek cyrillic translation
