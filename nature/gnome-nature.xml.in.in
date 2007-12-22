@@ -16,7 +16,7 @@
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- Translators: This is the name of a desktop background image that shows a pebble beach.
+		<!-- Translators: This is the name of a desktop background image that shows a green meadow.
 		  You might want to translate it into the equivalent words of your language  -->
 		<_name>Green Meadow</_name>
 		<filename>@datadir@/pixmaps/backgrounds/gnome/nature/GreenMeadow.jpg</filename>
