@@ -1,3 +1,8 @@
+2008-01-08  Seán de Búrca  <sdeburca@svn.gnome.org>
+
+	* ga.po: Added Irish translation.
+	* LINGUAS: Added Irish.
+
 2007-12-31  Yannig Marchegay <yannig@marchegay.org>
 
 	* oc.po: Updated Occitan translation.
