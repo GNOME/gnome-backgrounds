@@ -6,7 +6,8 @@
 2007-12-31  Yannig Marchegay <yannig@marchegay.org>
 
 	* oc.po: Updated Occitan translation.
-2007-12-19  Andre Klapper  <a9016009@gmx.de>
+
+2007-12-19  Andre Klapper  <a9016009@gmx.de>
 
 	* af.po: Added Afrikaans translation.
 	* LINGUAS: Added 'af'.
@@ -156,15 +157,15 @@
 	* ml.po: Added Malayalam (ml) Translation by Ani Peter<peter.ani@gmail.com>
 	* LINGUAS: Added Malayalam (ml) to the list of languages.
 
-2006-07-07 Swapnil Hajare    <dreamil@gmail.com>
+2006-07-07 Swapnil Hajare <dreamil@gmail.com>
 
 	* mr.po: Added Marathi Translation
-        * LINGUAS: Added Marathi (mr) to the list of languages.
+	* LINGUAS: Added Marathi (mr) to the list of languages.
 
 2006-07-03  Runa Bhattacharjee <runabh@gmail.com>
 
-        * bn_IN.po: Added Bengali India Translation
-        * LINGUAS: Added Bengali India (bn_IN) to the list of languages.
+	* bn_IN.po: Added Bengali India Translation
+	* LINGUAS: Added Bengali India (bn_IN) to the list of languages.
 
 2006-06-20  I. Felix  <ifelix25@gmail.com>
 
@@ -211,7 +212,7 @@
 
 2006-03-21  Gora Mohanty  <gmohanty@cvs.gnome.org>
 
-        * or.po: Added Oriya translation.
+	* or.po: Added Oriya translation.
 
 2006-03-14  Dan Damian  <dand@gnome.ro>
 
@@ -219,7 +220,7 @@
 
 2006-03-06  Rajesh Ranjan <rranjan@redhat.com>
 
-        * hi.po: Updated Hindi Translation.
+	* hi.po: Updated Hindi Translation.
 
 2006-03-07  Daniel Nylander <po@danielnylander.se>
 
@@ -328,7 +329,7 @@
 
 2006-01-30  Lukas Novotny  <lukasnov@cvs.gnome.org>
 
-        * cs.po: Updated Czech translation.
+	* cs.po: Updated Czech translation.
 
 2006-01-30  Clytie Siddall <clytie@riverland.net.au>
 
@@ -336,7 +337,7 @@
 
 2006-01-30  Ankit Patel  <ankit644@yahoo.com>
 
-        * gu.po: Updated Gujarati Translation.
+	* gu.po: Updated Gujarati Translation.
 
 2006-01-30  Funda Wang  <fundawang@linux.net.cn>
 
@@ -361,7 +362,7 @@
 
 2006-01-29  Evandro Fernandes Giovanini <evandrofg@ig.com.br>
 
-        * pt_BR.po: Updated Brazilian Portuguese translation.
+	* pt_BR.po: Updated Brazilian Portuguese translation.
 
 2006-01-29  Clytie Siddall <clytie@riverland.net.au>
 
@@ -380,7 +381,7 @@
 
 2005-10-01  Runa Bhattacharjee <runa@bengalinux.org>
 
-        * bn.po: Added Bengali (bn) translation. Translation by Mahay Alam Khan <makl10n@yahoo.com>
+	* bn.po: Added Bengali (bn) translation. Translation by Mahay Alam Khan <makl10n@yahoo.com>
 
 2005-09-07  Inaki Larranaga  <dooteo@euskalgnu.org>
 
@@ -439,7 +440,7 @@
 
 2005-03-31  Steve Murphy  <murf@e-tools.com>
 
-        * rw.po: Added Kinyarwanda translation.
+	* rw.po: Added Kinyarwanda translation.
 
 2005-03-23  Christian Rose  <menthos@menthos.com>
 
@@ -495,7 +496,7 @@
 2005-02-26  Ahmad Riza H Nst  <ari@160c.afraid.org>
 
 	* id.po: Added Indonesian Translation by
-	         Ahmad Riza H Nst  <ari@160c.afraid.org>
+	Ahmad Riza H Nst  <ari@160c.afraid.org>
 
 2005-02-23  Ankit Patel <ankit644@yahoo.com>
 
@@ -518,10 +519,10 @@
 
 	* pl.po: Updated Polish translation by GNOME PL Team.
 
-2005-02-13  David Lodge <dave@cirt.net>
-                                                                                
-        * en_GB.po: Updated British translation.
-                                                                                
+2005-02-13  David Lodge  <dave@cirt.net>
+
+	* en_GB.po: Updated British translation.
+
 2005-02-10  Adam Weinberger  <adamw@gnome.org>
 
 	* en_CA.po: Updated Canadian English translation.
