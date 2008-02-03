@@ -1,3 +1,10 @@
+2008-02-03  Andre Klapper  <a9016009@gmx.de>
+
+	* fur.po:
+	* LINGUAS:
+	added Friulian translation on behalf of Massimo Furlani.
+	Fixes bug #513140.
+
 2008-01-31  Djihed Afifi <djihed@gmail.com> 
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
