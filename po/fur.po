@@ -1,4 +1,4 @@
-# Friulian translation of Gnome-backgrounds.
+# Friulian translation of gnome-backgrounds.
 # Copyright (C) 2007 Free Software Foundation, Inc.
 # Massimo Furlani <massimo.furlani@libero.it>, 2007.
 #
@@ -6,37 +6,37 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-03 14:23+0100\n"
-"PO-Revision-Date: 2007-12-26 07:24+0100\n"
+"POT-Creation-Date: 2008-02-16 21:53+0100\n"
+"PO-Revision-Date: 2008-02-15 15:16+0100\n"
 "Last-Translator: Massimo Furlani <massimo.furlani@libero.it>\n"
 "Language-Team: Friulian <massimo.furlani@libero.it>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
 #. You might want to translate it into the equivalent words of your language
 #: ../branded/gnome-branded.xml.in.in.h:3
 msgid "GNOME Curves"
-msgstr "Vôlts di GNOME"
+msgstr "VÃ´lts di GNOME"
 
 #. Translators: This is the name of a desktop background image that shows a boats pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:3
 msgid "Boats Pattern"
-msgstr "Barcjutes ripetudis"
+msgstr "Barcjutis ripetudis"
 
 #. Translators: This is the name of a desktop background image that shows a clouds pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:6
 msgid "Clouds Pattern"
-msgstr "Nuvui ripetûts"
+msgstr "Nuvui ripetÃ»ts"
 
 #. Translators: This is the name of a desktop background image that shows a stars pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:9
 msgid "Stars Pattern"
-msgstr "Stelis ripetudîs"
+msgstr "Stelis ripetudÃ®s"
 
 #. Translators: This is the name of a desktop background image that shows some ellipses.
 #. You might want to translate it into the equivalent words of your language
@@ -60,7 +60,7 @@ msgstr "Rose frescje"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr "Prât vert"
+msgstr "PrÃ¢t vert"
 
 #. Translators: This is the name of a desktop background image that shows a yellow flower.
 #. You might want to translate it into the equivalent words of your language
@@ -68,26 +68,3 @@ msgstr "Prât vert"
 msgid "Open Flower"
 msgstr "Rose vierte"
 
-#~ msgid "Aqua Foot (GNOME Branded)"
-#~ msgstr "Piede Aqua (Marchio GNOME)"
-
-#~ msgid "Fraser Island (GNOME Branded)"
-#~ msgstr "Isola Fraser (Marchio GNOME)"
-
-#~ msgid "Red Blurred (GNOME Branded)"
-#~ msgstr "Rosso sfumato (Marchio GNOME)"
-
-#~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "Colori surreali (Marchio GNOME)"
-
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Manufatto alieno (Piastrella Semitrasparente)"
-
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Macchie di mucca (Piastrella Semitrasparente)"
-
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Modello a diamanti (Piastrella Semitrasparente)"
-
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "Rettangoli (Semitrasparente)"
