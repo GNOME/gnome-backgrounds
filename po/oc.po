@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: oc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-02 21:52+0100\n"
-"PO-Revision-Date: 2007-11-20 14:30+0100\n"
+"POT-Creation-Date: 2008-02-19 20:22+0100\n"
+"PO-Revision-Date: 2008-02-05 16:39+0100\n"
 "Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
 "Language-Team: Occitan <ubuntu-l10n-oci@lists.ubuntu.com>\n"
 "MIME-Version: 1.0\n"
@@ -25,25 +25,25 @@ msgstr ""
 #. You might want to translate it into the equivalent words of your language
 #: ../branded/gnome-branded.xml.in.in.h:3
 msgid "GNOME Curves"
-msgstr ""
+msgstr "Corbas GNOME"
 
 #. Translators: This is the name of a desktop background image that shows a boats pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:3
 msgid "Boats Pattern"
-msgstr ""
+msgstr "Motiu de batèus"
 
 #. Translators: This is the name of a desktop background image that shows a clouds pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:6
 msgid "Clouds Pattern"
-msgstr ""
+msgstr "Motiu de nívols"
 
 #. Translators: This is the name of a desktop background image that shows a stars pattern.
 #. You might want to translate it into the equivalent words of your language
 #: ../tiles/gnome-tiles.xml.in.in.h:9
 msgid "Stars Pattern"
-msgstr ""
+msgstr "Motiu d'estèlas"
 
 #. Translators: This is the name of a desktop background image that shows some ellipses.
 #. You might want to translate it into the equivalent words of your language
@@ -67,10 +67,10 @@ msgstr ""
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Green Meadow"
-msgstr ""
+msgstr "Prat vèrd"
 
 #. Translators: This is the name of a desktop background image that shows a yellow flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
-msgstr ""
+msgstr "Flor dobèrta"
