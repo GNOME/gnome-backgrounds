@@ -1,3 +1,10 @@
+2008-03-08  Thomas Wood  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Release for GNOME 2.22.0
+
 2007-12-22  Thomas Wood  <thos@gnome.org>
 
 	* nature/gnome-nature.xml.in.in:
