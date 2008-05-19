@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD.ar\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-07-18 17:26+0200\n"
+"POT-Creation-Date: 2007-09-13 23:41+0100\n"
 "PO-Revision-Date: 2007-03-01 14:21+0200\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: Arabic <doc@arabeyes.org>\n"
@@ -17,7 +17,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : "
+"3\n"
 
 #. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
 #. You might want to translate it into the equivalent words of your language
@@ -72,4 +73,3 @@ msgstr "مَرْج أخضر"
 #: ../nature/gnome-nature.xml.in.in.h:9
 msgid "Open Flower"
 msgstr "زهرة متفتّحة"
-
