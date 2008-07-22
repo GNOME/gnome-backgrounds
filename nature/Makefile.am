@@ -1,9 +1,18 @@
 backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/nature
 
 background_DATA =\
+	Aqua.jpg \
+	Blinds.jpg \
+	Dune.jpg \
 	FreshFlower.jpg \
-	OpenFlower.jpg \
-	GreenMeadow.jpg
+	Garden.jpg \
+	GreenMeadow.jpg \
+	LadyBird.jpg \
+	RainDrops.jpg \
+	Storm.jpg \
+	TwoWings.jpg \
+	Wood.jpg \
+	YellowFlower.jpg
 
 metadata_in_files = gnome-nature.xml.in
 metadatadir = $(datadir)/gnome-background-properties

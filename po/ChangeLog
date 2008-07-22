@@ -1,3 +1,10 @@
+2008-07-22  Thomas Wood  <thos@gnome.org>
+
+	* POTFILES.in:
+	* POTFILES.skip:
+
+	Add new files, remove old files
+
 2008-07-17  Runa Bhattacharjee <runabh@gmail.com>
 
 	* ps.po: Added Pashto Translations by Zabeeh Khan

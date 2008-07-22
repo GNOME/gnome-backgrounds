@@ -1,5 +1,3 @@
-branded/gnome-branded.xml.in
+abstract/gnome-abstract.xml.in
 nature/gnome-nature.xml.in
-tiles/gnome-tiles.xml.in
-translucent/gnome-translucent.xml.in
 

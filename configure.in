@@ -1,4 +1,4 @@
-AC_INIT([gnome-backgrounds], [2.22.0])
+AC_INIT([gnome-backgrounds], [2.23.0])
 AM_INIT_AUTOMAKE
 AM_INIT_AUTOMAKE([1.9])
 
@@ -15,10 +15,7 @@ AM_MAINTAINER_MODE
 
 AC_OUTPUT([
 Makefile
-po/Makefile.in
-branded/Makefile
+abstract/Makefile
 nature/Makefile
-tiles/Makefile
-translucent/Makefile
-po/Makefile
+po/Makefile.in
 ])

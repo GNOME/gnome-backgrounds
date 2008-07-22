@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+		<_name>Flow</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Flow.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Gulp</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Gulp.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Silk</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Silk.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Spring</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Spring.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Waves</_name>
+		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Waves.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+</wallpapers>

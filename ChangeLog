@@ -1,3 +1,22 @@
+2008-07-22  Thomas Wood  <thos@gnome.org>
+
+	* AUTHORS:
+	* Makefile.am:
+	* NEWS:
+	* abstract/Makefile.am:
+	* abstract/gnome-abstract.xml.in.in:
+	* branded/Makefile.am:
+	* branded/gnome-branded.xml.in.in:
+	* configure.in:
+	* nature/Makefile.am:
+	* nature/gnome-nature.xml.in.in:
+	* tiles/Makefile.am:
+	* tiles/gnome-tiles.xml.in.in:
+	* translucent/Makefile.am:
+	* translucent/gnome-translucent.xml.in.in:
+
+	Add new backgrounds from wallpaper contest, update to 2.23.0
+
 2008-03-08  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:
