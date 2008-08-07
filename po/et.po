@@ -2,16 +2,17 @@
 # Estonian translation of GNOME backgrounds.
 #
 # Copyright (C) 2005, 2006 The Free Software Foundation
+# Copyright (C) 2008 The GNOME Project.
 # This file is distributed under the same license as the gnome package.
 #
-# Ivar Smolin <okul@linux.ee>, 2005, 2006.
+# Ivar Smolin <okul@linux.ee>, 2005, 2006, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-02-03 07:19+0100\n"
-"PO-Revision-Date: 2006-02-03 10:17+0200\n"
+"POT-Creation-Date: 2008-07-22 16:54+0000\n"
+"PO-Revision-Date: 2008-08-06 11:59+0300\n"
 "Last-Translator: Ivar Smolin <okul@linux.ee>\n"
 "Language-Team: Estonian <gnome-et@linux.ee>\n"
 "MIME-Version: 1.0\n"
@@ -19,80 +20,74 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "GNOME kaared"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Voog"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Paadimuster"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Vulin"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Pilvemuster"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Siid"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Tähemuster"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Kevad"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Ellipsid (läbikumav)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Lained"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Kombitsad (läbikumav)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Akvaarium"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Kardin"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Luide"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Fresh Flower"
-msgstr "Värske lill"
-
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
-#. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Fresh Flower"
+msgstr "Hommikune lill"
+
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Peenar"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Roheline aas"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Õitsev lill"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Lepatriinu"
 
-#~ msgid "Aqua Foot (GNOME Branded)"
-#~ msgstr "Rohekassinine jalg (GNOME märgistusega)"
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Vihmapiisad"
 
-#~ msgid "Fraser Island (GNOME Branded)"
-#~ msgstr "Fraseri saar (GNOME märgistusega)"
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Torm"
 
-#~ msgid "Red Blurred (GNOME Branded)"
-#~ msgstr "Hägus punane (GNOME märgistusega)"
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Kaks langevarju"
 
-#~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "Veidrad värvid (GNOME märgistusega)"
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Puit"
 
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Tulnukate tehtud (läbikumav paan)"
-
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Lehmalaigud (läbikumav paan)"
-
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Teemantplaadi muster (läbikumav paan)"
-
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "Ristkülikud (läbikumav)"
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Kollane lill"
