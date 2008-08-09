@@ -2,6 +2,8 @@
 # Copyright (C) 2004 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2004-2005.
+# Ilkka Tuohela <hile@iki.fi>, 2006.
+# Timo Jyrinki <timo.jyrinki@iki.fi>, 2008.
 #
 # abstarct = abstrakti
 # tile = kaakeli
@@ -11,68 +13,104 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-07-03 17:48+0300\n"
-"PO-Revision-Date: 2006-01-31 23:05+0200\n"
-"Last-Translator: Ilkka Tuohela <hile@iki.fi>\n"
+"POT-Creation-Date: 2008-08-09 12:00+0300\n"
+"PO-Revision-Date: 2008-08-09 11:59+0300\n"
+"Last-Translator: Timo Jyrinki <timo.jyrinki@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Gnomen kaaret"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Virtaus"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Venekuvio"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Siemaisu"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Pilvikuvio"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Silkki"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Tähtikuvio"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Kevät"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Ellipsit (läpikuultava)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Aallot"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Lonkerot (läpikuultava)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Vesi"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Kaihtimet"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Dyyni"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "Pirteä kukka"
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Puutarha"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Vihreä ruoho"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Avoin kukka"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Leppäkerttu"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Sadepisarat"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Myrsky"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Kaksi siipeä"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Puu"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Keltainen kukka"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "Gnomen kaaret"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "Venekuvio"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "Pilvikuvio"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "Tähtikuvio"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "Ellipsit (läpikuultava)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Lonkerot (läpikuultava)"
 
 #~ msgid "Due (Abstract)"
 #~ msgstr "Due (abstrakti)"
