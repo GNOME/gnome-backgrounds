@@ -1,3 +1,13 @@
+2008-08-12  Thomas Wood  <thos@gnome.org>
+
+	* abstract/Flow.png:
+	* abstract/Gulp.png:
+	* abstract/Makefile.am:
+	* abstract/gnome-abstract.xml.in.in:
+
+	New transparent versions of Gulp and Flow backgrounds from
+	Hylke Bons <hylkebons@gmail.com>
+
 2008-08-03  Cosimo Cecchi  <cosimoc@gnome.org>
 
 	* autogen.sh: don't look for translucent/ directory to find out

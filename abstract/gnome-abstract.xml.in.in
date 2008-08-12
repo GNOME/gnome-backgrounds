@@ -5,10 +5,15 @@
 		<_name>Flow</_name>
 		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Flow.png</filename>
 		<options>zoom</options>
+		<shade_type>solid</shade_type>
+		<pcolor>#415b69</pcolor>
+		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<_name>Gulp</_name>
 		<filename>@datadir@/pixmaps/backgrounds/gnome/abstract/Gulp.png</filename>
+		<shade_type>solid</shade_type>
+		<pcolor>#3a5990</pcolor>
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">

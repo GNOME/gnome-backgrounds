@@ -2,7 +2,7 @@ backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/abstract
 
 background_DATA = \
 	Flow.png \
-	Glup.png \
+	Gulp.png \
 	Silk.png \
 	Spring.png \
 	Waves.png
