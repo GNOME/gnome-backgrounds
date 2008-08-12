@@ -1,5 +1,14 @@
 2008-08-12  Thomas Wood  <thos@gnome.org>
 
+	* nature/RainDrops.jpg:
+	* nature/TwoWings.jpg:
+	* nature/Dune.jpg:
+
+	Tweaked versions of Rain Drops, Two Wings and Dune backgrounds from
+	Hylke Bons <hylkebons@gmail.com>
+
+2008-08-12  Thomas Wood  <thos@gnome.org>
+
 	* abstract/Flow.png:
 	* abstract/Gulp.png:
 	* abstract/Makefile.am:
