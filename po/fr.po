@@ -5,70 +5,107 @@
 # Benoît Dejean <TazForEver@dlfp.org>, 2005.
 # Thierry Moisan <thierryn@videotron.ca>, 2005.
 # Stéphane Raimbault <stephane.raimbault@free.fr>, 2006
+# Robert-André Mauchin <zebob.m@pengzone.org>, 2008.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.14.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-05-05 19:35+0200\n"
-"PO-Revision-Date: 2006-05-03 20:29+0200\n"
-"Last-Translator: Stéphane Raimbault <stephane.raimbault@free.fr>\n"
+"POT-Creation-Date: 2008-07-22 16:54+0000\n"
+"PO-Revision-Date: 2008-08-17 00:43:45+0200\n"
+"Last-Translator: Robert-André Mauchin <zebob.m@pengzone.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Courbes GNOME"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Souffle"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Motif de bateaux"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Voile"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Motif de nuages"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Soie"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Motif d'étoiles"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Printemps"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Ellipses (translucide)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Vagues"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Tentacules (translucide)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Eau"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Stores"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Dune"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "Fleur rayonnante"
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Jardin"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Verte prairie"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Fleur éclose"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Coccinelle"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Gouttes de pluie"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Tempête"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Deux ailes"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Bois"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Fleur jaune"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "Courbes GNOME"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "Motif de bateaux"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "Motif de nuages"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "Motif d'étoiles"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "Ellipses (translucide)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Tentacules (translucide)"
