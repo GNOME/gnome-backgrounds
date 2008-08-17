@@ -1,5 +1,12 @@
 2008-08-18  Thomas Wood  <thos@gnome.org>
 
+	* NEWS:
+	* configure.in:
+
+	Release for GNOME 2.23.90
+
+2008-08-18  Thomas Wood  <thos@gnome.org>
+
 	* nature/Blinds.jpg:
 
 	Tweaks fo Blinds.jpg from Andrea Cimitan
