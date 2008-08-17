@@ -1,3 +1,13 @@
+2008-08-17  Thomas Wood  <thos@gnome.org>
+
+	* Silk.png:
+	* Spring.png:
+	* Waves.png:
+	* abstract/gnome-abstract.xml.in.in:
+
+	Update Silk, Spring and Waves to transparent versions with default
+	colours from the author.
+
 2008-08-12  Thomas Wood  <thos@gnome.org>
 
 	* nature/RainDrops.jpg:
