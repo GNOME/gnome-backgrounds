@@ -1,8 +1,12 @@
+2008-08-19  Thierry Randrianiriana  <randrianiriana@gmail.com>
+
+	* mg.po: Updated Malagasy translation.
+
 2008-08-19  Takeshi AIHANA <takeshi.aihana@gmail.com>
 
 	* ja.po: Updated Japanese translation.
 
-2008-08-18  Djihed Afifi <djihed@gmail.com> 
+2008-08-18  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -22,7 +26,7 @@
 
 	* pt.po: Updated Portuguese translation.
 
-2008-08-10  Djihed Afifi <djihed@gmail.com> 
+2008-08-10  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Usama Akkad.
 
@@ -38,7 +42,7 @@
 
 	* et.po: Translation updated by Ivar Smolin
 
-2008-08-6  Djihed Afifi <djihed@gmail.com> 
+2008-08-6  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -59,7 +63,7 @@
 
     * pt_BR.po: Updated Brazilian Portuguese translation.
 
-2008-07-29  Djihed Afifi <djihed@gmail.com> 
+2008-07-29  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -99,15 +103,15 @@
 
 	* oc.po: Updated Occitan translation.
 
-2008-06-11  Djihed Afifi <djihed@gmail.com> 
+2008-06-11  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
-2008-05-22  Djihed Afifi <djihed@gmail.com> 
+2008-05-22  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
-2008-05-19  Djihed Afifi <djihed@gmail.com> 
+2008-05-19  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -117,7 +121,7 @@
 
 2008-03-02  Jorge Gonzalez  <jorgegonz@svn.gnome.org>
 
-	* es.po: Updated Spanish translation   
+	* es.po: Updated Spanish translation
 
 2008-02-16  Claude Paroz  <claude@2xlibre.net>
 
@@ -134,7 +138,7 @@
 	added Friulian translation on behalf of Massimo Furlani.
 	Fixes bug #513140.
 
-2008-01-31  Djihed Afifi <djihed@gmail.com> 
+2008-01-31  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -163,15 +167,15 @@
 
 	* nb.po: Updated Norwegian bokmål translation.
 
-2007-10-23  Djihed Afifi <djihed@gmail.com> 
+2007-10-23  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
-2007-10-21  Djihed Afifi <djihed@gmail.com> 
+2007-10-21  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
-2007-10-21  Djihed Afifi <djihed@gmail.com> 
+2007-10-21  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -184,7 +188,7 @@
 
 	* bn.po: Updated Bengali Translation.
 
-2007-09-13  Djihed Afifi <djihed@gmail.com> 
+2007-09-13  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation by Khaled Hosny.
 
@@ -230,7 +234,7 @@
 
 	* ml.po: "Updated Malayalam Translation"
 
-2006-12-1  Djihed Afifi <djihed@gmail.com> 
+2006-12-1  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po: Updated Arabic Translation.
 
@@ -238,7 +242,7 @@
 
 	* pl.po: Translation updated by GNOME PL Team.
 
-2006-10-30  Djihed Afifi <djihed@gmail.com> 
+2006-10-30  Djihed Afifi <djihed@gmail.com>
 
 	* ar.po Updated Arabic Translation.
 
@@ -281,10 +285,10 @@
 	* hu.po: Translation updated by Mate ORY.
 
 2006-08-01  Sanlig Badral  <badral@openmn.org>
-	
+
 	* mn.po: Added Mongolian translation.
 	* LINGUAS: Added mn entry.
- 
+
 2006-08-01  Jovan Naumovski  <jovan@lugola.net>
 
 	* mk.po: Updated Macedonian translation.
@@ -387,7 +391,7 @@
 2006-02-28  Clytie Siddall <clytie@riverland.net.au>
 
 	* lv.po: Added Latvian translation by Raivis Dejus <orvils@gmail.com>.
-	
+
 2006-02-26  Artur Flinta  <aflinta@cvs.gnome.org>
 
 	* pl.po: Updated Polish translation by GNOME PL Team.
@@ -396,7 +400,7 @@
 
 	* zh_TW.po: Updated Traditional Chinese translation(Taiwan).
 	* zh_HK.po: Added Traditional Chinese translation(Hong Kong).
-	
+
 2006-02-22  Jordi Mallach  <jordi@sindominio.net>
 
 	* ca.po: Updated Catalan translation by
@@ -458,7 +462,7 @@
 2006-01-31  Ilkka Tuohela  <hile@iki.fi>
 
 	* fi.po: Updated Finnish translation.
-	
+
 2006-01-31  Vincent van Adrighem  <adrighem@gnome.org>
 
 	* nl.po: Translation updated by Tino Meinen.
@@ -530,7 +534,7 @@
 2005-09-04  Danilo Šegan  <danilo@gnome.org>
 
 	* hy.po: Added Armenian translation by Norayr Chilingaryan
-	<asprayama@yahoo.com>. 
+	<asprayama@yahoo.com>.
 
 2005-09-02  Leonid Kanter <leon@asplinux.ru>
 
@@ -603,7 +607,7 @@
 
 	* sr.po, sr@Latn.po: Added Serbian translation.
 
-2005-03-05 Rajesh Ranjan <rranjan@redhat.com> 
+2005-03-05 Rajesh Ranjan <rranjan@redhat.com>
 
 	* hi.po: Added Hindi Translation.
 
@@ -695,7 +699,7 @@
 2005-01-19  Kjartan Maraas  <kmaraas@gnome.org>
 
 	* nb.po: Add
-	* no.po: Add 
+	* no.po: Add
 
 2005-01-12  Maxim Dziumanenko <mvd@mylinux.com.ua>
 
@@ -769,7 +773,7 @@
 2004-12-07  Hendrik Brandt  <heb@gnome-de.org>
 
 	* de.po: Added German translation.
-	
+
 2004-12-07  Christian Rose  <menthos@menthos.com>
 
 	* .cvsignore: Added "notexist" entry.
@@ -789,7 +793,7 @@
 
 2004-11-24  Amanpreet Singh Alam <amanlinux@netscape.net>
 
-	* pa.po: Punjabi is added 
+	* pa.po: Punjabi is added
 
 2004-11-21  David Lodge <dave@cirt.net>
 
@@ -827,4 +831,3 @@
 	* POTFILES.in: The contents of this file needs to reflect
 	what's available in a fresh checkout. No generated files can
 	be listed here.
-
