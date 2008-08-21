@@ -2,6 +2,7 @@
 # Copyright (C) 2004 The Free Software Foundation Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Tino Meinen <a.t.meinen@chello.nl>, 2004.
+# Wouter Bolsterlee <wbolster@gnome.org>, 2008.
 #
 # Het is vaak onzinnig om de titels letterlijk te vertalen (welke betekenis is 
 # ook vaak onduidelijk). Het beste is om dat geval het plaatje te bekijken en zelf een
@@ -11,70 +12,106 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GNOME 2.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-01-29 23:15+0100\n"
-"PO-Revision-Date: 2006-01-30 03:18+0100\n"
-"Last-Translator: Tino Meinen <a.t.meinen@chello.nl>\n"
+"POT-Creation-Date: 2008-08-21 12:49+0200\n"
+"PO-Revision-Date: 2008-08-21 12:39+0200\n"
+"Last-Translator: Wouter Bolsterlee <wbolster@gnome.org>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "GNOME curven"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Scheepjespatroon"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Wolkenpatroon"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Sterrenpatroon"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Ellipsen (doorzichtig)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Golven"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Tentakels (doorzichtig)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Water"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Duinen"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "Oranje bloem"
+
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Rode bloem"
 
 # dit is geen kiezelstrand maar een foto van grassprietjes
 # groen gras (naar analogie van gele/oranje bloem) of:
 # grasveld/groen grasveld
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Groen gras"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Lieveheersbeestje"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Regendruppels"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Storm"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Dubbele vleugels"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Hout"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
 msgstr "Gele bloem"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "GNOME curven"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "Scheepjespatroon"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "Wolkenpatroon"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "Sterrenpatroon"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "Ellipsen (doorzichtig)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Tentakels (doorzichtig)"
 
 #~ msgid "Due (Abstract)"
 #~ msgstr "Puls (abstract)"
