@@ -8,17 +8,17 @@
 # abstarct = abstrakti
 # tile = kaakeli
 # GNOME Branded = Gnome-merkitty
-# translucent = l‰pikuultava
+# translucent = l√§pikuultava
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-08-09 12:00+0300\n"
-"PO-Revision-Date: 2008-08-09 11:59+0300\n"
+"PO-Revision-Date: 2008-08-21 13:56+0300\n"
 "Last-Translator: Timo Jyrinki <timo.jyrinki@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -36,7 +36,7 @@ msgstr "Silkki"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:4
 msgid "Spring"
-msgstr "Kev‰t"
+msgstr "Kev√§t"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
@@ -58,7 +58,7 @@ msgstr "Dyyni"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
-msgstr "Pirte‰ kukka"
+msgstr "Pirte√§ kukka"
 
 #: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Garden"
@@ -68,11 +68,11 @@ msgstr "Puutarha"
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
-msgstr "Vihre‰ ruoho"
+msgstr "Vihre√§ ruoho"
 
 #: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "Lepp‰kerttu"
+msgstr "Lepp√§kerttu"
 
 #: ../nature/gnome-nature.xml.in.in.h:12
 msgid "Rain Drops"
@@ -84,7 +84,7 @@ msgstr "Myrsky"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
 msgid "Two Wings"
-msgstr "Kaksi siipe‰"
+msgstr "Kaksi siipe√§"
 
 #: ../nature/gnome-nature.xml.in.in.h:15
 msgid "Wood"
@@ -104,13 +104,13 @@ msgstr "Keltainen kukka"
 #~ msgstr "Pilvikuvio"
 
 #~ msgid "Stars Pattern"
-#~ msgstr "T‰htikuvio"
+#~ msgstr "T√§htikuvio"
 
 #~ msgid "Ellipses (Translucent)"
-#~ msgstr "Ellipsit (l‰pikuultava)"
+#~ msgstr "Ellipsit (l√§pikuultava)"
 
 #~ msgid "Tentacles (Translucent)"
-#~ msgstr "Lonkerot (l‰pikuultava)"
+#~ msgstr "Lonkerot (l√§pikuultava)"
 
 #~ msgid "Due (Abstract)"
 #~ msgstr "Due (abstrakti)"
@@ -140,16 +140,16 @@ msgstr "Keltainen kukka"
 #~ msgstr "Punasamea (Gnome-teema)"
 
 #~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "Outoja v‰rej‰ (Gnome-merkitty)"
+#~ msgstr "Outoja v√§rej√§ (Gnome-merkitty)"
 
 #~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Muukalaisesine (l‰pikuultava kaakeli)"
+#~ msgstr "Muukalaisesine (l√§pikuultava kaakeli)"
 
 #~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Lehm‰nlaikkuja (l‰pikuultava kaakeli)"
+#~ msgstr "Lehm√§nlaikkuja (l√§pikuultava kaakeli)"
 
 #~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Timanttikuvio (l‰pikuultava kaakeli)"
+#~ msgstr "Timanttikuvio (l√§pikuultava kaakeli)"
 
 #~ msgid "Greche Pattern (Tile)"
 #~ msgstr "Kreikkalaiskuvio (kaakeli)"
@@ -161,13 +161,13 @@ msgstr "Keltainen kukka"
 #~ msgstr "Kivimuurikuvio (kaakeli)"
 
 #~ msgid "Grid (Translucent)"
-#~ msgstr "Ruudukko (l‰pikuultava)"
+#~ msgstr "Ruudukko (l√§pikuultava)"
 
 #~ msgid "Masle (Translucent)"
-#~ msgstr "Masle (l‰pikuultava)"
+#~ msgstr "Masle (l√§pikuultava)"
 
 #~ msgid "Rectangles (Translucent)"
-#~ msgstr "Suorakulmioita (l‰pikuultava)"
+#~ msgstr "Suorakulmioita (l√§pikuultava)"
 
 #~ msgid "Waves (Translucent)"
-#~ msgstr "Aallot (l‰pikuultava)"
+#~ msgstr "Aallot (l√§pikuultava)"
