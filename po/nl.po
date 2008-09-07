@@ -3,6 +3,7 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Tino Meinen <a.t.meinen@chello.nl>, 2004.
 # Wouter Bolsterlee <wbolster@gnome.org>, 2008.
+# Reinout van Schouwen <reinouts@gnome.org>, 2008
 #
 # Het is vaak onzinnig om de titels letterlijk te vertalen (welke betekenis is 
 # ook vaak onduidelijk). Het beste is om dat geval het plaatje te bekijken en zelf een
@@ -12,9 +13,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: GNOME 2.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-21 12:49+0200\n"
-"PO-Revision-Date: 2008-08-21 12:39+0200\n"
-"Last-Translator: Wouter Bolsterlee <wbolster@gnome.org>\n"
+"POT-Creation-Date: 2008-09-07 16:43+0200\n"
+"PO-Revision-Date: 2008-09-07 16:56+0200\n"
+"Last-Translator: Reinout van Schouwen <reinouts@gnome.org>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,19 +23,19 @@ msgstr ""
 
 #: ../abstract/gnome-abstract.xml.in.in.h:1
 msgid "Flow"
-msgstr ""
+msgstr "Stroming"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:2
 msgid "Gulp"
-msgstr ""
+msgstr "Blub"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:3
 msgid "Silk"
-msgstr ""
+msgstr "Zijde"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:4
 msgid "Spring"
-msgstr ""
+msgstr "Spiraal"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
@@ -46,7 +47,7 @@ msgstr "Water"
 
 #: ../nature/gnome-nature.xml.in.in.h:2
 msgid "Blinds"
-msgstr ""
+msgstr "Jaloezieën"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
 msgid "Dune"
