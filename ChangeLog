@@ -1,3 +1,10 @@
+2008-09-08  Diego Escalante Urrelo  <diegoe@gnome.org>
+
+	* NEWS:
+	
+	Convert to UTF-8, all the translator names were correctly updated from
+	previous revisions of this file.
+
 2008-08-31  Thomas Wood  <thos@gnome.org>
 
 	* NEWS:

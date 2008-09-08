@@ -8,9 +8,9 @@ Update translations:
 
   Khaled Hosny (ar)
   M.P. Rommedahl (da)
-  Jorge González (es)
-  Iñaki Larrañaga Murgoitio (eu)
-  Seán de Búrca (ga)
+  Jorge GonzÃ¡lez (es)
+  IÃ±aki LarraÃ±aga Murgoitio (eu)
+  SeÃ¡n de BÃºrca (ga)
   Takeshi AIHANA (ja)
   (LINGUAS)
   Thierry Randrianiriana (mg)
@@ -34,10 +34,10 @@ Updated translations:
   Vladimir Petkov (bg)
   Gil Forcada (ca)
   Christian Kirbach (de)
-  Jorge González (es)
+  Jorge GonzÃ¡lez (es)
   Ivar Smolin (et)
   Timo Jyrinki (fi)
-  Robert-André Mauchin (fr)
+  Robert-AndrÃ© Mauchin (fr)
   Ignacio Casal Quinteiro (gl)
   Sweta Kothari (gu)
   Yair Hershkovitz (he)
@@ -69,9 +69,9 @@ New and updated translations:
  Khandakar Mujahidul Islam (bn)
  Lukas Novotny (cs)
  David Lodge (en_GB)
- Jorge González (es)
+ Jorge GonzÃ¡lez (es)
  Massimo Furlani (fur)
- Seán de Búrca (ga)
+ SeÃ¡n de BÃºrca (ga)
  Ignacio Casal Quinteiro (gl)
  Ankit Patel (gu)
  G Karunakar (hi)
@@ -198,8 +198,8 @@ Version 2.14.2
 Translations
 
 Mindu Dorji (dz)
-Benoît Dejean (fr)
-Åsmund Skjæveland (nn)
+BenoÃ®t Dejean (fr)
+Ã…smund SkjÃ¦veland (nn)
 
 
 ===============
@@ -234,10 +234,10 @@ Version 2.13.92
 
 Translations
 
-Alexander Sigachov (ru), GNOME PL Team (pl), Iñaki Larrañaga (eu)
-Jesús Corrius (ca), Kostas Papadimas (el), Mate ORY (hu)
+Alexander Sigachov (ru), GNOME PL Team (pl), IÃ±aki LarraÃ±aga (eu)
+JesÃºs Corrius (ca), Kostas Papadimas (el), Mate ORY (hu)
 Raivis Dejus (lv), Satoru SATOH (ja), Woodman Tuen (zh_HK)
-Woodman Tuen (zh_TW), ygimantas Beru?ka (lt)
+Woodman Tuen (zh_TW), Å½ygimantas BeruÄka (lt)
 
 
 ===============
@@ -267,8 +267,8 @@ Translations
 
  Lukas Novotny (cs), Francisco Javier F. Serrador (es), Ignacio Casal Quinteiro
  (gl), Ankit Patel (gu), Ida Gasparretti (it), Kjartan Maraas (nb), Kjartan
- Maraas (no), Evandro Fernandes Giovanini (pt_BR), –°–ª–æ–±–æ–¥–?–? –î.
- –°—Ä–µ–¥–æ—ò–µ–?–?—õ (sr), Theppitak Karoonboonyanan (th), Clytie Siddall (vi),
+ Maraas (no), Evandro Fernandes Giovanini (pt_BR), Ğ¡Ğ»Ğ¾Ğ±Ğ¾Ğ´Ğ°Ğ½ Ğ”.
+ Ğ¡Ñ€ĞµĞ´Ğ¾Ñ˜ĞµĞ²Ğ¸Ñ› (sr), Theppitak Karoonboonyanan (th), Clytie Siddall (vi),
  Funda Wang (zh_CN)
 
 ==============
@@ -290,7 +290,7 @@ Version 2.12.1
 
 Translations
 
-Mahay Alam Khan (bn), I?±aki Larra?±aga Murgoitio (eu)
+Mahay Alam Khan (bn), IÃ±aki LarraÃ±aga Murgoitio (eu)
 
 
 ==============
@@ -311,7 +311,7 @@ Version 2.11.92
 * Release for GNOME 2.11.92
 
 Translations
-  –ò–?–æ—Ä –ù–µ—Å—Ç–æ—Ä–æ–?–?—õ (sr)
+  Ğ˜Ğ³Ğ¾Ñ€ ĞĞµÑÑ‚Ğ¾Ñ€Ğ¾Ğ²Ğ¸Ñ› (sr)
 
 
 ==============
@@ -346,8 +346,8 @@ Version 2.10.0
 
 Translations
 
-  Jes??s Corrius (ca), Rajesh Ranjan (hi), Ida Gasparretti (it), (ne),
-  Dan Damian (ro), –î–?–?–?–ª–æ –®–µ–?–?–? (sr), Woodman Tuen (zh_TW)
+  JesÃºs Corrius (ca), Rajesh Ranjan (hi), Ida Gasparretti (it), (ne),
+  Dan Damian (ro), Ğ”Ğ°Ğ½Ğ¸Ğ»Ğ¾ Ğ¨ĞµĞ³Ğ°Ğ½ (sr), Woodman Tuen (zh_TW)
 
 
 ==============
@@ -358,7 +358,7 @@ Version 2.9.92
 
 Translations
 
-  (ar), Adam Weinberger (en_CA), David Lodge (en_GB), Beno?Æt Dejean (fr),
+  (ar), Adam Weinberger (en_CA), David Lodge (en_GB), BenoÃ®t Dejean (fr),
   Ankit Patel (gu), Gabor Kelemen (hu), ahmad riza h nst (id),
   GNOME PL Team (pl)
 
@@ -398,6 +398,7 @@ Translations
  Vladimir Petkov (bg), Miloslav Trmac (cs), Dafydd Harries (cy), Martin
  Willemoes Hansen (da), Hendrik Brandt (de), Kostas Papadimas (el), Adam
  Weinberger (en_CA), David Lodge (en_GB), Francisco Javier F. Serrador (es),
- Tommi Vainikainen (fi), Takeshi AIHANA (ja), ??ygimantas Beruƒçka (lt), Tino
+ Tommi Vainikainen (fi), Takeshi AIHANA (ja), Å½ygimantas BeruÄka (lt), Tino
  Meinen (nl), Amanpreet Singh Alam (pa), Raphael Higino (pt_BR), Duarte Loreto
  (pt), Marcel Telka (sk), Christian Rose (sv), Funda Wang (zh_CN)
+
