@@ -1,3 +1,10 @@
+2008-09-08  Thomas Wood  <thos@gnome.org>
+
+	* NEWS:
+	* configure.in:
+
+	Release for GNOME 2.23.92
+
 2008-09-08  Diego Escalante Urrelo  <diegoe@gnome.org>
 
 	* NEWS:
@@ -10,7 +17,7 @@
 	* NEWS:
 	* configure.in:
 
-	Release for GNOME 2.23.90
+	Release for GNOME 2.23.91
 
 2008-08-18  Thomas Wood  <thos@gnome.org>
 
@@ -23,7 +30,7 @@
 
 	* nature/Blinds.jpg:
 
-	Tweaks fo Blinds.jpg from Andrea Cimitan
+	Tweaks to Blinds.jpg from Andrea Cimitan
 
 2008-08-17  Thomas Wood  <thos@gnome.org>
 
