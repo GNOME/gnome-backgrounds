@@ -1,71 +1,94 @@
+# translation of or.po to Oriya
 # Oriya translation of gnome-backgrounds.pot.
-# Copyright (C) 2006, Free Software Foundation, Inc.
+# Copyright (C) 2006, 2008, Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Gora Mohanty <gora_mohanty@yahoo.co.in>, 2006.
-# $Id$.
+# $Id: or.po,v 1.1 2006/03/20 18:36:09 gmohanty Exp $.
 #
+# Gora Mohanty <gora_mohanty@yahoo.co.in>, 2006.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds.HEAD.or\n"
+"Project-Id-Version: or\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-20 23:51+0530\n"
-"PO-Revision-Date: 2006-03-21 00:01+0530\n"
-"Last-Translator: Gora Mohanty <gora_mohanty@yahoo.co.in>\n"
-"Language-Team: Oriya <oriya-group@lists.sarovar.org>\n"
+"POT-Creation-Date: 2008-07-22 16:54+0000\n"
+"PO-Revision-Date: 2008-09-18 12:03+0530\n"
+"Last-Translator: Manoj Kumar Giri <mgiri@redhat.com>\n"
+"Language-Team: Oriya\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2;plural=(n!=1)\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "ନୋମ ବକ୍ର ରେଖା"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "ଧାରା"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "ଡଙ୍ଗା ନମୁନା"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "ଗଲ୍ପ"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "ମେଘ ନମୁନା"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "ରେଶମି"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "ତାରା ନମୁନା"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "ବସନ୍ତ ଋତୁ"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "ଉପବୃତ୍ତ (ଅର୍ଦ୍ଧସ୍ବଚ୍ଛ)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "ଲହରୀ"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "ଶୁଣ୍ଢ (ଅର୍ଦ୍ଧସ୍ବଚ୍ଛ)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "ପାଣି"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "ଅପ୍ରତ୍ୟକ୍ଷ"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "ବାଲି ପାହାଡ଼"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "ତାଜା ଫୁଲ"
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "ବଗିଚା"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "ସବୁଜ ଘାସ ପଡ଼ିଆ"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "ଖୋଲା ଫୁଲ"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "ମହିଳା ପକ୍ଷି"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "ବର୍ଷା ପାଣି ବୁନ୍ଦା"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "ଝଡ଼"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "ଦୁଇଟି ଡେଣା"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "କାଠ"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "ହଳଦିଆ ଫୁଲ"
+
