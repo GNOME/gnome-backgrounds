@@ -1,3 +1,8 @@
+2008-09-19  Shankar Prasad  <svenkate@redhat.com>
+
+        * kn.po: Added Kannada translation.
+        * LINGUAS: Added kn to Language list.
+
 2008-09-18  Manoj Kumar Giri  <mgiri@redhat.com>
 
 	* or.po: Updated Oriya Translation
