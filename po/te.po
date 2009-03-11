@@ -1,62 +1,96 @@
+# translation of gnome-backgrounds.HEAD.te.po to Telugu
 # Telugu translation of gnome-backgrounds
 # Copyright (C) 2004 The GNOME Foundation
 # This file is distributed under the same license as the gnome-background package.
-# విక్రం ఫణీంద్ర <vikramphaneendra@yahoo.co.in>, 2005.
-# దండు ప్రసాద్ <dandu_prasad2000@yahoo.com>, 2005.
-# రమణ సాయి <rmn_sai@yahoo.com>, 2005
 # Free Software Foundation, Andhra Pradesh
 #
-
+# విక్రం ఫణీంద్ర <vikramphaneendra@yahoo.co.in>, 2005.
+# దండు ప్రసాద్ <dandu_prasad2000@yahoo.com>, 2005.
+# రమణ సాయి <rmn_sai@yahoo.com>, 2005.
+# Krishna Babu K <kkrothap@redhat.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds \n"
+"Project-Id-Version: gnome-backgrounds.HEAD.te\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-05-17 04:46+0000\n"
-"PO-Revision-Date: 2005-02-13 21:56+0100\n"
-"Last-Translator: విక్రం ఫణీంద్ర <vikramphaneendra@yahoo.co.in>, 2005\n"
-"Last-Translator: దండు ప్రసాద్ <dandu_prasad2000@yahoo.com>, 2005\n"
-"Last-Translator: రమణ సాయి <rmn_sai@yahoo.com>, 2005\n"
-"Language-Team: Free Software Foundation, Andhra Pradesh <fsfap@gnu.org.in>\n"
+"POT-Creation-Date: 2008-11-07 12:41+0100\n"
+"PO-Revision-Date: 2009-03-11 13:29+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <en@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
 
-#: ../branded/gnome-branded.xml.in.in.h:1
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "ఆక్వాఫూట్ (గ్నోమ్ మచ్చెపడిన)"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr ""
 
-#: ../branded/gnome-branded.xml.in.in.h:2
-msgid "Fraser Island (GNOME Branded)"
-msgstr "ఫ్రెజర్ ఐస్ ల్యాండ్ (గ్నోమ్ మచ్చెపడిన)"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr ""
 
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "Red Blurred (GNOME Branded)"
-msgstr "రెడ్ బ్లర్డ్ (గ్నోమ్ మచ్చెపడిన)"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr ""
 
-#: ../branded/gnome-branded.xml.in.in.h:4
-msgid "Weird Colors (GNOME Branded)"
-msgstr "వికారమైన రంగులు (గ్నోమ్ మచ్చెపడిన)"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "ఉత్పత్తి"
 
-#: ../tiles/gnome-tiles.xml.in.in.h:1
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "అలైన్ ఆర్టిఫాక్ట్ (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చె పెంకు)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr ""
 
-#: ../tiles/gnome-tiles.xml.in.in.h:2
-msgid "Cow Spots (Translucent Tile)"
-msgstr "ఆవు మచ్చలు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చె పెంకు)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr ""
 
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "వజ్రపు పెంకు సరళి(ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చె పెంకు)"
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr ""
 
-#: ../translucent/gnome-translucent.xml.in.in.h:1
-msgid "Ellipsis (Translucent)"
-msgstr "దీర్ఘవృత్తములు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును పోనిచ్చెడు)."          
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr ""
 
-#: ../translucent/gnome-translucent.xml.in.in.h:2
-msgid "Rectangles (Translucent)"
-msgstr "దీర్ఘచతురస్రాలు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చెడు)"
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Fresh Flower"
+msgstr ""
 
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Tentacles (Translucent)"
-msgstr "పొడుగు (ఒక ప్రక్కనుండీ మఱయొక ప్రక్కకు కొంత మట్టుకు వెలుతురును  పొనిచ్చెడు)"
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr ""
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:10
+msgid "Green Meadow"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "చెక్క"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr ""
+
