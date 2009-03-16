@@ -1,4 +1,4 @@
-# translation of gnome-backgrounds.HEAD.te.po to Telugu
+# translation of te.po to Telugu
 # Telugu translation of gnome-backgrounds
 # Copyright (C) 2004 The GNOME Foundation
 # This file is distributed under the same license as the gnome-background package.
@@ -10,10 +10,10 @@
 # Krishna Babu K <kkrothap@redhat.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds.HEAD.te\n"
+"Project-Id-Version: te\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-11-07 12:41+0100\n"
-"PO-Revision-Date: 2009-03-11 13:29+0530\n"
+"PO-Revision-Date: 2009-03-16 10:56+0530\n"
 "Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
 "Language-Team: Telugu <en@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,18 +21,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"\n"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:1
 msgid "Flow"
-msgstr ""
+msgstr "ఫ్లో"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:2
 msgid "Gulp"
-msgstr ""
+msgstr "గల్పు"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:3
 msgid "Silk"
-msgstr ""
+msgstr "సిల్కు"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:4
 msgid "Spring"
@@ -40,51 +41,51 @@ msgstr "ఉత్పత్తి"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
-msgstr ""
+msgstr "తరంగాలు"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
-msgstr ""
+msgstr "ఆక్వా"
 
 #: ../nature/gnome-nature.xml.in.in.h:2
 msgid "Blinds"
-msgstr ""
+msgstr "బ్లిండ్స్"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
 msgid "Dune"
-msgstr ""
+msgstr "డ్యూన్"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
-msgstr ""
+msgstr "తాజా పువ్వు"
 
 #: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Garden"
-msgstr ""
+msgstr "తోట"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
-msgstr ""
+msgstr "పచ్చికబయలు"
 
 #: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr ""
+msgstr "లేడీ బర్డు"
 
 #: ../nature/gnome-nature.xml.in.in.h:12
 msgid "Rain Drops"
-msgstr ""
+msgstr "వర్షపు బిందువులు"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
 msgid "Storm"
-msgstr ""
+msgstr "తుఫాను"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
 msgid "Two Wings"
-msgstr ""
+msgstr "రెండు రెక్కలు"
 
 #: ../nature/gnome-nature.xml.in.in.h:15
 msgid "Wood"
@@ -92,5 +93,5 @@ msgstr "చెక్క"
 
 #: ../nature/gnome-nature.xml.in.in.h:16
 msgid "Yellow Flower"
-msgstr ""
+msgstr "పసుపుపచ్చని పువ్వు"
 
