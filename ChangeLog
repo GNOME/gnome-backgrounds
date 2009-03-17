@@ -1,5 +1,11 @@
 2009-03-16  Vincent Untz  <vuntz@gnome.org>
 
+	* configure.in: post-release bump to 2.24.2.
+
+==================== 2.24.1 ====================
+
+2009-03-16  Vincent Untz  <vuntz@gnome.org>
+
 	* NEWS: version 2.24.1
 
 2008-09-23  Vincent Untz  <vuntz@gnome.org>
