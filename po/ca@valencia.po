@@ -1,0 +1,131 @@
+# Valencian (southern Catalan) translation of gnome-backgrounds.
+# Copyright © 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-backgrounds package.
+# Jesús Corrius <jesus@softcatala.org>, 2005.
+# Gil Forcada <gilforcada@guifi.net>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds 2.14\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-21 14:45+0200\n"
+"PO-Revision-Date: 2008-07-27 23:56+0200\n"
+"Last-Translator: Gil Forcada <gilforcada@guifi.net>\n"
+"Language-Team: Catalan <tradgnome@softcatala.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Flux"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Glop"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Seda"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Primavera"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Ones"
+
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Aigua"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Persiana"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Duna"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Fresh Flower"
+msgstr "Flor fresca"
+
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Jardí"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:10
+msgid "Green Meadow"
+msgstr "Prat verd"
+
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Marieta"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Gotes de pluja"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Tempesta"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Dues ales"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Fusta"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Flor groga"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "Corbes del GNOME"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "Patró de vaixells"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "Patró de núvols"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "Patró d'estrelles"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "El·lipses (translúcid)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Tentacles (translúcid)"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Peu aquàtic (marca GNOME)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Illa de Fraser (marca GNOME)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Vermell difuminat (marca GNOME)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Colors estranys (marca GNOME)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Objecte extraterrestre (mosaic translúcid)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Taques de vaca (mosaic translúcid)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Mosaic en forma de diamant (mosaic translúcid)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Rectangles (translúcid)"
