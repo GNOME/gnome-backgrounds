@@ -6,67 +6,104 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-03-02 17:46+0000\n"
-"PO-Revision-Date: 2006-03-02 12:00-0000\n"
-"Last-Translator: Rhys Jones <rhys@sucs.org>\n"
+"POT-Creation-Date: 2009-06-14 13:10+0100\n"
+"PO-Revision-Date: 2009-06-14 14:07+0100\n"
+"Last-Translator: Telsa Gwynne <gnome@aloss.ukuu.org.uk>\n"
 "Language-Team: Welsh <gnome-cy@lists.linux.org.uk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Cromliniau GNOME"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Llif"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Patrwm Cychod"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+# Fyddai 'chwysigod' yn well?
+msgid "Gulp"
+msgstr "Tonnau a swigog"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Patrwm Cymylau"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Sidan"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Patrwm Sêr"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Sbring"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Elipsau (Lled Dryloyw)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Tonnau"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Tentaclau (Lled Dryloyw)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Diferyn dŵr"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Llen werdd"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Twyn"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Fresh Flower"
-msgstr "Blodyn Ffres"
-
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
-#. You might want to translate it into the equivalent words of your language
 #: ../nature/gnome-nature.xml.in.in.h:6
-msgid "Green Meadow"
-msgstr "Gweirglodd Werdd"
+msgid "Fresh Flower"
+msgstr "Blodyn ffres"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Gardd"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Blodyn Agored"
+#: ../nature/gnome-nature.xml.in.in.h:10
+msgid "Green Meadow"
+msgstr "Gweirglodd werdd"
+
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Buwch goch gota"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Diferion glaw"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Storom"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Dant y llew"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Pren"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Blodyn melyn"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "Cromliniau GNOME"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "Patrwm Cychod"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "Patrwm Cymylau"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "Patrwm Sêr"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "Elipsau (Lled Dryloyw)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Tentaclau (Lled Dryloyw)"
 
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Troed Aqua (Brand GNOME)"
