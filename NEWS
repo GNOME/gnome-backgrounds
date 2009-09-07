@@ -1,10 +1,37 @@
+===============
+Version 2.27.91
+===============
+
+* Release for GNOME 2.27.91
+* Fixed bug 579059: the storm background is missing in the appearance dialogs
+
+Updated translations:
+
+  Adi Roiban  (ro)
+  Amanpreet Singh Alam  (pa)
+  F Wolff  (af)
+  Gil Forcada  (ca@valencia)
+  Ihar Hrachyshka  (be@latin)
+  Khaled Hosny  (ar)
+  Krishna Babu K  (te)
+  Laurent Dhima  (sq)
+  Margulan Moldabekov  (kk)
+  Og Maciel  (pt_BR)
+  Peteris Krisjanis  (lv)
+  Rajesh Ranjan  (hi)
+  Runa Bhattacharjee  (bn_IN)
+  Suso Baleato  (gl)
+  Telsa Gwynne  (cy)
+
+
+
 ==============
 Version 2.24.1
 ==============
 
 * Release for GNOME 2.26.0
 
-Updates translations:
+Updated translations:
 
 F Wolff (af)
 Khaled Hosny (ar)
