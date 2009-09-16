@@ -1,0 +1,89 @@
+# Low German translation for gnome-backgrounds.
+# Copyright (C) 2009 gnome-backgrounds's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-backgrounds package.
+# NILS-CHRISTOPH FIEDLER <LINUX@MEDIENKOMPANIE.DE>, 2009
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&component=general\n"
+"POT-Creation-Date: 2009-09-07 21:56+0000\n"
+"PO-Revision-Date: 2009-09-16 13:17+0100\n"
+"Last-Translator: Nils-Christoph Fiedler <linux@medienkompanie.de>\n"
+"Language-Team: Low German <nds-lowgerman@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Stroom"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Sluck"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Seide"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Fröhjoor"
+
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Wellen"
+
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Water"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Blind"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Düne"
+
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Fresh Flower"
+msgstr "Frische Bloomen"
+
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Garden"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. You might want to translate it into the equivalent words of your language
+#: ../nature/gnome-nature.xml.in.in.h:10
+msgid "Green Meadow"
+msgstr "Greune Aue"
+
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Fru Vogel"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Regendroppen"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Storm"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Twei Flögel"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Wald"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Geele Blomen"
