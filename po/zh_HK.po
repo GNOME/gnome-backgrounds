@@ -6,10 +6,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-background 2.23.90\n"
+"Project-Id-Version: gnome-background 2.27.91\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-23 19:18+0800\n"
-"PO-Revision-Date: 2008-08-23 19:18+0800\n"
+"POT-Creation-Date: 2009-09-21 20:58+0800\n"
+"PO-Revision-Date: 2009-09-21 20:58+0800\n"
 "Last-Translator: Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>\n"
 "Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr "流動"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:2
 msgid "Gulp"
-msgstr ""
+msgstr "茫"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:3
 msgid "Silk"
@@ -66,7 +66,7 @@ msgstr "青草地"
 
 #: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr ""
+msgstr "安然"
 
 #: ../nature/gnome-nature.xml.in.in.h:12
 msgid "Rain Drops"
