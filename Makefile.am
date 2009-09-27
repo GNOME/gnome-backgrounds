@@ -36,3 +36,5 @@ MAINTAINERCLEANFILES = \
 	missing \
 	mkinstalldirs
 
+
+-include $(top_srcdir)/git.mk
