@@ -1,95 +1,124 @@
 # Slovenian translation of gnome-backgrounds.
 # Copyright (C) 2006 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
-# 
+#
 # Matjaž Horvat <m@owca.info>, 2006.
+# Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.4\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-08-22 00:15+0200\n"
-"PO-Revision-Date: 2006-08-21 15:42+0100\n"
-"Last-Translator: Matjaž Horvat <m@owca.info>\n"
-"Language-Team: Slovenian\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
+"POT-Creation-Date: 2009-04-17 13:10+0000\n"
+"PO-Revision-Date: 2009-10-14 14:21+0100\n"
+"Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
+"Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-Language: Slovenian\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Krivulje GNOME"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Tok"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Vzorec čolnov"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Gulp"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Vzorec oblakov"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Svila"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Vzorec zvezd"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Pomlad"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Elipse (Prosojno)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Valovi"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Lovke (Prosojno)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Voda"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Zavese"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Sipine"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "Sveža roža"
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Vrt"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Zelen travnik"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Odprta roža"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Pikapolonica"
 
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Kapljice"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Nevihta"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Krila"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Les"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Rumena roža"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "Krivulje GNOME"
+#~ msgid "Boats Pattern"
+#~ msgstr "Vzorec čolnov"
+#~ msgid "Clouds Pattern"
+#~ msgstr "Vzorec oblakov"
+#~ msgid "Stars Pattern"
+#~ msgstr "Vzorec zvezd"
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "Elipse (Prosojno)"
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Lovke (Prosojno)"
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Vodena noga (GNOME)"
-
 #~ msgid "Fraser Island (GNOME Branded)"
 #~ msgstr "Otok Fraser (GNOME)"
-
 #~ msgid "Red Blurred (GNOME Branded)"
-#~ msgstr "Rde?e motno (GNOME)"
-
+#~ msgstr "Rdeča motnost (GNOME)"
 #~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "?udne barve (GNOME)"
-
+#~ msgstr "Nenavadne barve (GNOME)"
 #~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Nezemeljski predmet (Prosojen tlakovec)"
-
+#~ msgstr "Nezemeljski predmet (prosojna razpostavitev)"
 #~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Kravje lise (Prosojen tlakovec)"
-
+#~ msgstr "Kravje lise (prosojna razpostavitev)"
 #~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Diamantni vzorec (Prosojen tlakovec)"
-
+#~ msgstr "Diamantni vzorec (prosojna razpostavitev)"
 #~ msgid "Rectangles (Translucent)"
 #~ msgstr "Pravokotniki (Prosojno)"
+
