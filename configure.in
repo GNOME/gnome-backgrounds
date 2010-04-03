@@ -1,4 +1,4 @@
-AC_INIT([gnome-backgrounds], [2.29.92])
+AC_INIT([gnome-backgrounds], [3.0.0])
 AM_INIT_AUTOMAKE
 AM_INIT_AUTOMAKE([1.9])
 
