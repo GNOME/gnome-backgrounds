@@ -1,95 +1,93 @@
+# translation of gnome-backgrounds.master.id.po to Indonesian
 # Indonesian translation of gnome-backgrounds.
 # Copyright (C) 2005 THE gnome-backgrounds's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-backgrounds package.
+#
+#
 # ahmad riza h nst <ari@160c.afraid.org>, 2005.
-# 
-# 
+# Dirgita <dirgitadevina@gmail.com>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-06-12 22:18+0200\n"
-"PO-Revision-Date: 2006-06-13 08:06+0700\n"
-"Last-Translator: ahmad riza h nst <ari@160c.afraid.org>\n"
-"Language-Team: Indonesian <kontak@id.gnome.org>\n"
+"Project-Id-Version: gnome-backgrounds.master.id\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&component=general\n"
+"POT-Creation-Date: 2010-03-27 19:07+0000\n"
+"PO-Revision-Date: 2010-04-01 15:44+0700\n"
+"Last-Translator: Dirgita <dirgitadevina@gmail.com>\n"
+"Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Kurva GNOME"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Alur"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Pola Perahu"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Tegukan"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Pola Awan"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Sutra"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Pola Bintang"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Musim Semi"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Ellips (Semi Transparan)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Ombak"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Tentakel (Semi Transparan)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Air"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Bersamar"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Bukit Pasir"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "Bunga Segar"
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Taman"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Padang Hijau"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Bunga Terbuka"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Kumbang"
 
-#~ msgid "Aqua Foot (GNOME Branded)"
-#~ msgstr "Telapak Aqua (Merek GNOME)"
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Tetes Hujan"
 
-#~ msgid "Fraser Island (GNOME Branded)"
-#~ msgstr "Pulau Fraser (Merek GNOME)"
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Badai"
 
-#~ msgid "Red Blurred (GNOME Branded)"
-#~ msgstr "Merah Kabur (Merek GNOME)"
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Sepasang Sayap"
 
-#~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "Warna Aneh (Merek GNOME)"
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Kayu"
 
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Artefak Alien (Ubin Semi Transparan)"
-
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Tempat Sapi (Ubin Semi Transparan)"
-
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Bentuk Ubin Permata (Ubin Semi Transparan)"
-
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "Segi Empat (Semi Transparan)"
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Bunga Kuning"
