@@ -13,7 +13,7 @@
   <maintainer>
     <foaf:Person>
       <foaf:name>Thomas Wood</foaf:name>
-      <foaf:mbox rdf:resource="thos@gnome.org" />
+      <foaf:mbox rdf:resource="mailto:thos@gnome.org" />
       <gnome:userid>thos</gnome:userid>
     </foaf:Person>
   </maintainer>
