@@ -1,77 +1,111 @@
 # translation of gnome-backgrounds.HEAD.po to armenian
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER, 2005.
+# Narine Martirosyan <training@instigate.am>
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
-"Report-Msgid-Bugs-To: norik@freenet.am\n"
-"POT-Creation-Date: 2005-07-19 06:16+0000\n"
-"PO-Revision-Date: 2005-08-19 21:49+0500\n"
-"Last-Translator: Norayr Chilingaryan\n"
-"Language-Team:  <norik@freenet.am>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
+"POT-Creation-Date: 2009-04-17 13:09+0000\n"
+"PO-Revision-Date: 2010-03-10 11:07+0400\n"
+"Last-Translator: Narine Martirosyan <training@instigate.am>\n"
+"Language-Team:  <norayr@arnet.am>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
 
-#. Translators: This is the name of a desktop background image that shows a large aqua coloured (light blue) GNOME foot.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Ջրի հատակ (Գնոմ ապրանքանիշ)"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr "Հոսք"
 
-#. Translators: This is the name of a desktop background image that shows a picture of an island called Fraser Island.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:6
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Ֆրեյզեր կղզի (Գնոմ ապրանքանիշ)"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr "Ումպ"
 
-#. Translators: This is the name of a desktop background image that shows a mixture of blurred red and orange colours.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:9
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Մշուշապատ կարմիր (Գնոմ ապրանքանիշ)"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr "Մետաքս"
 
-#. Translators: This is the name of a desktop background image that shows a mixture of mainly red and orange colours.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:12
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Խորհրդավոր գույներ (Գնոմ ապրանքանիշ)"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr "Գարուն"
 
-#. Translators: This is the name of a desktop background image that shows a strange "alien" like pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Տարաշխարհիկ պատկեր (կիսաթափանց խճանկար)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Ալիքներ"
 
-#. Translators: This is the name of a desktop background image that shows a pattern similar to that associated with cow skin.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Պտավոր կով (կիսաթափանց խճանկար)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Ջուր"
 
-#. Translators: This is the name of a desktop background image that shows a diamond pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Ադամանդե խճանկար (կիսաթափանց խճանկար)"
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Վարագույր"
 
-#. Translators: This is the name of a desktop background image that shows some ellipsis.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipsis (Translucent)"
-msgstr "Օվալաձև պատկերներ (կիսաթափանց)"
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr "Ավազաթումբ"
 
-#. Translators: This is the name of a desktop background image that shows blurred rectangles.
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Rectangles (Translucent)"
-msgstr "Եռանկյուններ (կիսաթափանց)"
+#: ../nature/gnome-nature.xml.in.in.h:6
+msgid "Fresh Flower"
+msgstr "Թարմ ծաղիկ"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Այգի"
+
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:9
-msgid "Tentacles (Translucent)"
-msgstr "Շոշափուկներ (կիսաթափանց)"
+#: ../nature/gnome-nature.xml.in.in.h:10
+msgid "Green Meadow"
+msgstr "Կանաչ մարգագետին"
+
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr "Զատիկ"
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr "Անձրևի կաթիլներ"
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr "Փոթորիկ"
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Երկու թև"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Անտառ"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
+msgstr "Դեղին ծաղիկ"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Ջրի հատակ (Գնոմ ապրանքանիշ)"
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Ֆրեյզեր կղզի (Գնոմ ապրանքանիշ)"
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Մշուշապատ կարմիր (Գնոմ ապրանքանիշ)"
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Խորհրդավոր գույներ (Գնոմ ապրանքանիշ)"
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Տարաշխարհիկ պատկեր (կիսաթափանց խճանկար)"
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Պտավոր կով (կիսաթափանց խճանկար)"
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Ադամանդե խճանկար (կիսաթափանց խճանկար)"
+#~ msgid "Ellipsis (Translucent)"
+#~ msgstr "Օվալաձև պատկերներ (կիսաթափանց)"
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Եռանկյուններ (կիսաթափանց)"
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Շոշափուկներ (կիսաթափանց)"
 
