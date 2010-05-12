@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&component=general\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
 "POT-Creation-Date: 2009-10-22 17:40+0000\n"
-"PO-Revision-Date: 2009-11-01 15:02-0500\n"
+"PO-Revision-Date: 2010-05-12 18:36 -0400\n"
 "Last-Translator: Thomas Thurman <tthurman@gnome.org>\n"
-"Language-Team: Shavian <ubuntu-l10n-en-shaw@lists.launchpad.net>\n"
+"Language-Team: Shavian <ubuntu-l10n-en-shaw@launchpad.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:1
 msgid "Flow"
@@ -87,3 +87,4 @@ msgstr "𐑢𐑫𐑛"
 #: ../nature/gnome-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "𐑘𐑧𐑤𐑴 𐑓𐑤𐑬𐑼"
+
