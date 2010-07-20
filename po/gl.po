@@ -1,22 +1,25 @@
 # translation of gl.po to Galego
 # This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Copyright (C) 2010 Fran Diéguez
 #
 # Ignacio Casal Quinteiro <nacho.resa@gmail.com>, 2005, 2006.
 # Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
+# Fran Dieǵuez <frandieguez@ubuntu.com> 2008-2010.
+# Fran Diéguez <frandieguez@ubuntu.com>, 2010.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-02-15 16:01+0100\n"
-"PO-Revision-Date: 2009-03-10 20:17+0000\n"
-"Last-Translator: Suso Baleato <suso.baleato@xunta.es>\n"
-"Language-Team: Galego <proxecto@trasno.net>\n"
+"POT-Creation-Date: 2010-07-20 10:11+0200\n"
+"PO-Revision-Date: 2010-07-20 10:12+0200\n"
+"Last-Translator: Fran Diéguez <frandieguez@ubuntu.com>\n"
+"Language-Team: Galician <gnome-gl-list@gnome.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: gl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:1
 msgid "Flow"
@@ -89,24 +92,3 @@ msgstr "Madeira"
 #: ../nature/gnome-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "Flor amarela"
-
-#~ msgid "GNOME Curves"
-#~ msgstr "Curvas Gnome"
-
-#~ msgid "Boats Pattern"
-#~ msgstr "Patrón de barcos"
-
-#~ msgid "Clouds Pattern"
-#~ msgstr "Patrón de nubes"
-
-#~ msgid "Stars Pattern"
-#~ msgstr "Patrón de estrelas"
-
-#~ msgid "Ellipses (Translucent)"
-#~ msgstr "Elipses (Translúcido)"
-
-#~ msgid "Tentacles (Translucent)"
-#~ msgstr "Tentáculos (Translúcido)"
-
-#~ msgid "Open Flower"
-#~ msgstr "Flor aberta"
