@@ -1,3 +1,24 @@
+==============
+Version 2.32.0
+==============
+
+* Release for GNOME 2.32.0
+* Add individual copyright notices for the images (bug 620892)
+* Use AM_SILENT_RULES (bug 607180)
+
+Updated translations:
+
+  Ahmed Noor Kader Mustajir Md Eusoff (ms)
+  Daniel Martinez Cucalon (an)
+  Dirgita (id)
+  Fran Diéguez (gl)
+  Matej Urbančič (sl)
+  Michael MORONI (eo)
+  Narine Martirosyan (hy)
+  Sense Hofstede (fy)
+  Thomas Thurman (en@shaw)
+  Yannig Marchegay (Kokoyaya) (oc)
+
 ===============
 Version 2.29.92
 ===============
