@@ -1,22 +1,28 @@
-AC_INIT([gnome-backgrounds], [2.29.92])
+AC_INIT([gnome-backgrounds],
+        [2.29.92],
+        [http://bugzilla.gnome.org/browse.cgi?product=gnome-backgrounds],
+        [gnome-backgrounds])
+
+
+AM_INIT_AUTOMAKE([1.10])
+AM_MAINTAINER_MODE([enable])
+
 m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
-AM_INIT_AUTOMAKE
-AM_INIT_AUTOMAKE([1.9])
 
 # Internationalization:
+IT_PROG_INTLTOOL([0.40.0])
+
 GETTEXT_PACKAGE=gnome-backgrounds
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [The domain name to use with gettext.])
 
 AM_GLIB_GNU_GETTEXT()
-IT_PROG_INTLTOOL([0.35.0])
 
 
-AM_MAINTAINER_MODE
-
-AC_OUTPUT([
+AC_CONFIG_FILES([
 Makefile
 abstract/Makefile
 nature/Makefile
 po/Makefile.in
 ])
+AC_OUTPUT
