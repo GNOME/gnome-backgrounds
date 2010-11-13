@@ -6,9 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&component=general\n"
-"POT-Creation-Date: 2010-09-25 13:49+0000\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
+"POT-Creation-Date: 2010-10-04 14:52+0000\n"
 "PO-Revision-Date: 2010-08-25 13:49+0000\n"
 "Last-Translator: Sahran <sahran@live.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
@@ -66,7 +65,7 @@ msgstr "يېشىل ئوتلاق"
 
 #: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "بىرد خانىم"
+msgstr "Lady Bird"
 
 #: ../nature/gnome-nature.xml.in.in.h:12
 msgid "Rain Drops"
