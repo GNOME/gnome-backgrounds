@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Sahran <sahran@live.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
-"POT-Creation-Date: 2010-10-04 14:52+0000\n"
+"POT-Creation-Date: 2010-11-13 21:12+0000\n"
 "PO-Revision-Date: 2010-08-25 13:49+0000\n"
 "Last-Translator: Sahran <sahran@live.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
