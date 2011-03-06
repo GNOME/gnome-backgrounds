@@ -24,9 +24,11 @@ CLEANFILES = gnome-nature.xml gnome-nature.xml.in
 
 EXTRA_DIST = $(background_DATA) gnome-nature.xml.in.in
 
+edit = sed \
+	-e 's|@BACKGROUNDDIR[@]|$(backgrounddir)|g'
+
 gnome-nature.xml.in: gnome-nature.xml.in.in Makefile
-	$(AM_V_GEN)sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/gnome-nature.xml.in.in > gnome-nature.xml.in.tmp \
-	&& mv gnome-nature.xml.in.tmp gnome-nature.xml.in
+	$(edit) $< >$@
 
 MAINTAINERCLEANFILES = \
 	Makefile.in

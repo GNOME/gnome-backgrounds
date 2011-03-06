@@ -18,9 +18,11 @@ CLEANFILES = gnome-abstract.xml gnome-abstract.xml.in
 
 EXTRA_DIST = $(background_DATA) gnome-abstract.xml.in.in
 
+edit = sed \
+	-e 's|@BACKGROUNDDIR[@]|$(backgrounddir)|g'
+
 gnome-abstract.xml.in: gnome-abstract.xml.in.in Makefile
-	$(AM_V_GEN)sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/gnome-abstract.xml.in.in > gnome-abstract.xml.in.tmp \
-	&& mv gnome-abstract.xml.in.tmp gnome-abstract.xml.in
+	$(edit) $< >$@
 
 MAINTAINERCLEANFILES = \
 	Makefile.in
