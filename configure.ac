@@ -22,6 +22,7 @@ AM_GLIB_GNU_GETTEXT()
 AC_CONFIG_FILES([
 Makefile
 abstract/Makefile
+cosmos/Makefile
 nature/Makefile
 po/Makefile.in
 ])
