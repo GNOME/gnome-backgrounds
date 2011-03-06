@@ -1,4 +1,4 @@
-backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/nature
+backgrounddir = $(datadir)/backgrounds/gnome/nature
 
 background_DATA =\
 	Aqua.jpg \

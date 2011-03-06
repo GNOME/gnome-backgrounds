@@ -1,6 +1,6 @@
 NULL =
 
-backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/cosmos
+backgrounddir = $(datadir)/backgrounds/gnome/cosmos
 
 BACKGROUNDS = \
 	blue-marble-west.jpg	\

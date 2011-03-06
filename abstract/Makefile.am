@@ -1,4 +1,4 @@
-backgrounddir = $(datadir)/pixmaps/backgrounds/gnome/abstract
+backgrounddir = $(datadir)/backgrounds/gnome/abstract
 
 background_DATA = \
 	Flow.png \
