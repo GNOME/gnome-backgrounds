@@ -1,16 +1,16 @@
-# Slovenian translation of gnome-backgrounds.
+# Slovenian translations for gnome-backgrounds.
 # Copyright (C) 2006 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 #
 # Matjaž Horvat <m@owca.info>, 2006.
-# Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2010.
+# Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
-"PO-Revision-Date: 2010-04-23 20:39+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
+"POT-Creation-Date: 2011-03-08 14:38+0000\n"
+"PO-Revision-Date: 2011-03-09 13:06+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
@@ -40,6 +40,12 @@ msgstr "Pomlad"
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
 msgstr "Valovanje"
+
+#. Translators: This is the name of a desktop background image that shows outer space images.
+#. You might want to translate it into the equivalent words of your language
+#: ../cosmos/gnome-cosmos.xml.in.in.h:3
+msgid "Cosmos"
+msgstr "Kozmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -95,30 +101,42 @@ msgstr "Rumena roža"
 
 #~ msgid "GNOME Curves"
 #~ msgstr "Krivulje GNOME"
+
 #~ msgid "Boats Pattern"
 #~ msgstr "Vzorec čolnov"
+
 #~ msgid "Clouds Pattern"
 #~ msgstr "Vzorec oblakov"
+
 #~ msgid "Stars Pattern"
 #~ msgstr "Vzorec zvezd"
+
 #~ msgid "Ellipses (Translucent)"
 #~ msgstr "Elipse (Prosojno)"
+
 #~ msgid "Tentacles (Translucent)"
 #~ msgstr "Lovke (Prosojno)"
+
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Vodena noga (GNOME)"
+
 #~ msgid "Fraser Island (GNOME Branded)"
 #~ msgstr "Otok Fraser (GNOME)"
+
 #~ msgid "Red Blurred (GNOME Branded)"
 #~ msgstr "Rdeča motnost (GNOME)"
+
 #~ msgid "Weird Colors (GNOME Branded)"
 #~ msgstr "Nenavadne barve (GNOME)"
+
 #~ msgid "Alien Artifact (Translucent Tile)"
 #~ msgstr "Nezemeljski predmet (prosojna razpostavitev)"
+
 #~ msgid "Cow Spots (Translucent Tile)"
 #~ msgstr "Kravje lise (prosojna razpostavitev)"
+
 #~ msgid "Diamond Tile Pattern (Translucent Tile)"
 #~ msgstr "Diamantni vzorec (prosojna razpostavitev)"
+
 #~ msgid "Rectangles (Translucent)"
 #~ msgstr "Pravokotniki (Prosojno)"
-
