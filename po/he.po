@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-10 18:58+0200\n"
-"PO-Revision-Date: 2011-03-10 18:59+0200\n"
+"POT-Creation-Date: 2011-03-10 19:00+0200\n"
+"PO-Revision-Date: 2011-03-10 19:00+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -43,7 +43,7 @@ msgstr "יקום"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
-msgstr "מיים"
+msgstr "מים"
 
 #: ../nature/gnome-nature.xml.in.in.h:2
 msgid "Blinds"
