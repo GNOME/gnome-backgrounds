@@ -1,5 +1,5 @@
 # French translation of gnome-backgrounds.
-# Copyright (C) 1998-2006 Free Software Foundation, Inc.
+# Copyright (C) 1998-2011 Free Software Foundation, Inc.
 # This file is distributed under the GNU General Public License Version 2.
 #
 # Benoît Dejean <TazForEver@dlfp.org>, 2005.
@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.14.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
-"PO-Revision-Date: 2008-08-17 00:43:45+0200\n"
+"POT-Creation-Date: 2011-03-12 20:20+0100\n"
+"PO-Revision-Date: 2011-03-12 20:22+0100\n"
 "Last-Translator: Robert-André Mauchin <zebob.m@pengzone.org>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
@@ -39,6 +39,12 @@ msgstr "Printemps"
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
 msgstr "Vagues"
+
+#. Translators: This is the name of a desktop background image that shows outer space images.
+#. You might want to translate it into the equivalent words of your language
+#: ../cosmos/gnome-cosmos.xml.in.in.h:3
+msgid "Cosmos"
+msgstr "Cosmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
