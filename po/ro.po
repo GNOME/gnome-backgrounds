@@ -3,19 +3,23 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Dan Damian <dand@gnome.ro>, 2005-2006.
 # Adi Roiban https://launchpad.net/~adiroiban, 2009
-#
+# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-11-07 12:41+0100\n"
-"PO-Revision-Date: 2009-02-13 00:15+0200\n"
-"Last-Translator: Adi Roiban <adi@roiban.ro>\n"
-"Language-Team: Gnome Romanian Team <gnomero-list@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&component=general\n"
+"POT-Creation-Date: 2011-03-06 05:43+0000\n"
+"PO-Revision-Date: 2011-03-16 18:08+0200\n"
+"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
+"Language-Team: Romanian Gnome Team <gnomero-list@lists.sourceforge.net>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n == 1 ? 0: (((n % 100 > 19) || ((n % 100 == 0) && (n != 0))) ? 2: 1));\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:1
 msgid "Flow"
@@ -36,6 +40,12 @@ msgstr "Primăvară"
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
 msgstr "Valuri"
+
+#. Translators: This is the name of a desktop background image that shows outer space images.
+#. You might want to translate it into the equivalent words of your language
+#: ../cosmos/gnome-cosmos.xml.in.in.h:3
+msgid "Cosmos"
+msgstr "Cosmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -91,30 +101,42 @@ msgstr "Floare galbenă"
 
 #~ msgid "GNOME Curves"
 #~ msgstr "Curbe GNOME"
+
 #~ msgid "Boats Pattern"
 #~ msgstr "Model cu bărci"
+
 #~ msgid "Clouds Pattern"
 #~ msgstr "Model cu nori"
+
 #~ msgid "Stars Pattern"
 #~ msgstr "Model cu stele"
+
 #~ msgid "Ellipses (Translucent)"
 #~ msgstr "Elipse (transparent)"
+
 #~ msgid "Tentacles (Translucent)"
 #~ msgstr "Tentacule (transparent)"
+
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Talpă Aqua (marcat GNOME)"
+
 #~ msgid "Fraser Island (GNOME Branded)"
 #~ msgstr "Insula Fraser (marcat GNOME)"
+
 #~ msgid "Red Blurred (GNOME Branded)"
 #~ msgstr "Roșu difuz (marcat GNOME)"
+
 #~ msgid "Weird Colors (GNOME Branded)"
 #~ msgstr "Culori ciudate (marcat GNOME)"
+
 #~ msgid "Alien Artifact (Translucent Tile)"
 #~ msgstr "Semne extraterestre (tapet transparent)"
+
 #~ msgid "Cow Spots (Translucent Tile)"
 #~ msgstr "Pete de văcuță (tapet transparent)"
+
 #~ msgid "Diamond Tile Pattern (Translucent Tile)"
 #~ msgstr "Diamant (tapet transparent)"
+
 #~ msgid "Rectangles (Translucent)"
 #~ msgstr "Dreptunghiuri (transparent)"
-
