@@ -1,8 +1,9 @@
-# Dutch translation of gnome-backgrounds.
-# Copyright (C) 2004 The Free Software Foundation Inc.
+# Dutch translation for gnome-backgrounds
+#
 # This file is distributed under the same license as the gnome-backgrounds package.
+#
 # Tino Meinen <a.t.meinen@chello.nl>, 2004.
-# Wouter Bolsterlee <wbolster@gnome.org>, 2008.
+# Wouter Bolsterlee <wbolster@gnome.org>, 2008, 2011.
 # Reinout van Schouwen <reinouts@gnome.org>, 2008
 #
 # Het is vaak onzinnig om de titels letterlijk te vertalen (welke betekenis is 
@@ -11,12 +12,13 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GNOME 2.10\n"
+"Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-09-07 16:43+0200\n"
-"PO-Revision-Date: 2008-09-07 16:56+0200\n"
-"Last-Translator: Reinout van Schouwen <reinouts@gnome.org>\n"
+"POT-Creation-Date: 2011-03-19 15:29+0100\n"
+"PO-Revision-Date: 2011-03-19 15:27+0100\n"
+"Last-Translator: Wouter Bolsterlee <wbolster@gnome.org>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,6 +42,12 @@ msgstr "Spiraal"
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
 msgstr "Golven"
+
+#. Translators: This is the name of a desktop background image that shows outer space images.
+#. You might want to translate it into the equivalent words of your language
+#: ../cosmos/gnome-cosmos.xml.in.in.h:3
+msgid "Cosmos"
+msgstr "Kosmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
