@@ -4,18 +4,20 @@
 #
 # AMITAKHYA PHUKAN <amitakhya.phukan@gmail.com>, 2006.
 # Amitakhya Phukan <aphukan@redhat.com>, 2008.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD.as\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
-"PO-Revision-Date: 2008-09-02 16:09+0530\n"
-"Last-Translator: Amitakhya Phukan <aphukan@redhat.com>\n"
-"Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
+"cgi?product=gnome-backgrounds&component=general\n"
+"POT-Creation-Date: 2010-03-21 23:39+0000\n"
+"PO-Revision-Date: 2011-03-11 16:54+0000\n"
+"Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KAider 0.1\n"
+"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../abstract/gnome-abstract.xml.in.in.h:1
@@ -68,7 +70,7 @@ msgstr "সেউজীয়া ঘাঁহনি"
 
 #: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Lady Bird"
-msgstr "সোণপোকা"
+msgstr "সোণপোক"
 
 #: ../nature/gnome-nature.xml.in.in.h:12
 msgid "Rain Drops"
@@ -107,4 +109,3 @@ msgstr "হালধীয়া ফুল"
 
 #~ msgid "Tentacles (Translucent)"
 #~ msgstr "অঙ্গ:বাহু(অ্ৰদ্ধস্বচ্ছ)"
-
