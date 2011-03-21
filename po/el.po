@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
+"POT-Creation-Date: 2011-03-21 02:11+0200\n"
 "PO-Revision-Date: 2008-09-02 15:53+0300\n"
 "Last-Translator: Elias Makris <ilmakris@sch.gr>\n"
 "Language-Team: Greek <team@lists.gnome.gr>\n"
@@ -39,6 +39,12 @@ msgstr "Άνοιξη"
 #: ../abstract/gnome-abstract.xml.in.in.h:5
 msgid "Waves"
 msgstr "Κύματα"
+
+#. Translators: This is the name of a desktop background image that shows outer space images.
+#. You might want to translate it into the equivalent words of your language
+#: ../cosmos/gnome-cosmos.xml.in.in.h:3
+msgid "Cosmos"
+msgstr "Σύμπαν"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -91,4 +97,3 @@ msgstr "Ξύλο"
 #: ../nature/gnome-nature.xml.in.in.h:16
 msgid "Yellow Flower"
 msgstr "Κίτρινο λουλούδι"
-
