@@ -3,8 +3,7 @@ AC_INIT([gnome-backgrounds],
         [http://bugzilla.gnome.org/browse.cgi?product=gnome-backgrounds],
         [gnome-backgrounds])
 
-
-AM_INIT_AUTOMAKE([1.10])
+AM_INIT_AUTOMAKE([1.10 no-dist-gzip dist-bzip2])
 AM_MAINTAINER_MODE([enable])
 
 m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
