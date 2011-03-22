@@ -2,6 +2,36 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
+		<_name>Spaceflare</_name>
+		<filename>@BACKGROUNDDIR@/Spaceflare.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Spaceflare Nova</_name>
+		<filename>@BACKGROUNDDIR@/Spaceflare-nova.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Spaceflare Supernova</_name>
+		<filename>@BACKGROUNDDIR@/Spaceflare-supernova.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Terraform Blue</_name>
+		<filename>@BACKGROUNDDIR@/Terraform-blue.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Terraform Green</_name>
+		<filename>@BACKGROUNDDIR@/Terraform-green.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<_name>Terraform Orange</_name>
+		<filename>@BACKGROUNDDIR@/Terraform-orange.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
 	<!-- Translators: This is the name of a desktop background image that shows an orange/red flower.
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Fresh Flower</_name>
