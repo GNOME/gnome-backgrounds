@@ -7,6 +7,7 @@ background_DATA =\
 	Spaceflare.jpg \
 	Spaceflare-nova.jpg \
 	Spaceflare-supernova.jpg \
+	SundownDunes.jpg \
 	Aqua.jpg \
 	Blinds.jpg \
 	FreshFlower.jpg \
