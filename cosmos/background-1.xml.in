@@ -10,74 +10,74 @@
 <!-- This animation will start at midnight. -->
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/cloud.jpg</file>
+    <file>@BACKGROUNDDIR@/cloud.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/cloud.jpg</from>
-    <to>@IMAGESDIR@/earth-horizon.jpg</to>
+    <from>@BACKGROUNDDIR@/cloud.jpg</from>
+    <to>@BACKGROUNDDIR@/earth-horizon.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/earth-horizon.jpg</file>
+    <file>@BACKGROUNDDIR@/earth-horizon.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/earth-horizon.jpg</from>
-    <to>@IMAGESDIR@/blue-marble-west.jpg</to>
+    <from>@BACKGROUNDDIR@/earth-horizon.jpg</from>
+    <to>@BACKGROUNDDIR@/blue-marble-west.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/blue-marble-west.jpg</file>
+    <file>@BACKGROUNDDIR@/blue-marble-west.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/blue-marble-west.jpg</from>
-    <to>@IMAGESDIR@/galaxy-ngc3370.jpg</to>
+    <from>@BACKGROUNDDIR@/blue-marble-west.jpg</from>
+    <to>@BACKGROUNDDIR@/galaxy-ngc3370.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/galaxy-ngc3370.jpg</file>
+    <file>@BACKGROUNDDIR@/galaxy-ngc3370.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/galaxy-ngc3370.jpg</from>
-    <to>@IMAGESDIR@/helix-nebula.jpg</to>
+    <from>@BACKGROUNDDIR@/galaxy-ngc3370.jpg</from>
+    <to>@BACKGROUNDDIR@/helix-nebula.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/helix-nebula.jpg</file>
+    <file>@BACKGROUNDDIR@/helix-nebula.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/helix-nebula.jpg</from>
-    <to>@IMAGESDIR@/jupiter.jpg</to>
+    <from>@BACKGROUNDDIR@/helix-nebula.jpg</from>
+    <to>@BACKGROUNDDIR@/jupiter.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/jupiter.jpg</file>
+    <file>@BACKGROUNDDIR@/jupiter.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/jupiter.jpg</from>
-    <to>@IMAGESDIR@/sombrero.jpg</to>
+    <from>@BACKGROUNDDIR@/jupiter.jpg</from>
+    <to>@BACKGROUNDDIR@/sombrero.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/sombrero.jpg</file>
+    <file>@BACKGROUNDDIR@/sombrero.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/sombrero.jpg</from>
-    <to>@IMAGESDIR@/whirlpool.jpg</to>
+    <from>@BACKGROUNDDIR@/sombrero.jpg</from>
+    <to>@BACKGROUNDDIR@/whirlpool.jpg</to>
   </transition>
   <static>
     <duration>1795.0</duration>
-    <file>@IMAGESDIR@/whirlpool.jpg</file>
+    <file>@BACKGROUNDDIR@/whirlpool.jpg</file>
   </static>
   <transition>
     <duration>5.0</duration>
-    <from>@IMAGESDIR@/whirlpool.jpg</from>
-    <to>@IMAGESDIR@/cloud.jpg</to>
+    <from>@BACKGROUNDDIR@/whirlpool.jpg</from>
+    <to>@BACKGROUNDDIR@/cloud.jpg</to>
   </transition>
 </background>
