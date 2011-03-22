@@ -2,6 +2,11 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
+		<_name>Foot Fall</_name>
+		<filename>@BACKGROUNDDIR@/FootFall.png</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<_name>Sundown Dunes</_name>
 		<filename>@BACKGROUNDDIR@/SundownDunes.jpg</filename>
 		<options>zoom</options>
