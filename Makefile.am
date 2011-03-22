@@ -1,4 +1,4 @@
-SUBDIRS = cosmos nature po
+SUBDIRS = nature po
 
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \

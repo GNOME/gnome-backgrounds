@@ -2,6 +2,7 @@ backgrounddir = $(datadir)/backgrounds/gnome/nature
 
 background_DATA =\
 	FootFall.png \
+	BlueMarbleWest.jpg \
 	Terraform-blue.jpg \
 	Terraform-green.jpg \
 	Terraform-orange.jpg \
