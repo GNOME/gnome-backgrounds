@@ -8,11 +8,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
-"POT-Creation-Date: 2011-03-08 14:38+0000\n"
-"PO-Revision-Date: 2011-03-09 13:06+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-22 20:38+0000\n"
+"PO-Revision-Date: 2011-03-22 22:02+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,32 +21,6 @@ msgstr ""
 "X-Poedit-Country: SLOVENIA\n"
 "X-Poedit-Language: Slovenian\n"
 "X-Poedit-SourceCharset: utf-8\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Tok"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "Gulp"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Svila"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Pomlad"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Valovanje"
-
-#. Translators: This is the name of a desktop background image that shows outer space images.
-#. You might want to translate it into the equivalent words of your language
-#: ../cosmos/gnome-cosmos.xml.in.in.h:3
-msgid "Cosmos"
-msgstr "Kozmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -56,87 +31,115 @@ msgid "Blinds"
 msgstr "Zavese"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Sipine"
+msgid "Blue Marble"
+msgstr "Modra frnikola"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "Kapljične stopinje"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "Rožica"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "Vrt"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "Poljane"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "Pikapolonica"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Kapljice"
+msgid "Spaceflare"
+msgstr "Vesolje luči"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Nevihta"
+msgid "Spaceflare Nova"
+msgstr "Vesoljna Nova"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "Vesoljna Supernova"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "Sipine večera"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "Odtisno modro"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "Odtisno zeleno"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "Odtisno oranžno"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "Krila"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "Les"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "Rumena roža"
 
+#~ msgid "Flow"
+#~ msgstr "Tok"
+#~ msgid "Gulp"
+#~ msgstr "Gulp"
+#~ msgid "Silk"
+#~ msgstr "Svila"
+#~ msgid "Spring"
+#~ msgstr "Pomlad"
+#~ msgid "Waves"
+#~ msgstr "Valovanje"
+#~ msgid "Cosmos"
+#~ msgstr "Kozmos"
+#~ msgid "Dune"
+#~ msgstr "Sipine"
+#~ msgid "Lady Bird"
+#~ msgstr "Pikapolonica"
+#~ msgid "Rain Drops"
+#~ msgstr "Kapljice"
+#~ msgid "Storm"
+#~ msgstr "Nevihta"
 #~ msgid "GNOME Curves"
 #~ msgstr "Krivulje GNOME"
-
 #~ msgid "Boats Pattern"
 #~ msgstr "Vzorec čolnov"
-
 #~ msgid "Clouds Pattern"
 #~ msgstr "Vzorec oblakov"
-
 #~ msgid "Stars Pattern"
 #~ msgstr "Vzorec zvezd"
-
 #~ msgid "Ellipses (Translucent)"
 #~ msgstr "Elipse (Prosojno)"
-
 #~ msgid "Tentacles (Translucent)"
 #~ msgstr "Lovke (Prosojno)"
-
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Vodena noga (GNOME)"
-
 #~ msgid "Fraser Island (GNOME Branded)"
 #~ msgstr "Otok Fraser (GNOME)"
-
 #~ msgid "Red Blurred (GNOME Branded)"
 #~ msgstr "Rdeča motnost (GNOME)"
-
 #~ msgid "Weird Colors (GNOME Branded)"
 #~ msgstr "Nenavadne barve (GNOME)"
-
 #~ msgid "Alien Artifact (Translucent Tile)"
 #~ msgstr "Nezemeljski predmet (prosojna razpostavitev)"
-
 #~ msgid "Cow Spots (Translucent Tile)"
 #~ msgstr "Kravje lise (prosojna razpostavitev)"
-
 #~ msgid "Diamond Tile Pattern (Translucent Tile)"
 #~ msgstr "Diamantni vzorec (prosojna razpostavitev)"
-
 #~ msgid "Rectangles (Translucent)"
 #~ msgstr "Pravokotniki (Prosojno)"
+
