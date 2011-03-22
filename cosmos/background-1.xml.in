@@ -15,15 +15,6 @@
   <transition>
     <duration>5.0</duration>
     <from>@IMAGESDIR@/cloud.jpg</from>
-    <to>@IMAGESDIR@/comet.jpg</to>
-  </transition>
-  <static>
-    <duration>1795.0</duration>
-    <file>@IMAGESDIR@/comet.jpg</file>
-  </static>
-  <transition>
-    <duration>5.0</duration>
-    <from>@IMAGESDIR@/comet.jpg</from>
     <to>@IMAGESDIR@/earth-horizon.jpg</to>
   </transition>
   <static>
