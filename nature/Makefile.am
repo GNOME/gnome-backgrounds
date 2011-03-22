@@ -3,13 +3,9 @@ backgrounddir = $(datadir)/backgrounds/gnome/nature
 background_DATA =\
 	Aqua.jpg \
 	Blinds.jpg \
-	Dune.jpg \
 	FreshFlower.jpg \
 	Garden.jpg \
 	GreenMeadow.jpg \
-	LadyBird.jpg \
-	RainDrops.jpg \
-	Storm.jpg \
 	TwoWings.jpg \
 	Wood.jpg \
 	YellowFlower.jpg
