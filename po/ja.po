@@ -1,40 +1,25 @@
 # gnome-backgrounds ja.po.
-# Copyright (C) 2005,2006,2008 Free Software Foundation, Inc.
+# Copyright (C) 2005,2006,2008,2011 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2005, 2008.
 # Satoru SATOH <ss@gnome.gr.jp>, 2006.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2005, 2008, 2011.
+# Jiro Matsuzawa <matsuzawa.jr@gmail.com>, 2011.
+# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2011.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds trunk\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-19 00:02+0900\n"
-"PO-Revision-Date: 2008-08-18 23:59+0900\n"
-"Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
+"Project-Id-Version: gnome-backgrounds master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-22 13:06+0000\n"
+"PO-Revision-Date: 2011-03-23 23:46+0900\n"
+"Last-Translator: Jiro Matsuzawa <matsuzawa.jr@gmail.com>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "フロー"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "ガルプ"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "シルク"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "スプリング"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "ウェーブ"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -45,45 +30,95 @@ msgid "Blinds"
 msgstr "ブラインド"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "デューン"
+msgid "Blue Marble"
+msgstr "ブルーマーブル"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "足音"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "みずみずしい花"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "庭"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "緑の草地"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "レィディー・バード"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "雨のしずく"
+msgid "Spaceflare"
+msgstr "宇宙フレア"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "ストーム"
+msgid "Spaceflare Nova"
+msgstr "宇宙フレア 新星"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "宇宙フレア 超新星"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "夕暮れの砂丘"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "テラフォーム 青"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "テラフォーム 緑"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "テラフォーム オレンジ"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "二つの羽"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "ウッド"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "黄色い花"
+
+#~ msgid "Flow"
+#~ msgstr "フロー"
+
+#~ msgid "Gulp"
+#~ msgstr "ガルプ"
+
+#~ msgid "Silk"
+#~ msgstr "シルク"
+
+#~ msgid "Spring"
+#~ msgstr "スプリング"
+
+#~ msgid "Waves"
+#~ msgstr "ウェーブ"
+
+#~ msgid "Cosmos"
+#~ msgstr "宇宙"
+
+#~ msgid "Dune"
+#~ msgstr "デューン"
+
+#~ msgid "Lady Bird"
+#~ msgstr "レィディー・バード"
+
+#~ msgid "Rain Drops"
+#~ msgstr "雨のしずく"
+
+#~ msgid "Storm"
+#~ msgstr "ストーム"
