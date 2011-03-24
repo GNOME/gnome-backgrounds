@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-22 15:14+0100\n"
-"PO-Revision-Date: 2011-03-22 15:19+0100\n"
+"POT-Creation-Date: 2011-03-24 18:52+0100\n"
+"PO-Revision-Date: 2011-03-24 18:52+0100\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
@@ -28,7 +28,7 @@ msgstr "Persienner"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
 msgid "Blue Marble"
-msgstr "Jorden"
+msgstr "Blå marmor"
 
 #: ../nature/gnome-nature.xml.in.in.h:4
 msgid "Foot Fall"
