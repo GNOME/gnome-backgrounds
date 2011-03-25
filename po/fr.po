@@ -6,45 +6,21 @@
 # Thierry Moisan <thierryn@videotron.ca>, 2005.
 # Stéphane Raimbault <stephane.raimbault@free.fr>, 2006
 # Robert-André Mauchin <zebob.m@pengzone.org>, 2008.
+# Bruno Brouard <annoa.b@gmail.com>, 2010
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.14.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-12 20:20+0100\n"
-"PO-Revision-Date: 2011-03-12 20:22+0100\n"
-"Last-Translator: Robert-André Mauchin <zebob.m@pengzone.org>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-23 14:48+0000\n"
+"PO-Revision-Date: 2011-03-23 17:19+0100\n"
+"Last-Translator: Bruno Brouard <annoa.b@gmail.com>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Souffle"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "Voile"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Soie"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Printemps"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Vagues"
-
-#. Translators: This is the name of a desktop background image that shows outer space images.
-#. You might want to translate it into the equivalent words of your language
-#: ../cosmos/gnome-cosmos.xml.in.in.h:3
-msgid "Cosmos"
-msgstr "Cosmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -55,63 +31,65 @@ msgid "Blinds"
 msgstr "Stores"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Dune"
+msgid "Blue Marble"
+msgstr "La grande bleue"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "Empreinte de pieds"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "Fleur rayonnante"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "Jardin"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "Verte prairie"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "Coccinelle"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Gouttes de pluie"
+msgid "Spaceflare"
+msgstr "Lumière dans l'espace"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Tempête"
+msgid "Spaceflare Nova"
+msgstr "Lumière de nova dans l'espace"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "Deux ailes"
+msgid "Spaceflare Supernova"
+msgstr "Lumière de supernova dans l'espace"
 
 #: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "Soleil couchant sur les dunes"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "Croute terrestre bleue"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "Croute terrestre verte"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "Croute terrestre orange"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
+msgid "Two Wings"
+msgstr "Deux pappus"
+
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "Bois"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "Fleur jaune"
-
-#~ msgid "GNOME Curves"
-#~ msgstr "Courbes GNOME"
-
-#~ msgid "Boats Pattern"
-#~ msgstr "Motif de bateaux"
-
-#~ msgid "Clouds Pattern"
-#~ msgstr "Motif de nuages"
-
-#~ msgid "Stars Pattern"
-#~ msgstr "Motif d'étoiles"
-
-#~ msgid "Ellipses (Translucent)"
-#~ msgstr "Ellipses (translucide)"
-
-#~ msgid "Tentacles (Translucent)"
-#~ msgstr "Tentacules (translucide)"
