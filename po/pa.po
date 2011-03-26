@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
 "cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2011-03-22 03:46+0000\n"
-"PO-Revision-Date: 2011-03-26 23:22+0530\n"
+"PO-Revision-Date: 2011-03-26 23:38+0530\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
 "Language-Team: Punjabi/Panjabi <punjab-l10n@list.sf.net>\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +24,11 @@ msgstr ""
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
-msgstr "ਪਾਣੀ"
+msgstr "ਬੂੰਦ ਪਾਣੀ ਦੀ"
 
 #: ../nature/gnome-nature.xml.in.in.h:2
 msgid "Blinds"
-msgstr "ਪਰਦਾ"
+msgstr "ਹਰੀਆਂ ਲਹਿਰਾਂ"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
 msgid "Blue Marble"
@@ -36,7 +36,7 @@ msgstr "ਨੀਲਾ ਸੰਗਮਰਮਰ"
 
 #: ../nature/gnome-nature.xml.in.in.h:4
 msgid "Foot Fall"
-msgstr "ਪੈਰੀ ਡਿੱਗਣਾ"
+msgstr "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
@@ -46,7 +46,7 @@ msgstr "ਤਾਜ਼ਾ ਫੁੱਲ"
 
 #: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
-msgstr "ਬਾਗ"
+msgstr "ਸੂਹਾ ਰੰਗ"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
@@ -68,23 +68,23 @@ msgstr "ਪੁਲਾੜੀ ਨਜ਼ਾਰਾ ਸੁਪਰ-ਨੋਵਾ"
 
 #: ../nature/gnome-nature.xml.in.in.h:15
 msgid "Sundown Dunes"
-msgstr "ਢਲਦੀਆਂ ਸ਼ਾਮਾਂ"
+msgstr "ਤਰਕਾਲ ਸੰਧਿਆ"
 
 #: ../nature/gnome-nature.xml.in.in.h:16
 msgid "Terraform Blue"
-msgstr "ਟੇਰਾਰੂਪੀ ਨੀਲਾ"
+msgstr "ਧਰਤ-ਰੂਪੀ ਨੀਲਾ"
 
 #: ../nature/gnome-nature.xml.in.in.h:17
 msgid "Terraform Green"
-msgstr "ਟੇਰਾਰੂਪੀ ਹਰਾ"
+msgstr "ਧਰਤ-ਰੂਪੀ ਹਰਾ"
 
 #: ../nature/gnome-nature.xml.in.in.h:18
 msgid "Terraform Orange"
-msgstr "ਟੇਰਾਰੂਪੀ ਸੰਤਰੀ"
+msgstr "ਧਰਤ-ਰੂਪੀ ਸੰਤਰੀ"
 
 #: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
-msgstr "ਦੋ ਖੰਭ"
+msgstr "ਦੋ ਖੰਭੜੇ"
 
 #: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
