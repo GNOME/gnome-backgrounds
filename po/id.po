@@ -4,42 +4,22 @@
 #
 #
 # ahmad riza h nst <ari@160c.afraid.org>, 2005.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.master.id\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&component=general\n"
-"POT-Creation-Date: 2010-07-20 08:13+0000\n"
-"PO-Revision-Date: 2010-05-18 07:18+0700\n"
-"Last-Translator: Dirgita <dirgitadevina@gmail.com>\n"
-"Language-Team: GNOME Indonesian Translation Team <gnome-l10n-id@googlegroups."
-"com>\n"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-26 18:12+0000\n"
+"PO-Revision-Date: 2011-03-27 13:05+0700\n"
+"Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
+"Language-Team: Indonesian <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: id\n"
+"X-Generator: Lokalize 1.1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-# Disesuaikan dengan gambar.
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Alur-alur Buih"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "Tegukan"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Sutra"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Musim Semi"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Ombak"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -49,47 +29,95 @@ msgstr "Air"
 msgid "Blinds"
 msgstr "Bersamar"
 
-# Disesuaikan dengan gambar.
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Ilalang"
+msgid "Blue Marble"
+msgstr "Planet Biru"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "Bulir Kaki"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "Bunga yang Segar"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "Taman"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "Padang Menghijau"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "Kumbang"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Tetesan Hujan"
+msgid "Spaceflare"
+msgstr "Nyala Cahaya"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Badai"
+msgid "Spaceflare Nova"
+msgstr "Nyala Cahaya Nova"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "Nyala Cahaya Supernova"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "Senja di Bukit Pasir"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "Corak Biru"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "Corak Hijau"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "Corak Jingga"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "Sepasang Sayap"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "Kayu"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "Bunga Kuning"
+
+# Disesuaikan dengan gambar.
+#~ msgid "Flow"
+#~ msgstr "Alur-alur Buih"
+
+#~ msgid "Gulp"
+#~ msgstr "Tegukan"
+
+#~ msgid "Silk"
+#~ msgstr "Sutra"
+
+#~ msgid "Spring"
+#~ msgstr "Musim Semi"
+
+#~ msgid "Waves"
+#~ msgstr "Ombak"
+
+# Disesuaikan dengan gambar.
+#~ msgid "Dune"
+#~ msgstr "Ilalang"
+
+#~ msgid "Lady Bird"
+#~ msgstr "Kumbang"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Tetesan Hujan"
+
+#~ msgid "Storm"
+#~ msgstr "Badai"
