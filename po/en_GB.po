@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-13 16:59+0000\n"
-"PO-Revision-Date: 2011-03-13 17:00+0100\n"
+"POT-Creation-Date: 2011-03-30 14:48+0100\n"
+"PO-Revision-Date: 2011-03-30 14:50+0100\n"
 "Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
 "Language-Team: British English <en@li.org>\n"
 "Language: en_GB\n"
@@ -17,32 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.6.1\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Flow"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "Gulp"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Silk"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Spring"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Waves"
-
-#. Translators: This is the name of a desktop background image that shows outer space images.
-#. You might want to translate it into the equivalent words of your language
-#: ../cosmos/gnome-cosmos.xml.in.in.h:3
-msgid "Cosmos"
-msgstr "Cosmos"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -53,48 +27,98 @@ msgid "Blinds"
 msgstr "Blinds"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Dune"
+msgid "Blue Marble"
+msgstr "Blue Marble"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "Foot Fall"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "Fresh Flower"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "Garden"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "Green Meadow"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "Ladybird"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Rain Drops"
+msgid "Spaceflare"
+msgstr "Spaceflare"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Storm"
+msgid "Spaceflare Nova"
+msgstr "Spaceflare Nova"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "Spaceflare Supernova"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "Sundown Dunes"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "Terraform Blue"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "Terraform Green"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "Terraform Orange"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "Two Wings"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "Wood"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "Yellow Flower"
+
+#~ msgid "Flow"
+#~ msgstr "Flow"
+
+#~ msgid "Gulp"
+#~ msgstr "Gulp"
+
+#~ msgid "Silk"
+#~ msgstr "Silk"
+
+#~ msgid "Spring"
+#~ msgstr "Spring"
+
+#~ msgid "Waves"
+#~ msgstr "Waves"
+
+#~ msgid "Cosmos"
+#~ msgstr "Cosmos"
+
+#~ msgid "Dune"
+#~ msgstr "Dune"
+
+#~ msgid "Lady Bird"
+#~ msgstr "Ladybird"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Rain Drops"
+
+#~ msgid "Storm"
+#~ msgstr "Storm"
 
 #~ msgid "GNOME Curves"
 #~ msgstr "GNOME Curves"
