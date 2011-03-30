@@ -2,40 +2,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
-# Iñaki Larrañaga Murgoitio  <dooteo@euskalgnu.org>, 2005, 2006, 2008, 2010.
+# Iñaki Larrañaga Murgoitio  <dooteo@euskalgnu.org>, 2005, 2006, 2008, 2010, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: eu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-08-22 17:16+0200\n"
-"PO-Revision-Date: 2010-03-23 12:12+0100\n"
+"POT-Creation-Date: 2011-03-30 20:06+0200\n"
+"PO-Revision-Date: 2011-03-30 20:14+0200\n"
 "Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>\n"
 "Language-Team: Basque <itzulpena@euskalgnu.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
 "X-Generator: KBabel 1.11.4\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Fluxua"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "Zurrut"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Zeta"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Udaberria"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Uhinak"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -46,46 +26,66 @@ msgid "Blinds"
 msgstr "Hosto-pertsianak"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Duna"
+msgid "Blue Marble"
+msgstr "Marmol urdina"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "Oinatza"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "Lora freskoa"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "Lorategia"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "Belardi berdea"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "Mari-gorringo"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Euri tantak"
+msgid "Spaceflare"
+msgstr "Espazioko distira"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Ekaitza"
+msgid "Spaceflare Nova"
+msgstr "Espazioko nobaren distira"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "Espazioko supernobaren distira"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "Eguzki-sarrera dunetan"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "Lurraren gainazal urdina"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "Lurraren gainazal berdea"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "Lurraren gainazal laranja"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "Bi hego"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "Egurra"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "Lore horia"
 
