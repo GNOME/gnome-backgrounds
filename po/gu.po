@@ -1,16 +1,16 @@
-# translation of gnome-backgrounds.HEAD.gu.po to Gujarati
+# translation of gu.po to Gujarati
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Ankit Patel <ankit@redhat.com>, 2005.
 # Ankit Patel <ankit644@yahoo.com>, 2006.
-# Sweta Kothari <swkothar@redhat.com>, 2008.
+# Sweta Kothari <swkothar@redhat.com>, 2008, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds.HEAD.gu\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
-"PO-Revision-Date: 2008-08-05 12:11+0530\n"
+"Project-Id-Version: gu\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-22 03:46+0000\n"
+"PO-Revision-Date: 2011-04-01 16:34+0530\n"
 "Last-Translator: Sweta Kothari <swkothar@redhat.com>\n"
 "Language-Team: Gujarati\n"
 "MIME-Version: 1.0\n"
@@ -21,26 +21,6 @@ msgstr ""
 "\n"
 "\n"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "પ્રવાહ"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "ઘૂંટ"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "રેશમ"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "વસંતઋતુ"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "મોજાંઓ"
-
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
 msgstr "પાની"
@@ -50,46 +30,66 @@ msgid "Blinds"
 msgstr "આંધળાઓ"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "રેતીનો ટેંકરો"
+msgid "Blue Marble"
+msgstr "વાદળી માર્બલ"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "ફુટબોલ"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "તાજું ફૂલ"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "બગીચો"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "ગ્રીન મીડો"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "લાલ કાળા ચિટીંયો વાળુ જીવડું"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "વરસાદનાં ટીપાંઓ"
+msgid "Spaceflare"
+msgstr "સ્પૅસફ્લેર"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "વાવાઝોડું"
+msgid "Spaceflare Nova"
+msgstr "સ્પૅસફ્લેર નોવા"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "સ્પૅસફ્લેર સુપરનોવા"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "સનડાઉન ટેકરો"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "ટૅરાફોર્મ વાદળી"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "ટૅરાફોર્મ લીલુ"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "ટૅરાફોર્મ નારંગી"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "બે પાંખો"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "લાકડુ"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "પીળા ફૂલ"
 
