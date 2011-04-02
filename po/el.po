@@ -5,46 +5,21 @@
 # Kostas Papadimas<pkst@gnome.org>, 2004, 2006.
 # Kostas Papad <pkst@gnome.org>, 2004.
 # Elias Makris <ilmakris@sch.gr>, 2008.
+# George Stefanakis <george.stefanakis@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-21 02:11+0200\n"
-"PO-Revision-Date: 2008-09-02 15:53+0300\n"
-"Last-Translator: Elias Makris <ilmakris@sch.gr>\n"
-"Language-Team: Greek <team@lists.gnome.gr>\n"
+"POT-Creation-Date: 2011-04-02 16:42+0300\n"
+"PO-Revision-Date: 2011-03-22 17:11+0200\n"
+"Last-Translator: George Stefanakis <george.stefanakis@gmail.com>\n"
+"Language-Team: Greek <team@gnome.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Ροή"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "Γουλιά"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Μετάξι"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Άνοιξη"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Κύματα"
-
-#. Translators: This is the name of a desktop background image that shows outer space images.
-#. You might want to translate it into the equivalent words of your language
-#: ../cosmos/gnome-cosmos.xml.in.in.h:3
-msgid "Cosmos"
-msgstr "Σύμπαν"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -55,45 +30,95 @@ msgid "Blinds"
 msgstr "Περσίδες"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Αμμόλοφος"
+msgid "Blue Marble"
+msgstr "Μπλε μάρμαρο"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "Πατημασιές"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "Λουλούδι"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "Κήπος"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "Πράσινο λιβάδι"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "Λαμπρίτσα"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Στάλες βροχής"
+msgid "Spaceflare"
+msgstr "Διαστημική φλόγα"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Καταιγίδα"
+msgid "Spaceflare Nova"
+msgstr "Διαστημική φλόγα Nova"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "Διαστημική φλόγα Supernova"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "Αμμόλοφοι στο ηλιοβασίλεμα"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "Μετασχηματισμός μπλε"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "Μετασχηματισμός πράσινο"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "Μετασχηματισμός πορτοκαλί"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "Δύο κύματα"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "Ξύλο"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "Κίτρινο λουλούδι"
+
+#~ msgid "Flow"
+#~ msgstr "Ροή"
+
+#~ msgid "Gulp"
+#~ msgstr "Γουλιά"
+
+#~ msgid "Silk"
+#~ msgstr "Μετάξι"
+
+#~ msgid "Spring"
+#~ msgstr "Άνοιξη"
+
+#~ msgid "Waves"
+#~ msgstr "Κύματα"
+
+#~ msgid "Cosmos"
+#~ msgstr "Σύμπαν"
+
+#~ msgid "Dune"
+#~ msgstr "Αμμόλοφος"
+
+#~ msgid "Lady Bird"
+#~ msgstr "Λαμπρίτσα"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Στάλες βροχής"
+
+#~ msgid "Storm"
+#~ msgstr "Καταιγίδα"
