@@ -7,40 +7,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&component=general\n"
-"POT-Creation-Date: 2011-03-06 05:43+0000\n"
-"PO-Revision-Date: 2011-03-19 22:43+0900\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-22 03:46+0000\n"
+"PO-Revision-Date: 2011-04-02 20:04+0900\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: GNOME Korea <gnome-kr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "흐름"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "억누름"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "비단결"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "비틀림"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "물결"
-
-#. Translators: This is the name of a desktop background image that shows outer space images.
-#. You might want to translate it into the equivalent words of your language
-#: ../cosmos/gnome-cosmos.xml.in.in.h:3
-msgid "Cosmos"
-msgstr "우주"
 
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
@@ -51,46 +26,97 @@ msgstr "물"
 msgid "Blinds"
 msgstr "블라인드"
 
+# 지구
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "모래언덕"
+msgid "Blue Marble"
+msgstr "푸른 구슬"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "발바닥 방울"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "상큼한 꽃"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "정원"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "잔디밭"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "무당벌레"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "빗방울"
+msgid "Spaceflare"
+msgstr "우주 불꽃"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "폭풍"
+msgid "Spaceflare Nova"
+msgstr "우주 불꽃 신성"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "우주 불꽃 초신성"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "일몰과 모래 언덕"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "테라폼 파랑"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "테라폼 녹색"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "테라폼 주황"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "민들레 씨앗"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "나무결"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "노란 꽃"
+
+#~ msgid "Flow"
+#~ msgstr "흐름"
+
+#~ msgid "Gulp"
+#~ msgstr "억누름"
+
+#~ msgid "Silk"
+#~ msgstr "비단결"
+
+#~ msgid "Spring"
+#~ msgstr "비틀림"
+
+#~ msgid "Waves"
+#~ msgstr "물결"
+
+#~ msgid "Cosmos"
+#~ msgstr "우주"
+
+#~ msgid "Dune"
+#~ msgstr "모래언덕"
+
+#~ msgid "Lady Bird"
+#~ msgstr "무당벌레"
+
+#~ msgid "Rain Drops"
+#~ msgstr "빗방울"
+
+#~ msgid "Storm"
+#~ msgstr "폭풍"
