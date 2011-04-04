@@ -1,4 +1,4 @@
-SUBDIRS = nature po
+SUBDIRS = backgrounds po
 
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \

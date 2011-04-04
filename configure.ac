@@ -20,7 +20,7 @@ AM_GLIB_GNU_GETTEXT()
 
 AC_CONFIG_FILES([
 Makefile
-nature/Makefile
+backgrounds/Makefile
 po/Makefile.in
 ])
 AC_OUTPUT
