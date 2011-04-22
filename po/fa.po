@@ -1,6 +1,6 @@
 # Persian translation of gnome-backgrounds.
+# Copyright (C) 2010-2011 Iranian Free Software Users Group (IFSUG.org) translation team.
 # Copyright (C) 2005, 2006 Sharif FarsiWeb, Inc.
-# Copyright (C) Iranian Free Software Users Group (IFSUG.org)translation team, 2010, 2011.
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Elnaz Sarbar <elnaz@farsiweb.info>, 2005.
 # Meelad Zakaria <meelad@farsiweb.inf>, 2006.
@@ -10,10 +10,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&component=general\n"
-"POT-Creation-Date: 2010-12-23 17:53+0000\n"
-"PO-Revision-Date: 2011-01-05 20:12+0330\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-03-22 03:46+0000\n"
+"PO-Revision-Date: 2011-04-22 13:23+0330\n"
 "Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: Persian <translate@ifsug.org>\n"
 "MIME-Version: 1.0\n"
@@ -24,26 +23,6 @@ msgstr ""
 "X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "جریان"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "قُلُپ"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "ابریشم"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "بهار"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "امواج"
-
 #: ../nature/gnome-nature.xml.in.in.h:1
 msgid "Aqua"
 msgstr "آب"
@@ -53,48 +32,95 @@ msgid "Blinds"
 msgstr "مخفیگاه"
 
 #: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "شن"
+msgid "Blue Marble"
+msgstr "گوی آبی"
+
+#: ../nature/gnome-nature.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "سقوط"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "گل تازه"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../nature/gnome-nature.xml.in.in.h:8
 msgid "Garden"
 msgstr "باغ"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../nature/gnome-nature.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "مرتع سرسبز"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "خانم پرنده"
-
 #: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "دانه‌های باران"
+msgid "Spaceflare"
+msgstr "شعله‌های فضایی"
 
 #: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "توفان"
+msgid "Spaceflare Nova"
+msgstr "شعله‌های فضایی نوا"
 
 #: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "شعله‌های هوایی برتر نوا"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "تپه غروب"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "ترافورم آبی"
+
+#: ../nature/gnome-nature.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "ترافورم سبز"
+
+#: ../nature/gnome-nature.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "ترافورم نارنجی"
+
+#: ../nature/gnome-nature.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "دو بال"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../nature/gnome-nature.xml.in.in.h:20
 msgid "Wood"
 msgstr "چوب"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../nature/gnome-nature.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "گل زرد"
+
+#~ msgid "Flow"
+#~ msgstr "جریان"
+
+#~ msgid "Gulp"
+#~ msgstr "قُلُپ"
+
+#~ msgid "Silk"
+#~ msgstr "ابریشم"
+
+#~ msgid "Spring"
+#~ msgstr "بهار"
+
+#~ msgid "Waves"
+#~ msgstr "امواج"
+
+#~ msgid "Dune"
+#~ msgstr "شن"
+
+#~ msgid "Lady Bird"
+#~ msgstr "خانم پرنده"
+
+#~ msgid "Rain Drops"
+#~ msgstr "دانه‌های باران"
+
+#~ msgid "Storm"
+#~ msgstr "توفان"
 
 #~ msgid "GNOME Curves"
 #~ msgstr "منحنی‌های گنوم"
