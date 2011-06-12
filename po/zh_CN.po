@@ -1,88 +1,117 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# Simplified Chinese translation of gnome-backgrouds.
+# Copyright (C) 2011 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-backgrounds package.
 # Funda Wang <fundawang@linux.net.cn>, 2004.
+# Eleanor Chen <chenyueg@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-07-22 16:54+0000\n"
-"PO-Revision-Date: 2006-01-30 06:37+0800\n"
-"Last-Translator: Funda Wang <fundawang@linux.net.cn>\n"
-"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"Project-Id-Version: gnome-backgrounds master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-05-29 16:11+0000\n"
+"PO-Revision-Date: 2011-06-12 13:47+0800\n"
+"Last-Translator: Eleanor Chen <chenyueg@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "谜"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "茫"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "丝"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "涌"
-
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "影"
-
-#: ../nature/gnome-nature.xml.in.in.h:1
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:1
 msgid "Aqua"
-msgstr "激起"
+msgstr "水韵"
 
-#: ../nature/gnome-nature.xml.in.in.h:2
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:2
 msgid "Blinds"
 msgstr "絮语"
 
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "盼望"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blue Marble"
+msgstr "卵石"
+
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:4
+msgid "Foot Fall"
+msgstr "脚步"
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:7
 msgid "Fresh Flower"
 msgstr "鲜花"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:8
 msgid "Garden"
 msgstr "绽放"
 
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:11
 msgid "Green Meadow"
 msgstr "生机"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "安然"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Spaceflare"
+msgstr "太空"
 
-#: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "晨露"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:13
+msgid "Spaceflare Nova"
+msgstr "新星"
 
-#: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "阴天"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:14
+msgid "Spaceflare Supernova"
+msgstr "超星"
 
-#: ../nature/gnome-nature.xml.in.in.h:14
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Sundown Dunes"
+msgstr "沙丘"
+
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:16
+msgid "Terraform Blue"
+msgstr "蓝色"
+
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:17
+msgid "Terraform Green"
+msgstr "绿色"
+
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Terraform Orange"
+msgstr "橘色"
+
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:19
 msgid "Two Wings"
 msgstr "远方"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:20
 msgid "Wood"
 msgstr "木理"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Yellow Flower"
 msgstr "黄花"
+
+#~ msgid "Flow"
+#~ msgstr "谜"
+
+#~ msgid "Gulp"
+#~ msgstr "茫"
+
+#~ msgid "Silk"
+#~ msgstr "丝"
+
+#~ msgid "Spring"
+#~ msgstr "涌"
+
+#~ msgid "Waves"
+#~ msgstr "影"
+
+#~ msgid "Dune"
+#~ msgstr "盼望"
+
+#~ msgid "Lady Bird"
+#~ msgstr "安然"
+
+#~ msgid "Rain Drops"
+#~ msgstr "晨露"
+
+#~ msgid "Storm"
+#~ msgstr "阴天"
