@@ -1,3 +1,15 @@
+==============
+Version 3.1.91
+==============
+
+* Release for GNOME 3.1.91
+* Add translator comments to names of background images. Fixes bug #646387
+
+Updated translations:
+
+  Yuri Matsuk (be)
+
+
 =============
 Version 3.1.2
 =============
