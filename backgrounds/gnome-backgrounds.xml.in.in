@@ -44,6 +44,13 @@
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Stripes</_name>
+		<filename>@BACKGROUNDDIR@/Stripes.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Terraform Blue</_name>
