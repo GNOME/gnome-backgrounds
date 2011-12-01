@@ -1,6 +1,6 @@
 # Norwegian translation of gnome-backgrounds (bokmål dialect).
 # Copyright (C) 1999-2004 Free Software Foundation, Inc.
-# Kjartan Maraas <kmaraas@gnome.org>, 1999-2007.
+# Kjartan Maraas <kmaraas@gnome.org>, 1999-2011.
 #
 msgid ""
 msgstr ""
