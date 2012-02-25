@@ -125,7 +125,5 @@ msgstr "Ёғоч"
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
-#, fuzzy
-#| msgid "Fresh Flower"
 msgid "Yellow Flower"
 msgstr "Сариқ гул"
