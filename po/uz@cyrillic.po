@@ -129,18 +129,3 @@ msgstr "Ёғоч"
 #| msgid "Fresh Flower"
 msgid "Yellow Flower"
 msgstr "Сариқ гул"
-
-#~ msgid "GNOME Curves"
-#~ msgstr "GNOME чизиқлари"
-
-#~ msgid "Clouds Pattern"
-#~ msgstr "Булутлар"
-
-#~ msgid "Stars Pattern"
-#~ msgstr "Юлдузлар"
-
-#~ msgid "Ellipses (Translucent)"
-#~ msgstr "Эллипслар (шаффоф)"
-
-#~ msgid "Tentacles (Translucent)"
-#~ msgstr "Қўллар (шаффоф)"
