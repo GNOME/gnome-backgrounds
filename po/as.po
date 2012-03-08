@@ -4,14 +4,14 @@
 #
 # AMITAKHYA PHUKAN <amitakhya.phukan@gmail.com>, 2006.
 # Amitakhya Phukan <aphukan@redhat.com>, 2008.
-# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011.
+# Nilamdyuti Goswami <ngoswami@redhat.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD.as\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-08-30 17:53+0000\n"
-"PO-Revision-Date: 2011-05-27 21:02+0000\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
+"cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-11-24 17:14+0000\n"
+"PO-Revision-Date: 2012-03-08 21:35+0530\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -80,45 +80,51 @@ msgstr "স্পেইচফ্লেয়াৰ নভা"
 msgid "Spaceflare Supernova"
 msgstr "স্পেইচফ্লেয়াৰ চুপাৰনভা"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Stripes"
+msgstr "স্ট্ৰাইপ্চ"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sundown Dunes"
 msgstr "চানডাউন ডিউন্চ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Terraform Blue"
 msgstr "টেৰাফৰ্ম নীলা"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Terraform Green"
 msgstr "টেৰাফৰ্ম সেউজীয়া"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Terraform Orange"
 msgstr "টেৰাফৰ্ম সূমথিৰা"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/TwoWings.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Two Wings"
 msgstr "দুটা পাখি"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Wood"
 msgstr "বননি"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
 msgid "Yellow Flower"
 msgstr "হালধীয়া ফুল"
 
