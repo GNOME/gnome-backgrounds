@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-04-02 17:52+0200\n"
+"POT-Creation-Date: 2012-03-16 23:23+0100\n"
 "PO-Revision-Date: 2011-04-02 17:51+0200\n"
 "Last-Translator: Wouter Bolsterlee <wbolster@gnome.org>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
@@ -23,80 +23,116 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../nature/gnome-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "Water"
-
-#: ../nature/gnome-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "Jaloezieën"
-
-#: ../nature/gnome-nature.xml.in.in.h:3
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blue Marble"
 msgstr "Blauwe knikker"
 
-#: ../nature/gnome-nature.xml.in.in.h:4
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
 msgid "Foot Fall"
 msgstr "Druppels"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:7
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Sundown Dunes"
+msgstr "Zandduinen"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Spaceflare"
+msgstr "Ruimtegloed"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Spaceflare Nova"
+msgstr "Ruimtegloed nova"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Spaceflare Supernova"
+msgstr "Ruimtegloed supernova"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+msgid "Stripes"
+msgstr "Streepjes"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Terraform Blue"
+msgstr "Terravorming blauw"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Terraform Green"
+msgstr "Terravorming groen"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Terraform Orange"
+msgstr "Terravorming oranje"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FreshFlower.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Fresh Flower"
 msgstr "Oranje bloem"
-
-#: ../nature/gnome-nature.xml.in.in.h:8
-msgid "Garden"
-msgstr "Rode bloem"
 
 # dit is geen kiezelstrand maar een foto van grassprietjes
 # groen gras (naar analogie van gele/oranje bloem) of:
 # grasveld/groen grasveld
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/GreenMeadow.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:11
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Green Meadow"
 msgstr "Groen grasveld"
 
-#: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Spaceflare"
-msgstr "Ruimtegloed"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Aqua"
+msgstr "Water"
 
-#: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Spaceflare Nova"
-msgstr "Ruimtegloed nova"
-
-#: ../nature/gnome-nature.xml.in.in.h:14
-msgid "Spaceflare Supernova"
-msgstr "Ruimtegloed supernova"
-
-#: ../nature/gnome-nature.xml.in.in.h:15
-msgid "Sundown Dunes"
-msgstr "Zandduinen"
-
-#: ../nature/gnome-nature.xml.in.in.h:16
-msgid "Terraform Blue"
-msgstr "Terravorming blauw"
-
-#: ../nature/gnome-nature.xml.in.in.h:17
-msgid "Terraform Green"
-msgstr "Terravorming groen"
-
-#: ../nature/gnome-nature.xml.in.in.h:18
-msgid "Terraform Orange"
-msgstr "Terravorming oranje"
-
-#: ../nature/gnome-nature.xml.in.in.h:19
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/TwoWings.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Two Wings"
 msgstr "Dubbele vleugels"
 
-#: ../nature/gnome-nature.xml.in.in.h:20
-msgid "Wood"
-msgstr "Hout"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Blinds"
+msgstr "Jaloezieën"
 
-#: ../nature/gnome-nature.xml.in.in.h:21
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Yellow Flower"
 msgstr "Gele bloem"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Garden.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Garden"
+msgstr "Rode bloem"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+msgid "Wood"
+msgstr "Hout"
 
 #~ msgid "Flow"
 #~ msgstr "Stroming"
