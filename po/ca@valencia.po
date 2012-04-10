@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Jesús Corrius <jesus@softcatala.org>, 2005.
 # Gil Forcada <gilforcada@guifi.net>, 2008, 2011.
+# Jordi Serratosa <jordis@softcatala.cat>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-12 00:23+0100\n"
+"POT-Creation-Date: 2012-04-10 23:13+0200\n"
 "PO-Revision-Date: 2011-03-24 23:51+0100\n"
 "Last-Translator: Gil Forcada <gilforcada@guifi.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
@@ -39,19 +40,19 @@ msgstr "Dunes al capvespre"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
 msgid "Spaceflare"
-msgstr "Flama espaial"
+msgstr "Flama espacial"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
 msgid "Spaceflare Nova"
-msgstr "Nova flama espaial"
+msgstr "Nova flama espacial"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
 msgid "Spaceflare Supernova"
-msgstr "Supernova flama espaial"
+msgstr "Supernova flama espacial"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
