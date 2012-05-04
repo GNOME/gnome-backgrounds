@@ -7,6 +7,8 @@
 		<_name>Blue Marble</_name>
 		<filename>@BACKGROUNDDIR@/BlueMarbleWest.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png - 
@@ -14,6 +16,8 @@
 		<_name>Foot Fall</_name>
 		<filename>@BACKGROUNDDIR@/FootFall.png</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg - 
@@ -21,6 +25,8 @@
 		<_name>Sundown Dunes</_name>
 		<filename>@BACKGROUNDDIR@/SundownDunes.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg - 
@@ -28,6 +34,8 @@
 		<_name>Spaceflare</_name>
 		<filename>@BACKGROUNDDIR@/Spaceflare.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg - 
@@ -35,6 +43,8 @@
 		<_name>Spaceflare Nova</_name>
 		<filename>@BACKGROUNDDIR@/Spaceflare-nova.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg - 
@@ -42,6 +52,8 @@
 		<_name>Spaceflare Supernova</_name>
 		<filename>@BACKGROUNDDIR@/Spaceflare-supernova.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg - 
@@ -56,6 +68,8 @@
 		<_name>Terraform Blue</_name>
 		<filename>@BACKGROUNDDIR@/Terraform-blue.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg - 
@@ -63,6 +77,8 @@
 		<_name>Terraform Green</_name>
 		<filename>@BACKGROUNDDIR@/Terraform-green.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg - 
@@ -70,6 +86,8 @@
 		<_name>Terraform Orange</_name>
 		<filename>@BACKGROUNDDIR@/Terraform-orange.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FreshFlower.jpg - 
@@ -77,6 +95,8 @@
 		<_name>Fresh Flower</_name>
 		<filename>@BACKGROUNDDIR@/FreshFlower.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/GreenMeadow.jpg - 
@@ -84,6 +104,8 @@
 		<_name>Green Meadow</_name>
 		<filename>@BACKGROUNDDIR@/GreenMeadow.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg - 
@@ -91,6 +113,8 @@
 		<_name>Aqua</_name>
 		<filename>@BACKGROUNDDIR@/Aqua.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/TwoWings.jpg - 
@@ -98,6 +122,8 @@
 		<_name>Two Wings</_name>
 		<filename>@BACKGROUNDDIR@/TwoWings.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg - 
@@ -105,6 +131,8 @@
 		<_name>Blinds</_name>
 		<filename>@BACKGROUNDDIR@/Blinds.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg - 
@@ -112,6 +140,8 @@
 		<_name>Yellow Flower</_name>
 		<filename>@BACKGROUNDDIR@/YellowFlower.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Garden.jpg - 
@@ -119,6 +149,8 @@
 		<_name>Garden</_name>
 		<filename>@BACKGROUNDDIR@/Garden.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg - 
@@ -126,5 +158,7 @@
 		<_name>Wood</_name>
 		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
 		<options>zoom</options>
+                <pcolor>#ffffff</pcolor>
+                <scolor>#000000</scolor>
 	</wallpaper>
 </wallpapers>
