@@ -4,14 +4,14 @@
 #
 #
 # ahmad riza h nst <ari@160c.afraid.org>, 2005.
-# Dirgita <dirgitadevina@yahoo.co.id>, 2011.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2011, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-backgrounds.master.id\n"
+"Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-03-26 18:12+0000\n"
-"PO-Revision-Date: 2011-03-27 13:05+0700\n"
+"POT-Creation-Date: 2012-05-14 14:53+0000\n"
+"PO-Revision-Date: 2012-04-05 18:34+0700\n"
 "Last-Translator: Dirgita <dirgitadevina@yahoo.co.id>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,103 +21,111 @@ msgstr ""
 "X-Generator: Lokalize 1.1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../nature/gnome-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "Air"
-
-#: ../nature/gnome-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "Bersamar"
-
-#: ../nature/gnome-nature.xml.in.in.h:3
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blue Marble"
 msgstr "Planet Biru"
 
-#: ../nature/gnome-nature.xml.in.in.h:4
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
 msgid "Foot Fall"
 msgstr "Bulir Kaki"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:7
-msgid "Fresh Flower"
-msgstr "Bunga yang Segar"
-
-#: ../nature/gnome-nature.xml.in.in.h:8
-msgid "Garden"
-msgstr "Taman"
-
-#. Translators: This is the name of a desktop background image that shows a green meadow.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Green Meadow"
-msgstr "Padang Menghijau"
-
-#: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Spaceflare"
-msgstr "Nyala Cahaya"
-
-#: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Spaceflare Nova"
-msgstr "Nyala Cahaya Nova"
-
-#: ../nature/gnome-nature.xml.in.in.h:14
-msgid "Spaceflare Supernova"
-msgstr "Nyala Cahaya Supernova"
-
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
 msgid "Sundown Dunes"
 msgstr "Senja di Bukit Pasir"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Spaceflare"
+msgstr "Nyala Cahaya"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Spaceflare Nova"
+msgstr "Nyala Cahaya Nova"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Spaceflare Supernova"
+msgstr "Nyala Cahaya Supernova"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+msgid "Stripes"
+msgstr "Latar Garis"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Terraform Blue"
 msgstr "Corak Biru"
 
-#: ../nature/gnome-nature.xml.in.in.h:17
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Terraform Green"
 msgstr "Corak Hijau"
 
-#: ../nature/gnome-nature.xml.in.in.h:18
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Terraform Orange"
 msgstr "Corak Jingga"
 
-#: ../nature/gnome-nature.xml.in.in.h:19
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FreshFlower.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Fresh Flower"
+msgstr "Bunga yang Segar"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/GreenMeadow.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Green Meadow"
+msgstr "Padang Menghijau"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Aqua"
+msgstr "Air"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/TwoWings.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Two Wings"
 msgstr "Sepasang Sayap"
 
-#: ../nature/gnome-nature.xml.in.in.h:20
-msgid "Wood"
-msgstr "Kayu"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Blinds"
+msgstr "Bersamar"
 
-#: ../nature/gnome-nature.xml.in.in.h:21
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Yellow Flower"
 msgstr "Bunga Kuning"
 
-# Disesuaikan dengan gambar.
-#~ msgid "Flow"
-#~ msgstr "Alur-alur Buih"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Garden.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Garden"
+msgstr "Taman"
 
-#~ msgid "Gulp"
-#~ msgstr "Tegukan"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+msgid "Wood"
+msgstr "Kayu"
 
-#~ msgid "Silk"
-#~ msgstr "Sutra"
-
-#~ msgid "Spring"
-#~ msgstr "Musim Semi"
-
-#~ msgid "Waves"
-#~ msgstr "Ombak"
-
-# Disesuaikan dengan gambar.
-#~ msgid "Dune"
-#~ msgstr "Ilalang"
-
-#~ msgid "Lady Bird"
-#~ msgstr "Kumbang"
-
-#~ msgid "Rain Drops"
-#~ msgstr "Tetesan Hujan"
-
-#~ msgid "Storm"
-#~ msgstr "Badai"
