@@ -80,7 +80,7 @@ msgstr "Lửa Siêu Nova"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Stripes"
-msgstr ""
+msgstr "Sọc"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
 #. You might want to translate it into the equivalent words of your language
