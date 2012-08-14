@@ -1,24 +1,28 @@
 backgrounddir = $(datadir)/backgrounds/gnome
 
 background_DATA =\
-	FootFall.png \
-	BlueMarbleWest.jpg \
-	Terraform-blue.jpg \
-	Terraform-green.jpg \
-	Terraform-orange.jpg \
-	Spaceflare.jpg \
-	Spaceflare-nova.jpg \
-	Spaceflare-supernova.jpg \
-	SundownDunes.jpg \
-	Stripes.jpg \
 	Aqua.jpg \
 	Blinds.jpg \
+	BlueMarbleWest.jpg \
+	CHmiri.jpg \
+	FootFall.png \
 	FreshFlower.jpg \
 	Garden.jpg \
 	GreenMeadow.jpg \
+	Spaceflare.jpg \
+	Spaceflare-nova.jpg \
+  Stamps.jpg \
+	Stripes.jpg \
+	Stripes34.jpg \
+	SundownDunes.jpg \
+	Terraform-blue.jpg \
+	Terraform-green.jpg \
+	Terraform-orange.jpg \
 	TwoWings.jpg \
+	UnderLit.jpg \
 	Wood.jpg \
-	YellowFlower.jpg
+	YellowFlower.jpg \
+	ZvonecKonec.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties
