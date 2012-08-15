@@ -4,7 +4,7 @@ background_DATA =\
 	Aqua.jpg \
 	Blinds.jpg \
 	BlueMarbleWest.jpg \
-	CHmiri.jpg \
+	Chmiri.jpg \
 	FootFall.png \
 	FreshFlower.jpg \
 	Garden.jpg \
