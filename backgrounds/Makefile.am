@@ -1,27 +1,19 @@
 backgrounddir = $(datadir)/backgrounds/gnome
 
 background_DATA =\
-	Aqua.jpg \
 	Blinds.jpg \
 	BlueMarbleWest.jpg \
 	Chmiri.jpg \
+	Fabric.jpg \
 	FootFall.png \
-	FreshFlower.jpg \
-	Garden.jpg \
-	GreenMeadow.jpg \
 	Spaceflare.jpg \
-	Spaceflare-nova.jpg \
   Stamps.jpg \
 	Stripes.jpg \
 	Stripes34.jpg \
-	SundownDunes.jpg \
-	Terraform-blue.jpg \
 	Terraform-green.jpg \
-	Terraform-orange.jpg \
-	TwoWings.jpg \
+	Tulip.jpg \
 	UnderLit.jpg \
 	Wood.jpg \
-	YellowFlower.jpg \
 	ZvonecKonec.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in
