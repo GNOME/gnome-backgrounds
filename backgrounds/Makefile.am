@@ -10,6 +10,7 @@ background_DATA =\
   Stamps.jpg \
 	Stripes.jpg \
 	Stripes34.jpg \
+	Sunset.jpg \
 	Terraform-green.jpg \
 	Tulip.jpg \
 	UnderLit.jpg \
