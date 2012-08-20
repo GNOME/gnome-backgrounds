@@ -6,6 +6,8 @@ background_DATA =\
 	Chmiri.jpg \
 	Fabric.jpg \
 	FootFall.png \
+	Road.jpg \
+	Sandstone.jpg \
 	Spaceflare.jpg \
   Stamps.jpg \
 	Stripes.jpg \
@@ -15,6 +17,7 @@ background_DATA =\
 	Tulip.jpg \
 	UnderLit.jpg \
 	Wood.jpg \
+	Waves.jpg \
 	ZvonecKonec.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in

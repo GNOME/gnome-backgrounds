@@ -47,6 +47,24 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Road</_name>
+		<filename>@BACKGROUNDDIR@/Road.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Sandstone</_name>
+		<filename>@BACKGROUNDDIR@/Sandstone.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Spaceflare</_name>
@@ -109,6 +127,15 @@
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Underlit</_name>
 		<filename>@BACKGROUNDDIR@/UnderLit.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Waves</_name>
+		<filename>@BACKGROUNDDIR@/Waves.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
