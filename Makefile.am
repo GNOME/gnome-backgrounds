@@ -26,6 +26,7 @@ DISTCLEANFILES = \
 	intltool-update
 
 MAINTAINERCLEANFILES = \
+	INSTALL \
 	Makefile.in \
 	aclocal.m4 \
 	config.h.in \
