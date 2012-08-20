@@ -1,3 +1,23 @@
+==============
+Version 3.5.90
+==============
+
+* Refreshed set of wallpapers for 3.6
+* Hardcode colors for all backgrounds. Fixes bug #675466
+* Switch to xz compression for distribution
+
+
+Updated translations:
+
+  Chao-Hsiung Liao (zh_HK) (zh_TW)
+  Daniel Mustieles (es)
+  Dirgita (id)
+  Fran Diéguez (gl)
+  Nguyễn Thái Ngọc Duy (vi)
+  Nilamdyuti Goswami (as)
+  Мирослав Николић (sr) (sr@latin)
+
+
 =============
 Version 3.4.2
 =============
