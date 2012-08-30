@@ -9,10 +9,11 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-02 13:13+0300\n"
-"PO-Revision-Date: 2012-04-25 20:03+0300\n"
-"Last-Translator: surf <cograss@yahoo.com>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-08-20 09:34+0000\n"
+"PO-Revision-Date: 2012-08-27 02:30+0200\n"
+"Last-Translator: Tom Tryfonidis <tomtryf@gmail.com>\n"
 "Language-Team: Greek Translation Team\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -22,47 +23,47 @@ msgstr ""
 "X-Generator: Virtaal 0.7.0\n"
 "X-Project-Style: gnome\n"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Aqua"
-msgstr "Νερό"
-
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blinds"
 msgstr "Περσίδες"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
 msgid "Blue Marble"
 msgstr "Μπλε μάρμαρο"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Πικραλίδα"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Pink Fabric"
+msgstr "Ροζ ύφασμα"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
 msgid "Foot Fall"
 msgstr "Πατημασιές"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FreshFlower.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
-msgid "Fresh Flower"
-msgstr "Λουλούδι"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Garden.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
-msgid "Garden"
-msgstr "Κήπος"
+msgid "Road"
+msgstr "Δρόμος"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/GreenMeadow.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Green Meadow"
-msgstr "Πράσινο λιβάδι"
+msgid "Sandstone"
+msgstr "Ψαμμίτης"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -70,53 +71,54 @@ msgstr "Πράσινο λιβάδι"
 msgid "Spaceflare"
 msgstr "Διαστημική φλόγα"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stamps.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Spaceflare Nova"
-msgstr "Διαστημική φλόγα Nova"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
-msgid "Spaceflare Supernova"
-msgstr "Διαστημική φλόγα Supernova"
+msgid "Stamps"
+msgstr "Γραμματόσημα"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Stripes"
 msgstr "Ρίγες"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#| msgid "Stripes"
+msgid "Stripes 3.4"
+msgstr "Ρίγες 3.4"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
-msgid "Sundown Dunes"
-msgstr "Αμμόλοφοι στο ηλιοβασίλεμα"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-msgid "Terraform Blue"
-msgstr "Μετασχηματισμός μπλε"
+msgid "Sunset"
+msgstr "Ηλιοβασίλεμα"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Terraform Green"
 msgstr "Μετασχηματισμός πράσινο"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Tulip"
+msgstr "Τουλίπα"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Terraform Orange"
-msgstr "Μετασχηματισμός πορτοκαλί"
+msgid "Underlit"
+msgstr "Λιγοστό φως"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/TwoWings.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
-msgid "Two Wings"
-msgstr "Δύο κύματα"
+msgid "Waves"
+msgstr "Κύματα"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -124,11 +126,44 @@ msgstr "Δύο κύματα"
 msgid "Wood"
 msgstr "Ξύλο"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
-msgid "Yellow Flower"
-msgstr "Κίτρινο λουλούδι"
+msgid "End Bell"
+msgstr "Άνθος"
+
+#~ msgid "Aqua"
+#~ msgstr "Νερό"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "Λουλούδι"
+
+#~ msgid "Garden"
+#~ msgstr "Κήπος"
+
+#~ msgid "Green Meadow"
+#~ msgstr "Πράσινο λιβάδι"
+
+#~ msgid "Spaceflare Nova"
+#~ msgstr "Διαστημική φλόγα Nova"
+
+#~ msgid "Spaceflare Supernova"
+#~ msgstr "Διαστημική φλόγα Supernova"
+
+#~ msgid "Sundown Dunes"
+#~ msgstr "Αμμόλοφοι στο ηλιοβασίλεμα"
+
+#~ msgid "Terraform Blue"
+#~ msgstr "Μετασχηματισμός μπλε"
+
+#~ msgid "Terraform Orange"
+#~ msgstr "Μετασχηματισμός πορτοκαλί"
+
+#~ msgid "Two Wings"
+#~ msgstr "Δύο κύματα"
+
+#~ msgid "Yellow Flower"
+#~ msgstr "Κίτρινο λουλούδι"
 
 #~ msgid "Flow"
 #~ msgstr "Ροή"
@@ -141,9 +176,6 @@ msgstr "Κίτρινο λουλούδι"
 
 #~ msgid "Spring"
 #~ msgstr "Άνοιξη"
-
-#~ msgid "Waves"
-#~ msgstr "Κύματα"
 
 #~ msgid "Cosmos"
 #~ msgstr "Σύμπαν"
