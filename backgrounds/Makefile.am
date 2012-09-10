@@ -6,10 +6,10 @@ background_DATA =\
 	Chmiri.jpg \
 	Fabric.jpg \
 	FootFall.png \
+	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
 	Spaceflare.jpg \
-  Stamps.jpg \
 	Stripes.jpg \
 	Stripes34.jpg \
 	Sunset.jpg \

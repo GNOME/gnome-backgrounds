@@ -46,6 +46,15 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
+		<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Mirror</_name>
+		<filename>@BACKGROUNDDIR@/Mirror.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
@@ -69,15 +78,6 @@
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Spaceflare</_name>
 		<filename>@BACKGROUNDDIR@/Spaceflare.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stamps.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Stamps</_name>
-		<filename>@BACKGROUNDDIR@/Stamps.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
