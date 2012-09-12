@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 3.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-01 00:28+0100\n"
-"PO-Revision-Date: 2012-09-01 00:30+0000\n"
+"POT-Creation-Date: 2012-09-12 08:37+0100\n"
+"PO-Revision-Date: 2012-09-12 08:38+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "Language: pt\n"
@@ -46,29 +46,29 @@ msgstr "Tecido Rosa"
 msgid "Foot Fall"
 msgstr "Pegadas de Chuva"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "Reflexo"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Road"
 msgstr "Estrada"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Sandstone"
 msgstr "Arenito"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Spaceflare"
 msgstr "Explosão Solar"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stamps.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Stamps"
-msgstr "Selos"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -123,6 +123,9 @@ msgstr "Madeira"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
 msgid "End Bell"
 msgstr "Campainha"
+
+#~ msgid "Stamps"
+#~ msgstr "Selos"
 
 #~ msgid "Sundown Dunes"
 #~ msgstr "Dunas ao Por-do-Sol"
