@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-08-20 09:34+0000\n"
-"PO-Revision-Date: 2012-08-29 22:07+0300\n"
+"POT-Creation-Date: 2012-09-10 16:28+0000\n"
+"PO-Revision-Date: 2012-09-13 22:43+0300\n"
 "Last-Translator: Aurimas Černius <aurisc4@gmail.com>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "Language: lt\n"
@@ -47,29 +47,29 @@ msgstr "Rožinis fabrikas"
 msgid "Foot Fall"
 msgstr "Vandens pėdos"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "Veidrodis"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Road"
 msgstr "Kelias"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Sandstone"
 msgstr "Smiltainis"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Spaceflare"
 msgstr "Kosminis tvykstelėjimas"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stamps.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Stamps"
-msgstr "Pašto ženklai"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -80,7 +80,6 @@ msgstr "Brūkšniai"
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
-#| msgid "Stripes"
 msgid "Stripes 3.4"
 msgstr "Brūkšniai 3.4"
 
@@ -125,6 +124,9 @@ msgstr "Medis"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
 msgid "End Bell"
 msgstr "Varpelis"
+
+#~ msgid "Stamps"
+#~ msgstr "Pašto ženklai"
 
 #~ msgid "Aqua"
 #~ msgstr "Vanduo"
