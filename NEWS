@@ -1,4 +1,48 @@
 ==============
+Version 3.5.91
+==============
+
+* Release for GNOME 3.5.91
+* Replace "Stamps" background with "Mirror". Fixes bug #683444.
+
+Updated translations:
+
+  Alexandre Franke (fr)
+  Alexsey Nadtochey (ru)
+  Andika Triwidada (id)
+  Ani Peter (ml)
+  Arash Mousavi (fa)
+  A S Alam (pa)
+  Ask H. Larsen (da)
+  Aurimas Černius (lt)
+  Bruce Cowan (en_GB)
+  Chao-Hsiung Liao (zh_HK) (zh_TW)
+  Daniel Mustieles (es)
+  Duarte Loreto (pt)
+  Fran Diéguez (gl)
+  Gabor Kelemen (hu)
+  Gabriel Speckhahn (pt_BR)
+  Ihar Hrachyshka (be)
+  Kjartan Maraas (nb)
+  Marek Černocký (cs)
+  Martin Srebotnjak (sl)
+  Matej Urbančič (sl)
+  Nguyễn Thái Ngọc Duy (vi)
+  Nilamdyuti Goswami (as)
+  Piotr Drąg (pl)
+  Rafael Ferreira (pt_BR)
+  Sandeep Sheshrao Shedmake (mr)
+  Theppitak Karoonboonyanan (th)
+  Timo Jyrinki (fi)
+  Tobias Endrigkeit (de)
+  Tom Tryfonidis (el)
+  Ville-Pekka Vainio (fi)
+  Yaron Shahrabani (he)
+  Yuri Myasoedov (ru)
+  Мирослав Николић (sr) (sr@latin)
+
+
+==============
 Version 3.5.90
 ==============
 
