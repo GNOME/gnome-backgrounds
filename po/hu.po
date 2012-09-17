@@ -1,5 +1,5 @@
 # Hungarian translation of gnome-backgrounds.
-# Copyright (C) 2005, 2006, 2008, 2011 Free Software Foundation, Inc.
+# Copyright (C) 2005, 2006, 2008, 2011, 2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 #
 # Mate ORY <orymate at gmail d0t com>, 2006.
@@ -7,17 +7,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-08-20 09:34+0000\n"
-"PO-Revision-Date: 2012-09-04 11:36+0200\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-17 23:07+0200\n"
+"PO-Revision-Date: 2012-09-17 23:07+0200\n"
 "Last-Translator: Gabor Kelemen <kelemeng at gnome dot hu>\n"
 "Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: KBabel 1.11.4\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
@@ -50,29 +49,29 @@ msgstr "Rózsaszín szövet"
 msgid "Foot Fall"
 msgstr "Csepptappancs"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "Tükröződés"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Road"
 msgstr "Út"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Sandstone"
 msgstr "Homokkő"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Spaceflare"
 msgstr "Kitörés"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stamps.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Stamps"
-msgstr "Bélyegek"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -83,7 +82,6 @@ msgstr "Csíkok"
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
-#| msgid "Stripes"
 msgid "Stripes 3.4"
 msgstr "Csíkok 3.4"
 
@@ -129,36 +127,3 @@ msgstr "Deszka"
 msgid "End Bell"
 msgstr "Harangvirág"
 
-#~ msgid "Aqua"
-#~ msgstr "Vízcsepp"
-
-#~ msgid "Fresh Flower"
-#~ msgstr "Friss virág"
-
-#~ msgid "Garden"
-#~ msgstr "Kert"
-
-#~ msgid "Green Meadow"
-#~ msgstr "Zöld mező"
-
-#~ msgid "Spaceflare Nova"
-#~ msgstr "Novakitörés"
-
-#~ msgid "Spaceflare Supernova"
-#~ msgstr "Szupernova-kitörés"
-
-#~ msgid "Sundown Dunes"
-#~ msgstr "Dűnék a naplementében"
-
-#~ msgid "Terraform Blue"
-#~ msgstr "Kék szigetek"
-
-#~ msgid "Terraform Orange"
-#~ msgstr "Narancs szigetek"
-
-#~ msgid "Two Wings"
-#~ msgstr "Pitypang"
-
-# http://cvs.gnome.org/viewcvs/*checkout*/gnome-backgrounds/nature/OpenFlower.jpg
-#~ msgid "Yellow Flower"
-#~ msgstr "Sárga virág"
