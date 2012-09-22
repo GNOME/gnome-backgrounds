@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-26 11:15+0300\n"
-"PO-Revision-Date: 2012-08-26 11:25+0200\n"
+"POT-Creation-Date: 2012-09-22 15:07+0300\n"
+"PO-Revision-Date: 2012-09-22 15:07+0200\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
@@ -46,29 +46,29 @@ msgstr "בד ורוד"
 msgid "Foot Fall"
 msgstr "טיפות טביעות רגליים"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "מראה"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Road"
 msgstr "דרך"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Sandstone"
 msgstr "סלע חול"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Spaceflare"
 msgstr "להבה בחלל"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stamps.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Stamps"
-msgstr "חותמות"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -123,6 +123,9 @@ msgstr "עץ"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
 msgid "End Bell"
 msgstr "פעמון הסיום"
+
+#~ msgid "Stamps"
+#~ msgstr "חותמות"
 
 #~ msgid "Aqua"
 #~ msgstr "מים"
