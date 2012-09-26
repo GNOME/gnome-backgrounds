@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Maxim V. Dziumanenko <mvd@mylinux.ua>, 2005-2006.
 # Korostil Daniel <ted.korostiled@gmail.com>, 2011, 2012.
-# Re. <ted.korostiled@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
