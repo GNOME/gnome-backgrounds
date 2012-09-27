@@ -1,77 +1,160 @@
 # Translation of gnome-backgrounds.HEAD.ky.po to
 # This file is distributed under the same license as the gnome-backgrounds package.
+#
 # Ilyas Bakirov <just_ilyas@yahoo.com>, 2005.
+# Timur Zhamakeev <ztimur@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.12.1\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2005-10-31 06:03+0100\n"
-"PO-Revision-Date: 2005-11-01 00:04+0500\n"
-"Last-Translator: Ilyas Bakirov <just_ilyas@yahoo.com>\n"
-"Language-Team: Kirghiz\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2012-09-10 16:28+0000\n"
+"PO-Revision-Date: 2012-09-27 23:47+0600\n"
+"Last-Translator: Timur Zhamakeev <ztimur@gmail.com>\n"
+"Language-Team: Kirghiz <gnome-i18n@gnome.org>\n"
+"Language: ky\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
-#. Translators: This is the name of a desktop background image that shows a large aqua coloured (light blue) GNOME foot.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "Aqua Foot (GNOME Branded)"
-msgstr "Суулуу тапан (GNOME логотиби менен)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr "Жалюзи"
 
-#. Translators: This is the name of a desktop background image that shows a picture of an island called Fraser Island.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:6
-msgid "Fraser Island (GNOME Branded)"
-msgstr "Фрейзер аралы (GNOME логотиби менен)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Blue Marble"
+msgstr "Көк мрамор"
 
-#. Translators: This is the name of a desktop background image that shows a mixture of blurred red and orange colours.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:9
-msgid "Red Blurred (GNOME Branded)"
-msgstr "Кызыл туман (GNOME логотиби менен)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Каакым"
 
-#. Translators: This is the name of a desktop background image that shows a mixture of mainly red and orange colours.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:12
-msgid "Weird Colors (GNOME Branded)"
-msgstr "Сырдуу түстөр (GNOME логотиби менен)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Pink Fabric"
+msgstr "Кызгылтым кездеме"
 
-#. Translators: This is the name of a desktop background image that shows a strange "alien" like pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Alien Artifact (Translucent Tile)"
-msgstr "Бөлөк планеталык артефакт (жарым тунук сайма)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Foot Fall"
+msgstr "Кадам"
 
-#. Translators: This is the name of a desktop background image that shows a pattern similar to that associated with cow skin.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Cow Spots (Translucent Tile)"
-msgstr "Ала уй (жарым тунук сайма)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Mirror"
+msgstr "Күзгү"
 
-#. Translators: This is the name of a desktop background image that shows a diamond pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Diamond Tile Pattern (Translucent Tile)"
-msgstr "Бриллианттар (жарым тунук сайма)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+msgid "Road"
+msgstr "Жол"
 
-#. Translators: This is the name of a desktop background image that shows some ellipsis.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipsis (Translucent)"
-msgstr "Эллипстер (жарым тунук)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#, fuzzy
+msgid "Sandstone"
+msgstr "Майда таш"
 
-#. Translators: This is the name of a desktop background image that shows blurred rectangles.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Rectangles (Translucent)"
-msgstr "Төртбурчтуктар (жарым тунук)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Spaceflare"
+msgstr "Жарылуу"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:9
-msgid "Tentacles (Translucent)"
-msgstr "Кыпчыгыч (жарым тунук)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Stripes"
+msgstr "Тилкелер"
 
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Stripes 3.4"
+msgstr "Тилкелер 3.4"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Sunset"
+msgstr "Күндүн батуусу"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Terraform Green"
+msgstr "Жашыл терраформа"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Tulip"
+msgstr "Кызгалдак"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Underlit"
+msgstr ""
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Waves"
+msgstr "Толкундар"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Wood"
+msgstr "Жагыч"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+msgid "End Bell"
+msgstr "Коңгуроо"
+
+#~ msgid "Aqua Foot (GNOME Branded)"
+#~ msgstr "Суулуу тапан (GNOME логотиби менен)"
+
+#~ msgid "Fraser Island (GNOME Branded)"
+#~ msgstr "Фрейзер аралы (GNOME логотиби менен)"
+
+#~ msgid "Red Blurred (GNOME Branded)"
+#~ msgstr "Кызыл туман (GNOME логотиби менен)"
+
+#~ msgid "Weird Colors (GNOME Branded)"
+#~ msgstr "Сырдуу түстөр (GNOME логотиби менен)"
+
+#~ msgid "Alien Artifact (Translucent Tile)"
+#~ msgstr "Бөлөк планеталык артефакт (жарым тунук сайма)"
+
+#~ msgid "Cow Spots (Translucent Tile)"
+#~ msgstr "Ала уй (жарым тунук сайма)"
+
+#~ msgid "Diamond Tile Pattern (Translucent Tile)"
+#~ msgstr "Бриллианттар (жарым тунук сайма)"
+
+#~ msgid "Ellipsis (Translucent)"
+#~ msgstr "Эллипстер (жарым тунук)"
+
+#~ msgid "Rectangles (Translucent)"
+#~ msgstr "Төртбурчтуктар (жарым тунук)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Кыпчыгыч (жарым тунук)"
