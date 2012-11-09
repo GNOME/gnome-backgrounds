@@ -35,7 +35,7 @@ msgstr "Chodidlá z kvapiek"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
 msgid "Sundown Dunes"
-msgstr ""
+msgstr "Duny pri západe slnka"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -46,18 +46,16 @@ msgstr "Vesmírna žiara"
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
-#, fuzzy
 #| msgid "Spaceflare"
 msgid "Spaceflare Nova"
-msgstr "Vesmírna žiara"
+msgstr "Výbuch vesmírnej novy"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
-#, fuzzy
 #| msgid "Spaceflare"
 msgid "Spaceflare Supernova"
-msgstr "Vesmírna žiara"
+msgstr "Výbuch vesmírnej supernovy"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
