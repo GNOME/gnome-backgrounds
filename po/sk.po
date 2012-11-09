@@ -1,70 +1,156 @@
-# Slovak translations for gnome-backgrounds package.
-# Copyright (C) 2004, 2008 Free Software Foundation, Inc.
+# Slovak translation for gnome-backgrounds.
+# Copyright (C) 2004, 2008, 2010-2012 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Marcel Telka <marcel@telka.sk>, 2004, 2008.
+# Marcel Telka <marcel@telka.sk>, 2004, 2008, 2010, 2011.
+# Dušan Kazik <prescott66@gmail.com>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-10 00:13+0100\n"
-"PO-Revision-Date: 2008-03-10 00:13+0100\n"
-"Last-Translator: Marcel Telka <marcel@telka.sk>\n"
-"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&component=general\n"
+"POT-Creation-Date: 2010-03-21 11:08+0000\n"
+"PO-Revision-Date: 2012-11-09 10:33+0000\n"
+"Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
+"Language-Team: Slovak <gnome-sk-list@gnome.org>\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Krivky GNOME"
+#: ../abstract/gnome-abstract.xml.in.in.h:1
+msgid "Flow"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Vzorka s loďkami"
+#: ../abstract/gnome-abstract.xml.in.in.h:2
+msgid "Gulp"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Vzorka s obláčikmi"
+#: ../abstract/gnome-abstract.xml.in.in.h:3
+msgid "Silk"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
-#. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Vzorka s hviezdičkami"
+#: ../abstract/gnome-abstract.xml.in.in.h:4
+msgid "Spring"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Elipsy (priehľadné)"
+#: ../abstract/gnome-abstract.xml.in.in.h:5
+msgid "Waves"
+msgstr "Vlny"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
-#. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Chápadlá (priehľadné)"
+#: ../nature/gnome-nature.xml.in.in.h:1
+msgid "Aqua"
+msgstr "Voda"
+
+#: ../nature/gnome-nature.xml.in.in.h:2
+msgid "Blinds"
+msgstr "Rolety"
+
+#: ../nature/gnome-nature.xml.in.in.h:3
+msgid "Dune"
+msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
+#: ../nature/gnome-nature.xml.in.in.h:6
 msgid "Fresh Flower"
 msgstr "Červený kvet"
 
+#: ../nature/gnome-nature.xml.in.in.h:7
+msgid "Garden"
+msgstr "Záhrada"
+
 #. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
+#: ../nature/gnome-nature.xml.in.in.h:10
 msgid "Green Meadow"
 msgstr "Zelená lúka"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
+#: ../nature/gnome-nature.xml.in.in.h:11
+msgid "Lady Bird"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:12
+msgid "Rain Drops"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:13
+msgid "Storm"
+msgstr ""
+
+#: ../nature/gnome-nature.xml.in.in.h:14
+msgid "Two Wings"
+msgstr "Dve krídla"
+
+#: ../nature/gnome-nature.xml.in.in.h:15
+msgid "Wood"
+msgstr "Drevo"
+
+#: ../nature/gnome-nature.xml.in.in.h:16
+msgid "Yellow Flower"
 msgstr "Žltý kvet"
+
+#~ msgid "Blue Marble"
+#~ msgstr "Zemeguľa"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Chodidlá z kvapiek"
+
+#~ msgid "Sundown Dunes"
+#~ msgstr "Duny pri západe slnka"
+
+#~ msgid "Spaceflare"
+#~ msgstr "Vesmírna žiara"
+
+#~| msgid "Spaceflare"
+#~ msgid "Spaceflare Nova"
+#~ msgstr "Výbuch vesmírnej novy"
+
+#~| msgid "Spaceflare"
+#~ msgid "Spaceflare Supernova"
+#~ msgstr "Výbuch vesmírnej supernovy"
+
+#~ msgid "Stripes"
+#~ msgstr "Pruhy"
+
+#~| msgid "Terraform Green"
+#~ msgid "Terraform Blue"
+#~ msgstr "Modrý terén"
+
+#~ msgid "Terraform Green"
+#~ msgstr "Zelený terén"
+
+#~| msgid "Terraform Green"
+#~ msgid "Terraform Orange"
+#~ msgstr "Oranžový terén"
+
+#~ msgid "Dandelion"
+#~ msgstr "Púpava"
+
+#~ msgid "Pink Fabric"
+#~ msgstr "Ružová látka"
+
+#~ msgid "Mirror"
+#~ msgstr "Odraz"
+
+#~ msgid "Road"
+#~ msgstr "Cesta"
+
+#~ msgid "Sandstone"
+#~ msgstr "Pieskovec"
+
+#~ msgid "Stripes 3.4"
+#~ msgstr "Pruhy 3.4"
+
+#~ msgid "Sunset"
+#~ msgstr "Západ slnka"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulipány"
+
+#~ msgid "Underlit"
+#~ msgstr "Podsvietenie"
+
+#~ msgid "End Bell"
+#~ msgstr "Zvonček"
