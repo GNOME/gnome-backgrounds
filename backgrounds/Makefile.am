@@ -12,10 +12,9 @@ background_DATA =\
 	Spaceflare.jpg \
 	Stripes.jpg \
 	Stripes34.jpg \
-	Sunset.jpg \
+	Sunset.png \
 	Terraform-green.jpg \
 	Tulip.jpg \
-	UnderLit.jpg \
 	Wood.jpg \
 	Waves.jpg \
 	ZvonecKonec.jpg

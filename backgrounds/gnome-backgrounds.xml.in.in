@@ -97,10 +97,10 @@
 		<options>zoom</options>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg - 
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.png - 
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Sunset</_name>
-		<filename>@BACKGROUNDDIR@/Sunset.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Sunset.png</filename>
 		<options>stretched</options>
 	</wallpaper>
 	<wallpaper deleted="false">
@@ -117,16 +117,6 @@
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Tulip</_name>
 		<filename>@BACKGROUNDDIR@/Tulip.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Underlit</_name>
-		<filename>@BACKGROUNDDIR@/UnderLit.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
