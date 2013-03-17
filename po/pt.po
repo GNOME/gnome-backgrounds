@@ -1,14 +1,14 @@
 # gnome-backgrounds's Portuguese translation.
-# Copyright © 2004, 2006, 2008, 2011, 2012 gnome-backgrounds
+# Copyright © 2004, 2006, 2008, 2011, 2012, 2013 gnome-backgrounds
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2006, 2008, 2011, 2012.
-#
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2006, 2008, 2011, 2012, 2013.
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: 3.6\n"
+"Project-Id-Version: 3.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-12 08:37+0100\n"
-"PO-Revision-Date: 2012-09-12 08:38+0000\n"
+"POT-Creation-Date: 2013-03-17 00:22+0000\n"
+"PO-Revision-Date: 2013-03-17 00:25+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "Language: pt\n"
@@ -82,11 +82,11 @@ msgstr "Riscas"
 msgid "Stripes 3.4"
 msgstr "Riscas 3.4"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.png -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sunset"
-msgstr "Pôr-do-Sol"
+msgstr "pôr do sol"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -100,29 +100,26 @@ msgstr "Paisagem Verde"
 msgid "Tulip"
 msgstr "Túlipa"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Underlit"
-msgstr "Anoitecer"
-
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Waves"
 msgstr "Ondas"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Wood"
 msgstr "Madeira"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "End Bell"
 msgstr "Campainha"
+
+#~ msgid "Underlit"
+#~ msgstr "Anoitecer"
 
 #~ msgid "Stamps"
 #~ msgstr "Selos"
@@ -170,7 +167,7 @@ msgstr "Campainha"
 #~ msgstr "Seda"
 
 #~ msgid "Spring"
-#~ msgstr "Primavera"
+#~ msgstr "primavera"
 
 #~ msgid "Cosmos"
 #~ msgstr "Cosmos"
@@ -206,16 +203,16 @@ msgstr "Campainha"
 #~ msgstr "Tentáculos (Translúcido)"
 
 #~ msgid "Due (Abstract)"
-#~ msgstr "Duo (Abstracto)"
+#~ msgstr "Duo (Abstrato)"
 
 #~ msgid "Due Alternate (Abstract)"
-#~ msgstr "Duo Alternativo (Abstracto)"
+#~ msgstr "Duo Alternativo (Abstrato)"
 
 #~ msgid "Scie (Abstract)"
-#~ msgstr "Ciência (Abstracto)"
+#~ msgstr "Ciência (Abstrato)"
 
 #~ msgid "Scie Alternate (Abstract)"
-#~ msgstr "Ciência Alternativo (Abstracto)"
+#~ msgstr "Ciência Alternativo (Abstrato)"
 
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Pé Aqua (Marca GNOME)"
@@ -260,7 +257,7 @@ msgstr "Campainha"
 #~ msgstr "Masle (Translúcido)"
 
 #~ msgid "Rectangles (Translucent)"
-#~ msgstr "Rectângulos (Translúcido)"
+#~ msgstr "Retângulos (Translúcido)"
 
 #~ msgid "Waves (Translucent)"
 #~ msgstr "Ondas (Translúcido)"
