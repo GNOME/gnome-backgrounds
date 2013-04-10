@@ -4,129 +4,158 @@
 #
 # Baris Cicek <baris@teamforce.name.tr>, 2006, 2008.
 # Muhammet Kara <muhammet.k@gmail.com>, 2011.
+# Ozan Çağlayan <ozancag@gmail.com>, 2013.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-12-23 18:58+0000\n"
-"PO-Revision-Date: 2011-12-29 20:22+0200\n"
-"Last-Translator: Muhammet Kara <muhammet.k@gmail.com>\n"
-"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"POT-Creation-Date: 2013-04-01 16:21+0000\n"
+"PO-Revision-Date: 2013-04-07 22:16+0300\n"
+"Last-Translator: Ozan Çağlayan <ozancag@gmail.com>\n"
+"Language-Team: Türkçe <>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Aqua"
-msgstr "Su"
+"X-Generator: Gtranslator 2.91.6\n"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blinds"
 msgstr "Panjur"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
 msgid "Blue Marble"
 msgstr "Mavi Mermer"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Karahindiba"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
-msgid "Foot Fall"
-msgstr "Ayak Sesi"
+msgid "Pink Fabric"
+msgstr "Pembe Kumaş"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FreshFlower.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
-msgid "Fresh Flower"
-msgstr "Taze Çiçek"
+msgid "Foot Fall"
+msgstr "Ayak İzi"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Garden.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
-msgid "Garden"
-msgstr "Bahçe"
+msgid "Mirror"
+msgstr "Ayna"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/GreenMeadow.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Green Meadow"
-msgstr "Yeşil Manzara"
+msgid "Road"
+msgstr "Yol"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Sandstone"
+msgstr "Kum Taşı"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
-msgid "Spaceflare"
-msgstr "Uzay Pırıltısı"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
-#. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Spaceflare Nova"
-msgstr "Uzay Pırıltısı Nova"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
-msgid "Spaceflare Supernova"
-msgstr "Uzay Pırıltısı Süpernova"
+msgid "Spaceflare"
+msgstr "Uzay Parıltısı"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Stripes"
 msgstr "Şeritler"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Stripes 3.4"
+msgstr "Şeritler 3.4"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.png -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
-msgid "Sundown Dunes"
-msgstr "Gurupta Kumullar"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-blue.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-msgid "Terraform Blue"
-msgstr "Arzi Mavi"
+msgid "Sunset"
+msgstr "Günbatımı"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Terraform Green"
-msgstr "Arzi Yeşil"
+msgstr "Arazi Yeşili"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Tulip"
+msgstr "Laleler"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Terraform Orange"
-msgstr "Arzi Portakal Rengi"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/TwoWings.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
-msgid "Two Wings"
-msgstr "İki Kanat"
+msgid "Waves"
+msgstr "Dalgalar"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Wood"
 msgstr "Ahşap"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/YellowFlower.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
-msgid "Yellow Flower"
-msgstr "Sarı Çiçek"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "End Bell"
+msgstr "Çiçek"
+
+#~ msgid "Aqua"
+#~ msgstr "Su"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "Taze Çiçek"
+
+#~ msgid "Garden"
+#~ msgstr "Bahçe"
+
+#~ msgid "Green Meadow"
+#~ msgstr "Yeşil Manzara"
+
+#~ msgid "Spaceflare Nova"
+#~ msgstr "Uzay Pırıltısı Nova"
+
+#~ msgid "Spaceflare Supernova"
+#~ msgstr "Uzay Pırıltısı Süpernova"
+
+#~ msgid "Sundown Dunes"
+#~ msgstr "Gurupta Kumullar"
+
+#~ msgid "Terraform Blue"
+#~ msgstr "Arzi Mavi"
+
+#~ msgid "Terraform Orange"
+#~ msgstr "Arzi Portakal Rengi"
+
+#~ msgid "Two Wings"
+#~ msgstr "İki Kanat"
+
+#~ msgid "Yellow Flower"
+#~ msgstr "Sarı Çiçek"
 
 #~ msgid "Flow"
 #~ msgstr "Akım"
@@ -139,9 +168,6 @@ msgstr "Sarı Çiçek"
 
 #~ msgid "Spring"
 #~ msgstr "Bahar"
-
-#~ msgid "Waves"
-#~ msgstr "Dalgalar"
 
 #~ msgid "Dune"
 #~ msgstr "Kum Tepesi"
