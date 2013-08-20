@@ -2,23 +2,20 @@ backgrounddir = $(datadir)/backgrounds/gnome
 
 background_DATA =\
 	Blinds.jpg \
-	BlueMarbleWest.jpg \
+	Bokeh_Tails.jpg \
 	Chmiri.jpg \
+	Dark_Ivy.jpg \
 	Fabric.jpg \
+	Flowerbed.jpg \
 	FootFall.png \
 	Locked.jpg \
 	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
-	Spaceflare.jpg \
-	Stripes.jpg \
-	Stripes34.jpg \
-	Sunset.png \
+	Stones.jpg \
 	Terraform-green.jpg \
-	Tulip.jpg \
-	Wood.jpg \
 	Waves.jpg \
-	ZvonecKonec.jpg
+	Whispy_Tails.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties

@@ -10,11 +10,11 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg - 
+		<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Blue Marble</_name>
-		<filename>@BACKGROUNDDIR@/BlueMarbleWest.jpg</filename>
+		<_name>Bokeh Tails</_name>
+		<filename>@BACKGROUNDDIR@/Bokeh_Tails.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -28,11 +28,29 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
+		<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Dark Ivy</_name>
+		<filename>@BACKGROUNDDIR@/Dark_Ivy.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Pink Fabric</_name>
 		<filename>@BACKGROUNDDIR@/Fabric.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+		<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Flower Bed</_name>
+		<filename>@BACKGROUNDDIR@/Flowerbed.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -83,49 +101,28 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg - 
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Spaceflare</_name>
-		<filename>@BACKGROUNDDIR@/Spaceflare.jpg</filename>
+		<_name>Signpost of the Shadows</_name>
+		<filename>@BACKGROUNDDIR@/Signpost_of_the_Shadows.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg - 
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Stripes</_name>
-		<filename>@BACKGROUNDDIR@/Stripes.jpg</filename>
+		<_name>Stones</_name>
+		<filename>@BACKGROUNDDIR@/Stones.jpg</filename>
 		<options>zoom</options>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Stripes 3.4</_name>
-		<filename>@BACKGROUNDDIR@/Stripes34.jpg</filename>
-		<options>zoom</options>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.png - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Sunset</_name>
-		<filename>@BACKGROUNDDIR@/Sunset.png</filename>
-		<options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Terraform Green</_name>
 		<filename>@BACKGROUNDDIR@/Terraform-green.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>Tulip</_name>
-		<filename>@BACKGROUNDDIR@/Tulip.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -139,20 +136,11 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg - 
+		<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Wood</_name>
-		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<_name>End Bell</_name>
-		<filename>@BACKGROUNDDIR@/ZvonecKonec.jpg</filename>
+		<_name>Whispy Tails</_name>
+		<filename>@BACKGROUNDDIR@/Whispy_Tails.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
