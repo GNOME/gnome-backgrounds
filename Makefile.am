@@ -1,5 +1,7 @@
 SUBDIRS = backgrounds po
 
+ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
+
 dist-hook:
 	@if test -d "$(srcdir)/.git"; \
 	then \

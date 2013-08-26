@@ -3,6 +3,8 @@ AC_INIT([gnome-backgrounds],
         [http://bugzilla.gnome.org/browse.cgi?product=gnome-backgrounds],
         [gnome-backgrounds])
 
+AC_CONFIG_MACRO_DIR([m4])
+
 AM_INIT_AUTOMAKE([1.10 no-dist-gzip dist-xz])
 AM_MAINTAINER_MODE([enable])
 
