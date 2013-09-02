@@ -1,3 +1,16 @@
+==============
+Version 3.9.91
+==============
+
+* Release for GNOME 3.9.91
+* Fix autogen and configure. Fixes bug #706792.
+
+Updated translations:
+
+  Seán de Búrca (ga)
+  Victor Ibragimov (tg)
+
+
 =============
 Version 3.8.1
 =============
