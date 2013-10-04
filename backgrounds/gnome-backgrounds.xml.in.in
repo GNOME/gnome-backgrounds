@@ -47,6 +47,15 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 		<wallpaper deleted="false">
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg - 
+		You might want to translate it into the equivalent words of your language  -->
+		<_name>Lock Screen</_name>
+		<filename>@BACKGROUNDDIR@/Locked.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+		<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
 		<_name>Mirror</_name>

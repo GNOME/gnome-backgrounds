@@ -6,6 +6,7 @@ background_DATA =\
 	Chmiri.jpg \
 	Fabric.jpg \
 	FootFall.png \
+	Locked.jpg \
 	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
