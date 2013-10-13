@@ -2,21 +2,22 @@
 # Copyright © 2005 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Jesús Corrius <jesus@softcatala.org>, 2005.
-# Gil Forcada <gilforcada@guifi.net>, 2008, 2011.
+# Gil Forcada <gilforcada@guifi.net>, 2008, 2011, 2013.
 # Jordi Serratosa <jordis@softcatala.cat>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.14\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-26 01:33+0200\n"
-"PO-Revision-Date: 2011-03-24 23:51+0100\n"
+"POT-Creation-Date: 2013-10-13 22:39+0200\n"
+"PO-Revision-Date: 2013-10-13 22:38+0200\n"
 "Last-Translator: Gil Forcada <gilforcada@guifi.net>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "Language: ca-XV\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bits\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -24,11 +25,11 @@ msgstr ""
 msgid "Blinds"
 msgstr "Persiana"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
-msgid "Blue Marble"
-msgstr "Marbre blau"
+msgid "Bokeh Tails"
+msgstr "Cues difuses"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -36,194 +37,80 @@ msgstr "Marbre blau"
 msgid "Dandelion"
 msgstr "Dent de lleó"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Dark Ivy"
+msgstr "Heura negre"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
 msgid "Pink Fabric"
 msgstr "Tela rosa"
 
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Flower Bed"
+msgstr "Llit de flors"
+
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Foot Fall"
 msgstr "Peus d'aigua"
 
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Lock Screen"
+msgstr "Pantalla bloquejada"
+
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Mirror"
 msgstr "Mirall"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Road"
 msgstr "Carretera"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Sandstone"
 msgstr "Pedres de terra"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Spaceflare"
-msgstr "Flama espacial"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
-msgid "Stripes"
-msgstr "Tires"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
-msgid "Stripes 3.4"
-msgstr "Tires 3.4"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
-msgid "Sunset"
-msgstr "Posta de sol"
+msgid "Signpost of the Shadows"
+msgstr "Ombra dels senyals"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Stones"
+msgstr "Pedres"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Terraform Green"
 msgstr "Terra verd"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
-msgid "Tulip"
-msgstr "Tulipa"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Underlit"
-msgstr "Poca llum"
-
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Waves"
 msgstr "Ones"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Wood"
-msgstr "Fusta"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
-msgid "End Bell"
-msgstr "Campaneta"
-
-#~ msgid "Sundown Dunes"
-#~ msgstr "Dunes al capvespre"
-
-#~ msgid "Spaceflare Nova"
-#~ msgstr "Nova flama espacial"
-
-#~ msgid "Spaceflare Supernova"
-#~ msgstr "Supernova flama espacial"
-
-#~ msgid "Terraform Blue"
-#~ msgstr "Terra blau"
-
-#~ msgid "Terraform Orange"
-#~ msgstr "Terra taronja"
-
-#~ msgid "Fresh Flower"
-#~ msgstr "Flor fresca"
-
-#~ msgid "Green Meadow"
-#~ msgstr "Prat verd"
-
-#~ msgid "Aqua"
-#~ msgstr "Aigua"
-
-#~ msgid "Two Wings"
-#~ msgstr "Dues ales"
-
-#~ msgid "Yellow Flower"
-#~ msgstr "Flor groga"
-
-#~ msgid "Garden"
-#~ msgstr "Jardí"
-
-#~ msgid "Flow"
-#~ msgstr "Flux"
-
-#~ msgid "Gulp"
-#~ msgstr "Glop"
-
-#~ msgid "Silk"
-#~ msgstr "Seda"
-
-#~ msgid "Spring"
-#~ msgstr "Primavera"
-
-#~ msgid "Cosmos"
-#~ msgstr "Univers"
-
-#~ msgid "Dune"
-#~ msgstr "Duna"
-
-#~ msgid "Lady Bird"
-#~ msgstr "Marieta"
-
-#~ msgid "Rain Drops"
-#~ msgstr "Gotes de pluja"
-
-#~ msgid "Storm"
-#~ msgstr "Tempesta"
-
-#~ msgid "GNOME Curves"
-#~ msgstr "Corbes del GNOME"
-
-#~ msgid "Boats Pattern"
-#~ msgstr "Patró de vaixells"
-
-#~ msgid "Clouds Pattern"
-#~ msgstr "Patró de núvols"
-
-#~ msgid "Stars Pattern"
-#~ msgstr "Patró d'estrelles"
-
-#~ msgid "Ellipses (Translucent)"
-#~ msgstr "El·lipses (translúcid)"
-
-#~ msgid "Tentacles (Translucent)"
-#~ msgstr "Tentacles (translúcid)"
-
-#~ msgid "Aqua Foot (GNOME Branded)"
-#~ msgstr "Peu aquàtic (marca GNOME)"
-
-#~ msgid "Fraser Island (GNOME Branded)"
-#~ msgstr "Illa de Fraser (marca GNOME)"
-
-#~ msgid "Red Blurred (GNOME Branded)"
-#~ msgstr "Vermell difuminat (marca GNOME)"
-
-#~ msgid "Weird Colors (GNOME Branded)"
-#~ msgstr "Colors estranys (marca GNOME)"
-
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "Objecte extraterrestre (mosaic translúcid)"
-
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Taques de vaca (mosaic translúcid)"
-
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Mosaic en forma de diamant (mosaic translúcid)"
-
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "Rectangles (translúcid)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Whispy Tails"
+msgstr "Plantes al vent"
