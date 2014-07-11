@@ -6,90 +6,187 @@
 # Djihed Afifi <djihed@gmail.com>, 2006.
 # Khaled Hosny <khaledhosny@eglug.org>, 2006, 2007, 2008.
 # Usama Akkad <uak@aya.sy>, 2008.
+# Safa Alfulaij <safa1996alfulaij@gmail.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&component=general\n"
-"POT-Creation-Date: 2009-03-17 14:11+0000\n"
-"PO-Revision-Date: 2008-08-14 20:56+0300\n"
-"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-07-09 05:59+0000\n"
+"PO-Revision-Date: 2014-07-09 14:34+0300\n"
+"Last-Translator: Safa Alfulaij <safa1996alfulaij@gmail.com>\n"
 "Language-Team: Arabic <doc@arabeyes.org>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "تدفق"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr "ستائر"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr "نهم"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#, fuzzy
+msgid "Bokeh Tails"
+msgstr "ذيول بوكيه"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "حرير"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "الهندباء"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "ربيع"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Dark Ivy"
+msgstr "عشقة غامقة"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:5
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Pink Fabric"
+msgstr "النسيج الوردي"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Flower Bed"
+msgstr "سرير أزهار"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+msgid "Foot Fall"
+msgstr "قطرات القدم"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Lock Screen"
+msgstr "شاشة قفل"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#, fuzzy
+msgid "Mirror"
+msgstr "مرآة"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Road"
+msgstr "طريق"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Sandstone"
+msgstr "حجر رملي"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Signpost of the Shadows"
+msgstr "إشارة الظلال"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Stones"
+msgstr "أحجار"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Terraform Green"
+msgstr "تيرافورم أخضر"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Waves"
 msgstr "أمواج"
 
-#: ../nature/gnome-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "زبرجد"
-
-#: ../nature/gnome-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "معتم"
-
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "كثيب"
-
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
-msgid "Fresh Flower"
-msgstr "زهرة نضرة"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Whispy Tails"
+msgstr ""
 
-#: ../nature/gnome-nature.xml.in.in.h:7
-msgid "Garden"
-msgstr "حديقة"
+#~ msgid "Blue Marble"
+#~ msgstr "الكوكب الأزرق"
 
-#. Translators: This is the name of a desktop background image that shows a green meadow.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
-msgid "Green Meadow"
-msgstr "مَرْج أخضر"
+#~ msgid "Spaceflare"
+#~ msgstr "فضاء مشتعل"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr "خنفساء"
+#~ msgid "Stripes"
+#~ msgstr "خطوط"
 
-#: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "قطرات المطر"
+#~ msgid "Stripes 3.4"
+#~ msgstr "خطوط 3,4"
 
-#: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "عاصفة"
+#~ msgid "Sunset"
+#~ msgstr "غروب"
 
-#: ../nature/gnome-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "جناحين"
+#~ msgid "Tulip"
+#~ msgstr "الخزامى"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
-msgid "Wood"
-msgstr "خشب"
+#~ msgid "Underlit"
+#~ msgstr "ضل الإضاءة"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
-msgid "Yellow Flower"
-msgstr "زهرة صفراء"
+#~ msgid "Wood"
+#~ msgstr "خشب"
+
+#~ msgid "End Bell"
+#~ msgstr "ناقوس النهاية"
+
+#~ msgid "Flow"
+#~ msgstr "تدفق"
+
+#~ msgid "Gulp"
+#~ msgstr "نهم"
+
+#~ msgid "Silk"
+#~ msgstr "حرير"
+
+#~ msgid "Spring"
+#~ msgstr "ربيع"
+
+#~ msgid "Aqua"
+#~ msgstr "زبرجد"
+
+#~ msgid "Dune"
+#~ msgstr "كثيب"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "زهرة نضرة"
+
+#~ msgid "Garden"
+#~ msgstr "حديقة"
+
+#~ msgid "Green Meadow"
+#~ msgstr "مَرْج أخضر"
+
+#~ msgid "Lady Bird"
+#~ msgstr "خنفساء"
+
+#~ msgid "Rain Drops"
+#~ msgstr "قطرات المطر"
+
+#~ msgid "Storm"
+#~ msgstr "عاصفة"
+
+#~ msgid "Two Wings"
+#~ msgstr "جناحين"
+
+#~ msgid "Yellow Flower"
+#~ msgstr "زهرة صفراء"
