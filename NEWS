@@ -1,3 +1,24 @@
+===============
+Version 3.13.90
+===============
+
+* Release for GNOME 3.13.90
+* Add default wallpaper (Adwaita)
+
+Updated translations:
+
+  Aurimas Černius (lt)
+  Carles Ferrando (ca@valencia)
+  Daniel Mustieles (es)
+  Gil Forcada (ca)
+  Marek Černocký (cs)
+  Piotr Drąg (pl)
+  Rafael Ferreira (pt_BR)
+  Safa Alfulaij (ar)
+  Tom Tryfonidis (el)
+  Wolfgang Stöggl (de)
+
+
 ==============
 Version 3.12.2
 ==============
