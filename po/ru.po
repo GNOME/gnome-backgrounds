@@ -5,23 +5,28 @@
 # Alexander Sigachov <alexander.sigachov@gmail.com>, 2006.
 # Alexsey Nadtochey <irbis4lan@yandex.com>, 2012.
 # Yuri Myasoedov <omerta13@yandex.ru>, 2012.
+# Stas Solovey <whats_up@tut.by>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD.ru\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2013-10-05 19:56+0000\n"
-"PO-Revision-Date: 2013-10-06 12:53+0300\n"
-"Last-Translator: Yuri Myasoedov <ymyasoedov@yandex.ru>\n"
-"Language-Team: русский <gnome-cyr@gnome.org>\n"
+"POT-Creation-Date: 2014-08-21 18:05+0000\n"
+"PO-Revision-Date: 2014-08-21 22:13+0300\n"
+"Last-Translator: Stas Solovey <whats_up@tut.by>\n"
+"Language-Team: Русский <gnome-cyr@gnome.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Gtranslator 2.91.6\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: ../backgrounds/adwaita.xml.in.in.h:1
+msgid "Default Background"
+msgstr "Стандартный фон"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -65,58 +70,63 @@ msgstr "Цветочная клумба"
 msgid "Foot Fall"
 msgstr "Шаги"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Lock Screen"
 msgstr "Заблокированный экран"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Mirror"
 msgstr "Зеркало"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Road"
 msgstr "Дорога"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sandstone"
 msgstr "Песчаник"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Signpost of the Shadows"
 msgstr "Теневой указатель"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-#| msgid "Sandstone"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Stones"
 msgstr "Камни"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Terraform Green"
 msgstr "Зелёная терраформа"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Waves"
 msgstr "Волны"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Whispy Tails"
 msgstr "Тонкие стебли"
 
