@@ -3,25 +3,28 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 #
 # Matjaž Horvat <m@owca.info>, 2006.
-# Matej Urbančič <mateju@svn.gnome.org>, 2007-2013.
+# Matej Urbančič <mateju@svn.gnome.org>, 2007-2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2013-10-06 14:02+0000\n"
-"PO-Revision-Date: 2013-10-06 18:47+0100\n"
+"POT-Creation-Date: 2014-09-13 06:04+0000\n"
+"PO-Revision-Date: 2014-09-13 19:35+0100\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "Language: sl_SI\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
-"%100==4 ? 3 : 0);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Generator: Poedit 1.5.4\n"
+
+#: ../backgrounds/adwaita.xml.in.in.h:1
+msgid "Default Background"
+msgstr "Privzeto ozadje"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -65,83 +68,62 @@ msgstr "Cvetoča postelja"
 msgid "Foot Fall"
 msgstr "Kapljične stopinje"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Adwaita"
+msgstr "Adwaita"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Lock Screen"
 msgstr "Zeleni zaslon"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Mirror"
 msgstr "Zrcalna podoba"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Road"
 msgstr "Cesta"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sandstone"
 msgstr "Peščenjak"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Signpost of the Shadows"
 msgstr "Senčni kažipot"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Stones"
 msgstr "Kamenje"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Terraform Green"
 msgstr "Odtisno zeleno"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Waves"
 msgstr "Valovanje"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Whispy Tails"
 msgstr "Mali travnati repki"
-
-#~ msgid "Blue Marble"
-#~ msgstr "Modra frnikola"
-
-#~ msgid "Spaceflare"
-#~ msgstr "Vesolje luči"
-
-#~ msgid "Stripes"
-#~ msgstr "Proge"
-
-#~ msgid "Stripes 3.4"
-#~ msgstr "Proge"
-
-#~ msgid "Sunset"
-#~ msgstr "Sončni zahod"
-
-#~ msgid "Tulip"
-#~ msgstr "Tulipan"
-
-#~ msgid "Underlit"
-#~ msgstr "Svetlobe"
-
-#~ msgid "Wood"
-#~ msgstr "Les"
-
-#~ msgid "End Bell"
-#~ msgstr "Zvonec"
