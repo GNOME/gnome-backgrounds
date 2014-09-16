@@ -2,7 +2,7 @@
 # Bengali India translation of gnome-backgrounds
 # This file is distributed under the same license as the PACKAGE package.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
-#
+# 
 # Mahay Alam Khan <makl10n@yahoo.com>, 2005.
 # Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
 # Runa Bhattacharjee <runabh@gmail.com>, 2007.
@@ -13,16 +13,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
 "POT-Creation-Date: 2012-09-10 16:28+0000\n"
-"PO-Revision-Date: 2012-09-21 20:03+0530\n"
+"PO-Revision-Date: 2012-09-21 10:33-0400\n"
 "Last-Translator: Runa Bhattacharjee <runab@redhat.com>\n"
 "Language-Team: Bengali (India) <anubad@lists.ankur.org.in>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
+"Language: bn-IN\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "\n"
+"X-Generator: Zanata 3.1.2\n"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -90,7 +90,7 @@ msgstr "ডোরাকাটা"
 msgid "Stripes 3.4"
 msgstr "ডোরাকাটা 3.4"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.png -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sunset"
@@ -108,69 +108,20 @@ msgstr "সবুজ প্রান্তর"
 msgid "Tulip"
 msgstr "টিউলিপ ফুল"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Underlit"
-msgstr "আলো আঁধার"
-
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Waves"
 msgstr "ঢেউয়ের খেলা"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Wood"
 msgstr "কাঠের ছবি"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:54
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "End Bell"
 msgstr "ঘন্টা ফুল"
-
-#~ msgid "Flow"
-#~ msgstr "বয়ে চলেছে"
-
-#~ msgid "Gulp"
-#~ msgstr "বুঁদবুঁদ"
-
-#~ msgid "Silk"
-#~ msgstr "রেশম"
-
-#~ msgid "Spring"
-#~ msgstr "ঝর্ণা"
-
-#~ msgid "Aqua"
-#~ msgstr "এক ফোঁটা জল"
-
-# the picture is called dune but shows dry grass. shall change if the picture changes into a sand dune
-#~ msgid "Dune"
-#~ msgstr "ঘাসজমি"
-
-#~ msgid "Fresh Flower"
-#~ msgstr "প্রস্ফুটিত মুকুল"
-
-#~ msgid "Garden"
-#~ msgstr "বাগানের ছবি"
-
-#~ msgid "Green Meadow"
-#~ msgstr "সবুজ নরম ঘাস"
-
-#~ msgid "Lady Bird"
-#~ msgstr "একটি লেডিবার্ড"
-
-#~ msgid "Rain Drops"
-#~ msgstr "টাপুর টুপুর বৃষ্টি"
-
-#~ msgid "Storm"
-#~ msgstr "ঝড় আসছে"
-
-#~ msgid "Two Wings"
-#~ msgstr "দুটি পাখনা"
-
-#~ msgid "Yellow Flower"
-#~ msgstr "সূর্য্যমূখী"
