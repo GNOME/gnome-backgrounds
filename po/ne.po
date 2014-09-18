@@ -10,67 +10,150 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD.ne\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 04:42+0000\n"
-"PO-Revision-Date: 2006-07-17 00:35+0545\n"
-"Last-Translator: Shiva  Pokharel <pokharelshiva@hotmail.com>\n"
-"Language-Team: Nepali <info@mpp.org.np>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-08-07 19:57+0000\n"
+"PO-Revision-Date: 2014-09-18 17:46+0400\n"
+"Last-Translator: Pawan Chitrakar <chautari@gmail.com>\n"
+"Language-Team: Nepali Translation Team <chatari@gmail.com>\n"
+"Language: ne\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
-"Plural-Forms: nplurals=2;plural=(n!=1)\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2;plural=(n!=1);\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
-#. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "जिनोम बक्ररेखाहरू"
+#: ../backgrounds/adwaita.xml.in.in.h:1
+msgid "Default Background"
+msgstr "पूर्वनिर्धारित पृष्ठभूमि"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "डुङ्गाहरूको बाँन्की"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "बादलहरूको बाँन्की"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Bokeh Tails"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "ताराहरूको बाँन्की"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "दीर्घवृत (पारदर्शी)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+#, fuzzy
+msgid "Dark Ivy"
+msgstr "अँध्यारो"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Tentacles (पारदर्शी)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Pink Fabric"
+msgstr "गुलाबी कपडा"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Fresh Flower"
-msgstr "ताजा फूल"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Flower Bed"
+msgstr ""
 
-#. Translators: This is the name of a desktop background image that shows a pebble beach.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
-msgid "Green Meadow"
-msgstr "हरियो चौर"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#, fuzzy
+msgid "Foot Fall"
+msgstr "खुट्टा"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "खुला फूल"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Adwaita"
+msgstr "अदविता"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Lock Screen"
+msgstr "पर्दा ताल्चा लगाउनुहोस्"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Mirror"
+msgstr "दर्पण"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Road"
+msgstr "बाटो"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Sandstone"
+msgstr ""
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Signpost of the Shadows"
+msgstr ""
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Stones"
+msgstr "ढुङ्गा"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Terraform Green"
+msgstr "टेराफ्रम हरियो"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Waves"
+msgstr "तरङ्ग"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Whispy Tails"
+msgstr ""
+
+#~ msgid "GNOME Curves"
+#~ msgstr "जिनोम बक्ररेखाहरू"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "डुङ्गाहरूको बाँन्की"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "बादलहरूको बाँन्की"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "ताराहरूको बाँन्की"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "दीर्घवृत (पारदर्शी)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Tentacles (पारदर्शी)"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "ताजा फूल"
+
+#~ msgid "Green Meadow"
+#~ msgstr "हरियो चौर"
+
+#~ msgid "Open Flower"
+#~ msgstr "खुला फूल"
