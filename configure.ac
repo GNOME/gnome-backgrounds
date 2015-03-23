@@ -1,5 +1,5 @@
 AC_INIT([gnome-backgrounds],
-        [3.15.92],
+        [3.16.0],
         [http://bugzilla.gnome.org/browse.cgi?product=gnome-backgrounds],
         [gnome-backgrounds])
 
