@@ -2,95 +2,174 @@
 # Copyright (C) 2009 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds.
 # package.
-#
 # Michael MORONI <haikara90@gmail.com>, 2009.
-# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2011.
-#
+# Daniel PUENTES <blatberk@openmailbox.org>, 2015.
+# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2011, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.8\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2011-03-22 03:46+0000\n"
-"PO-Revision-Date: 2011-05-19 19:06+0200\n"
+"POT-Creation-Date: 2015-03-03 06:58+0000\n"
+"PO-Revision-Date: 2015-03-27 20:09+0200\n"
 "Last-Translator: Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>\n"
-"Language-Team: Esperanto <ubuntu-l10n-eo@lists.launchpad.net>\n"
+"Language-Team: Esperanto <gnome-l10n-eo@lists.launchpad.net>\n"
+"Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Project-Style: gnome\n"
 
-#: ../nature/gnome-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "Akvo"
+#: ../backgrounds/adwaita.xml.in.in.h:1
+msgid "Default Background"
+msgstr "Defaŭlta fono"
 
-#: ../nature/gnome-nature.xml.in.in.h:2
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blinds"
 msgstr "Verda ventumilo"
 
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Blue Marble"
-msgstr "Blua planedo"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Bokeh Tails"
+msgstr ""
 
-#: ../nature/gnome-nature.xml.in.in.h:4
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Leontodo"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Dark Ivy"
+msgstr "Malhela hedero"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Pink Fabric"
+msgstr ""
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Flower Bed"
+msgstr "Flora lito"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
 msgid "Foot Fall"
 msgstr "Piedaj ŝpuroj"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:7
-msgid "Fresh Flower"
-msgstr "Ruĝa floro"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Adwaita"
+msgstr ""
 
-#: ../nature/gnome-nature.xml.in.in.h:8
-msgid "Garden"
-msgstr "Ĝardeno"
-
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Green Meadow"
-msgstr "Verda kampo"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#, fuzzy
+msgid "Lock Screen"
+msgstr "Ŝlosita ekrano"
 
-#: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Spaceflare"
-msgstr "Kosmaj lumsignaloj"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Mirror"
+msgstr "Spegulo"
 
-#: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Spaceflare Nova"
-msgstr "Kosma lumfajro"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Road"
+msgstr "Vojo"
 
-#: ../nature/gnome-nature.xml.in.in.h:14
-msgid "Spaceflare Supernova"
-msgstr "Supernovao"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Sandstone"
+msgstr "Sabloŝtono"
 
-#: ../nature/gnome-nature.xml.in.in.h:15
-msgid "Sundown Dunes"
-msgstr "Vesperaj dunoj"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Signpost of the Shadows"
+msgstr ""
 
-#: ../nature/gnome-nature.xml.in.in.h:16
-msgid "Terraform Blue"
-msgstr "Blua lando"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Stones"
+msgstr "Ŝtonoj"
 
-#: ../nature/gnome-nature.xml.in.in.h:17
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Terraform Green"
 msgstr "Verda lando"
 
-#: ../nature/gnome-nature.xml.in.in.h:18
-msgid "Terraform Orange"
-msgstr "Oranĝkolora lando"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Waves"
+msgstr "Ondoj"
 
-#: ../nature/gnome-nature.xml.in.in.h:19
-msgid "Two Wings"
-msgstr "Du flugiloj"
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Whispy Tails"
+msgstr ""
 
-#: ../nature/gnome-nature.xml.in.in.h:20
-msgid "Wood"
-msgstr "Arbaro"
+#~ msgid "Aqua"
+#~ msgstr "Akvo"
 
-#: ../nature/gnome-nature.xml.in.in.h:21
-msgid "Yellow Flower"
-msgstr "Flava floro"
+#~ msgid "Blue Marble"
+#~ msgstr "Blua planedo"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "Ruĝa floro"
+
+#~ msgid "Garden"
+#~ msgstr "Ĝardeno"
+
+#~ msgid "Green Meadow"
+#~ msgstr "Verda kampo"
+
+#~ msgid "Spaceflare"
+#~ msgstr "Kosmaj lumsignaloj"
+
+#~ msgid "Spaceflare Nova"
+#~ msgstr "Kosma lumfajro"
+
+#~ msgid "Spaceflare Supernova"
+#~ msgstr "Supernovao"
+
+#~ msgid "Sundown Dunes"
+#~ msgstr "Vesperaj dunoj"
+
+#~ msgid "Terraform Blue"
+#~ msgstr "Blua lando"
+
+#~ msgid "Terraform Orange"
+#~ msgstr "Oranĝkolora lando"
+
+#~ msgid "Two Wings"
+#~ msgstr "Du flugiloj"
+
+#~ msgid "Wood"
+#~ msgstr "Arbaro"
+
+#~ msgid "Yellow Flower"
+#~ msgstr "Flava floro"
 
 #~ msgid "Flow"
 #~ msgstr "Fluo"
@@ -100,9 +179,6 @@ msgstr "Flava floro"
 
 #~ msgid "Spring"
 #~ msgstr "Printempo"
-
-#~ msgid "Waves"
-#~ msgstr "Ondoj"
 
 #~ msgid "Dune"
 #~ msgstr "Duno"
