@@ -6,15 +6,15 @@
 # This file is distributed under the same license as the gnome package.
 #
 # Ivar Smolin <okul@linux.ee>, 2005, 2006, 2008, 2011.
-# Mattias Põldaru <mahfiaz@gmail.com>, 2012.
+# Mattias Põldaru <mahfiaz@gmail.com>, 2012, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2012-09-22 12:08+0000\n"
-"PO-Revision-Date: 2012-09-23 08:52+0300\n"
+"POT-Creation-Date: 2014-04-15 18:18+0000\n"
+"PO-Revision-Date: 2014-04-16 00:52+0300\n"
 "Last-Translator: Mattias Põldaru <mahfiaz@gmail.com>\n"
 "Language-Team: Estonian <>\n"
 "Language: et\n"
@@ -22,31 +22,47 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
 msgid "Blinds"
 msgstr "Kardin"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/BlueMarbleWest.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-msgid "Blue Marble"
-msgstr "Sinine marmor"
+msgid "Bokeh Tails"
+msgstr "Suvine niit"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
 #. You might want to translate it into the equivalent words of your language
 msgid "Dandelion"
 msgstr "Võilill"
 
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+#. You might want to translate it into the equivalent words of your language
+msgid "Dark Ivy"
+msgstr "Luuderohi"
+
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
 msgid "Pink Fabric"
 msgstr "Lilla kangas"
 
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#. You might want to translate it into the equivalent words of your language
+msgid "Flower Bed"
+msgstr "Lillepeenar"
+
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
 msgid "Foot Fall"
 msgstr "Jalad seinal"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. You might want to translate it into the equivalent words of your language
+msgid "Lock Screen"
+msgstr "Lukustatud ekraan"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -63,52 +79,54 @@ msgstr "Maantee"
 msgid "Sandstone"
 msgstr "Liivakivi"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
 #. You might want to translate it into the equivalent words of your language
-msgid "Spaceflare"
-msgstr "Kosmosesära"
+msgid "Signpost of the Shadows"
+msgstr "Teeviida vari"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
 #. You might want to translate it into the equivalent words of your language
-msgid "Stripes"
-msgstr "Triibud"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes34.jpg -
-#. You might want to translate it into the equivalent words of your language
-msgid "Stripes 3.4"
-msgstr "Triibud 3.4"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sunset.jpg -
-#. You might want to translate it into the equivalent words of your language
-msgid "Sunset"
-msgstr "Tehisloojang"
+msgid "Stones"
+msgstr "Rannakivid"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
 msgid "Terraform Green"
 msgstr "Terra pind, roheline"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Tulip.jpg -
-#. You might want to translate it into the equivalent words of your language
-msgid "Tulip"
-msgstr "Tulbid"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/UnderLit.jpg -
-#. You might want to translate it into the equivalent words of your language
-msgid "Underlit"
-msgstr "Alavalgustatud"
-
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
 msgid "Waves"
 msgstr "Lained"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Wood.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-msgid "Wood"
-msgstr "Lauad"
+msgid "Whispy Tails"
+msgstr "Viljapead"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/ZvonecKonec.jpg -
-#. You might want to translate it into the equivalent words of your language
-msgid "End Bell"
-msgstr "Kellukas"
+#~ msgid "Blue Marble"
+#~ msgstr "Sinine marmor"
+
+#~ msgid "Spaceflare"
+#~ msgstr "Kosmosesära"
+
+#~ msgid "Stripes"
+#~ msgstr "Triibud"
+
+#~ msgid "Stripes 3.4"
+#~ msgstr "Triibud 3.4"
+
+#~ msgid "Sunset"
+#~ msgstr "Tehisloojang"
+
+#~ msgid "Tulip"
+#~ msgstr "Tulbid"
+
+#~ msgid "Underlit"
+#~ msgstr "Alavalgustatud"
+
+#~ msgid "Wood"
+#~ msgstr "Lauad"
+
+#~ msgid "End Bell"
+#~ msgstr "Kellukas"
