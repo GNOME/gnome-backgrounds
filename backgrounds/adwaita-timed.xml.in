@@ -29,7 +29,7 @@
 <file>@datadir@/backgrounds/gnome/adwaita-day.jpg</file>
 </static>
 
-<!-- It's 7 PM and it's going to start to get darker. This will transition for 6 hours up until midnight. -->
+<!-- It's 6 PM and it's going to start to get darker. This will transition for 6 hours up until midnight. -->
 <transition type="overlay">
 <duration>21600.0</duration>
 <from>@datadir@/backgrounds/gnome/adwaita-day.jpg</from>
