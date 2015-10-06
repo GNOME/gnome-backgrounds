@@ -2,12 +2,14 @@
 # Copyright © 2004, 2006, 2008, 2011, 2012 gnome-backgrounds
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2006, 2008, 2011, 2012.
+# Pedro Albuquerque <palbuquerque73@gmail.com>, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 3.4\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-03-17 00:27+0000\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-09-29 06:31+0000\n"
 "PO-Revision-Date: 2012-03-17 00:30+0000\n"
 "Last-Translator: Duarte Loreto <happyguy_pt@hotmail.com>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
@@ -20,37 +22,37 @@ msgstr ""
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
 msgid "Blue Marble"
-msgstr "Mármore Azul"
+msgstr "Mármore azul"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
 msgid "Foot Fall"
-msgstr "Pegadas de Chuva"
+msgstr "Pegadas de chuva"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/SundownDunes.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
 msgid "Sundown Dunes"
-msgstr "Dunas ao Por-do-Sol"
+msgstr "Dunas ao pôr do Sol"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
 msgid "Spaceflare"
-msgstr "Explosão Solar"
+msgstr "Explosão solar"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-nova.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
 msgid "Spaceflare Nova"
-msgstr "Explosão Solar numa Nova"
+msgstr "Explosão solar numa nova"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Spaceflare-supernova.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
 msgid "Spaceflare Supernova"
-msgstr "Explosão Solar numa Supernova"
+msgstr "Explosão solar numa supernova"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stripes.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -62,31 +64,31 @@ msgstr "Riscas"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
 msgid "Terraform Blue"
-msgstr "Paisagem Azul"
+msgstr "Paisagem azul"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Terraform Green"
-msgstr "Paisagem Verde"
+msgstr "Paisagem verde"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-orange.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Terraform Orange"
-msgstr "Paisagem Laranja"
+msgstr "Paisagem laranja"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FreshFlower.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Fresh Flower"
-msgstr "Flor Alaranjada"
+msgstr "Flor alaranjada"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/GreenMeadow.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Green Meadow"
-msgstr "Planície Verde"
+msgstr "Planície verde"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Aqua.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -98,7 +100,7 @@ msgstr "Água"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Two Wings"
-msgstr "Duas Asas"
+msgstr "Duas asas"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -110,7 +112,7 @@ msgstr "Persianas"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Yellow Flower"
-msgstr "Flor Amarelada"
+msgstr "Flor amarelada"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Garden.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -134,7 +136,7 @@ msgstr "Madeira"
 #~ msgstr "Seda"
 
 #~ msgid "Spring"
-#~ msgstr "Primavera"
+#~ msgstr "primavera"
 
 #~ msgid "Waves"
 #~ msgstr "Ondas"
@@ -173,16 +175,15 @@ msgstr "Madeira"
 #~ msgstr "Tentáculos (Translúcido)"
 
 #~ msgid "Due (Abstract)"
-#~ msgstr "Duo (Abstracto)"
+#~ msgstr "Duo (abstrato)"
 
 #~ msgid "Due Alternate (Abstract)"
-#~ msgstr "Duo Alternativo (Abstracto)"
-
+#~ msgstr "Duo alternativo (abstrato)"
 #~ msgid "Scie (Abstract)"
-#~ msgstr "Ciência (Abstracto)"
+#~ msgstr "Ciência (abstrato)"
 
 #~ msgid "Scie Alternate (Abstract)"
-#~ msgstr "Ciência Alternativo (Abstracto)"
+#~ msgstr "Ciência alternativo (abstrato)"
 
 #~ msgid "Aqua Foot (GNOME Branded)"
 #~ msgstr "Pé Aqua (Marca GNOME)"
@@ -227,7 +228,7 @@ msgstr "Madeira"
 #~ msgstr "Masle (Translúcido)"
 
 #~ msgid "Rectangles (Translucent)"
-#~ msgstr "Rectângulos (Translúcido)"
+#~ msgstr "Retângulos (translúcido)"
 
 #~ msgid "Waves (Translucent)"
 #~ msgstr "Ondas (Translúcido)"
