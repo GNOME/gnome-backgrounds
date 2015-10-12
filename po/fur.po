@@ -5,66 +5,147 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-02-16 21:53+0100\n"
-"PO-Revision-Date: 2008-02-15 15:16+0100\n"
-"Last-Translator: Massimo Furlani <massimo.furlani@libero.it>\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-08-07 19:57+0000\n"
+"PO-Revision-Date: 2015-10-12 12:11+0200\n"
+"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <massimo.furlani@libero.it>\n"
+"Language: fur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
 
-#. Translators: This is the name of a desktop background image that shows the curves of the GNOME logo.
+#: ../backgrounds/adwaita.xml.in.in.h:1
+msgid "Default Background"
+msgstr "Sfont predefinît"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../branded/gnome-branded.xml.in.in.h:3
-msgid "GNOME Curves"
-msgstr "Vôlts di GNOME"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+msgid "Blinds"
+msgstr "Tende"
 
-#. Translators: This is the name of a desktop background image that shows a boats pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:3
-msgid "Boats Pattern"
-msgstr "Barcjutis ripetudis"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+msgid "Bokeh Tails"
+msgstr "Spîs fûr di fûc"
 
-#. Translators: This is the name of a desktop background image that shows a clouds pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:6
-msgid "Clouds Pattern"
-msgstr "Nuvui ripetûts"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+msgid "Dandelion"
+msgstr "Tale"
 
-#. Translators: This is the name of a desktop background image that shows a stars pattern.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../tiles/gnome-tiles.xml.in.in.h:9
-msgid "Stars Pattern"
-msgstr "Stelis ripetudîs"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+msgid "Dark Ivy"
+msgstr "Elare scure"
 
-#. Translators: This is the name of a desktop background image that shows some ellipses.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:3
-msgid "Ellipses (Translucent)"
-msgstr "Elissis (Semitrasparent)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+msgid "Pink Fabric"
+msgstr "Stofe rose"
 
-#. Translators: This is the name of a desktop background image that shows some wavey lines that appear like tentacles.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../translucent/gnome-translucent.xml.in.in.h:6
-msgid "Tentacles (Translucent)"
-msgstr "Tentacui (Semitrasparent)"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+msgid "Flower Bed"
+msgstr "Jet di rosis"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Fresh Flower"
-msgstr "Rose frescje"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+msgid "Foot Fall"
+msgstr "Çatis"
 
-#. Translators: This is the name of a desktop background image that shows a green meadow.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
-msgid "Green Meadow"
-msgstr "Prât vert"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Adwaita"
+msgstr "Adwaita"
 
-#. Translators: This is the name of a desktop background image that shows a yellow flower.
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:9
-msgid "Open Flower"
-msgstr "Rose vierte"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+msgid "Lock Screen"
+msgstr "Schermi blocât"
 
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+msgid "Mirror"
+msgstr "Spieli"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+msgid "Road"
+msgstr "Strade"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+msgid "Sandstone"
+msgstr "Arenarie"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+msgid "Signpost of the Shadows"
+msgstr "Ombrene dal cartel"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+msgid "Stones"
+msgstr "Pieris"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+msgid "Terraform Green"
+msgstr "Bonificant vert"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+msgid "Waves"
+msgstr "Ondis"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Whispy Tails"
+msgstr "Çufs di spîs"
+
+#~ msgid "GNOME Curves"
+#~ msgstr "Vôlts di GNOME"
+
+#~ msgid "Boats Pattern"
+#~ msgstr "Barcjutis ripetudis"
+
+#~ msgid "Clouds Pattern"
+#~ msgstr "Nuvui ripetûts"
+
+#~ msgid "Stars Pattern"
+#~ msgstr "Stelis ripetudîs"
+
+#~ msgid "Ellipses (Translucent)"
+#~ msgstr "Elissis (Semitrasparent)"
+
+#~ msgid "Tentacles (Translucent)"
+#~ msgstr "Tentacui (Semitrasparent)"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "Rose frescje"
+
+#~ msgid "Green Meadow"
+#~ msgstr "Prât vert"
+
+#~ msgid "Open Flower"
+#~ msgstr "Rose vierte"
