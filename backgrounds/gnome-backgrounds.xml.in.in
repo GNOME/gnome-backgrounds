@@ -146,10 +146,10 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 		<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg - 
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Whispy Tails</_name>
-		<filename>@BACKGROUNDDIR@/Whispy_Tails.jpg</filename>
+		<_name>Godafoss Iceland</_name>
+		<filename>@BACKGROUNDDIR@/Godafoss_Iceland.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>

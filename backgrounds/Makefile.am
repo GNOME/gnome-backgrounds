@@ -13,13 +13,13 @@ background_DATA =\
 	Fabric.jpg \
 	Flowerbed.jpg \
 	FootFall.png \
+	Godafoss_Iceland.jpg \
 	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
 	Stones.jpg \
 	Terraform-green.jpg \
-	Waves.jpg \
-	Whispy_Tails.jpg
+	Waves.jpg
 
 metadata_in_files = gnome-backgrounds.xml.in adwaita.xml.in
 metadatadir = $(datadir)/gnome-background-properties
