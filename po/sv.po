@@ -1,25 +1,24 @@
 # Swedish messages for gnome-backgrounds.
-# Copyright © 2004-2014 Free Software Foundation, Inc.
+# Copyright © 2004-2016 Free Software Foundation, Inc.
 # Christian Rose <menthos@menthos.com>, 2004.
 # Daniel Nylander <po@danielnylander.se>, 2006, 2008, 2011.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2014.
-#
-# $Id: sv.po,v 1.2 2006/03/07 19:44:21 dnylande Exp $
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2014, 2016.
+# Mattias Eriksson <snaggen@gmail.com>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-04 18:04+0000\n"
-"PO-Revision-Date: 2014-09-04 21:22+0100\n"
-"Last-Translator: Mattias Eriksson <snaggen@gmail.com>\n"
+"POT-Creation-Date: 2016-02-19 19:59+0000\n"
+"PO-Revision-Date: 2016-02-19 21:31+0100\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
@@ -123,11 +122,14 @@ msgstr "Terraform Grön"
 msgid "Waves"
 msgstr "Vågor"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Grånade vippor"
+msgid "Godafoss Iceland"
+msgstr "Goðafoss på Island"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Grånade vippor"
 
 #~ msgid "Aqua"
 #~ msgstr "Vattendroppe"
