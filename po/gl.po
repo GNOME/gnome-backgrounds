@@ -7,13 +7,13 @@
 # Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
 # Fran Diéguez <frandieguez@gnome.org>, 2008, 2009, 2010, 2011, 2012.
 # Leandro Regueiro <leandro.regueiro@gmail.com>, 2012.
-# Fran Dieguez <frandieguez@gnome.org>, 2012, 2013, 2014.
+# Fran Dieguez <frandieguez@gnome.org>, 2012, 2013, 2014, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-25 23:12+0200\n"
-"PO-Revision-Date: 2014-08-25 23:12+0200\n"
+"POT-Creation-Date: 2016-02-23 19:27+0100\n"
+"PO-Revision-Date: 2016-02-23 19:45+0200\n"
 "Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
 "Language-Team: gnome-l10n-gl@gnome.org\n"
 "Language: gl\n"
@@ -123,11 +123,14 @@ msgstr "Terra verde"
 msgid "Waves"
 msgstr "Ondas"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Tallos peludos"
+msgid "Godafoss Iceland"
+msgstr "Fervenza dos deuses"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Tallos peludos"
 
 #~ msgid "Blue Marble"
 #~ msgstr "Bola azul"
