@@ -2,22 +2,21 @@
 # Copyright (C) 2003 Free Software Foundation, Inc
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Maxim V. Dziumanenko <mvd@mylinux.ua>, 2005-2006.
-# Daniel Korostil <ted.korostiled@gmail.com>, 2015.
+# Daniel Korostil <ted.korostiled@gmail.com>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-02-24 06:57+0000\n"
-"PO-Revision-Date: 2015-02-24 18:49+0300\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-23 14:11+0200\n"
+"PO-Revision-Date: 2016-02-23 14:13+0300\n"
 "Last-Translator: Daniel Korostil <ted.korostiled@gmail.com>\n"
 "Language-Team: linux.org.ua\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: gnome\n"
 
@@ -121,11 +120,14 @@ msgstr "Зелена Земля"
 msgid "Waves"
 msgstr "Хвилі"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Тонкі стебла"
+msgid "Godafoss Iceland"
+msgstr "Ісландський Гудафос"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Тонкі стебла"
 
 #~ msgid "Blue Marble"
 #~ msgstr "Блакитний мармур"
