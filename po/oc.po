@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Cédric Valmary <cvalmary@yahoo.fr>, 2015.
 # Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>, 2015.
+# Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-10-21 15:53+0000\n"
-"PO-Revision-Date: 2015-10-31 08:06+0200\n"
-"Last-Translator: Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>\n"
-"Language-Team: Tot en òc (totenoc.eu)\n"
+"POT-Creation-Date: 2015-11-10 19:52+0000\n"
+"PO-Revision-Date: 2016-02-26 21:11+0200\n"
+"Last-Translator: Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>\n"
+"Language-Team: Tot En Òc\n"
 "Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +23,7 @@ msgstr ""
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
-msgstr "Rèire plan per defaut"
+msgstr "Rèireplan per defaut"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -46,7 +47,7 @@ msgstr "Granas de pissalièch"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
 msgid "Dark Ivy"
-msgstr "èura escura"
+msgstr "Èura escura"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -145,7 +146,7 @@ msgstr "Coas en espigas"
 #~ msgstr "Òrt"
 
 #~ msgid "Green Meadow"
-#~ msgstr "Prat vèrd"
+#~ msgstr "Prat verd"
 
 #~ msgid "Lady Bird"
 #~ msgstr "Galineta"
