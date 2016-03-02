@@ -6,21 +6,23 @@
 # xxlinux <xxlinux@126.com>, 2011.
 # Cheng Lu <chenglu1990@gmail.com>, 2012.
 # Bin Li <binli@gnome.org>, 2015.
+# Jeff Bai <jeffbai@aosc.xyz>, 2016.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-09-22 06:30+0000\n"
-"PO-Revision-Date: 2015-11-13 16:43+0800\n"
-"Last-Translator: Bin Li <binli@gnome.org>\n"
+"POT-Creation-Date: 2016-02-29 19:58+0000\n"
+"PO-Revision-Date: 2016-02-29 16:42-0700\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
 "Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
@@ -122,11 +124,14 @@ msgstr "地貌之绿"
 msgid "Waves"
 msgstr "浪涌苍穹"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "风舞流年"
+msgid "Godafoss Iceland"
+msgstr "众神仰望"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "风舞流年"
 
 #~ msgid "Blue Marble"
 #~ msgstr "蓝色星球"
