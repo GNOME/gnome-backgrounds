@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-08-28 17:52+0300\n"
-"PO-Revision-Date: 2014-08-28 17:53+0300\n"
+"POT-Creation-Date: 2016-03-11 14:36+0200\n"
+"PO-Revision-Date: 2016-03-11 14:37+0200\n"
 "Last-Translator: Yosef Or Boczko <yoseforb@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
 "Language: he\n"
@@ -116,11 +116,14 @@ msgstr "פני כוכב ירוק"
 msgid "Waves"
 msgstr "גלים"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "קצוות מעורפלים"
+msgid "Godafoss Iceland"
+msgstr "מפלי Godafoss, איסלנד"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "קצוות מעורפלים"
 
 #~ msgid "Blue Marble"
 #~ msgstr "גוּלה כחולה"
