@@ -9,15 +9,15 @@
 # Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2004-2005, 2011.
 # Ilkka Tuohela <hile@iki.fi>, 2006.
 # Timo Jyrinki <timo.jyrinki@iki.fi>, 2008.
-# Jiri Grönroos <jiri.gronroos+l10n@iki.fi>, 2012, 2013, 2014.
+# Jiri Grönroos <jiri.gronroos+l10n@iki.fi>, 2012, 2013, 2014, 2016.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-06 06:03+0000\n"
-"PO-Revision-Date: 2014-09-06 16:20+0300\n"
+"POT-Creation-Date: 2016-03-13 07:57+0000\n"
+"PO-Revision-Date: 2016-03-13 13:03+0200\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>\n"
 "Language-Team: suomi <gnome-fi-laatu@lists.sourceforge.net>\n"
 "Language: fi\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Gtranslator 2.91.7\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
@@ -127,11 +127,14 @@ msgstr "Maanmuotoinen vihreä"
 msgid "Waves"
 msgstr "Aallot"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Harmaantuneet heinäkasvit"
+msgid "Godafoss Iceland"
+msgstr "Godafoss Islanti"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Harmaantuneet heinäkasvit"
 
 #~ msgid "Blue Marble"
 #~ msgstr "Sininen marmorikuula"
