@@ -3,23 +3,22 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2005, 2006, 2008, 2010, 2011, 2012.
-# Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2013, 2014.
+# Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2013, 2014, 2016.
 # Asier Sarasua Garmendi <asiersar@yahoo.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-12-31 17:11+0100\n"
-"PO-Revision-Date: 2014-12-05 23:29+0100\n"
-"Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@zundan.com>\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-24 19:42+0100\n"
+"PO-Revision-Date: 2016-03-24 19:43+0100\n"
+"Last-Translator: dooteo <dooteo@zundan.com>\n"
 "Language-Team: Basque <librezale@librezale.org>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
 "X-Project-Style: gnome\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
@@ -122,11 +121,14 @@ msgstr "Lurraren gainazal berdea"
 msgid "Waves"
 msgstr "Uhinak"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Galburu urdinak"
+msgid "Godafoss Iceland"
+msgstr "Godafoss Islandia"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Galburu urdinak"
 
 #~ msgid "Blue Marble"
 #~ msgstr "Marmol urdina"
