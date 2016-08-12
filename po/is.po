@@ -2,14 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Sveinn í Felli <sv1@fellsnet.is>, 2015.
+# Sveinn í Felli <sv1@fellsnet.is>, 2015, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-ba"
-"ckgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2015-03-25 07:04+0000\n"
-"PO-Revision-Date: 2015-04-09 18:02+0000\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-07-10 06:45+0000\n"
+"PO-Revision-Date: 2016-08-12 11:36+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
 "Language: is\n"
@@ -119,10 +119,11 @@ msgstr "Græn jarðarform"
 msgid "Waves"
 msgstr "Öldur"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Strágrátt"
+msgid "Godafoss Iceland"
+msgstr "Goðafoss á Íslandi"
 
-
+#~ msgid "Whispy Tails"
+#~ msgstr "Strágrátt"
