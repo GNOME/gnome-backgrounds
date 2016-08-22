@@ -1,29 +1,25 @@
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-# Aviary.pl
-# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
-# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas:
-# gnomepl@aviary.pl
-# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Polish translation for gnome-backgrounds.
+# Copyright © 2005-2016 the gnome-backgrounds authors.
+# This file is distributed under the same license as the gnome-backgrounds package.
 # Artur Flinta <aflinta@at.kernel.pl>, 2005-2006.
 # Piotr Zaryk <pzaryk@aviary.pl>, 2008.
 # Piotr Drąg <piotrdrag@gmail.com>, 2011-2016.
-# Aviary.pl <gnomepl@aviary.pl>, 2008-2016.
+# Aviary.pl <community-poland@mozilla.org>, 2008-2016.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-20 16:20+0100\n"
+"POT-Creation-Date: 2016-08-22 19:03+0200\n"
 "PO-Revision-Date: 2016-02-20 16:22+0100\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
-"Language-Team: Polish <gnomepl@aviary.pl>\n"
+"Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Poedit-Language: Polish\n"
-"X-Poedit-Country: Poland\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
