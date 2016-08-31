@@ -2,10 +2,10 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg - 
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Blinds</_name>
-		<filename>@BACKGROUNDDIR@/Blinds.jpg</filename>
+		<_name>Watefalls</_name>
+		<filename>@BACKGROUNDDIR@/Waterfalls.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -56,10 +56,10 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png - 
+		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Foot Fall</_name>
-		<filename>@BACKGROUNDDIR@/FootFall.png</filename>
+		<_name>Icescape</_name>
+		<filename>@BACKGROUNDDIR@/Icescape.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
