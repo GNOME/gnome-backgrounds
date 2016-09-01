@@ -4,7 +4,7 @@
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
-		<_name>Watefalls</_name>
+		<_name>Waterfalls</_name>
 		<filename>@BACKGROUNDDIR@/Waterfalls.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
