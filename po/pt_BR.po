@@ -1,5 +1,5 @@
 # Brazilian Portuguese translation of gnome-backgrounds.
-# Copyright (C) 2013 Free Software Foundation, Inc.
+# Copyright (C) 2016 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Raphael Higino <In memoriam>, 2005.
 # Evandro Fernandes Giovanini <evandrofg@ig.com.br>, 2006.
@@ -10,33 +10,34 @@
 # Gabriel Speckhahn <gabspeck@gmail.com>, 2012.
 # Enrico Nicoletto <liverig@gmail.com>, 2013.
 # Artur de Aquino Morais <artur.morais93@outlook.com>, 2016.
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-02-19 16:52+0000\n"
-"PO-Revision-Date: 2016-02-19 14:32-0300\n"
-"Last-Translator: Artur de Aquino Morais <artur.morais93@outlook.com>\n"
+"POT-Creation-Date: 2016-09-01 08:50+0000\n"
+"PO-Revision-Date: 2016-09-02 08:50-0200\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Brazilian Portuguese <gnome-pt_br-list@gnome.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 1.8.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: gnome\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
 msgstr "Fundo de tela padrão"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Persianas"
+#| msgid "Watefalls"
+msgid "Waterfalls"
+msgstr "Cachoeira"
 
 # Fundo desfocado expõe melhor a ideia de Bokeh para usuários não técnicos em fotografia --Enrico
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
@@ -70,11 +71,11 @@ msgstr "Tecido rosa"
 msgid "Flower Bed"
 msgstr "Canteiro de flores"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Passos"
+msgid "Icescape"
+msgstr "Montanhas geladas"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -135,6 +136,12 @@ msgstr "Ondas"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Godafoss Iceland"
 msgstr "Godafoss Islândia"
+
+#~ msgid "Blinds"
+#~ msgstr "Persianas"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Passos"
 
 #~ msgid "Whispy Tails"
 #~ msgstr "Hastes grisalhas"
