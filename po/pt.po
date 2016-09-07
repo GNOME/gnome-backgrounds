@@ -9,25 +9,25 @@ msgstr ""
 "Project-Id-Version: 3.10\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-05-02 07:13+0000\n"
-"PO-Revision-Date: 2016-05-02 15:47+0100\n"
+"POT-Creation-Date: 2016-09-01 08:50+0000\n"
+"PO-Revision-Date: 2016-09-07 06:41+0100\n"
 "Last-Translator: Tiago Santos <tiagofsantos81@sapo.pt>\n"
 "Language-Team: Portuguese <gnome_pt@yahoogroups.com>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #: ../backgrounds/adwaita.xml.in.in.h:1
 msgid "Default Background"
 msgstr "Fundo predefinido"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Persianas"
+msgid "Waterfalls"
+msgstr "Queda de água"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -59,11 +59,11 @@ msgstr "Tecido rosa"
 msgid "Flower Bed"
 msgstr "Campo florido"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Pegadas de chuva"
+msgid "Icescape"
+msgstr "Paisagem gelada"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -124,6 +124,12 @@ msgstr "Ondas"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Godafoss Iceland"
 msgstr "Godafoss na Islândia"
+
+#~ msgid "Blinds"
+#~ msgstr "Persianas"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Pegadas de chuva"
 
 #~ msgid "Whispy Tails"
 #~ msgstr "Espigas descoloridas"
