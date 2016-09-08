@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-03-30 19:09+0000\n"
-"PO-Revision-Date: 2016-03-31 13:40+0700\n"
+"POT-Creation-Date: 2016-09-08 03:16+0000\n"
+"PO-Revision-Date: 2016-09-08 14:49+0700\n"
 "Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
 "Language-Team: Vietnamese <gnome-vi-list@gnome.org>\n"
 "Language: vi\n"
@@ -26,11 +26,11 @@ msgstr ""
 msgid "Default Background"
 msgstr "Nền mặc định"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Tấm che sáng"
+msgid "Waterfalls"
+msgstr "Thác nước"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -62,11 +62,11 @@ msgstr "Vải hồng"
 msgid "Flower Bed"
 msgstr "Thảm hoa"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Giọt nước hình dấu chân"
+msgid "Icescape"
+msgstr "Tuyết phủ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -78,7 +78,7 @@ msgstr "Adwaita"
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Lock Screen"
-msgstr "Khóa màn hình"
+msgstr "Màn hình khóa"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -127,6 +127,12 @@ msgstr "Sóng biển"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Godafoss Iceland"
 msgstr "Thác Godafoss ở Ai-len"
+
+#~ msgid "Blinds"
+#~ msgstr "Tấm che sáng"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Giọt nước hình dấu chân"
 
 #~ msgid "Whispy Tails"
 #~ msgstr "Đuôi dưới hiệu ứng Whispy"
