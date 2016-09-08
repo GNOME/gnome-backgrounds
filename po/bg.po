@@ -1,15 +1,16 @@
 # Bulgarian translation of gnome-backgrounds po-file.
 # Copyright (C) 2004, 2006, 2011, 2012, 2014 Free Software Foundation
+# Copyright (C) 2016 Free Software Foundation
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Vladimir Petkov <kaladan@gmail.com>, 2004.
 # Alexander Shopov <ash@kambanaria.org>, 2004, 2006, 2008, 2011, 2012, 2014.
-#
+# Alexander Shopov <ash@kambanaria.org>, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-24 07:07+0300\n"
-"PO-Revision-Date: 2014-09-24 07:07+0300\n"
+"POT-Creation-Date: 2016-09-08 06:14+0300\n"
+"PO-Revision-Date: 2016-09-05 14:11+0300\n"
 "Last-Translator: Alexander Shopov <ash@kambanaria.org>\n"
 "Language-Team: Bulgarian <dict@fsa-bg.org>\n"
 "Language: bg\n"
@@ -22,11 +23,11 @@ msgstr ""
 msgid "Default Background"
 msgstr "Стандартни фонове"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Зелен параван"
+msgid "Waterfalls"
+msgstr "Водопади"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -58,11 +59,11 @@ msgstr "Розов плат"
 msgid "Flower Bed"
 msgstr "Цветна леха"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Сиви стъпки"
+msgid "Icescape"
+msgstr "Северна панорама"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -118,8 +119,17 @@ msgstr "Зелени петна"
 msgid "Waves"
 msgstr "Бряг"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "Сиви осили"
+msgid "Godafoss Iceland"
+msgstr "Годафос в Исландия"
+
+#~ msgid "Blinds"
+#~ msgstr "Зелен параван"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Сиви стъпки"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Сиви осили"
