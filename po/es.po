@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds.master\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-02-22 07:57+0000\n"
-"PO-Revision-Date: 2016-02-22 16:57+0100\n"
+"POT-Creation-Date: 2016-09-01 08:50+0000\n"
+"PO-Revision-Date: 2016-09-14 17:37+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: Español; Castellano <gnome-es-list@gnome.org>\n"
 "Language: es\n"
@@ -28,11 +28,11 @@ msgstr ""
 msgid "Default Background"
 msgstr "Fondo predeterminado"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Persianas"
+msgid "Waterfalls"
+msgstr "Cascada"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -64,11 +64,11 @@ msgstr "Tela rosa"
 msgid "Flower Bed"
 msgstr "Flores"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Gotas de pies"
+msgid "Icescape"
+msgstr "Montañas heladas"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -129,6 +129,12 @@ msgstr "Olas"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Godafoss Iceland"
 msgstr "Cascada de los dioses"
+
+#~ msgid "Blinds"
+#~ msgstr "Persianas"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Gotas de pies"
 
 #~ msgid "Whispy Tails"
 #~ msgstr "Espigas azuladas"
