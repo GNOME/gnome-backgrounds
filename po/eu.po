@@ -8,9 +8,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-24 19:42+0100\n"
-"PO-Revision-Date: 2016-03-24 19:43+0100\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-ba"
+"ckgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2016-09-01 08:50+0000\n"
+"PO-Revision-Date: 2016-09-17 18:07+0100\n"
 "Last-Translator: dooteo <dooteo@zundan.com>\n"
 "Language-Team: Basque <librezale@librezale.org>\n"
 "Language: eu\n"
@@ -25,11 +26,11 @@ msgstr ""
 msgid "Default Background"
 msgstr "Atzeko plano lehenetsia"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Hosto-pertsianak"
+msgid "Waterfalls"
+msgstr "Ur-jauziak"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -61,11 +62,11 @@ msgstr "Ehun arrosa"
 msgid "Flower Bed"
 msgstr "Lorezko ohea"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Oinatza"
+msgid "Icescape"
+msgstr "Ikuspegi izoztua"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -126,6 +127,12 @@ msgstr "Uhinak"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Godafoss Iceland"
 msgstr "Godafoss Islandia"
+
+#~ msgid "Blinds"
+#~ msgstr "Hosto-pertsianak"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Oinatza"
 
 #~ msgid "Whispy Tails"
 #~ msgstr "Galburu urdinak"
