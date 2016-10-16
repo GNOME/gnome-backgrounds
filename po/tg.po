@@ -1,28 +1,32 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Victor Ibragimov <victor.ibragimov@gmail.com>, 2013.
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2013, 2016
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Tajik Gnome\n"
 "Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2013-10-05 19:56+0000\n"
-"PO-Revision-Date: 2013-10-07 16:08+0500\n"
+"POT-Creation-Date: 2016-09-01 08:50+0000\n"
+"PO-Revision-Date: 2016-10-17 01:19+0500\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: \n"
 "Language: tg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.4\n"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#: ../backgrounds/adwaita.xml.in.in.h:1
+msgid "Default Background"
+msgstr "Пасзаминаи пешфарз"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Қаноти сабз"
+msgid "Waterfalls"
+msgstr "Шаршараҳо"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -54,66 +58,80 @@ msgstr "Матои сурх"
 msgid "Flower Bed"
 msgstr "Гулзор"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Пайи тар"
+msgid "Icescape"
+msgstr "Шӯша"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Locked.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+msgid "Adwaita"
+msgstr "Эдвайта"
+
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+#. You might want to translate it into the equivalent words of your language
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
 msgid "Lock Screen"
 msgstr "Экрани қулф"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
 msgid "Mirror"
 msgstr "Оина"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
 msgid "Road"
 msgstr "Роҳ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
 msgid "Sandstone"
 msgstr "Регсанг"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
 msgid "Signpost of the Shadows"
 msgstr "Чӯби нишондоди соя"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-#| msgid "Sandstone"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
 msgid "Stones"
 msgstr "Сангҳо"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
 msgid "Terraform Green"
 msgstr "Фазои сабз"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
 msgid "Waves"
 msgstr "Мавҷҳо"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
-msgid "Whispy Tails"
-msgstr "Думҳои тунук"
+#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+msgid "Godafoss Iceland"
+msgstr "Ҷазираи Годафос"
+
+#~ msgid "Blinds"
+#~ msgstr "Қаноти сабз"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Пайи тар"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "Думҳои тунук"
 
 #~ msgid "Blue Marble"
 #~ msgstr "Замин аз кайҳон"
