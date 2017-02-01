@@ -19,8 +19,6 @@ dist-hook:
 	fi
 
 
-EXTRA_DIST = \
-	MAINTAINERS
 
 DISTCLEANFILES = \
 	intltool-extract \

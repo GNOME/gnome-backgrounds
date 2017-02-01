@@ -12,9 +12,9 @@
 
   <maintainer>
     <foaf:Person>
-      <foaf:name>Thomas Wood</foaf:name>
-      <foaf:mbox rdf:resource="mailto:thos@gnome.org" />
-      <gnome:userid>thos</gnome:userid>
+      <foaf:name>Jakub Steiner</foaf:name>
+      <foaf:mbox rdf:resource="mailto:jimmac@gmail.com" />
+      <gnome:userid>jimmac</gnome:userid>
     </foaf:Person>
   </maintainer>
 </Project>
