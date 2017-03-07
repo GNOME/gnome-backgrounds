@@ -1,14 +1,14 @@
 # Scottish Gaelic translation for gnome-backgrounds.
 # Copyright (C) 2016 gnome-backgrounds's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-backgrounds package.
-# GunChleoc <fios@foramnagaidhlig.net>, 2016.
+# GunChleoc <fios@foramnagaidhlig.net>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-04-29 07:14+0000\n"
-"PO-Revision-Date: 2016-04-29 09:36+0100\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product"
+"=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-03-01 11:51+0000\n"
+"PO-Revision-Date: 2017-03-07 13:21+0100\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: Fòram na Gàidhlig\n"
 "Language: gd\n"
@@ -24,11 +24,11 @@ msgstr ""
 msgid "Default Background"
 msgstr "An cùlaibh tùsail"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "Sgàil-uinneig"
+msgid "Waterfalls"
+msgstr "Easan"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -60,11 +60,11 @@ msgstr "Clò pinc"
 msgid "Flower Bed"
 msgstr "Geadag"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
 #. You might want to translate it into the equivalent words of your language
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "Lorgan glainne"
+msgid "Icescape"
+msgstr "Beanntan fo sneachd"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
 #. You might want to translate it into the equivalent words of your language
@@ -125,3 +125,9 @@ msgstr "Tuinn"
 #: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
 msgid "Godafoss Iceland"
 msgstr "Goðafoss an Innis Tìle"
+
+#~ msgid "Blinds"
+#~ msgstr "Sgàil-uinneig"
+
+#~ msgid "Foot Fall"
+#~ msgstr "Lorgan glainne"
