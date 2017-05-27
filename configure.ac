@@ -10,14 +10,12 @@ AM_MAINTAINER_MODE([enable])
 
 m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 
-# Internationalization:
-IT_PROG_INTLTOOL([0.40.0])
-
 GETTEXT_PACKAGE=gnome-backgrounds
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [The domain name to use with gettext.])
 
-AM_GLIB_GNU_GETTEXT()
+AM_GNU_GETTEXT_VERSION([0.19.8])
+AM_GNU_GETTEXT([external])
 
 
 AC_CONFIG_FILES([

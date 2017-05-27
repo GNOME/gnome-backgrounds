@@ -13,12 +13,6 @@ PKG_NAME="gnome-backgrounds"
     exit 1
 }
 
-echo "Running glib-gettextize"
-glib-gettextize --copy --force
-
-echo "Running intltoolize"
-intltoolize --copy --force --automake
-
 which gnome-autogen.sh || {
     echo "You need to install gnome-common package"
     exit 1
