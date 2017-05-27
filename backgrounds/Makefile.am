@@ -24,7 +24,10 @@ background_DATA =\
 metadata_in_files = gnome-backgrounds.xml.in adwaita.xml.in
 metadatadir = $(datadir)/gnome-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
-@INTLTOOL_XML_RULE@
+
+%.xml: %.xml.in Makefile
+	$(AM_V_GEN) GETTEXTDATADIRS=$(top_srcdir) \
+                    $(MSGFMT) --xml --template $< -d $(top_srcdir)/po -o $@
 
 noinst_DATA = gnome-backgrounds.xml.in adwaita.xml.in
 CLEANFILES = gnome-backgrounds.xml gnome-backgrounds.xml.in adwaita.xml adwaita.xml.in adwaita-timed.xml
