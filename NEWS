@@ -1,4 +1,11 @@
 ===============
+Version 3.25.5
+===============
+- new build system (Florian)
+- drop translations (not exposed in the UI)
+- 3.26 defaults
+
+===============
 Version  3.24.0
 Version 3.23.91
 ===============
