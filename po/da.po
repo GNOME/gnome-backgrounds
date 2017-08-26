@@ -10,8 +10,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-13 01:54+0200\n"
+"Report-Msgid-Bugs-To: "
+"https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-backgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-07-12 16:50+0000\n"
 "PO-Revision-Date: 2016-09-09 00:19+0200\n"
 "Last-Translator: Ask Hjorth Larsen <asklarsen@gmail.com>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -20,110 +21,127 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../backgrounds/adwaita.xml.in.in.h:1
+#: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Standardbaggrund"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
+#: backgrounds/gnome-backgrounds.xml.in.in:7
 msgid "Waterfalls"
 msgstr "Vandfald"
 
 # visk sb., -en, -e, -ene (bundt af urter og grøntsager).  Bokeh er denneher stil med at noget er meget uskarpt
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#: backgrounds/gnome-backgrounds.xml.in.in:16
 msgid "Bokeh Tails"
 msgstr "Bokeh-visk"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+#: backgrounds/gnome-backgrounds.xml.in.in:25
 msgid "Dandelion"
 msgstr "Mælkebøtte"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+#: backgrounds/gnome-backgrounds.xml.in.in:34
 msgid "Dark Ivy"
 msgstr "Mørkt vedbend"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+#: backgrounds/gnome-backgrounds.xml.in.in:43
 msgid "Pink Fabric"
 msgstr "Lyserødt stof"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+#: backgrounds/gnome-backgrounds.xml.in.in:52
 msgid "Flower Bed"
 msgstr "Blomsterbed"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Icescape"
 msgstr "Islandskab"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: backgrounds/gnome-backgrounds.xml.in.in:70
 msgid "Adwaita"
 msgstr "Adwaita"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#: backgrounds/gnome-backgrounds.xml.in.in:79
 msgid "Lock Screen"
 msgstr "Lås skærm"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+#: backgrounds/gnome-backgrounds.xml.in.in:88
 msgid "Mirror"
 msgstr "Spejl"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: backgrounds/gnome-backgrounds.xml.in.in:97
 msgid "Road"
 msgstr "Vej"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: backgrounds/gnome-backgrounds.xml.in.in:106
 msgid "Sandstone"
 msgstr "Sandsten"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+#: backgrounds/gnome-backgrounds.xml.in.in:115
 msgid "Signpost of the Shadows"
 msgstr "Skyggernes vejskilt"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: backgrounds/gnome-backgrounds.xml.in.in:124
 msgid "Stones"
 msgstr "Sten"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+#: backgrounds/gnome-backgrounds.xml.in.in:133
 msgid "Terraform Green"
 msgstr "Grønt landskabsmønster"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: backgrounds/gnome-backgrounds.xml.in.in:142
 msgid "Waves"
 msgstr "Bølger"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
+#: backgrounds/gnome-backgrounds.xml.in.in:151
 msgid "Godafoss Iceland"
 msgstr "Goðafoss, Island"
 
@@ -133,7 +151,7 @@ msgstr "Goðafoss, Island"
 #~ msgid "Foot Fall"
 #~ msgstr "Våde fodspor"
 
-# visk sb., -en, -e, -ene (bundt af urter og grøntsager)
+#~ # visk sb., -en, -e, -ene (bundt af urter og grøntsager)
 #~ msgid "Whispy Tails"
 #~ msgstr "Blød visk"
 
@@ -298,3 +316,5 @@ msgstr "Goðafoss, Island"
 
 #~ msgid "Waves (Translucent)"
 #~ msgstr "Bølger (gennemsigtig)"
+
+
