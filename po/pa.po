@@ -5,129 +5,155 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
 #
 # Amanpreet Singh Alam <aalam@users.sf.net>, 2004, 2005,2006, 2009.
-# A S Alam <aalam@users.sf.net>, 2011, 2012, 2013, 2014.
+# A S Alam <aalam@users.sf.net>, 2011, 2012, 2013, 2014, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2014-09-13 18:03+0000\n"
-"PO-Revision-Date: 2014-09-13 21:49-0500\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-b"
+"ackgrounds&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2017-07-12 16:50+0000\n"
+"PO-Revision-Date: 2017-09-10 15:03-0600\n"
 "Last-Translator: A S Alam <aalam@users.sf.net>\n"
-"Language-Team: Punjabi/Panjabi <punjab-l10n@list.sf.net>\n"
+"Language-Team: Punjabi <punjabi-users@lists.sf.net>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../backgrounds/adwaita.xml.in.in.h:1
+#: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "ਮੂਲ ਬੈਕਗਰਾਊਂਡ"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Blinds.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Blinds"
-msgstr "ਹਰੀਆਂ ਲਹਿਰਾਂ"
+#: backgrounds/gnome-backgrounds.xml.in.in:7
+msgid "Waterfalls"
+msgstr "ਝਰਨੇ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#: backgrounds/gnome-backgrounds.xml.in.in:16
 msgid "Bokeh Tails"
 msgstr "ਬੋਕੇਹ ਟੇਲਸ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
+#: backgrounds/gnome-backgrounds.xml.in.in:25
 msgid "Dandelion"
 msgstr "ਚਿੱਟੀਆਂ ਤਾਰਾਂ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+#: backgrounds/gnome-backgrounds.xml.in.in:34
 msgid "Dark Ivy"
 msgstr "ਗੂੜ੍ਹੀ ਇਸ਼ਕ ਪੇਚੇ ਦੀ ਵੇਲ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+#: backgrounds/gnome-backgrounds.xml.in.in:43
 msgid "Pink Fabric"
 msgstr "ਗੁਲਾਬੀ ਮੋੜ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+#: backgrounds/gnome-backgrounds.xml.in.in:52
 msgid "Flower Bed"
 msgstr "ਫੁੱਲਾਂ ਦੀ ਸੇਜ"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/FootFall.png -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
-msgid "Foot Fall"
-msgstr "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ"
+#: backgrounds/gnome-backgrounds.xml.in.in:61
+msgid "Icescape"
+msgstr "ਬਰਫ਼ੀਲੀਆਂ ਚੋਟੀਆਂ"
 
 # Adwaita (meaning "unique" in Sanskrit)
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: backgrounds/gnome-backgrounds.xml.in.in:70
 msgid "Adwaita"
 msgstr "ਵਿਲੱਖਣ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
+#: backgrounds/gnome-backgrounds.xml.in.in:79
 msgid "Lock Screen"
 msgstr "ਲਾਕ ਸਕਰੀਨ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
+#: backgrounds/gnome-backgrounds.xml.in.in:88
 msgid "Mirror"
 msgstr "ਪਰਛਾਵੇਂ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: backgrounds/gnome-backgrounds.xml.in.in:97
 msgid "Road"
 msgstr "ਵਿਰਾਨ ਰਾਹ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: backgrounds/gnome-backgrounds.xml.in.in:106
 msgid "Sandstone"
 msgstr "ਲਾਲ ਖੜ੍ਹੇ ਪੱਥਰ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
+#: backgrounds/gnome-backgrounds.xml.in.in:115
 msgid "Signpost of the Shadows"
 msgstr "ਪਰਛਾਵਿਆਂ ਦੇ ਨਿਸ਼ਾਨ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
+#: backgrounds/gnome-backgrounds.xml.in.in:124
 msgid "Stones"
 msgstr "ਪੱਥਰ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
+#: backgrounds/gnome-backgrounds.xml.in.in:133
 msgid "Terraform Green"
 msgstr "ਧਰਤ-ਰੂਪੀ ਹਰਾ"
 
 #. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
+#: backgrounds/gnome-backgrounds.xml.in.in:142
 msgid "Waves"
 msgstr "ਲਹਿਰਾਂ"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Whispy_Tails.jpg -
+#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
+#.
 #. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Whispy Tails"
-msgstr "ਵਿਸਪੀ ਟੇਲਸ"
+#: backgrounds/gnome-backgrounds.xml.in.in:151
+msgid "Godafoss Iceland"
+msgstr "ਗੋਡਾਫਾਸ ਟਾਪੂ"
+
+#~ msgid "Blinds"
+#~ msgstr "ਹਰੀਆਂ ਲਹਿਰਾਂ"
+
+#~ msgid "Foot Fall"
+#~ msgstr "ਪੈਰਾਂ ਦੇ ਨਿਸ਼ਾਨ"
+
+#~ msgid "Whispy Tails"
+#~ msgstr "ਵਿਸਪੀ ਟੇਲਸ"
 
 #~ msgid "Blue Marble"
 #~ msgstr "ਨੀਲਾ ਸੰਗਮਰਮਰ"
