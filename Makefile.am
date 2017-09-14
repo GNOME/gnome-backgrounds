@@ -39,5 +39,9 @@ MAINTAINERCLEANFILES = \
 	missing \
 	mkinstalldirs
 
+EXTRA_DIST = \
+	its/wallpaper.its \
+	its/wallpaper.loc
+
 
 -include $(top_srcdir)/git.mk
