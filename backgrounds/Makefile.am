@@ -16,6 +16,7 @@ background_DATA =\
 	Mirror.jpg \
 	Road.jpg \
 	Sandstone.jpg \
+	Signpost_of_the_Shadows.jpg \
 	Stones.jpg \
 	Terraform-green.jpg \
 	Waterfalls.jpg \
