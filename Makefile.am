@@ -41,7 +41,10 @@ MAINTAINERCLEANFILES = \
 
 EXTRA_DIST = \
 	its/wallpaper.its \
-	its/wallpaper.loc
+	its/wallpaper.loc \
+	meson.build \
+	backgrounds/meson.build \
+	po/meson.build
 
 
 -include $(top_srcdir)/git.mk
