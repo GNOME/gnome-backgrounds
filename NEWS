@@ -1,4 +1,11 @@
 ===============
+Version 3.26.2
+===============
+
+- include meson files in the tarball
+- make sure Signpost_of_the_Shadows.jpg gets installed
+
+===============
 Version 3.26.1
 ===============
 
