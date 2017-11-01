@@ -128,6 +128,22 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
+		<!-- TRANSLATORS: Don't bother translating this. It's not shown anywhere  -->
+		<name>Stones</name>
+		<filename>@BACKGROUNDDIR@/symbolics-1.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<!-- TRANSLATORS: Don't bother translating this. It's not shown anywhere  -->
+		<name>Stones</name>
+		<filename>@BACKGROUNDDIR@/symbolics-2.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg - 
 		You might want to translate it into the equivalent words of your language  -->
 		<name>Terraform Green</name>
