@@ -130,7 +130,7 @@
 	<wallpaper deleted="false">
 		<!-- TRANSLATORS: Don't bother translating this. It's not shown anywhere  -->
 		<name>Stones</name>
-		<filename>@BACKGROUNDDIR@/symbolics-1.png</filename>
+		<filename>@BACKGROUNDDIR@/symbolics-1.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
