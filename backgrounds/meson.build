@@ -16,19 +16,16 @@ backgrounds = [
   'Bokeh_Tails.jpg',
   'Chmiri.jpg',
   'Dark_Ivy.jpg',
+  'endless-shapes.png',
   'Fabric.jpg',
   'Flowerbed.jpg',
-  'Godafoss_Iceland.jpg',
   'Icescape.jpg',
   'Mirror.jpg',
   'Road.jpg',
   'Sandstone.jpg',
-  'Signpost_of_the_Shadows.jpg',
   'Stones.jpg',
   'symbolics-1.jpg',
   'symbolics-2.jpg',
-  'Terraform-green.jpg',
-  'Waterfalls.jpg',
   'Waves.jpg'
 ]
 
