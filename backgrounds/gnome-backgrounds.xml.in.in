@@ -1,18 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<name>Waterfalls</name>
-		<filename>@BACKGROUNDDIR@/Waterfalls.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
 		<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Bokeh Tails</name>
 		<filename>@BACKGROUNDDIR@/Bokeh_Tails.jpg</filename>
 		<options>zoom</options>
@@ -20,8 +9,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Dandelion</name>
 		<filename>@BACKGROUNDDIR@/Chmiri.jpg</filename>
 		<options>zoom</options>
@@ -29,8 +16,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 		<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Dark Ivy</name>
 		<filename>@BACKGROUNDDIR@/Dark_Ivy.jpg</filename>
 		<options>zoom</options>
@@ -38,8 +23,13 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
+		<name>Waterfalls</name>
+		<filename>@BACKGROUNDDIR@/endless-shapes.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
 		<name>Pink Fabric</name>
 		<filename>@BACKGROUNDDIR@/Fabric.jpg</filename>
 		<options>zoom</options>
@@ -47,8 +37,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 		<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Flower Bed</name>
 		<filename>@BACKGROUNDDIR@/Flowerbed.jpg</filename>
 		<options>zoom</options>
@@ -56,8 +44,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Icescape</name>
 		<filename>@BACKGROUNDDIR@/Icescape.jpg</filename>
 		<options>zoom</options>
@@ -65,8 +51,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Adwaita</name>
 		<filename>@BACKGROUNDDIR@/adwaita-timed.xml</filename>
 		<options>zoom</options>
@@ -74,17 +58,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<name>Lock Screen</name>
-		<filename>@BACKGROUNDDIR@/adwaita-lock.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-		<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Mirror</name>
 		<filename>@BACKGROUNDDIR@/Mirror.jpg</filename>
 		<options>zoom</options>
@@ -92,8 +65,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Road</name>
 		<filename>@BACKGROUNDDIR@/Road.jpg</filename>
 		<options>zoom</options>
@@ -101,8 +72,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Sandstone</name>
 		<filename>@BACKGROUNDDIR@/Sandstone.jpg</filename>
 		<options>zoom</options>
@@ -110,17 +79,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<name>Signpost of the Shadows</name>
-		<filename>@BACKGROUNDDIR@/Signpost_of_the_Shadows.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Stones</name>
 		<filename>@BACKGROUNDDIR@/Stones.jpg</filename>
 		<options>zoom</options>
@@ -128,7 +86,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: Don't bother translating this. It's not shown anywhere  -->
 		<name>Stones</name>
 		<filename>@BACKGROUNDDIR@/symbolics-1.jpg</filename>
 		<options>zoom</options>
@@ -136,7 +93,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: Don't bother translating this. It's not shown anywhere  -->
 		<name>Stones</name>
 		<filename>@BACKGROUNDDIR@/symbolics-2.jpg</filename>
 		<options>zoom</options>
@@ -144,28 +100,8 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<name>Terraform Green</name>
-		<filename>@BACKGROUNDDIR@/Terraform-green.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
 		<name>Waves</name>
 		<filename>@BACKGROUNDDIR@/Waves.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-		<wallpaper deleted="false">
-		<!-- TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg - 
-		You might want to translate it into the equivalent words of your language  -->
-		<name>Godafoss Iceland</name>
-		<filename>@BACKGROUNDDIR@/Godafoss_Iceland.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>

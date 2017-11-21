@@ -16,7 +16,7 @@ backgrounds = [
   'Bokeh_Tails.jpg',
   'Chmiri.jpg',
   'Dark_Ivy.jpg',
-  'endless-shapes.png',
+  'endless-shapes.jpg',
   'Fabric.jpg',
   'Flowerbed.jpg',
   'Icescape.jpg',
