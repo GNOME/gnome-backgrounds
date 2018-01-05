@@ -12,20 +12,20 @@ backgrounds = [
   'adwaita-day.jpg',
   'adwaita-morning.jpg',
   'adwaita-night.jpg',
-  'Bokeh_Tails.jpg',
-  'Chmiri.jpg',
+  'AndICallItBoke.jpg',
+  'ColdWarm.jpg',
   'Dark_Ivy.jpg',
   'endless-shapes.jpg',
   'Fabric.jpg',
   'Flowerbed.jpg',
   'Icescape.jpg',
-  'Mirror.jpg',
   'Road.jpg',
   'Sandstone.jpg',
   'Stones.jpg',
+  'SeaSunset.jpg',
   'symbolics-1.jpg',
   'symbolics-2.jpg',
-  'Waves.jpg'
+  'Wood.jpg'
 ]
 
 install_data([adwaita_timed] + backgrounds, install_dir: backgrounddir)
