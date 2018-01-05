@@ -15,6 +15,13 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Cold & Warm</name>
+		<filename>@BACKGROUNDDIR@/ColdWarm.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
 		<wallpaper deleted="false">
 		<name>Dark Ivy</name>
 		<filename>@BACKGROUNDDIR@/Dark_Ivy.jpg</filename>
@@ -80,13 +87,6 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Stones</name>
-		<filename>@BACKGROUNDDIR@/Stones.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>Stones</name>
 		<filename>@BACKGROUNDDIR@/symbolics-1.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
@@ -100,8 +100,8 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Waves</name>
-		<filename>@BACKGROUNDDIR@/Waves.jpg</filename>
+		<name>Wood</name>
+		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
