@@ -9,8 +9,8 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Dandelion</name>
-		<filename>@BACKGROUNDDIR@/Chmiri.jpg</filename>
+		<name>And I Call It Boke</name>
+		<filename>@BACKGROUNDDIR@/AndICallItBoke.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -65,8 +65,8 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Mirror</name>
-		<filename>@BACKGROUNDDIR@/Mirror.jpg</filename>
+		<name>Sea Sunset</name>
+		<filename>@BACKGROUNDDIR@/SeaSunset.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
