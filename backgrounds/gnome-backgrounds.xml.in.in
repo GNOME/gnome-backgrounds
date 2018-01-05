@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
-		<wallpaper deleted="false">
+	<wallpaper deleted="false">
 		<name>Bokeh Tails</name>
 		<filename>@BACKGROUNDDIR@/Bokeh_Tails.jpg</filename>
 		<options>zoom</options>
@@ -16,7 +16,7 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Cold & Warm</name>
+		<name>Cold &amp; Warm</name>
 		<filename>@BACKGROUNDDIR@/ColdWarm.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
@@ -30,7 +30,7 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Waterfalls</name>
+		<name>Endless Shapes</name>
 		<filename>@BACKGROUNDDIR@/endless-shapes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
@@ -86,14 +86,14 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Stones</name>
+		<name>Symbolics 1</name>
 		<filename>@BACKGROUNDDIR@/symbolics-1.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Stones</name>
+		<name>Symbolics 2</name>
 		<filename>@BACKGROUNDDIR@/symbolics-2.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
