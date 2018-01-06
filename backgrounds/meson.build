@@ -21,7 +21,6 @@ backgrounds = [
   'Icescape.jpg',
   'Road.jpg',
   'Sandstone.jpg',
-  'Stones.jpg',
   'SeaSunset.jpg',
   'symbolics-1.jpg',
   'symbolics-2.jpg',
