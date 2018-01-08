@@ -7,121 +7,106 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2017-03-26 13:09+0000\n"
-"PO-Revision-Date: 2017-03-28 12:23+0200\n"
+"POT-Creation-Date: 2018-01-05 19:53+0000\n"
+"PO-Revision-Date: 2018-01-08 18:42+0100\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <massimo.furlani@libero.it>\n"
 "Language: fur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.12\n"
+"X-Generator: Poedit 2.0.3\n"
 
-#: ../backgrounds/adwaita.xml.in.in.h:1
+#: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Sfont predefinît"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Waterfalls"
-msgstr "Spissuladis"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#: backgrounds/gnome-backgrounds.xml.in.in:5
 msgid "Bokeh Tails"
 msgstr "Spîs fûr di fûc"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
-msgid "Dandelion"
-msgstr "Tale"
+#: backgrounds/gnome-backgrounds.xml.in.in:12
+msgid "And I Call It Boke"
+msgstr "E lu clami Boke"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+#: backgrounds/gnome-backgrounds.xml.in.in:19
+msgid "Cold &amp; Warm"
+msgstr "Frêt &amp; Cjalt"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Dark Ivy"
 msgstr "Elare scure"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+#: backgrounds/gnome-backgrounds.xml.in.in:33
+msgid "Endless Shapes"
+msgstr "Sagomis cence fin"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Pink Fabric"
 msgstr "Stofe rose"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Flower Bed"
 msgstr "Jet di rosis"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Icescape"
 msgstr "Paisaç cuviert di nêf"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Lock Screen"
-msgstr "Schermi blocât"
+#: backgrounds/gnome-backgrounds.xml.in.in:68
+msgid "Sea Sunset"
+msgstr "Tramont sul mâr"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
-msgid "Mirror"
-msgstr "Spieli"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Road"
 msgstr "Strade"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Sandstone"
 msgstr "Arenarie"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-msgid "Signpost of the Shadows"
-msgstr "Ombrene dal cartel"
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 1"
+msgstr "Simbolics 1"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
-msgid "Stones"
-msgstr "Pieris"
+#: backgrounds/gnome-backgrounds.xml.in.in:96
+msgid "Symbolics 2"
+msgstr "Simbolics 2"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Terraform Green"
-msgstr "Bonificant vert"
+#: backgrounds/gnome-backgrounds.xml.in.in:103
+msgid "Wood"
+msgstr "Len"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
-msgid "Waves"
-msgstr "Ondis"
+#~ msgid "Waterfalls"
+#~ msgstr "Spissuladis"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Godafoss Iceland"
-msgstr "Pissande dai dius"
+#~ msgid "Dandelion"
+#~ msgstr "Tale"
+
+#~ msgid "Lock Screen"
+#~ msgstr "Schermi blocât"
+
+#~ msgid "Mirror"
+#~ msgstr "Spieli"
+
+#~ msgid "Signpost of the Shadows"
+#~ msgstr "Ombrene dal cartel"
+
+#~ msgid "Stones"
+#~ msgstr "Pieris"
+
+#~ msgid "Terraform Green"
+#~ msgstr "Bonificant vert"
+
+#~ msgid "Waves"
+#~ msgstr "Ondis"
+
+#~ msgid "Godafoss Iceland"
+#~ msgstr "Pissande dai dius"
 
 #~ msgid "Blinds"
 #~ msgstr "Tende"
