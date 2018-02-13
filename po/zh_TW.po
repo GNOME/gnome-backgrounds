@@ -9,138 +9,106 @@ msgstr ""
 "Project-Id-Version: gnome-background 3.0.0\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2017-07-12 16:50+0000\n"
-"PO-Revision-Date: 2017-08-25 00:19+0800\n"
+"POT-Creation-Date: 2018-01-05 19:53+0000\n"
+"PO-Revision-Date: 2018-02-13 20:06+0800\n"
 "Last-Translator: Cheng-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) <community@linuxhall.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.13\n"
+"X-Generator: Poedit 2.0.3\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "預設背景"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:7
-msgid "Waterfalls"
-msgstr "瀑布"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:16
+#: backgrounds/gnome-backgrounds.xml.in.in:5
 msgid "Bokeh Tails"
 msgstr "散景狗尾草"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:25
-msgid "Dandelion"
-msgstr "蒲公英"
+#: backgrounds/gnome-backgrounds.xml.in.in:12
+msgid "And I Call It Boke"
+msgstr "而我稱之為散景"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:34
+#: backgrounds/gnome-backgrounds.xml.in.in:19
+msgid "Cold &amp; Warm"
+msgstr "冷與暖"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Dark Ivy"
 msgstr "暗色伊芙"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:43
+#: backgrounds/gnome-backgrounds.xml.in.in:33
+msgid "Endless Shapes"
+msgstr "無盡之形"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Pink Fabric"
 msgstr "粉紅織布"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:52
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Flower Bed"
 msgstr "花床"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Icescape"
 msgstr "冰景"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:70
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Adwaita"
 msgstr "阿德維塔"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:79
-msgid "Lock Screen"
-msgstr "鎖定畫面"
+#: backgrounds/gnome-backgrounds.xml.in.in:68
+msgid "Sea Sunset"
+msgstr "海洋日落"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:88
-msgid "Mirror"
-msgstr "鏡像"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:97
+#: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Road"
 msgstr "道路"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:106
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Sandstone"
 msgstr "砂岩"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:115
-msgid "Signpost of the Shadows"
-msgstr "路標陰影"
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 1"
+msgstr "符號 1"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:124
-msgid "Stones"
-msgstr "岩石"
+#: backgrounds/gnome-backgrounds.xml.in.in:96
+msgid "Symbolics 2"
+msgstr "符號 2"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:133
-msgid "Terraform Green"
-msgstr "地球化綠"
+#: backgrounds/gnome-backgrounds.xml.in.in:103
+msgid "Wood"
+msgstr "木頭"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:142
-msgid "Waves"
-msgstr "波浪"
+#~ msgid "Waterfalls"
+#~ msgstr "瀑布"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
-#.
-#. You might want to translate it into the equivalent words of your language
-#: backgrounds/gnome-backgrounds.xml.in.in:151
-msgid "Godafoss Iceland"
-msgstr "冰島眾神瀑布"
+#~ msgid "Dandelion"
+#~ msgstr "蒲公英"
+
+#~ msgid "Lock Screen"
+#~ msgstr "鎖定畫面"
+
+#~ msgid "Mirror"
+#~ msgstr "鏡像"
+
+#~ msgid "Signpost of the Shadows"
+#~ msgstr "路標陰影"
+
+#~ msgid "Stones"
+#~ msgstr "岩石"
+
+#~ msgid "Terraform Green"
+#~ msgstr "地球化綠"
+
+#~ msgid "Waves"
+#~ msgstr "波浪"
+
+#~ msgid "Godafoss Iceland"
+#~ msgstr "冰島眾神瀑布"
 
 #~ msgid "Blinds"
 #~ msgstr "窗簾"
@@ -163,17 +131,11 @@ msgstr "冰島眾神瀑布"
 #~ msgid "Stripes 3.4"
 #~ msgstr "條紋 3.4"
 
-#~ msgid "Sunset"
-#~ msgstr "日落"
-
 #~ msgid "Tulip"
 #~ msgstr "鬱金香"
 
 #~ msgid "Underlit"
 #~ msgstr "點亮"
-
-#~ msgid "Wood"
-#~ msgstr "木頭"
 
 #~ msgid "End Bell"
 #~ msgstr "風鈴花"
