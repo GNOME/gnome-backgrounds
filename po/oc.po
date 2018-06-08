@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Cédric Valmary <cvalmary@yahoo.fr>, 2015.
 # Cédric Valmary (Tot en òc) <cvalmary@yahoo.fr>, 2015.
-# Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>, 2016.
+# Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>, 2016, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
 "backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2017-03-01 11:51+0000\n"
-"PO-Revision-Date: 2016-05-05 21:47+0200\n"
+"POT-Creation-Date: 2018-03-26 22:18+0000\n"
+"PO-Revision-Date: 2018-06-08 08:13+0200\n"
 "Last-Translator: Cédric Valmary (totenoc.eu) <cvalmary@yahoo.fr>\n"
 "Language-Team: Tot En Òc\n"
 "Language: oc\n"
@@ -21,111 +21,96 @@ msgstr ""
 "X-Generator: Virtaal 0.7.1\n"
 "X-Project-Style: gnome\n"
 
-#: ../backgrounds/adwaita.xml.in.in.h:1
+#: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Rèireplan per defaut"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Waterfalls"
-msgstr "Casudas d'aiga"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
+#: backgrounds/gnome-backgrounds.xml.in.in:5
 msgid "Bokeh Tails"
 msgstr "Coas foscas"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
-msgid "Dandelion"
-msgstr "Granas de pissalièch"
+#: backgrounds/gnome-backgrounds.xml.in.in:12
+msgid "And I Call It Boke"
+msgstr "E l’apèli Bokeh"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+#: backgrounds/gnome-backgrounds.xml.in.in:19
+msgid "Cold &amp; Warm"
+msgstr "Freg caud"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Dark Ivy"
 msgstr "Èura escura"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+#: backgrounds/gnome-backgrounds.xml.in.in:33
+msgid "Endless Shapes"
+msgstr "Formas infinidas"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Pink Fabric"
 msgstr "Teissut ròse"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Flower Bed"
 msgstr "Tapís de flors"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Icescape"
 msgstr "Calòta glacièra"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Lock Screen"
-msgstr "Ecran gelat"
+#: backgrounds/gnome-backgrounds.xml.in.in:68
+msgid "Sea Sunset"
+msgstr "Colcar de solelh sus la mar"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
-msgid "Mirror"
-msgstr "Miralh"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Road"
 msgstr "Rota"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Sandstone"
 msgstr "Gres roge"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-msgid "Signpost of the Shadows"
-msgstr "Panèl indicador de las ombras"
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 1"
+msgstr "Simbolics 1"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
-msgid "Stones"
-msgstr "Calhaus"
+#: backgrounds/gnome-backgrounds.xml.in.in:96
+msgid "Symbolics 2"
+msgstr "Simbolics 2"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Terraform Green"
-msgstr "Crosta verda"
+#: backgrounds/gnome-backgrounds.xml.in.in:103
+msgid "Wood"
+msgstr "Fusta"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
-msgid "Waves"
-msgstr "Èrsas"
+#~ msgid "Waterfalls"
+#~ msgstr "Casudas d'aiga"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Godafoss Iceland"
-msgstr "Godafoss Islàndia"
+#~ msgid "Dandelion"
+#~ msgstr "Granas de pissalièch"
+
+#~ msgid "Lock Screen"
+#~ msgstr "Ecran gelat"
+
+#~ msgid "Mirror"
+#~ msgstr "Miralh"
+
+#~ msgid "Signpost of the Shadows"
+#~ msgstr "Panèl indicador de las ombras"
+
+#~ msgid "Stones"
+#~ msgstr "Calhaus"
+
+#~ msgid "Terraform Green"
+#~ msgstr "Crosta verda"
+
+#~ msgid "Waves"
+#~ msgstr "Èrsas"
+
+#~ msgid "Godafoss Iceland"
+#~ msgstr "Godafoss Islàndia"
 
 #~ msgid "Blinds"
 #~ msgstr "Ridèus"
@@ -165,9 +150,6 @@ msgstr "Godafoss Islàndia"
 
 #~ msgid "Two Wings"
 #~ msgstr "Doas alas"
-
-#~ msgid "Wood"
-#~ msgstr "Fusta"
 
 #~ msgid "Yellow Flower"
 #~ msgstr "Flor jauna"
