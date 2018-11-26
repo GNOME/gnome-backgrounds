@@ -2,15 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<name>Bokeh Tails</name>
-		<filename>@BACKGROUNDDIR@/Bokeh_Tails.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>And I Call It Boke</name>
-		<filename>@BACKGROUNDDIR@/AndICallItBoke.jpg</filename>
+		<name>Rain Dropse</name>
+		<filename>@BACKGROUNDDIR@/RainDrops.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
