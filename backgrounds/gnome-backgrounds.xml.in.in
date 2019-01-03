@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<name>Rain Dropse</name>
+		<name>Rain Drops</name>
 		<filename>@BACKGROUNDDIR@/RainDrops.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
