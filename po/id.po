@@ -1,17 +1,17 @@
-# Indonesian translation of gnome-menus.
-# Copyright (C) 2005 THE gnome-menus's COPYRIGHT HOLDER
-# This file is distributed under the same license as the gnome-menus package.
+# Indonesian translation of gnome-backgrounds.
+# Copyright (C) 2005 THE gnome-backgrounds's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-backgrounds package.
 #
 # ahmad riza h nst <ari@160c.afraid.org>, 2005.
-# Dirgita <dirgitadevina@gmail.com>, 2010.
-# Dirgita <dirgitadevina@yahoo.co.id>, 2010, 2012.
-# Andika Triwidada <andika@gmail.com>, 2013.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2011, 2012.
+# Andika Triwidada <andika@gmail.com>, 2012, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: gnome-menus master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-menus/issues\n"
-"POT-Creation-Date: 2019-01-18 16:51+0000\n"
-"PO-Revision-Date: 2019-02-02 23:21+0700\n"
+"Project-Id-Version: gnome-backgrounds master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-01-03 17:41+0000\n"
+"PO-Revision-Date: 2019-02-02 23:17+0700\n"
 "Last-Translator: Kukuh Syafaat <kukuhsyafaat@gnome.org>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
 "Language: id\n"
@@ -21,168 +21,104 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural= n!=1;\n"
 
-#: desktop-directories/AudioVideo.directory.desktop.in:3
-msgid "Sound & Video"
-msgstr "Suara & Video"
+#: backgrounds/adwaita.xml.in.in:5
+msgid "Default Background"
+msgstr "Latar Belakang Baku"
 
-#: desktop-directories/AudioVideo.directory.desktop.in:4
-msgid "Multimedia menu"
-msgstr "Menu multimedia"
+#: backgrounds/gnome-backgrounds.xml.in.in:5
+msgid "Rain Drops"
+msgstr "Rintik Hujan"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/AudioVideo.directory.desktop.in:6
-msgid "applications-multimedia"
-msgstr "applications-multimedia"
+#: backgrounds/gnome-backgrounds.xml.in.in:12
+msgid "Cold &amp; Warm"
+msgstr "Dingin &amp; Hangat"
 
-#: desktop-directories/Development.directory.desktop.in:3
-msgid "Programming"
-msgstr "Pemrograman"
+#: backgrounds/gnome-backgrounds.xml.in.in:19
+msgid "Dark Ivy"
+msgstr "Dark Ivy"
 
-#: desktop-directories/Development.directory.desktop.in:4
-msgid "Tools for software development"
-msgstr "Perkakas untuk pengembangan perangkat lunak"
+#: backgrounds/gnome-backgrounds.xml.in.in:26
+msgid "Endless Shapes"
+msgstr "Bentuk Tak Berujung"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Development.directory.desktop.in:6
-msgid "applications-development"
-msgstr "applications-development"
+#: backgrounds/gnome-backgrounds.xml.in.in:33
+msgid "Pink Fabric"
+msgstr "Kain Pink"
 
-#: desktop-directories/Education.directory.desktop.in:3
-msgid "Education"
-msgstr "Pendidikan"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Flower Bed"
+msgstr "Rumpun Bunga"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Education.directory.desktop.in:5
-msgid "applications-science"
-msgstr "applications-science"
+#: backgrounds/gnome-backgrounds.xml.in.in:47
+msgid "Icescape"
+msgstr "Icescape"
 
-#: desktop-directories/Game.directory.desktop.in:3
-msgid "Games"
-msgstr "Permainan"
+#: backgrounds/gnome-backgrounds.xml.in.in:54
+msgid "Adwaita"
+msgstr "Adwaita"
 
-#: desktop-directories/Game.directory.desktop.in:4
-msgid "Games and amusements"
-msgstr "Permainan dan hiburan"
+#: backgrounds/gnome-backgrounds.xml.in.in:61
+msgid "Sea Sunset"
+msgstr "Matahari Terbenam di Laut"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Game.directory.desktop.in:6
-msgid "applications-games"
-msgstr "applications-games"
+#: backgrounds/gnome-backgrounds.xml.in.in:68
+msgid "Road"
+msgstr "Jalan"
 
-#: desktop-directories/Graphics.directory.desktop.in:3
-msgid "Graphics"
-msgstr "Grafik"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Sandstone"
+msgstr "Batu Pasir"
 
-#: desktop-directories/Graphics.directory.desktop.in:4
-msgid "Graphics applications"
-msgstr "Aplikasi grafik"
+#: backgrounds/gnome-backgrounds.xml.in.in:82
+msgid "Symbolics 1"
+msgstr "Simbolik 1"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Graphics.directory.desktop.in:6
-msgid "applications-graphics"
-msgstr "applications-graphics"
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 2"
+msgstr "Simbolik 2"
 
-#: desktop-directories/Network.directory.desktop.in:3
-msgid "Internet"
-msgstr "Internet"
+#: backgrounds/gnome-backgrounds.xml.in.in:96
+msgid "Wood"
+msgstr "Kayu"
 
-#: desktop-directories/Network.directory.desktop.in:4
-msgid "Programs for Internet access such as web and email"
-msgstr "Program untuk mengakses internet, seperti web dan surel"
+#~ msgid "Bokeh Tails"
+#~ msgstr "Ekor Bokeh"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Network.directory.desktop.in:6
-#: desktop-directories/X-GNOME-WebApplications.directory.desktop.in:6
-msgid "applications-internet"
-msgstr "applications-internet"
+#~ msgid "And I Call It Boke"
+#~ msgstr "Dan Saya Menyebutnya Boke"
 
-#: desktop-directories/Office.directory.desktop.in:3
-msgid "Office"
-msgstr "Perkantoran"
+#~ msgid "Waterfalls"
+#~ msgstr "Air terjun"
 
-#: desktop-directories/Office.directory.desktop.in:4
-msgid "Office Applications"
-msgstr "Aplikasi Perkantoran"
+#~ msgid "Dandelion"
+#~ msgstr "Dandelion"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Office.directory.desktop.in:6
-msgid "applications-office"
-msgstr "applications-office"
+#~ msgid "Lock Screen"
+#~ msgstr "Kunci Layar"
 
-#: desktop-directories/System-Tools.directory.desktop.in:3
-msgid "System Tools"
-msgstr "Perkakas Sistem"
+#~ msgid "Mirror"
+#~ msgstr "Cermin"
 
-#: desktop-directories/System-Tools.directory.desktop.in:4
-msgid "System configuration and monitoring"
-msgstr "Konfigurasi serta pengawasan sistem"
+#~ msgid "Signpost of the Shadows"
+#~ msgstr "Rambu Bayangan"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/System-Tools.directory.desktop.in:6
-msgid "applications-system"
-msgstr "applications-system"
+#~ msgid "Stones"
+#~ msgstr "Bebatuan"
 
-#: desktop-directories/Utility-Accessibility.directory.desktop.in:3
-msgid "Universal Access"
-msgstr "Akses Universal"
+#~ msgid "Terraform Green"
+#~ msgstr "Corak Hijau"
 
-#: desktop-directories/Utility-Accessibility.directory.desktop.in:4
-msgid "Universal Access Settings"
-msgstr "Pengaturan Akses Universal"
+#~ msgid "Waves"
+#~ msgstr "Gelombang"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Utility-Accessibility.directory.desktop.in:7
-msgid "preferences-desktop-accessibility"
-msgstr "preferences-desktop-accessibility"
+#~ msgid "Godafoss Iceland"
+#~ msgstr "Godafoss Islandia"
 
-#: desktop-directories/Utility.directory.desktop.in:3
-msgid "Accessories"
-msgstr "Aksesoris"
+#~ msgid "Blinds"
+#~ msgstr "Bersamar"
 
-#: desktop-directories/Utility.directory.desktop.in:4
-msgid "Desktop accessories"
-msgstr "Aksesoris desktop"
+#~ msgid "Foot Fall"
+#~ msgstr "Bulir Kaki"
 
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/Utility.directory.desktop.in:6
-#: desktop-directories/X-GNOME-Utilities.directory.desktop.in:6
-msgid "applications-accessories"
-msgstr "applications-accessories"
-
-#: desktop-directories/X-GNOME-Menu-Applications.directory.desktop.in:3
-#: desktop-directories/X-GNOME-Menu-Applications.directory.desktop.in:4
-msgid "Applications"
-msgstr "Aplikasi"
-
-#. TRANSLATORS: Don't translate this text (this is icon name)
-#: desktop-directories/X-GNOME-Menu-Applications.directory.desktop.in:6
-#: desktop-directories/X-GNOME-Other.directory.desktop.in:6
-msgid "applications-other"
-msgstr "applications-other"
-
-#: desktop-directories/X-GNOME-Other.directory.desktop.in:3
-msgid "Other"
-msgstr "Lainnya"
-
-#: desktop-directories/X-GNOME-Other.directory.desktop.in:4
-msgid "Applications that did not fit in other categories"
-msgstr "Aplikasi yang tidak termasuk dalam kategori manapun"
-
-#: desktop-directories/X-GNOME-Utilities.directory.desktop.in:3
-msgid "Utilities"
-msgstr "Utilitas"
-
-#: desktop-directories/X-GNOME-Utilities.directory.desktop.in:4
-msgid "Small but useful GNOME tools"
-msgstr "Perkakas GNOME yang kecil tapi berguna"
-
-#: desktop-directories/X-GNOME-WebApplications.directory.desktop.in:3
-msgid "Web Applications"
-msgstr "Aplikasi Web"
-
-#: desktop-directories/X-GNOME-WebApplications.directory.desktop.in:4
-msgid "Applications and sites saved from Web"
-msgstr "Aplikasi dan situs yang disimpan dari Web"
-
-#~ msgid "Sundry"
-#~ msgstr "Rupa-rupa"
+#~ msgid "Whispy Tails"
+#~ msgstr "Whispy Tails"
