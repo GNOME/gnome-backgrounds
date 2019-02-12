@@ -8,15 +8,15 @@
 # Lukas Novotny <lukasnov@cvs.gnome.org>, 2006.
 # Kamil Páral <ripper42@gmail.com>, 2008.
 # Pavel Šefránek <ps@pjoul.cz>, 2008.
-# Marek Černocký <marek@manet.cz>, 2011, 2012, 2013, 2014, 2016, 2018.
+# Marek Černocký <marek@manet.cz>, 2011, 2012, 2013, 2014, 2016, 2018, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-02-20 22:54+0000\n"
-"PO-Revision-Date: 2018-02-26 15:27+0100\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-01-03 17:41+0000\n"
+"PO-Revision-Date: 2019-02-12 14:19+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: čeština <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -31,64 +31,66 @@ msgid "Default Background"
 msgstr "výchozí pozadí"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Ocásky s bokehem"
+msgid "Rain Drops"
+msgstr "Kapky deště"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "A říkám tomu Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Zima a teplo"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Tmavý břečťan"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Nekonečné tvary"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Růžová tkanina"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
+#: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Flower Bed"
 msgstr "Květinové lůžko"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Ledové vrcholky"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Soumrak nad mořem"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Cesta"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
+#: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Sandstone"
 msgstr "Pískovce"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Symboly 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Symboly 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Dřevo"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Ocásky s bokehem"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "A říkám tomu Boke"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Vodopády"
