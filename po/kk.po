@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2018-06-08 06:16+0000\n"
-"PO-Revision-Date: 2018-08-26 08:21+0500\n"
+"POT-Creation-Date: 2019-01-03 17:41+0000\n"
+"PO-Revision-Date: 2019-02-17 12:09+0500\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "Language: kk\n"
@@ -17,71 +17,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Қалыпты фон"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Көмескі өсімдік сабақтары"
+msgid "Rain Drops"
+msgstr "Жаңбыр тамшылары"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "Мен оны боке деп атаймын"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Салқын және жылы"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Күңгірт шырмауық"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Шексіз пішіндер"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Қызғылт мата"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
+#: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Flower Bed"
 msgstr "Гүлзар"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Полярлық ландшафт"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Теңіздегі күн батуы"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Жол"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
+#: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Sandstone"
 msgstr "Құмдақ"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
-msgstr "Символдар 1"
+msgstr "Таңбалар 1"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 2"
+msgstr "Таңбалар 2"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:96
-msgid "Symbolics 2"
-msgstr "Символдар 2"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:103
 msgid "Wood"
 msgstr "Ағаш"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Көмескі өсімдік сабақтары"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "Мен оны боке деп атаймын"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Сарқырама"
