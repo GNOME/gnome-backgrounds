@@ -3,14 +3,14 @@
 #
 # Raivis Dejus <orvils@gmail.com>, 2006, 2009.
 # Pēteris Krišjānis <pecisk@gmail.com>, 2009.
-# Rudolfs <rudolfs.mazurs@gmail.com>, 2011, 2012, 2013, 2014, 2016, 2018.
+# Rudolfs <rudolfs.mazurs@gmail.com>, 2011, 2012, 2013, 2014, 2016, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-b"
-"ackgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-02-20 22:54+0000\n"
-"PO-Revision-Date: 2018-03-04 16:02+0200\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/issues"
+"\n"
+"POT-Creation-Date: 2019-01-03 17:41+0000\n"
+"PO-Revision-Date: 2019-03-03 14:06+0200\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
@@ -26,64 +26,66 @@ msgid "Default Background"
 msgstr "Noklusējuma fons"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Vārpas ārpus fokusa"
+msgid "Rain Drops"
+msgstr "Lietus lāses"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "To dēvēju par boki"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Auksts un silts"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Tumšā efeja"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Bezgalīgā forma"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Rozā audums"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
+#: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Flower Bed"
 msgstr "Puķudobe"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Ledus ainava"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Jūras saulriets"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Ceļš"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
+#: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Sandstone"
 msgstr "Smilšakmens"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Simbolisms 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Simbolisms 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Koksne"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Vārpas ārpus fokusa"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "To dēvēju par boki"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Ūdenskritumi"
