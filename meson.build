@@ -1,5 +1,5 @@
 project('gnome-backgrounds',
-  version: '3.31.91',
+  version: '3.32.0',
   meson_version: '>= 0.41.0'
 )
 
