@@ -20,7 +20,7 @@ backgrounds = [
   'Acrylic.jpg',
   'Icescape.jpg',
   'Road.jpg',
-  'Sandstone.jpg',
+  'Stripes.jpg',
   'SeaSunset.jpg',
   'symbolics-1.jpg',
   'symbolics-2.jpg',
