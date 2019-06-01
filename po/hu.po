@@ -4,21 +4,21 @@
 #
 # Mate ORY <orymate at gmail d0t com>, 2006.
 # Gabor Kelemen <kelemeng at gnome dot hu>, 2005, 2008, 2011, 2012, 2013, 2016.
-# Balázs Úr <urbalazs at gmail dot com>, 2014, 2016, 2018, 2019.
+# Balázs Úr <ur.balazs at fsf dot hu>, 2014, 2016, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
-"issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-01-26 23:07+0100\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/issues"
+"\n"
+"POT-Creation-Date: 2019-05-28 17:47+0000\n"
+"PO-Revision-Date: 2019-06-01 14:58+0200\n"
+"Last-Translator: Balázs Úr <ur.balazs at fsf dot hu>\n"
 "Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.2\n"
+"X-Generator: Lokalize 18.12.3\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -46,8 +46,8 @@ msgid "Pink Fabric"
 msgstr "Rózsaszín szövet"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Virágágyás"
+msgid "Acrylic"
+msgstr "Akril"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -66,8 +66,8 @@ msgid "Road"
 msgstr "Út"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Homokkő"
+msgid "Color Stripes"
+msgstr "Színes szalagok"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -80,4 +80,3 @@ msgstr "Jelképek 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Deszka"
-
