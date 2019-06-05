@@ -12,18 +12,18 @@ backgrounds = [
   'adwaita-day.jpg',
   'adwaita-morning.jpg',
   'adwaita-night.jpg',
-  'RainDrops.jpg',
+  'Acrylic.jpg',
   'ColdWarm.jpg',
   'Dark_Ivy.jpg',
-  'endless-shapes.jpg',
+  'Endless-shapes.jpg',
   'Fabric.jpg',
-  'Acrylic.jpg',
+  'LightWaves.png',
   'Icescape.jpg',
   'Road.jpg',
   'Stripes.jpg',
   'SeaSunset.jpg',
-  'symbolics-1.jpg',
-  'symbolics-2.jpg',
+  'Symbolics-1.jpg',
+  'Symbolics-2.jpg',
   'Wood.jpg'
 ]
 

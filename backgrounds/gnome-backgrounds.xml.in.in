@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<name>Rain Drops</name>
-		<filename>@BACKGROUNDDIR@/RainDrops.jpg</filename>
+		<name>Light Waves</name>
+		<filename>@BACKGROUNDDIR@/LightWaves.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -24,7 +24,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Endless Shapes</name>
-		<filename>@BACKGROUNDDIR@/endless-shapes.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Endless-shapes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -80,14 +80,14 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Symbolics 1</name>
-		<filename>@BACKGROUNDDIR@/symbolics-1.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Symbolics-1.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Symbolics 2</name>
-		<filename>@BACKGROUNDDIR@/symbolics-2.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Symbolics-2.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
