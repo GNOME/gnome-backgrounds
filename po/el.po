@@ -14,9 +14,9 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds.HEAD\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2018-09-03 16:59+0000\n"
-"PO-Revision-Date: 2018-12-27 11:28+0200\n"
-"Last-Translator: Tom Tryfonidis <tomtryf@gnome.org>\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-11 15:06+0300\n"
+"Last-Translator: Efstathios Iosifidis <eiosifidis@gnome.org>\n"
 "Language-Team: Greek, Modern (1453-) <opensuse-translation-el@opensuse."
 "org>\n"
 "Language: el\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2\n"
+"X-Generator: Poedit 1.8.7.1\n"
 "X-Project-Style: gnome\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -32,64 +32,72 @@ msgid "Default Background"
 msgstr "Προεπιλεγμένο παρασκήνιο"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Στάχυ"
+msgid "Light Waves"
+msgstr "Ελαφρά κύματα"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "And I Call It Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Χιονισμένα δέντρα"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Σκούρος κισσός"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Ατελείωτα σχήματα"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Ροζ ύφασμα"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Παρτέρι"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Ακρυλικό"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Χιονισμένα βουνά"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Ηλιοβασίλεμα"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Δρόμος"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Ψαμμίτης"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Χρωματιστές ρίγες"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Σύμβολα 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Σύμβολα 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Ξύλο"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Στάχυ"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "And I Call It Boke"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Παρτέρι"
+
+#~ msgid "Sandstone"
+#~ msgstr "Ψαμμίτης"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Καταρράκτες"
@@ -112,9 +120,6 @@ msgstr "Ξύλο"
 #~ msgid "Terraform Green"
 #~ msgstr "Πράσινη γαιοπλασία"
 
-#~ msgid "Waves"
-#~ msgstr "Κύματα"
-
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Νησί Godafoss"
 
@@ -132,9 +137,6 @@ msgstr "Ξύλο"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Διαστημική φλόγα"
-
-#~ msgid "Stripes"
-#~ msgstr "Ρίγες"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Ρίγες 3.4"
