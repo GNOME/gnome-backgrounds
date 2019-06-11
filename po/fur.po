@@ -7,23 +7,23 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-02-02 11:21+0100\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-11 11:00+0200\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <massimo.furlani@libero.it>\n"
 "Language: fur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Sfont predefinît"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Gotis di ploie"
+msgid "Light Waves"
+msgstr "Ondis di lûs"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -42,8 +42,8 @@ msgid "Pink Fabric"
 msgstr "Stofe rose"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Jet di rosis"
+msgid "Acrylic"
+msgstr "Acrilic"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -62,8 +62,8 @@ msgid "Road"
 msgstr "Strade"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Arenarie"
+msgid "Color Stripes"
+msgstr "Strichis di colôr"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -76,6 +76,15 @@ msgstr "Simbolics 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Len"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Gotis di ploie"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Jet di rosis"
+
+#~ msgid "Sandstone"
+#~ msgstr "Arenarie"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Spîs fûr di fûc"
@@ -103,9 +112,6 @@ msgstr "Len"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Bonificant vert"
-
-#~ msgid "Waves"
-#~ msgstr "Ondis"
 
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Pissande dai dius"
