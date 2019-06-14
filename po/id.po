@@ -5,20 +5,21 @@
 # ahmad riza h nst <ari@160c.afraid.org>, 2005.
 # Dirgita <dirgitadevina@yahoo.co.id>, 2011, 2012.
 # Andika Triwidada <andika@gmail.com>, 2012, 2013.
+# Kukuh Syafaat <kukuhsyafaat@gnome.org>, 2017, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-02-02 23:17+0700\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-14 17:32+0700\n"
 "Last-Translator: Kukuh Syafaat <kukuhsyafaat@gnome.org>\n"
 "Language-Team: Indonesian <gnome@i15n.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 "Plural-Forms: nplurals=2; plural= n!=1;\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -26,8 +27,8 @@ msgid "Default Background"
 msgstr "Latar Belakang Baku"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Rintik Hujan"
+msgid "Light Waves"
+msgstr "Gelombang Cahaya"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -46,8 +47,8 @@ msgid "Pink Fabric"
 msgstr "Kain Pink"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Rumpun Bunga"
+msgid "Acrylic"
+msgstr "Akrilik"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -66,8 +67,8 @@ msgid "Road"
 msgstr "Jalan"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Batu Pasir"
+msgid "Color Stripes"
+msgstr "Garis-garis warna"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -80,6 +81,15 @@ msgstr "Simbolik 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Kayu"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Rintik Hujan"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Rumpun Bunga"
+
+#~ msgid "Sandstone"
+#~ msgstr "Batu Pasir"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Ekor Bokeh"
@@ -107,9 +117,6 @@ msgstr "Kayu"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Corak Hijau"
-
-#~ msgid "Waves"
-#~ msgstr "Gelombang"
 
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Godafoss Islandia"
