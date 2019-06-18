@@ -18,23 +18,23 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-02-24 12:01+0100\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-18 11:00+0200\n"
 "Last-Translator: Nathan Follens <nthn@unseen.is>\n"
 "Language-Team: Dutch <vertaling@vrijschrift.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Standaardachtergrond"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Regendruppels"
+msgid "Light Waves"
+msgstr "Lichtgolven"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -53,8 +53,8 @@ msgid "Pink Fabric"
 msgstr "Roze stof"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Bloemenbed"
+msgid "Acrylic"
+msgstr "Acryl"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -73,8 +73,8 @@ msgid "Road"
 msgstr "Snelweg"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Zandsteen"
+msgid "Color Stripes"
+msgstr "Gekleurde streepjes"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -87,6 +87,15 @@ msgstr "Symboliek 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Hout"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Regendruppels"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Bloemenbed"
+
+#~ msgid "Sandstone"
+#~ msgstr "Zandsteen"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Pluimen - kleurrijk"
@@ -115,9 +124,6 @@ msgstr "Hout"
 #~ msgid "Terraform Green"
 #~ msgstr "Terravorming groen"
 
-#~ msgid "Waves"
-#~ msgstr "Golven"
-
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Goðafoss, IJsland"
 
@@ -135,9 +141,6 @@ msgstr "Hout"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Ruimtegloed"
-
-#~ msgid "Stripes"
-#~ msgstr "Streepjes"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Streepjes 3.4"
