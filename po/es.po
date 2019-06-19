@@ -6,22 +6,22 @@
 #
 # Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2005.
 # Jorge González <jorgegonz@svn.gnome.org>, 2008, 2011.
-# Daniel Mustieles <daniel.mustieles@gmail.com>, 2011, 2012, 2013, 2014, 2016, 2018, 2019.
+# Daniel Mustieles <daniel.mustieles@gmail.com>, 2011-2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds.master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-01-08 15:57+0100\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-19 09:32+0200\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
 "Language-Team: es <gnome-es-list@gnome.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.7\n"
+"X-Generator: Gtranslator 3.32.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -29,9 +29,9 @@ msgid "Default Background"
 msgstr "Fondo predeterminado"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-#| msgid "Rain Dropse"
-msgid "Rain Drops"
-msgstr "Gotas de lluvia"
+#| msgid "Waves"
+msgid "Light Waves"
+msgstr "Olas ligeras"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -50,8 +50,8 @@ msgid "Pink Fabric"
 msgstr "Tela rosa"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Flores"
+msgid "Acrylic"
+msgstr "Acrílico"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -70,8 +70,9 @@ msgid "Road"
 msgstr "Carretera"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Piedra roja"
+#| msgid "Stripes"
+msgid "Color Stripes"
+msgstr "Rayas de colores"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -84,6 +85,16 @@ msgstr "Simbólicos 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Madera"
+
+#~| msgid "Rain Dropse"
+#~ msgid "Rain Drops"
+#~ msgstr "Gotas de lluvia"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Flores"
+
+#~ msgid "Sandstone"
+#~ msgstr "Piedra roja"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Espigas"
@@ -112,9 +123,6 @@ msgstr "Madera"
 #~ msgid "Terraform Green"
 #~ msgstr "Tierra verde"
 
-#~ msgid "Waves"
-#~ msgstr "Olas"
-
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Cascada de los dioses"
 
@@ -132,9 +140,6 @@ msgstr "Madera"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Destello"
-
-#~ msgid "Stripes"
-#~ msgstr "Rayas"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Rayas 3.4"
