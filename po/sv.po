@@ -1,90 +1,98 @@
 # Swedish messages for gnome-backgrounds.
-# Copyright © 2004-2018 Free Software Foundation, Inc.
+# Copyright © 2004-2019 Free Software Foundation, Inc.
 # Christian Rose <menthos@menthos.com>, 2004.
 # Daniel Nylander <po@danielnylander.se>, 2006, 2008, 2011.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2014, 2016, 2018.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2014, 2016, 2018, 2019.
 # Mattias Eriksson <snaggen@gmail.com>, 2014.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-01-05 19:53+0000\n"
-"PO-Revision-Date: 2018-01-31 22:43+0100\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-27 14:34+0200\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Standardbakgrund"
 
-# Bokeh är de ofokuserade delarna i en bild.
-# https://sv.wikipedia.org/wiki/Bokeh
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Suddiga vippor"
+msgid "Light Waves"
+msgstr "Ljusvågor"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "Och jag kallar det suddigt"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Kallt och varmt"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Mörk murgröna"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Former utan ände"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Rosa textil"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Blomsterbädd"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Akryl"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Islandskap"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Solnedgång vid havet"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Väg"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Sandsten"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Färgade ränder"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Symbolik 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Symbolik 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Trä"
+
+# Bokeh är de ofokuserade delarna i en bild.
+# https://sv.wikipedia.org/wiki/Bokeh
+#~ msgid "Bokeh Tails"
+#~ msgstr "Suddiga vippor"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "Och jag kallar det suddigt"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Blomsterbädd"
+
+#~ msgid "Sandstone"
+#~ msgstr "Sandsten"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Vattenfall"
@@ -106,9 +114,6 @@ msgstr "Trä"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Terraform Grön"
-
-#~ msgid "Waves"
-#~ msgstr "Vågor"
 
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Goðafoss på Island"
@@ -145,9 +150,6 @@ msgstr "Trä"
 
 #~ msgid "Spaceflare Supernova"
 #~ msgstr "Rymdsken Supernova"
-
-#~ msgid "Stripes"
-#~ msgstr "Ränder"
 
 #~ msgid "Sundown Dunes"
 #~ msgstr "Solnedgång i sanddynor"
