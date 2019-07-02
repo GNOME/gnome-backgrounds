@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-25 07:08+0000\n"
-"PO-Revision-Date: 2019-01-25 18:13+0100\n"
+"POT-Creation-Date: 2019-06-27 12:35+0000\n"
+"PO-Revision-Date: 2019-07-02 18:09+0200\n"
 "Last-Translator: Matej Urbančič <mateju@svn.gnome.org>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups.com>\n"
 "Language: sl_SI\n"
@@ -21,15 +21,15 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
 "%100==4 ? 3 : 0);\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Privzeto ozadje"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Dežne kaplje"
+msgid "Light Waves"
+msgstr "Rahlo valovanje"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -48,8 +48,8 @@ msgid "Pink Fabric"
 msgstr "Rožnato blago"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Cvetoča postelja"
+msgid "Acrylic"
+msgstr "Akril"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -68,8 +68,8 @@ msgid "Road"
 msgstr "Cesta"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Peščenjak"
+msgid "Color Stripes"
+msgstr "Barvne proge"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -82,6 +82,15 @@ msgstr "Simbolika 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Les"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Dežne kaplje"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Cvetoča postelja"
+
+#~ msgid "Sandstone"
+#~ msgstr "Peščenjak"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Zeleni travnati repki"
@@ -109,9 +118,6 @@ msgstr "Les"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Odtisno zeleno"
-
-#~ msgid "Waves"
-#~ msgstr "Valovanje"
 
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Godafoss Islandija"
