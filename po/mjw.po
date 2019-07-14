@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
 "POT-Creation-Date: 2019-07-02 16:39+0000\n"
-"PO-Revision-Date: 2019-07-09 22:00+0530\n"
+"PO-Revision-Date: 2019-07-10 09:05+0530\n"
 "Last-Translator: Jor Teron <jor.teron@gmail.com>\n"
 "Language-Team: Karbi <mjw@li.org>\n"
 "Language: mjw\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
-msgstr ""
+msgstr "Kangsam &smp; Phang-ok"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
