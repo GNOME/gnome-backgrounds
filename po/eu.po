@@ -5,12 +5,12 @@
 # Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2005, 2006, 2008, 2010, 2011, 2012.
 # Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2013, 2014, 2016.
 # Asier Sarasua Garmendia <asier.sarasua@gmail.com>, 2013, 2019.
-
+#
 msgid ""
 msgstr "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-02-23 09:00+0100\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-07-14 10:00+0100\n"
 "Last-Translator: Asier Sarasua Garmendia <asier.sarasua@gmail.com>\n"
 "Language-Team: Basque <librezale@librezale.eus>\n"
 "Language: eu\n"
@@ -26,8 +26,8 @@ msgid "Default Background"
 msgstr "Atzeko plano lehenetsia"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Euri-tantak"
+msgid "Light Waves"
+msgstr "Uhin arinak"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -46,8 +46,8 @@ msgid "Pink Fabric"
 msgstr "Ehun arrosa"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Lorezko ohea"
+msgid "Acrylic"
+msgstr "Akrilikoa"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -66,8 +66,8 @@ msgid "Road"
 msgstr "Bidea"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Hareharria"
+msgid "Color Stripes"
+msgstr "Kolore-zerrendak"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -80,3 +80,12 @@ msgstr "Ikurrak 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Egurra"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Euri-tantak"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Lorezko ohea"
+
+#~ msgid "Sandstone"
+#~ msgstr "Hareharria"
