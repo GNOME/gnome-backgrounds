@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-01-25 10:31+0900\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-06-19 14:48+0900\n"
 "Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
 "Language: fr\n"
@@ -24,15 +24,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Arrière-plan par défaut"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Gouttes de pluie"
+msgid "Light Waves"
+msgstr "Vagues lumineuses"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -51,8 +51,8 @@ msgid "Pink Fabric"
 msgstr "Tissu rose"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Tapis de fleurs"
+msgid "Acrylic"
+msgstr "Acrylique"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -71,8 +71,8 @@ msgid "Road"
 msgstr "Route"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Grès rouge"
+msgid "Color Stripes"
+msgstr "Bandes colorées"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -85,6 +85,15 @@ msgstr "Symboliques 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Bois"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Gouttes de pluie"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Tapis de fleurs"
+
+#~ msgid "Sandstone"
+#~ msgstr "Grès rouge"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Queues floutées"
