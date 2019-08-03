@@ -9,11 +9,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-03-26 22:18+0000\n"
-"PO-Revision-Date: 2018-04-01 01:10+0300\n"
-"Last-Translator: Florentina Mușat <florentina.musat.28@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-07-04 08:58+0300\n"
+"Last-Translator: Florentina Mușat <florentina.musat.28 [at] gmail [dot] "
+"com>\n"
 "Language-Team: Gnome Romanian Translation Team\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.3\n"
 "X-Project-Style: gnome\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -29,64 +30,72 @@ msgid "Default Background"
 msgstr "Fundal implicit"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Efect bokeh"
+msgid "Light Waves"
+msgstr "Unde luminoase"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "Și îl numesc Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Rece și cald"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Iederă neagră"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Forme nesfârșite"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Material roz"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Strat de flori"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Acril"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Peisaj de gheață"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Apus de soare la mare"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Drum"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Stâncă de nisip"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Dungi de culoare"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Simboluri 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Simboluri 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Lemn"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Efect bokeh"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "Și îl numesc Boke"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Strat de flori"
+
+#~ msgid "Sandstone"
+#~ msgstr "Stâncă de nisip"
 
 #~ msgid "Blinds"
 #~ msgstr "Jaluzele"
@@ -111,9 +120,6 @@ msgstr "Lemn"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Formă verde a Terrei"
-
-#~ msgid "Waves"
-#~ msgstr "Valuri"
 
 #~ msgid "Whispy Tails"
 #~ msgstr "Efect fin"
