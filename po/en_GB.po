@@ -2,23 +2,24 @@
 # Copyright (C) 2004 The GNOME Foundation
 # This file is distributed under the same license as the gnome-background package.
 # David Lodge <dave@cirt.net>, 2004.
-# Bruce Cowan <bruce@bcowan.me.uk>, 2011, 2012.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2012.
+# Bruce Cowan <bruce@bcowan.me.uk>, 2011-2019.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-03-26 22:18+0000\n"
-"PO-Revision-Date: 2018-04-26 09:33+0200\n"
-"Last-Translator: Waldo Luís Ribeiro <waldoribeiro@sapo.pt>\n"
-"Language-Team: Sugar Labs\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-08-13 20:54+0100\n"
+"Last-Translator: Bruce Cowan <bruce@bcowan.me.uk>\n"
+"Language-Team: British English <en@li.org>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Gtranslator 3.32.1\n"
 "X-Project-Style: gnome\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -26,65 +27,74 @@ msgid "Default Background"
 msgstr "Default Background"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Bokeh Tails"
+#| msgid "Waves"
+msgid "Light Waves"
+msgstr "Light Waves"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "And I Call It Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Cold &amp; Warm"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Dark Ivy"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Endless Shapes"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Pink Fabric"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Flower Bed"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Acrylic"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Icescape"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
-#| msgid "Sunset"
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Sea Sunset"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Road"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Sandstone"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+#| msgid "Stripes"
+msgid "Color Stripes"
+msgstr "Colour Stripes"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Symbolics 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Symbolics 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Wood"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Bokeh Tails"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "And I Call It Boke"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Flower Bed"
+
+#~ msgid "Sandstone"
+#~ msgstr "Sandstone"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Waterfalls"
@@ -107,9 +117,6 @@ msgstr "Wood"
 #~ msgid "Terraform Green"
 #~ msgstr "Terraform Green"
 
-#~ msgid "Waves"
-#~ msgstr "Waves"
-
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Godafoss Iceland"
 
@@ -124,9 +131,6 @@ msgstr "Wood"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Spaceflare"
-
-#~ msgid "Stripes"
-#~ msgstr "Stripes"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Stripes 3.4"
