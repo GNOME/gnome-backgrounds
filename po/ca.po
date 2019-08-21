@@ -8,10 +8,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds 2.14\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-03-26 22:18+0000\n"
-"PO-Revision-Date: 2018-04-22 05:55-0500\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-08-21 08:29+0200\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Catalan <tradgnome@softcatala.org>\n"
 "Language: ca\n"
@@ -19,104 +19,65 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Fons d'escriptori per defecte"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Cues difuses"
+msgid "Light Waves"
+msgstr "Ones suaus"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "I l'anomeno Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Fred i càlid"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
-msgstr "Heura negre"
+msgstr "Heura negra"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Formes sense fi"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Tela rosa"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Llit de flors"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Acrílic"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Paisatge nevat"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Ocàs a la mar"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Carretera"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Pedres de terra"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Ratlles de color"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Símbols 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Símbols 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Fusta"
 
-#~ msgid "Waterfalls"
-#~ msgstr "Cascades"
-
-#~ msgid "Dandelion"
-#~ msgstr "Dent de lleó"
-
-#~ msgid "Lock Screen"
-#~ msgstr "Pantalla bloquejada"
-
-#~ msgid "Mirror"
-#~ msgstr "Mirall"
-
-#~ msgid "Signpost of the Shadows"
-#~ msgstr "Ombra dels senyals"
-
-#~ msgid "Stones"
-#~ msgstr "Pedres"
-
-#~ msgid "Terraform Green"
-#~ msgstr "Terra verd"
-
-#~ msgid "Waves"
-#~ msgstr "Ones"
-
-#~ msgid "Godafoss Iceland"
-#~ msgstr "Cascada Godafoss d'Islàndia"
-
-#~ msgid "Blinds"
-#~ msgstr "Persiana"
-
-#~ msgid "Foot Fall"
-#~ msgstr "Peus d'aigua"
-
-#~ msgid "Whispy Tails"
-#~ msgstr "Plantes al vent"
