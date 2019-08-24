@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/issues"
 "\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-03-03 14:06+0200\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-08-24 17:46+0200\n"
 "Last-Translator: Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>\n"
 "Language-Team: Latvian <lata-l10n@googlegroups.com>\n"
 "Language: lv\n"
@@ -26,8 +26,9 @@ msgid "Default Background"
 msgstr "Noklusējuma fons"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Lietus lāses"
+#| msgid "Waves"
+msgid "Light Waves"
+msgstr "Viegli viļņi"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -46,8 +47,8 @@ msgid "Pink Fabric"
 msgstr "Rozā audums"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Puķudobe"
+msgid "Acrylic"
+msgstr "Akrils"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
@@ -66,8 +67,8 @@ msgid "Road"
 msgstr "Ceļš"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Smilšakmens"
+msgid "Color Stripes"
+msgstr "Krāsu svītras"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -80,6 +81,15 @@ msgstr "Simbolisms 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Koksne"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Lietus lāses"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Puķudobe"
+
+#~ msgid "Sandstone"
+#~ msgstr "Smilšakmens"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Vārpas ārpus fokusa"
@@ -107,9 +117,6 @@ msgstr "Koksne"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Zaļā zeme"
-
-#~ msgid "Waves"
-#~ msgstr "Viļņi"
 
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Godafos Islande"
