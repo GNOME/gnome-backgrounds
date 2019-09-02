@@ -6,15 +6,16 @@
 # Meelad Zakaria <meelad@farsiweb.inf>, 2006.
 # Mahyar Moghimi <mahyar.moqimi@gmail.com>, 2010.
 # Arash Mousavi <mousavi.arash@gmail.com>, 2011, 2012, 2013, 2015.
+# Danial Behzadi <dani.behzi@ubuntu.com>, 2016, 2017, 2018, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds HEAD\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2016-09-01 08:50+0000\n"
-"PO-Revision-Date: 2016-09-09 18:18+0430\n"
-"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-09-02 14:40+0000\n"
+"Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -22,113 +23,100 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 2.2.1\n"
 
-#: ../backgrounds/adwaita.xml.in.in.h:1
+#: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
-msgstr "پس‌زمینه پیش‌فرض"
+msgstr "پس‌زمینه پیش‌گزیده"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waterfalls.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:3
-msgid "Waterfalls"
-msgstr "آبشارها"
+#: backgrounds/gnome-backgrounds.xml.in.in:5
+msgid "Light Waves"
+msgstr "موج‌های سبک"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Bokeh_Tails.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:6
-msgid "Bokeh Tails"
-msgstr "ساقه"
+#: backgrounds/gnome-backgrounds.xml.in.in:12
+msgid "Cold &amp; Warm"
+msgstr "سرد و گرم"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Chmiri.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:9
-msgid "Dandelion"
-msgstr "قاصدک"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Dark_Ivy.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:12
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "پیچک تاریک"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Fabric.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:15
+#: backgrounds/gnome-backgrounds.xml.in.in:26
+msgid "Endless Shapes"
+msgstr "شکل‌های بی‌پایان"
+
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "تار و پود صورتی"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Flowerbed.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:18
-msgid "Flower Bed"
-msgstr "تخت گل"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "آکریلیک"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Icescape.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:21
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "حبه یخ"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-morning.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:24
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
-msgstr "مشبک"
+msgstr "نک"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/adwaita-night.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:27
-msgid "Lock Screen"
-msgstr "قفل‌صفحه"
+#: backgrounds/gnome-backgrounds.xml.in.in:61
+msgid "Sea Sunset"
+msgstr "غروب دریا"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Mirror.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:30
-msgid "Mirror"
-msgstr "آینه"
-
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Road.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:33
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "جاده"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Sandstone.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:36
-msgid "Sandstone"
-msgstr "سنگ شن"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "راه‌راه رنگی"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Signpost_of_the_Shadows.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:39
-msgid "Signpost of the Shadows"
-msgstr "راهنما سایه‌ها"
+#: backgrounds/gnome-backgrounds.xml.in.in:82
+msgid "Symbolics 1"
+msgstr "نمادهای ۱"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Stones.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:42
-msgid "Stones"
-msgstr "سنگ‌ها"
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 2"
+msgstr "نمادهای ۲"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Terraform-green.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:45
-msgid "Terraform Green"
-msgstr "ترافورم سبز"
+#: backgrounds/gnome-backgrounds.xml.in.in:96
+msgid "Wood"
+msgstr "چوب"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Waves.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:48
-msgid "Waves"
-msgstr "امواج"
+#~ msgid "Waterfalls"
+#~ msgstr "آبشارها"
 
-#. TRANSLATORS: This is the name of this background picture: http://git.gnome.org/browse/gnome-backgrounds/plain/backgrounds/Godafoss_Iceland.jpg -
-#. You might want to translate it into the equivalent words of your language
-#: ../backgrounds/gnome-backgrounds.xml.in.in.h:51
-msgid "Godafoss Iceland"
-msgstr "جزیره گودافاس"
+#~ msgid "Bokeh Tails"
+#~ msgstr "ساقه"
+
+#~ msgid "Dandelion"
+#~ msgstr "قاصدک"
+
+#~ msgid "Flower Bed"
+#~ msgstr "تخت گل"
+
+#~ msgid "Lock Screen"
+#~ msgstr "قفل‌صفحه"
+
+#~ msgid "Mirror"
+#~ msgstr "آینه"
+
+#~ msgid "Sandstone"
+#~ msgstr "سنگ شن"
+
+#~ msgid "Signpost of the Shadows"
+#~ msgstr "راهنما سایه‌ها"
+
+#~ msgid "Stones"
+#~ msgstr "سنگ‌ها"
+
+#~ msgid "Terraform Green"
+#~ msgstr "ترافورم سبز"
+
+#~ msgid "Godafoss Iceland"
+#~ msgstr "جزیره گودافاس"
 
 #~ msgid "Blinds"
 #~ msgstr "مخفیگاه"
@@ -145,23 +133,14 @@ msgstr "جزیره گودافاس"
 #~ msgid "Spaceflare"
 #~ msgstr "شعله‌های فضایی"
 
-#~ msgid "Stripes"
-#~ msgstr "راه راه"
-
 #~ msgid "Stripes 3.4"
 #~ msgstr "راه راه ۳.۴"
-
-#~ msgid "Sunset"
-#~ msgstr "غروب"
 
 #~ msgid "Tulip"
 #~ msgstr "لاله"
 
 #~ msgid "Underlit"
 #~ msgstr "نور"
-
-#~ msgid "Wood"
-#~ msgstr "چوب"
 
 #~ msgid "End Bell"
 #~ msgstr "زنگ پایانی"
