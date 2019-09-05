@@ -1,6 +1,7 @@
 # Translation of gnome-backgrounds.
 # Copyright (C) 2006-2011 Gnome Foundation
-# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2012-2019 gnome-backgrounds' COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-backgrounds package.
 #
 # Baris Cicek <baris@teamforce.name.tr>, 2006, 2008.
 # Ozan Çağlayan <ozancag@gmail.com>, 2013.
@@ -11,83 +12,90 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-01-05 19:53+0000\n"
-"PO-Revision-Date: 2018-02-17 15:39+0300\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-08-21 23:25+0300\n"
+"Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Türkçe <gnome-turk@gnome.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Gtranslator 2.91.7\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Öntanımlı Arka Plan"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Alan Derinliği"
+msgid "Light Waves"
+msgstr "Hafif Dalgalar"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "Ve Ona Boke Dedim"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Soğuk ve Sıcak"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Kara Sarmaşık"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Sonsuz Şekiller"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Pembe Kumaş"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Çiçeklik"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Akrilik"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Buzul Manzara"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
-#| msgid "Sunset"
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Denizde Gün Batımı"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Yol"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Kum Taşı"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Renk Şeritleri"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Simgebilim 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Simgebilim 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Ahşap"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Alan Derinliği"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "Ve Ona Boke Dedim"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Çiçeklik"
+
+#~ msgid "Sandstone"
+#~ msgstr "Kum Taşı"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Şelale"
@@ -109,9 +117,6 @@ msgstr "Ahşap"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Arazi Yeşili"
-
-#~ msgid "Waves"
-#~ msgstr "Dalgalar"
 
 # Notlar:
 # Not Ekle
@@ -137,9 +142,6 @@ msgstr "Ahşap"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Uzay Parıltısı"
-
-#~ msgid "Stripes"
-#~ msgstr "Şeritler"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Şeritler 3.4"
