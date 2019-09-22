@@ -1,5 +1,5 @@
 # gnome-backgrounds ja.po.
-# Copyright (C) 2005,2006,2008,2011,2012 Free Software Foundation, Inc.
+# Copyright (C) 2005-2019 Free Software Foundation, Inc.
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Satoru SATOH <ss@gnome.gr.jp>, 2006.
 # Takeshi AIHANA <takeshi.aihana@gmail.com>, 2005, 2008, 2011.
@@ -7,6 +7,7 @@
 # Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2011.
 # Hideki Yamane <henrich@debian.org>, 2011.
 # Noriko Mizumoto <noriko@fedoraproject.org>, 2012.
+# sicklylife <translation@sicklylife.jp>, 2019.
 #
 msgid ""
 msgstr ""
@@ -14,8 +15,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
 "POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2016-03-19 18:51+0900\n"
-"Last-Translator: Jiro Matsuzawa <jmatsuzawa@gnome.org>\n"
+"PO-Revision-Date: 2019-09-22 19:00+0900\n"
+"Last-Translator: sicklylife <translation@sicklylife.jp>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -28,10 +29,8 @@ msgid "Default Background"
 msgstr "デフォルトの背景"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-#, fuzzy
-#| msgid "Waves"
 msgid "Light Waves"
-msgstr "ウェーブ"
+msgstr ""
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -62,20 +61,16 @@ msgid "Adwaita"
 msgstr "Adwaita"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:61
-#, fuzzy
-#| msgid "Sunset"
 msgid "Sea Sunset"
-msgstr "日暮れ"
+msgstr ""
 
 #: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "道"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-#, fuzzy
-#| msgid "Stripes"
 msgid "Color Stripes"
-msgstr "ストライプ"
+msgstr "カラーストライプ"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
