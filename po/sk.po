@@ -7,81 +7,89 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-01-05 19:53+0000\n"
-"PO-Revision-Date: 2018-01-22 20:31+0100\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-09-22 10:14+0000\n"
+"PO-Revision-Date: 2019-09-26 09:11+0200\n"
 "Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
 "Language-Team: Slovak <gnome-sk-list@gnome.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Predvolené pozadie"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Bokeh stebiel"
+msgid "Light Waves"
+msgstr "Jemné vlny"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "A ja to volám Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Chlad a teplo"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Tmavý brečtan"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Nekonečné tvary"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Ružová látka"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Posteľ z kvetov"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Akryl"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Ľadovcová krajina"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Západ slnka na mori"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Cesta"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Pieskovec"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Farebné pruhy"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Symbolika č. 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Symbolika č. 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Drevo"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Bokeh stebiel"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "A ja to volám Boke"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Posteľ z kvetov"
+
+#~ msgid "Sandstone"
+#~ msgstr "Pieskovec"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Vodopády"
@@ -104,9 +112,6 @@ msgstr "Drevo"
 #~ msgid "Terraform Green"
 #~ msgstr "Zelený povrch"
 
-#~ msgid "Waves"
-#~ msgstr "Vlny"
-
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Godafoss Island"
 
@@ -124,9 +129,6 @@ msgstr "Drevo"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Vesmírna žiara"
-
-#~ msgid "Stripes"
-#~ msgstr "Pruhy"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Pruhy 3.4"
