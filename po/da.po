@@ -1,20 +1,20 @@
 # Danish translation of gnome-backgrounds.
-# Copyright (C) 2004, 2014, 2016, 2018 Thomas Wood <thos@gnome.org>
+# Copyright (C) 2004, 2014, 2016, 2018, 2019 Thomas Wood <thos@gnome.org>
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Martin Willemoes Hansen <mwh@sysrq.dk>, 2004, 2005.
 # Ole Laursen <olau@hardworking.dk>, 2006.
 # M.P. Rommedahl <lhademmor@gmail.com>, 2008.
 # Kris Thomsen <lakristho@gmail.com>, 2011.
-# Ask Hjorth Larsen <asklarsen@gmail.com>, 2014, 2016.
+# Ask Hjorth Larsen <asklarsen@gmail.com>, 2014, 2016, 2019.
 # Alan Mortensen <alanmortensen.am@gmail.com>, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
-"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
-"backgrounds&keywords=I18N+L10N&component=general\n"
-"POT-Creation-Date: 2018-02-20 22:54+0000\n"
-"PO-Revision-Date: 2018-03-05 20:05+0100\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-06-05 08:42+0000\n"
+"PO-Revision-Date: 2019-09-09 00:42+0200\n"
 "Last-Translator: Alan Mortensen <alanmortensen.am@gmail.com>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "Language: da\n"
@@ -27,66 +27,74 @@ msgstr ""
 msgid "Default Background"
 msgstr "Standardbaggrund"
 
-# visk sb., -en, -e, -ene (bundt af urter og grøntsager).  Bokeh er denneher stil med at noget er meget uskarpt
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Bokeh-visk"
+msgid "Light Waves"
+msgstr "Lysbølger"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "Og jeg kalder det boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Kold &amp; varm"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Mørkt vedbend"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Uendelige former"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Lyserødt stof"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Blomsterbed"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Akryl"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:54
+#: backgrounds/gnome-backgrounds.xml.in.in:47
 msgid "Icescape"
 msgstr "Islandskab"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:61
+#: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Solnedgang over havet"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Vej"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Sandsten"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Kulørte striber"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Symbolik 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Symbolik 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Træ"
+
+# visk sb., -en, -e, -ene (bundt af urter og grøntsager).  Bokeh er denneher stil med at noget er meget uskarpt
+#~ msgid "Bokeh Tails"
+#~ msgstr "Bokeh-visk"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "Og jeg kalder det boke"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Blomsterbed"
+
+#~ msgid "Sandstone"
+#~ msgstr "Sandsten"
 
 #~ msgid "Waterfalls"
 #~ msgstr "Vandfald"
@@ -109,9 +117,6 @@ msgstr "Træ"
 #~ msgid "Terraform Green"
 #~ msgstr "Grønt landskabsmønster"
 
-#~ msgid "Waves"
-#~ msgstr "Bølger"
-
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Goðafoss, Island"
 
@@ -130,9 +135,6 @@ msgstr "Træ"
 
 #~ msgid "Spaceflare"
 #~ msgstr "Rumglimt"
-
-#~ msgid "Stripes"
-#~ msgstr "Striber"
 
 #~ msgid "Stripes 3.4"
 #~ msgstr "Striber 3.4"
