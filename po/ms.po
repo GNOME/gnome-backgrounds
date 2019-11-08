@@ -6,84 +6,113 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-04-17 13:57+0200\n"
-"PO-Revision-Date: 2010-04-16 11:57+0800\n"
-"Last-Translator: Ahmed Noor Kader Mustajir Md Eusoff <sir.ade@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-10-08 11:24+0000\n"
+"PO-Revision-Date: 2019-11-08 09:31+0800\n"
+"Last-Translator: Umarzuki Mochlis <umarzuki@gmail.com>\n"
 "Language-Team: Malay <ms@li.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:1
-msgid "Flow"
-msgstr "Aliran"
+#: backgrounds/adwaita.xml.in.in:5
+msgid "Default Background"
+msgstr "Latar Belakang Default"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:2
-msgid "Gulp"
-msgstr ""
+#: backgrounds/gnome-backgrounds.xml.in.in:5
+msgid "Light Waves"
+msgstr "Gelombang cahaya"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:3
-msgid "Silk"
-msgstr "Sutera"
+#: backgrounds/gnome-backgrounds.xml.in.in:12
+msgid "Cold &amp; Warm"
+msgstr "Dingin &amp; Hangat"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:4
-msgid "Spring"
-msgstr "Musim Bunga"
+#: backgrounds/gnome-backgrounds.xml.in.in:19
+msgid "Dark Ivy"
+msgstr "Dark Ivy"
 
-#: ../abstract/gnome-abstract.xml.in.in.h:5
-msgid "Waves"
-msgstr "Ombak"
+#: backgrounds/gnome-backgrounds.xml.in.in:26
+msgid "Endless Shapes"
+msgstr "Bentuk tidak berkesudahan"
 
-#: ../nature/gnome-nature.xml.in.in.h:1
-msgid "Aqua"
-msgstr "Air"
+#: backgrounds/gnome-backgrounds.xml.in.in:33
+msgid "Pink Fabric"
+msgstr "Fabrik merah jambu"
 
-#: ../nature/gnome-nature.xml.in.in.h:2
-msgid "Blinds"
-msgstr "Buta"
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Akrilik"
 
-#: ../nature/gnome-nature.xml.in.in.h:3
-msgid "Dune"
-msgstr "Bukit Pasir"
+#: backgrounds/gnome-backgrounds.xml.in.in:47
+msgid "Icescape"
+msgstr "Icescape"
 
-#. Translators: This is the name of a desktop background image that shows an orange/red flower.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:6
-msgid "Fresh Flower"
-msgstr "Bunga Segar"
+#: backgrounds/gnome-backgrounds.xml.in.in:54
+msgid "Adwaita"
+msgstr "Adwaita"
 
-#: ../nature/gnome-nature.xml.in.in.h:7
-msgid "Garden"
-msgstr "Taman"
+#: backgrounds/gnome-backgrounds.xml.in.in:61
+msgid "Sea Sunset"
+msgstr "Matahari terbenam"
 
-#. Translators: This is the name of a desktop background image that shows a green meadow.
-#. You might want to translate it into the equivalent words of your language
-#: ../nature/gnome-nature.xml.in.in.h:10
-msgid "Green Meadow"
-msgstr "Padang Rumput Hijau"
+#: backgrounds/gnome-backgrounds.xml.in.in:68
+msgid "Road"
+msgstr "Jalan"
 
-#: ../nature/gnome-nature.xml.in.in.h:11
-msgid "Lady Bird"
-msgstr ""
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Jalur warna"
 
-#: ../nature/gnome-nature.xml.in.in.h:12
-msgid "Rain Drops"
-msgstr "Titisan Hujan"
+#: backgrounds/gnome-backgrounds.xml.in.in:82
+msgid "Symbolics 1"
+msgstr "Simbolik 1"
 
-#: ../nature/gnome-nature.xml.in.in.h:13
-msgid "Storm"
-msgstr "Badai"
+#: backgrounds/gnome-backgrounds.xml.in.in:89
+msgid "Symbolics 2"
+msgstr "Simbolik 2"
 
-#: ../nature/gnome-nature.xml.in.in.h:14
-msgid "Two Wings"
-msgstr "Dua Sayap"
-
-#: ../nature/gnome-nature.xml.in.in.h:15
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Kayu"
 
-#: ../nature/gnome-nature.xml.in.in.h:16
-msgid "Yellow Flower"
-msgstr "Bunga Kuning"
+#~ msgid "Flow"
+#~ msgstr "Aliran"
+
+#~ msgid "Silk"
+#~ msgstr "Sutera"
+
+#~ msgid "Spring"
+#~ msgstr "Musim Bunga"
+
+#~ msgid "Aqua"
+#~ msgstr "Air"
+
+#~ msgid "Blinds"
+#~ msgstr "Buta"
+
+#~ msgid "Dune"
+#~ msgstr "Bukit Pasir"
+
+#~ msgid "Fresh Flower"
+#~ msgstr "Bunga Segar"
+
+#~ msgid "Garden"
+#~ msgstr "Taman"
+
+#~ msgid "Green Meadow"
+#~ msgstr "Padang Rumput Hijau"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Titisan Hujan"
+
+#~ msgid "Storm"
+#~ msgstr "Badai"
+
+#~ msgid "Two Wings"
+#~ msgstr "Dua Sayap"
+
+#~ msgid "Yellow Flower"
+#~ msgstr "Bunga Kuning"
