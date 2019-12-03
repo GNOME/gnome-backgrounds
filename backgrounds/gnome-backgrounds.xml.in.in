@@ -3,7 +3,7 @@
 <wallpapers>
 	<wallpaper deleted="false">
 		<name>Light Waves</name>
-		<filename>@BACKGROUNDDIR@/LightWaves.png</filename>
+		<filename>@BACKGROUNDDIR@/LightWaves.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -44,8 +44,8 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Icescape</name>
-		<filename>@BACKGROUNDDIR@/Icescape.jpg</filename>
+		<name>Ice Twigs</name>
+		<filename>@BACKGROUNDDIR@/Icetwigs.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
