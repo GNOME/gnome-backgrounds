@@ -13,15 +13,15 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds.master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2019-06-19 09:32+0200\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2019-12-11 09:20+0100\n"
 "Last-Translator: Daniel Mustieles <daniel.mustieles@gmail.com>\n"
-"Language-Team: es <gnome-es-list@gnome.org>\n"
-"Language: es\n"
+"Language-Team: Spanish - Spain <gnome-es-list@gnome.org>\n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 3.32.0\n"
+"X-Generator: Gtranslator 3.34.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -29,7 +29,6 @@ msgid "Default Background"
 msgstr "Fondo predeterminado"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-#| msgid "Waves"
 msgid "Light Waves"
 msgstr "Olas ligeras"
 
@@ -54,8 +53,8 @@ msgid "Acrylic"
 msgstr "Acrílico"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Montañas heladas"
+msgid "Ice Twigs"
+msgstr "Escarcha"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -70,7 +69,6 @@ msgid "Road"
 msgstr "Carretera"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-#| msgid "Stripes"
 msgid "Color Stripes"
 msgstr "Rayas de colores"
 
@@ -85,6 +83,9 @@ msgstr "Simbólicos 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Madera"
+
+#~ msgid "Icescape"
+#~ msgstr "Montañas heladas"
 
 #~| msgid "Rain Dropse"
 #~ msgid "Rain Drops"
