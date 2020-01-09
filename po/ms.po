@@ -8,23 +8,23 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-10-08 11:24+0000\n"
-"PO-Revision-Date: 2019-11-08 09:31+0800\n"
-"Last-Translator: Umarzuki Mochlis <umarzuki@gmail.com>\n"
+"POT-Creation-Date: 2019-11-08 01:34+0000\n"
+"PO-Revision-Date: 2019-12-29 16:52+0800\n"
+"Last-Translator: abuyop <abuyop@gmail.com>\n"
 "Language-Team: Malay <ms@li.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
-msgstr "Latar Belakang Default"
+msgstr "Latar Belakang Lalai"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
 msgid "Light Waves"
-msgstr "Gelombang cahaya"
+msgstr "Gelombang Cahaya"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -32,15 +32,15 @@ msgstr "Dingin &amp; Hangat"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
-msgstr "Dark Ivy"
+msgstr "Ivy Gelap"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
-msgstr "Bentuk tidak berkesudahan"
+msgstr "Bentuk Tiada Kesudahan"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
-msgstr "Fabrik merah jambu"
+msgstr "Fabrik Merah Jambu"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
 msgid "Acrylic"
@@ -56,7 +56,7 @@ msgstr "Adwaita"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
-msgstr "Matahari terbenam"
+msgstr "Matahari Terbenam"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
@@ -64,7 +64,7 @@ msgstr "Jalan"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
 msgid "Color Stripes"
-msgstr "Jalur warna"
+msgstr "Jalur Warna"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
