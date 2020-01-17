@@ -9,15 +9,15 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-09-22 10:14+0000\n"
-"PO-Revision-Date: 2019-09-26 09:11+0200\n"
+"POT-Creation-Date: 2020-01-14 06:23+0000\n"
+"PO-Revision-Date: 2020-01-17 08:19+0100\n"
 "Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
 "Language-Team: Slovak <gnome-sk-list@gnome.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
@@ -48,8 +48,8 @@ msgid "Acrylic"
 msgstr "Akryl"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Ľadovcová krajina"
+msgid "Ice Twigs"
+msgstr "Ľadové vetvičky"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -78,6 +78,9 @@ msgstr "Symbolika č. 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Drevo"
+
+#~ msgid "Icescape"
+#~ msgstr "Ľadovcová krajina"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Bokeh stebiel"
