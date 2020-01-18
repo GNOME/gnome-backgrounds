@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2019-06-21 01:31+0200\n"
-"Last-Translator: gogo <trebelnik2@gmail.com>\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2020-01-19 00:30+0100\n"
+"Last-Translator: gogo <linux.hr@protonmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
@@ -49,8 +49,8 @@ msgid "Acrylic"
 msgstr "Akril"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Ledeni krajolik"
+msgid "Ice Twigs"
+msgstr "Zaleđene grančice"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -79,6 +79,9 @@ msgstr "Simbolika 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Drvo"
+
+#~ msgid "Icescape"
+#~ msgstr "Ledeni krajolik"
 
 #~ msgid "Rain Drops"
 #~ msgstr "Kišne kapi"
