@@ -8,17 +8,17 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-background 3.0.0\n"
-"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/issues"
-"\n"
-"POT-Creation-Date: 2019-09-24 20:02+0000\n"
-"PO-Revision-Date: 2019-10-08 19:01+0800\n"
-"Last-Translator: pan93412 <pan93412@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
+"issues\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2020-01-21 19:06+0800\n"
+"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
 "Language-Team: Chinese <zh-l10n@linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 19.08.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -26,7 +26,6 @@ msgid "Default Background"
 msgstr "預設背景"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-#| msgid "Waves"
 msgid "Light Waves"
 msgstr "輕拍波浪"
 
@@ -51,8 +50,8 @@ msgid "Acrylic"
 msgstr "壓克力"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "冰景"
+msgid "Ice Twigs"
+msgstr "冰之枝"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -67,7 +66,6 @@ msgid "Road"
 msgstr "道路"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-#| msgid "Stripes"
 msgid "Color Stripes"
 msgstr "色彩條紋"
 
@@ -82,6 +80,9 @@ msgstr "符號 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "木頭"
+
+#~ msgid "Icescape"
+#~ msgstr "冰景"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "散景狗尾草"
