@@ -4,13 +4,13 @@
 #
 # Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2005, 2006, 2008, 2010, 2011, 2012.
 # Iñaki Larrañaga Murgoitio  <dooteo@zundan.com>, 2013, 2014, 2016.
-# Asier Sarasua Garmendia <asier.sarasua@gmail.com>, 2013, 2019.
+# Asier Sarasua Garmendia <asier.sarasua@gmail.com>, 2013, 2019, 2020.
 #
 msgid ""
 msgstr "Project-Id-Version: gnome-backgrounds master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/issues\n"
-"POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2019-07-14 10:00+0100\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2020-02-09 10:00+0100\n"
 "Last-Translator: Asier Sarasua Garmendia <asier.sarasua@gmail.com>\n"
 "Language-Team: Basque <librezale@librezale.eus>\n"
 "Language: eu\n"
@@ -50,8 +50,8 @@ msgid "Acrylic"
 msgstr "Akrilikoa"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Ikuspegi izoztua"
+msgid "Ice Twigs"
+msgstr "Izotz-adaxkak"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -80,6 +80,9 @@ msgstr "Ikurrak 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Egurra"
+
+#~ msgid "Icescape"
+#~ msgstr "Ikuspegi izoztua"
 
 #~ msgid "Rain Drops"
 #~ msgstr "Euri-tantak"
