@@ -8,15 +8,15 @@
 # Lukas Novotny <lukasnov@cvs.gnome.org>, 2006.
 # Kamil Páral <ripper42@gmail.com>, 2008.
 # Pavel Šefránek <ps@pjoul.cz>, 2008.
-# Marek Černocký <marek@manet.cz>, 2011, 2012, 2013, 2014, 2016, 2018, 2019.
+# Marek Černocký <marek@manet.cz>, 2011, 2012, 2013, 2014, 2016, 2018, 2019, 2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2019-08-15 08:55+0200\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2020-02-12 10:43+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: čeština <gnome-cs-list@gnome.org>\n"
 "Language: cs\n"
@@ -55,8 +55,8 @@ msgid "Acrylic"
 msgstr "Akryl"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Ledové vrcholky"
+msgid "Ice Twigs"
+msgstr "Ledové větvičky"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -85,51 +85,3 @@ msgstr "Symboly 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Dřevo"
-
-#~ msgid "Rain Drops"
-#~ msgstr "Kapky deště"
-
-#~ msgid "Flower Bed"
-#~ msgstr "Květinové lůžko"
-
-#~ msgid "Sandstone"
-#~ msgstr "Pískovce"
-
-#~ msgid "Bokeh Tails"
-#~ msgstr "Ocásky s bokehem"
-
-#~ msgid "And I Call It Boke"
-#~ msgstr "A říkám tomu Boke"
-
-#~ msgid "Waterfalls"
-#~ msgstr "Vodopády"
-
-#~ msgid "Dandelion"
-#~ msgstr "Chmíří"
-
-#~ msgid "Lock Screen"
-#~ msgstr "Zamykací obrazovka"
-
-#~ msgid "Mirror"
-#~ msgstr "Zrcadlení"
-
-#~ msgid "Signpost of the Shadows"
-#~ msgstr "Ukazatel stínů"
-
-#~ msgid "Stones"
-#~ msgstr "Kameny"
-
-#~ msgid "Terraform Green"
-#~ msgstr "Zelený povrch zemský"
-
-#~ msgid "Godafoss Iceland"
-#~ msgstr "Islandský vodopád Godafoss"
-
-#~ msgid "Blinds"
-#~ msgstr "Zástěna"
-
-#~ msgid "Foot Fall"
-#~ msgstr "Dešťové stopy"
-
-#~ msgid "Whispy Tails"
-#~ msgstr "Šeptající ocásky"
