@@ -13,16 +13,16 @@ msgstr ""
 "Project-Id-Version: gl\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2019-08-25 16:46+0200\n"
-"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2020-02-14 22:03+0100\n"
+"Last-Translator: Fran Diéguez <frandieguez@gnome.org>\n"
 "Language-Team: Galician\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.3\n"
 "X-Project-Style: gnome\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -54,8 +54,8 @@ msgid "Acrylic"
 msgstr "Acrílico"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Paisaxe nevado"
+msgid "Ice Twigs"
+msgstr "Escarcha"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -84,6 +84,9 @@ msgstr "Simbolismos 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Madeira"
+
+#~ msgid "Icescape"
+#~ msgstr "Paisaxe nevado"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Tallos de Bokeh"
