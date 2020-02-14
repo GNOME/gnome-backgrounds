@@ -4,16 +4,16 @@
 # package.
 # Michael MORONI <haikara90@gmail.com>, 2009.
 # Daniel PUENTES <blatberk@openmailbox.org>, 2015.
-# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2011, 2015.
-# Carmen Bianca BAKKER <carmen@carmenbianca.eu>, 2018.
+# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2011-2015.
+# Carmen Bianca BAKKER <carmen@carmenbianca.eu>, 2018-2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 2.8\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2018-09-03 16:59+0000\n"
-"PO-Revision-Date: 2018-10-26 13:03+0200\n"
+"POT-Creation-Date: 2020-01-14 06:23+0000\n"
+"PO-Revision-Date: 2020-01-15 00:44+0100\n"
 "Last-Translator: Carmen Bianca BAKKER <carmen@carmenbianca.eu>\n"
 "Language-Team: Esperanto <gnome-eo-list@gnome.org>\n"
 "Language: eo\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.2\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Project-Style: gnome\n"
 
 #: backgrounds/adwaita.xml.in.in:5
@@ -29,64 +29,75 @@ msgid "Default Background"
 msgstr "Implicita fono"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Bokeh Tails"
-msgstr "Bokeh vostoj"
+msgid "Light Waves"
+msgstr "Molaj ondoj"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
-msgid "And I Call It Boke"
-msgstr "Kaj mi nomas ĝin Boke"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Cold &amp; Warm"
 msgstr "Malvarma &amp; varma"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:26
+#: backgrounds/gnome-backgrounds.xml.in.in:19
 msgid "Dark Ivy"
 msgstr "Malhela hedero"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:33
+#: backgrounds/gnome-backgrounds.xml.in.in:26
 msgid "Endless Shapes"
 msgstr "Senĉesaj formoj"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:40
+#: backgrounds/gnome-backgrounds.xml.in.in:33
 msgid "Pink Fabric"
 msgstr "Roza ŝtofo"
 
+#: backgrounds/gnome-backgrounds.xml.in.in:40
+msgid "Acrylic"
+msgstr "Akrilo"
+
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Flower Bed"
-msgstr "Flora lito"
+msgid "Ice Twigs"
+msgstr "Glaciaj branĉetoj"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
-msgid "Icescape"
-msgstr "Glacia pejzaĝo"
-
-#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Adwaita"
 msgstr "Adwaita"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:68
+#: backgrounds/gnome-backgrounds.xml.in.in:61
 msgid "Sea Sunset"
 msgstr "Mara sunsubiro"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:75
+#: backgrounds/gnome-backgrounds.xml.in.in:68
 msgid "Road"
 msgstr "Vojo"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:82
-msgid "Sandstone"
-msgstr "Sabloŝtono"
+#: backgrounds/gnome-backgrounds.xml.in.in:75
+msgid "Color Stripes"
+msgstr "Koloraj strioj"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:89
+#: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
 msgstr "Simboloj 1"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:96
+#: backgrounds/gnome-backgrounds.xml.in.in:89
 msgid "Symbolics 2"
 msgstr "Simboloj 2"
 
-#: backgrounds/gnome-backgrounds.xml.in.in:103
+#: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Arbaro"
+
+#~ msgid "Bokeh Tails"
+#~ msgstr "Bokeh vostoj"
+
+#~ msgid "And I Call It Boke"
+#~ msgstr "Kaj mi nomas ĝin Boke"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Flora lito"
+
+#~ msgid "Icescape"
+#~ msgstr "Glacia pejzaĝo"
+
+#~ msgid "Sandstone"
+#~ msgstr "Sabloŝtono"
 
 #~ msgid "Blinds"
 #~ msgstr "Verda ventumilo"
@@ -109,9 +120,6 @@ msgstr "Arbaro"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Verda lando"
-
-#~ msgid "Waves"
-#~ msgstr "Ondoj"
 
 #~ msgid "Aqua"
 #~ msgstr "Akvo"
