@@ -3,22 +3,22 @@
 # This file is distributed under the same license as the gnome-backgrounds package.
 # Young-Ho Cha <ganadist@gmail.com>, 2005-2008.
 # Changwoo Ryu <cwryu@debian.org>, 2011.
-# Seong-ho Cho <shcho@gnome.org>, 2012-2019.
+# Seong-ho Cho <shcho@gnome.org>, 2012-2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-backgrounds\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-06-05 08:42+0000\n"
-"PO-Revision-Date: 2019-08-26 13:41+0900\n"
+"POT-Creation-Date: 2019-12-03 10:42+0000\n"
+"PO-Revision-Date: 2020-02-18 15:41+0900\n"
 "Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
 "Language-Team: 한국어 <gnome-kr@googlegroups.com>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -51,8 +51,8 @@ msgid "Acrylic"
 msgstr "아크릴 물감 그림"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "설경"
+msgid "Ice Twigs"
+msgstr "서리 맺힌 가지"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -81,6 +81,9 @@ msgstr "상징 기호 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "목재 벽면"
+
+#~ msgid "Icescape"
+#~ msgstr "설경"
 
 #~ msgid "Rain Drops"
 #~ msgstr "흐르는 빗방울"
