@@ -16,7 +16,6 @@ backgrounds = [
   'ColdWarm.jpg',
   'Dark_Ivy.jpg',
   'Endless-shapes.jpg',
-  'Fabric.jpg',
   'LightWaves.jpg',
   'Icetwigs.jpg',
   'Road.jpg',

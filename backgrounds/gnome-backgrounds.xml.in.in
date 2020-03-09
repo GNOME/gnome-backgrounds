@@ -30,13 +30,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Pink Fabric</name>
-		<filename>@BACKGROUNDDIR@/Fabric.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-		<wallpaper deleted="false">
 		<name>Acrylic</name>
 		<filename>@BACKGROUNDDIR@/Acrylic.jpg</filename>
 		<options>zoom</options>
