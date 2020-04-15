@@ -87,6 +87,13 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name/>
+		<filename>@BACKGROUNDDIR@/VNC.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name/>
 		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
