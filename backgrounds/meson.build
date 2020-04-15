@@ -23,6 +23,7 @@ backgrounds = [
   'SeaSunset.jpg',
   'Symbolics-1.jpg',
   'Symbolics-2.jpg',
+  'VNC.png',
   'Wood.jpg'
 ]
 
