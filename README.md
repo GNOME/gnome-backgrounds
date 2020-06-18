@@ -24,7 +24,7 @@ One wallpaper is reserved for plain color to be used for remote access where it'
 
 #### Sharpness
 
-Many photographic sources look great as a thumbnail or scaled down, but at 1:1 aren't 100% sharp. While it may not present itself as a problem on an average laptop screen, the wallpaper has to work at super wide screens where it's cropped to fit and is presented at 1:1 in many cases. Many otherwise suitable background images just fall short when observed at the nominal pixel view.
+Many photographic sources look great as a thumbnail or scaled down, but at 1:1 aren't 100% sharp. While it may not present itself as a problem on an average laptop screen, the wallpaper has to work on super wide screens where it's cropped to fit and is presented at 1:1 or even scaled up in some cases. Many otherwise suitable background images just fall short when observed at the nominal pixel view. Chromatic aberation and noise is also something that becomes apparent as you approach 1:1.
 
 ![Bad Scaling](badscaling.jpg)
 
