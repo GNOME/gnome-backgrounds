@@ -1,15 +1,15 @@
 # Kazakh translation for gnome-backgrounds.
 # Copyright (C) 2017 gnome-backgrounds's COPYRIGHT HOLDER
 # This file is distributed under the same license as the gnome-backgrounds package.
-# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017.
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017-2020.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-backgrounds/"
 "issues\n"
-"POT-Creation-Date: 2019-01-03 17:41+0000\n"
-"PO-Revision-Date: 2019-02-17 12:09+0500\n"
+"POT-Creation-Date: 2020-03-09 11:27+0000\n"
+"PO-Revision-Date: 2020-06-25 11:03+0500\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <kk_KZ@googlegroups.com>\n"
 "Language: kk\n"
@@ -17,15 +17,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: backgrounds/adwaita.xml.in.in:5
 msgid "Default Background"
 msgstr "Қалыпты фон"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:5
-msgid "Rain Drops"
-msgstr "Жаңбыр тамшылары"
+msgid "Light Waves"
+msgstr "Жарық толқындары"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:12
 msgid "Cold &amp; Warm"
@@ -44,12 +44,12 @@ msgid "Pink Fabric"
 msgstr "Қызғылт мата"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:40
-msgid "Flower Bed"
-msgstr "Гүлзар"
+msgid "Acrylic"
+msgstr "Акрил"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:47
-msgid "Icescape"
-msgstr "Полярлық ландшафт"
+msgid "Ice Twigs"
+msgstr "Мұзды бұтақтар"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:54
 msgid "Adwaita"
@@ -64,8 +64,8 @@ msgid "Road"
 msgstr "Жол"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:75
-msgid "Sandstone"
-msgstr "Құмдақ"
+msgid "Color Stripes"
+msgstr "Түс жолақтары"
 
 #: backgrounds/gnome-backgrounds.xml.in.in:82
 msgid "Symbolics 1"
@@ -78,6 +78,18 @@ msgstr "Таңбалар 2"
 #: backgrounds/gnome-backgrounds.xml.in.in:96
 msgid "Wood"
 msgstr "Ағаш"
+
+#~ msgid "Rain Drops"
+#~ msgstr "Жаңбыр тамшылары"
+
+#~ msgid "Flower Bed"
+#~ msgstr "Гүлзар"
+
+#~ msgid "Icescape"
+#~ msgstr "Полярлық ландшафт"
+
+#~ msgid "Sandstone"
+#~ msgstr "Құмдақ"
 
 #~ msgid "Bokeh Tails"
 #~ msgstr "Көмескі өсімдік сабақтары"
@@ -105,9 +117,6 @@ msgstr "Ағаш"
 
 #~ msgid "Terraform Green"
 #~ msgstr "Жасыл терраформа"
-
-#~ msgid "Waves"
-#~ msgstr "Толқындар"
 
 #~ msgid "Godafoss Iceland"
 #~ msgstr "Гудафосс сарқырамасы"
