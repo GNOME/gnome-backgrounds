@@ -2,28 +2,28 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/LightWaves.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/ColdWarm.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 		<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Dark_Ivy.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Endless-shapes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
@@ -37,63 +37,63 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Icetwigs.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/adwaita-timed.xml</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/SeaSunset.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Road.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Stripes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Symbolics-1.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Symbolics-2.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/VNC.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name/>
+		<name>Unnamed</name>
 		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
