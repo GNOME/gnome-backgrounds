@@ -30,15 +30,10 @@ backgrounds = [
 install_data([adwaita_timed] + backgrounds, install_dir: backgrounddir)
 
 foreach metadata : ['gnome-backgrounds.xml', 'adwaita.xml']
-  i18n.merge_file(metadata,
-    input: configure_file(
-      input: metadata + '.in.in',
-      output: metadata + '.in',
-      configuration: dataconf
-    ),
+  configure_file(
+    input: metadata + '.in',
     output: metadata,
-    po_dir: '../po',
-    data_dirs: '..',
+    configuration: dataconf,
     install: true,
     install_dir: metadatadir
   )

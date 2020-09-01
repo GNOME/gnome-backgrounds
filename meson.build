@@ -12,4 +12,3 @@ backgrounddir = join_paths(datadir, 'backgrounds', 'gnome')
 metadatadir = join_paths(datadir, 'gnome-background-properties')
 
 subdir('backgrounds')
-subdir('po')
