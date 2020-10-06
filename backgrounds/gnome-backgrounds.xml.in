@@ -73,7 +73,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Symbolics 1</name>
-		<filename>@BACKGROUNDDIR@/Symbolics-1.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Symbolics-1.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
