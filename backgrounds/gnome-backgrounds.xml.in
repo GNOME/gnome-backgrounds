@@ -79,13 +79,6 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Symbolics 2</name>
-		<filename>@BACKGROUNDDIR@/Symbolics-2.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
 		<name>VNC</name>
 		<filename>@BACKGROUNDDIR@/VNC.png</filename>
 		<options>zoom</options>

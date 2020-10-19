@@ -22,7 +22,6 @@ backgrounds = [
   'Stripes.jpg',
   'SeaSunset.jpg',
   'Symbolics-1.png',
-  'Symbolics-2.jpg',
   'VNC.png',
   'Wood.jpg'
 ]
