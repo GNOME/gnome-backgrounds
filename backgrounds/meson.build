@@ -18,9 +18,10 @@ backgrounds = [
   'Endless-shapes.jpg',
   'IceCrystals.jpg',
   'Leaf.jpg',
-  'Road.jpg',
+  'Loveles.jpg',
   'SeaSunset.jpg',
   'Symbolics-1.png',
+  'Tree.jpg',
   'VNC.png',
   'Wood.jpg'
 ]

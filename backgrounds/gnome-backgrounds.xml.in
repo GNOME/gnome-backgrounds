@@ -52,14 +52,14 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>8</name>
-		<filename>@BACKGROUNDDIR@/SeaSunset.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Tree.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>9</name>
-		<filename>@BACKGROUNDDIR@/Road.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Loveles.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
