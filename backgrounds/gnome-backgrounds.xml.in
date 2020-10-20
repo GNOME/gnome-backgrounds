@@ -2,91 +2,84 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
-		<name>Light Waves</name>
-		<filename>@BACKGROUNDDIR@/LightWaves.jpg</filename>
+		<name>1</name>
+		<filename>@BACKGROUNDDIR@/Leaf.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Cold &amp; Warm</name>
+		<name>2</name>
 		<filename>@BACKGROUNDDIR@/ColdWarm.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 		<wallpaper deleted="false">
-		<name>Dark Ivy</name>
+		<name>3</name>
 		<filename>@BACKGROUNDDIR@/Dark_Ivy.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Endless Shapes</name>
+		<name>4</name>
 		<filename>@BACKGROUNDDIR@/Endless-shapes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Acrylic</name>
+		<name>5</name>
 		<filename>@BACKGROUNDDIR@/Acrylic.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Ice Twigs</name>
-		<filename>@BACKGROUNDDIR@/Icetwigs.jpg</filename>
+		<name>6</name>
+		<filename>@BACKGROUNDDIR@/IceCrystals.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Adwaita</name>
+		<name>7</name>
 		<filename>@BACKGROUNDDIR@/adwaita-timed.xml</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Sea Sunset</name>
+		<name>8</name>
 		<filename>@BACKGROUNDDIR@/SeaSunset.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Road</name>
+		<name>9</name>
 		<filename>@BACKGROUNDDIR@/Road.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Color Stripes</name>
-		<filename>@BACKGROUNDDIR@/Stripes.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>Symbolics 1</name>
+		<name>10</name>
 		<filename>@BACKGROUNDDIR@/Symbolics-1.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>VNC</name>
+		<name>11</name>
 		<filename>@BACKGROUNDDIR@/VNC.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Wood</name>
+		<name>12</name>
 		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
