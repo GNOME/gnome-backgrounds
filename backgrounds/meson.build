@@ -19,7 +19,6 @@ backgrounds = [
   'Leaf.jpg',
   'LightBulb.jpg',
   'Loveles.jpg',
-  'SeaSunset.jpg',
   'Symbolics-1.png',
   'Tree.jpg',
   'VNC.png',
