@@ -13,7 +13,7 @@ backgrounds = [
   'adwaita-morning.jpg',
   'adwaita-night.jpg',
   'ColdWarm.jpg',
-  'Endless-shapes.jpg',
+  'DepthLava.png',
   'IceCrystals.jpg',
   'Lava.png',
   'Leaf.jpg',
