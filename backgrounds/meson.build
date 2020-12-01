@@ -9,9 +9,9 @@ adwaita_timed = configure_file(
 )
 
 backgrounds = [
-  'adwaita-day.jpg',
-  'adwaita-morning.jpg',
-  'adwaita-night.jpg',
+  'adwaita-day.png',
+  'adwaita-morning.png',
+  'adwaita-night.png',
   'ColdWarm.jpg',
   'DepthLava.png',
   'IceCrystals.jpg',
