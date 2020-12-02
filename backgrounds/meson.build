@@ -15,7 +15,7 @@ backgrounds = [
   'ColdWarm.jpg',
   'DepthLava.png',
   'IceCrystals.jpg',
-  'Lava.png',
+  'Lava.jpg',
   'Leaf.jpg',
   'LightBulb.jpg',
   'Loveles.jpg',
