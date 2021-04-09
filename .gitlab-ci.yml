@@ -1,0 +1,13 @@
+image: registry.fedoraproject.org/fedora:latest
+
+variables:
+  DEPENDENCIES: meson ninja-build gettext
+  GIT_DEPTH: "5"
+
+build:
+  before_script:
+    - dnf update -y --nogpgcheck && dnf install -y --nogpgcheck $DEPENDENCIES
+  script:
+    - meson _build
+    - ninja -C _build
+    - DESTDIR="$(pwd)/destdir" ninja -C _build install
