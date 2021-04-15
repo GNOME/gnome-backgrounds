@@ -12,6 +12,7 @@ backgrounds = [
   'adwaita-day.png',
   'adwaita-morning.png',
   'adwaita-night.png',
+  'BrushStrokes.jpg',
   'ColdWarm.jpg',
   'Disco.jpg',
   'DiscoHex.jpg',
@@ -20,7 +21,6 @@ backgrounds = [
   'LightBulb.jpg',
   'Loveles.jpg',
   'Symbolics-1.png',
-  'Tree.jpg',
   'VNC.png',
   'Wood.jpg'
 ]

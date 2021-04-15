@@ -52,7 +52,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>8</name>
-		<filename>@BACKGROUNDDIR@/Tree.jpg</filename>
+		<filename>@BACKGROUNDDIR@/BrushStrokes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
