@@ -52,6 +52,14 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>8</name>
+		<filename>@BACKGROUNDDIR@/Blobs.svg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>8</name>
 		<filename>@BACKGROUNDDIR@/BrushStrokes.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
