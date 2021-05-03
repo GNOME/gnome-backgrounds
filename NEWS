@@ -1,4 +1,9 @@
 =================
+ Version 40.1
+=================
+- lower default resolution for saner memory footprint
+
+=================
  Version 40.0
 =================
  Version 40.rc
