@@ -17,7 +17,7 @@ backgrounds = [
   'ColdWarm.jpg',
   'Disco.jpg',
   'DiscoHex.jpg',
-  'IceCrystals.jpg',
+  'Frosty.jpg',
   'Leaf.jpg',
   'LightBulb.jpg',
   'Loveles.jpg',

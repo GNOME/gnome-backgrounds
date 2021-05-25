@@ -38,7 +38,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>6</name>
-		<filename>@BACKGROUNDDIR@/IceCrystals.jpg</filename>
+		<filename>@BACKGROUNDDIR@/Frosty.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
