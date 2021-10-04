@@ -16,11 +16,11 @@ backgrounds = [
   'BrushStrokes.jpg',
   'ColdWarm.jpg',
   'Disco.jpg',
-  'DiscoHex.jpg',
   'Frosty.jpg',
   'Leaf.jpg',
   'LightBulb.jpg',
   'Loveles.jpg',
+  'pixels.png',
   'Symbolics-1.png',
   'VNC.png',
   'Wood.jpg'
