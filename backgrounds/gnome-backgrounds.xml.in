@@ -24,7 +24,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>4</name>
-		<filename>@BACKGROUNDDIR@/DiscoHex.jpg</filename>
+		<filename>@BACKGROUNDDIR@/pixels.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
