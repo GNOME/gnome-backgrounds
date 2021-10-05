@@ -3,56 +3,97 @@
 <wallpapers>
 	<wallpaper deleted="false">
 		<name>1</name>
-		<filename>@BACKGROUNDDIR@/Leaf.jpg</filename>
+		<filename>@BACKGROUNDDIR@/adwaita-timed.xml</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>2</name>
+		<filename>@BACKGROUNDDIR@/blobs-l.svg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>2</name>
-		<filename>@BACKGROUNDDIR@/ColdWarm.jpg</filename>
+		<filename>@BACKGROUNDDIR@/blobs-d.svg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-		<wallpaper deleted="false">
+
+	<wallpaper deleted="false">
 		<name>3</name>
-		<filename>@BACKGROUNDDIR@/LightBulb.jpg</filename>
+		<filename>@BACKGROUNDDIR@/brush-strokes-d.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>3</name>
+		<filename>@BACKGROUNDDIR@/brush-strokes-l.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>4</name>
+		<filename>@BACKGROUNDDIR@/disco-d.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>4</name>
-		<filename>@BACKGROUNDDIR@/pixels.png</filename>
+		<filename>@BACKGROUNDDIR@/disco-l.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>5</name>
+		<filename>@BACKGROUNDDIR@/frosty-d.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>5</name>
-		<filename>@BACKGROUNDDIR@/Disco.jpg</filename>
+		<filename>@BACKGROUNDDIR@/frosty-l.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	
+	<wallpaper deleted="false">
+		<name>6</name>
+		<filename>@BACKGROUNDDIR@/pixels-d.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>6</name>
-		<filename>@BACKGROUNDDIR@/Frosty.jpg</filename>
+		<filename>@BACKGROUNDDIR@/pixels-l.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	
+	<wallpaper deleted="false">
+		<name>7</name>
+		<filename>@BACKGROUNDDIR@/symbolics-d.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>7</name>
-		<filename>@BACKGROUNDDIR@/adwaita-timed.xml</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>8</name>
-		<filename>@BACKGROUNDDIR@/Blobs.svg</filename>
+		<filename>@BACKGROUNDDIR@/symbolics-l.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -60,37 +101,25 @@
 
 	<wallpaper deleted="false">
 		<name>8</name>
-		<filename>@BACKGROUNDDIR@/BrushStrokes.jpg</filename>
+		<filename>@BACKGROUNDDIR@/VNC.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	
+	<wallpaper deleted="false">
+		<name>9</name>
+		<filename>@BACKGROUNDDIR@/wood-d.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>9</name>
-		<filename>@BACKGROUNDDIR@/Loveles.jpg</filename>
+		<filename>@BACKGROUNDDIR@/wood-l.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	<wallpaper deleted="false">
-		<name>10</name>
-		<filename>@BACKGROUNDDIR@/Symbolics-1.png</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>11</name>
-		<filename>@BACKGROUNDDIR@/VNC.png</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>12</name>
-		<filename>@BACKGROUNDDIR@/Wood.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
+	
 </wallpapers>
