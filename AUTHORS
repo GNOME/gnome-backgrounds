@@ -1,15 +1,14 @@
 Image Authors:
 
+- archi*:
 - adwaita*:
-- symbolics-1.jpg:
-- symbolics-2.jpg:
-- Blobs.svg:
-- BrushStrokes.jpg:
-- Disco.png:
-- Frosty.jppg:
-- pixels.png:
-- Stripes.jpg:
-- Wood.jpg:
+- symbolics*:
+- blobs*:
+- brush-strokes*:
+- disco*:
+- frosty*:
+- pixels*:
+- Wood*:
 
   Copyright © 2011-2021 Jakub Steiner <jimmac@gmail.com>
   Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
