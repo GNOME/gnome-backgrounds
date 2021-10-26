@@ -19,6 +19,8 @@ backgrounds = [
   'brush-strokes-l.jpg',
   'disco-d.jpg',
   'disco-l.jpg',
+  'drool-d.svg',
+  'drool-l.svg',
   'frosty-d.jpg',
   'frosty-l.jpg',
   'pixels-d.png',

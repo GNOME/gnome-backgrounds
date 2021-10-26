@@ -137,4 +137,18 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	
+			<wallpaper deleted="false">
+		<name>11</name>
+		<filename>@BACKGROUNDDIR@/drool-d.svg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>11</name>
+		<filename>@BACKGROUNDDIR@/drool-l.svg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
 </wallpapers>
