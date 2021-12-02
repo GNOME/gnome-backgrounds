@@ -124,14 +124,14 @@
 	
 		<wallpaper deleted="false">
 		<name>10</name>
-		<filename>@BACKGROUNDDIR@/archi-d.jpg</filename>
+		<filename>@BACKGROUNDDIR@/libadwaita-d.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>10</name>
-		<filename>@BACKGROUNDDIR@/archi-l.jpg</filename>
+		<filename>@BACKGROUNDDIR@/libadwaita-l.jpg</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>

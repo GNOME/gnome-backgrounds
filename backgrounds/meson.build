@@ -11,8 +11,6 @@ adwaita_timed = configure_file(
 backgrounds = [
   'adwaita-d.png',
   'adwaita-l.png',
-  'archi-d.jpg',
-  'archi-l.jpg',
   'blobs-d.svg',
   'blobs-l.svg',
   'brush-strokes-d.jpg',
@@ -23,6 +21,8 @@ backgrounds = [
   'drool-l.svg',
   'frosty-d.jpg',
   'frosty-l.jpg',
+  'libadwaita-d.jpg',
+  'libadwaita-l.jpg',  
   'pixels-d.png',
   'pixels-l.png',
   'symbolics-d.png',
