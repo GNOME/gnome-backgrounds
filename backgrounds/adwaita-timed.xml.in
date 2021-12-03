@@ -11,13 +11,13 @@
 <!-- We start at 7 AM. It will remain up for 12 hours. -->
 <static>
 <duration>43200.0</duration>
-<file>@datadir@/backgrounds/gnome/adwaita-l.png</file>
+<file>@datadir@/backgrounds/gnome/adwaita-l.jpg</file>
 </static>
 
 <!-- It's 7 PM. It will remain for 12 hours -->
 <static>
 <duration>43200.0</duration>
-<file>@datadir@/backgrounds/gnome/adwaita-d.png</file>
+<file>@datadir@/backgrounds/gnome/adwaita-d.jpg</file>
 </static>
 
 
@@ -25,8 +25,8 @@
 FIXME: eventually we'll transition. let's start simple
 <transition type="overlay">
 <duration>21600.0</duration>
-<from>@datadir@/backgrounds/gnome/adwaita-day.png</from>
-<to>@datadir@/backgrounds/gnome/adwaita-night.png</to>
+<from>@datadir@/backgrounds/gnome/adwaita-day.jpg</from>
+<to>@datadir@/backgrounds/gnome/adwaita-night.jpg</to>
 </transition>
 -->
 
