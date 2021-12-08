@@ -9,21 +9,27 @@ adwaita_timed = configure_file(
 )
 
 backgrounds = [
-  'adwaita-day.png',
-  'adwaita-morning.png',
-  'adwaita-night.png',
-  'Blobs.svg',
-  'BrushStrokes.jpg',
-  'ColdWarm.jpg',
-  'Disco.jpg',
-  'Frosty.jpg',
-  'Leaf.jpg',
-  'LightBulb.jpg',
-  'Loveles.jpg',
-  'pixels.png',
-  'Symbolics-1.png',
+  'adwaita-d.jpg',
+  'adwaita-l.jpg',
+  'blobs-d.svg',
+  'blobs-l.svg',
+  'brush-strokes-d.jpg',
+  'brush-strokes-l.jpg',
+  'disco-d.jpg',
+  'disco-l.jpg',
+  'drool-d.svg',
+  'drool-l.svg',
+  'frosty-d.jpg',
+  'frosty-l.jpg',
+  'libadwaita-d.jpg',
+  'libadwaita-l.jpg',  
+  'pixels-d.png',
+  'pixels-l.png',
+  'symbolics-d.png',
+  'symbolics-l.png',
   'VNC.png',
-  'Wood.jpg'
+  'wood-d.jpg',
+  'wood-l.jpg'
 ]
 
 install_data([adwaita_timed] + backgrounds, install_dir: backgrounddir)
