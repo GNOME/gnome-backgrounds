@@ -4,43 +4,25 @@
 	<wallpaper deleted="false">
 		<name>2</name>
 		<filename>@BACKGROUNDDIR@/blobs-l.svg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>2</name>
-		<filename>@BACKGROUNDDIR@/blobs-d.svg</filename>
+		<filename-dark>@BACKGROUNDDIR@/blobs-d.svg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 
-	<wallpaper deleted="false">
-		<name>3</name>
-		<filename>@BACKGROUNDDIR@/brush-strokes-d.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
 	<wallpaper deleted="false">
 		<name>3</name>
 		<filename>@BACKGROUNDDIR@/brush-strokes-l.jpg</filename>
+		<filename-dark>@BACKGROUNDDIR@/brush-strokes-d.jpg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
 
-	<wallpaper deleted="false">
-		<name>4</name>
-		<filename>@BACKGROUNDDIR@/disco-d.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
 	<wallpaper deleted="false">
 		<name>4</name>
 		<filename>@BACKGROUNDDIR@/disco-l.jpg</filename>
+		<filename-dark>@BACKGROUNDDIR@/disco-d.jpg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -48,44 +30,26 @@
 
 	<wallpaper deleted="false">
 		<name>5</name>
-		<filename>@BACKGROUNDDIR@/truchet-d.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>5</name>
 		<filename>@BACKGROUNDDIR@/truchet-l.jpg</filename>
+		<filename-dark>@BACKGROUNDDIR@/truchet-d.jpg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	
-	<wallpaper deleted="false">
-		<name>6</name>
-		<filename>@BACKGROUNDDIR@/pixels-d.png</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
+
 	<wallpaper deleted="false">
 		<name>6</name>
 		<filename>@BACKGROUNDDIR@/pixels-l.png</filename>
+		<filename-dark>@BACKGROUNDDIR@/pixels-d.png</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	
-	<wallpaper deleted="false">
-		<name>7</name>
-		<filename>@BACKGROUNDDIR@/symbolics-d.png</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
+
 	<wallpaper deleted="false">
 		<name>7</name>
 		<filename>@BACKGROUNDDIR@/symbolics-l.png</filename>
+		<filename-dark>@BACKGROUNDDIR@/symbolics-d.png</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -98,47 +62,29 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	
-	<wallpaper deleted="false">
-		<name>9</name>
-		<filename>@BACKGROUNDDIR@/wood-d.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
+
 	<wallpaper deleted="false">
 		<name>9</name>
 		<filename>@BACKGROUNDDIR@/wood-l.jpg</filename>
+		<filename-dark>@BACKGROUNDDIR@/wood-d.jpg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	
-		<wallpaper deleted="false">
-		<name>10</name>
-		<filename>@BACKGROUNDDIR@/libadwaita-d.jpg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
+
 	<wallpaper deleted="false">
 		<name>10</name>
 		<filename>@BACKGROUNDDIR@/libadwaita-l.jpg</filename>
+		<filename-dark>@BACKGROUNDDIR@/libadwaita-d.jpg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
-	
-			<wallpaper deleted="false">
-		<name>11</name>
-		<filename>@BACKGROUNDDIR@/drool-d.svg</filename>
-		<options>zoom</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-	</wallpaper>
+
 	<wallpaper deleted="false">
 		<name>11</name>
 		<filename>@BACKGROUNDDIR@/drool-l.svg</filename>
+		<filename-dark>@BACKGROUNDDIR@/drool-d.svg</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
