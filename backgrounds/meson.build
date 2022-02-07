@@ -2,12 +2,6 @@ dataconf = configuration_data()
 dataconf.set('BACKGROUNDDIR', backgrounddir)
 dataconf.set('datadir', datadir)
 
-adwaita_timed = configure_file(
-  input: 'adwaita-timed.xml.in',
-  output: 'adwaita-timed.xml',
-  configuration: dataconf
-)
-
 backgrounds = [
   'adwaita-d.jpg',
   'adwaita-l.jpg',
@@ -32,7 +26,7 @@ backgrounds = [
   'wood-l.jpg'
 ]
 
-install_data([adwaita_timed] + backgrounds, install_dir: backgrounddir)
+install_data(backgrounds, install_dir: backgrounddir)
 
 foreach metadata : ['gnome-backgrounds.xml', 'adwaita.xml']
   configure_file(

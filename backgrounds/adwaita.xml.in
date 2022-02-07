@@ -3,7 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Default Background</name>
-    <filename>@datadir@/backgrounds/gnome/adwaita-timed.xml</filename>
+    <filename>@BACKGROUNDDIR@/adwaita-l.jpg</filename>
+    <filename-dark>@BACKGROUNDDIR@/adwaita-d.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
