@@ -8,11 +8,11 @@ This module contains a set of backgrounds packaged with the GNOME desktop.
 
 ### Default
 
-The default wallpaper has historically been strictly abstract, low contrast and provided in three daytime variants. The geometric pattern has oscillated around stripes and triangles and over the years has become part of the GNOME brand. Steering too much away from it will dillute the brand.
+The default wallpaper has historically been strictly abstract, low contrast. The geometric pattern has oscillated around stripes and triangles and over the years has become part of the GNOME brand. Steering too much away from it will dilute the brand. 
 
 ### Supplemental
 
-It is desirable to have a wide mix of themes and colors for the additional wallpapers. Photographs and illustrations that would otherwise be too contrasty and with high frequency detail to be a good backdrop are perfectly suitable. Photos should generally be at least 3840x2160px, with no artifacts such as chromatic aberation. Generally 16:9 aspect ratio is preferred as the wallpapers get scaled with the `background-size: cover` equivalent method and wide displays are becoming more and more common.
+It is desirable to have a wide mix of themes and colors for the additional wallpapers. Photographs and illustrations that would otherwise be too contrasty and with high frequency detail to be a good backdrop are perfectly suitable. Starting GNOME 42 each wallpaper shoulc come in two variants, light and dark. While the actual difference isn't well defined, the dark variant should try to limit the overall brightness.
 
 #### Cultural Considerations
 
@@ -22,17 +22,13 @@ GNOME is deployed globally. Be aware of some bad connotations in certain geograp
 
 ##### Resolution
 
-It is recommended to submit wallpapers of 4megapixels and above. This isn't a hard requirement for sharp noiseless cases (see below), but a good rule of thumb.
-
-##### Aspect Ratio
-
-Specific aspect ratio isn't mandated, all wallpapers are scaled 'to cover' in CSS terms (cropped to fit display). Do take various possible display aspect ratios into consideration when submitting wallpapers with strong reliance on composition.
+It is recommended to submit wallpapers of 4megapixels and above. Photos should generally come in the standard size of 4096x2160px, with no artifacts such as chromatic aberration. The wallpapers get scaled with the `background-size: cover` equivalent method but due to portrait aspect for displays being rather rare and the texture size being a real constraint we have not switched to square backgrounds yet. Do take various possible display aspect ratios into consideration when submitting wallpapers with strong reliance on composition. Important elements might get cropped.
 
 ##### File size
 
 Unfortunately due to distribution limits, the background collection has to keep its size contrained to around 40MB. This forces us to replace assets rather than add them. You can download the [Nostalgia](https://flathub.org/apps/details/im.bernard.Nostalgia) app to view previous release wallpapers.
 
-One wallpaper is reserved for plain color to be used for remote access where it's benefitial for the compression algorith to cope with it with ease. 
+One wallpaper is reserved for plain color to be used for remote access where it's beneficial for the compression algorithm to cope with it with ease. 
 
 ##### Sharpness
 
