@@ -57,7 +57,8 @@
 
 	<wallpaper deleted="false">
 		<name>8</name>
-		<filename>@BACKGROUNDDIR@/VNC.png</filename>
+		<filename>@BACKGROUNDDIR@/vnc-l.png</filename>
+		<filename-dark>@BACKGROUNDDIR@/vnc-d.png</filename-dark>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>

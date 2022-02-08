@@ -21,7 +21,8 @@ backgrounds = [
   'symbolics-l.png',
   'truchet-d.jpg',
   'truchet-l.jpg',
-  'VNC.png',
+  'vnc-d.png',
+  'vnc-l.png',
   'wood-d.jpg',
   'wood-l.jpg'
 ]
