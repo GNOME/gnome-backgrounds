@@ -1,6 +1,6 @@
 project('gnome-backgrounds',
-  version: '41.0',
-  meson_version: '>= 0.41.0'
+  version: '42.beta',
+  meson_version: '>= 0.50.0'
 )
 
 i18n = import('i18n')
