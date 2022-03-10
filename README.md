@@ -12,7 +12,7 @@ The default wallpaper has historically been strictly abstract, low contrast. The
 
 ### Supplemental
 
-It is desirable to have a wide mix of themes and colors for the additional wallpapers. Photographs and illustrations that would otherwise be too contrasty and with high frequency detail to be a good backdrop are perfectly suitable. Starting GNOME 42 each wallpaper shoulc come in two variants, light and dark. While the actual difference isn't well defined, the dark variant should try to limit the overall brightness.
+It is desirable to have a wide mix of themes and colors for the additional wallpapers. Photographs and illustrations that would otherwise be too contrasty and with high frequency detail to be a good backdrop are perfectly suitable. Starting with GNOME 42, each wallpaper should come in two variants, light and dark. While the actual difference isn't well defined, the dark variant should try to limit the overall brightness.
 
 #### Cultural Considerations
 
@@ -22,7 +22,7 @@ GNOME is deployed globally. Be aware of some bad connotations in certain geograp
 
 ##### Resolution
 
-It is recommended to submit wallpapers of 4megapixels and above. Photos should generally come in the standard size of 4096x2160px, with no artifacts such as chromatic aberration. The wallpapers get scaled with the `background-size: cover` equivalent method but due to portrait aspect for displays being rather rare and the texture size being a real constraint we have not switched to square backgrounds yet. Do take various possible display aspect ratios into consideration when submitting wallpapers with strong reliance on composition. Important elements might get cropped.
+It is recommended to submit wallpapers of 4 megapixels and above. Photos should generally come in the standard size of 4096x2160px, with no artifacts such as chromatic aberration. The wallpapers get scaled with the `background-size: cover` equivalent method but due to portrait aspect for displays being rather rare and the texture size being a real constraint we have not switched to square backgrounds yet. Do take various possible display aspect ratios into consideration when submitting wallpapers with strong reliance on composition. Important elements might get cropped.
 
 ##### File size
 
