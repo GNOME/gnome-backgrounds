@@ -29,7 +29,18 @@ backgrounds = [
 
 install_data(backgrounds, install_dir: backgrounddir)
 
-foreach metadata : ['gnome-backgrounds.xml', 'adwaita.xml']
+foreach metadata : [
+  'adwaita.xml',
+  'blobs.xml',
+  'brush-strokes.xml',
+  'disco.xml',
+  'drool.xml',
+  'libadwaita.xml',
+  'pixels.xml',
+  'symbolics.xml',
+  'truchet.xml',
+  'vnc.xml',
+  'wood.xml']
   configure_file(
     input: metadata + '.in',
     output: metadata,
