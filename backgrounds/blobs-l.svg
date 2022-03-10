@@ -6,7 +6,7 @@
    height="2160"
    version="1.1"
    sodipodi:docname="blobs-l.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,8 @@
      inkscape:pagecheckerboard="1"
      showgrid="false"
      width="4096px"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     borderlayer="true" />
   <defs
      id="defs9">
     <linearGradient
@@ -308,7 +309,7 @@
      inkscape:label="l">
     <g
        id="g154"
-       transform="matrix(2.1333333,0,0,2.1333333,0,1.200136)">
+       transform="matrix(2.1333333,0,0,2.1333333,0,-70.87043)">
       <rect
          x="0"
          y="0"
@@ -393,6 +394,6 @@
        width="4096"
        height="2304"
        x="0"
-       y="1.2001359" />
+       y="-72" />
   </g>
 </svg>
