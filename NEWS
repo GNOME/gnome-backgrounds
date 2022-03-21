@@ -1,11 +1,11 @@
 ==============
- Version 41.0
+ Version 42.0
 ==============
 - split xml files per background for easier cherry-picking by distros
 - clean up credentials
 
 =================
- Version 41.beta
+ Version 42.beta
 =================
 - new default & supplemental wallpapers in light and dark variants
 - updated guidelines
