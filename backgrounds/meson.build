@@ -31,10 +31,10 @@ install_data(backgrounds, install_dir: backgrounddir)
 
 foreach metadata : [
   'adwaita.xml',
-  'blobs.xml',
   'brush-strokes.xml',
   'disco.xml',
   'drool.xml',
+  'dune.xml',
   'libadwaita.xml',
   'pixels.xml',
   'symbolics.xml',
