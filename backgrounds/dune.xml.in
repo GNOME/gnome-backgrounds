@@ -2,9 +2,9 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Blobs</name>
-    <filename>@BACKGROUNDDIR@/blobs-l.svg</filename>
-    <filename-dark>@BACKGROUNDDIR@/blobs-d.svg</filename-dark>
+    <name>Dune</name>
+    <filename>@BACKGROUNDDIR@/dune-l.svg</filename>
+    <filename-dark>@BACKGROUNDDIR@/dune-d.svg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
