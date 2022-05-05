@@ -2,9 +2,9 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Libadwaita</name>
-    <filename>@BACKGROUNDDIR@/libadwaita-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/libadwaita-d.jpg</filename-dark>
+    <name>Grid</name>
+    <filename>@BACKGROUNDDIR@/grid-l.jpg</filename>
+    <filename-dark>@BACKGROUNDDIR@/grid-d.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
