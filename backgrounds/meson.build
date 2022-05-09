@@ -5,6 +5,8 @@ dataconf.set('datadir', datadir)
 backgrounds = [
   'adwaita-d.jpg',
   'adwaita-l.jpg',
+  'blobs-d.svg',
+  'blobs-l.svg',
   'drool-d.svg',
   'drool-l.svg',
   'dune-d.svg',
@@ -31,6 +33,7 @@ install_data(backgrounds, install_dir: backgrounddir)
 
 foreach metadata : [
   'adwaita.xml',
+  'blobs.xml',
   'drool.xml',
   'dune.xml',
   'field.xml',
