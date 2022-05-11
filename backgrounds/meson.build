@@ -3,8 +3,8 @@ dataconf.set('BACKGROUNDDIR', backgrounddir)
 dataconf.set('datadir', datadir)
 
 backgrounds = [
-  'adwaita-d.jpg',
-  'adwaita-l.jpg',
+  'adwaita-d.webp',
+  'adwaita-l.webp',
   'blobs-d.svg',
   'blobs-l.svg',
   'drool-d.svg',
