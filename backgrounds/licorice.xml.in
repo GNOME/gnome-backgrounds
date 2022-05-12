@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Licorice</name>
-    <filename>@BACKGROUNDDIR@/licorice-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/licorice-d.jpg</filename-dark>
+    <filename>@BACKGROUNDDIR@/licorice-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/licorice-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>

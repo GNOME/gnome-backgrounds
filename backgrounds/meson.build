@@ -13,20 +13,20 @@ backgrounds = [
   'dune-l.svg',
   'field-d.svg',
   'field-l.svg',
-  'grid-d.jpg',
-  'grid-l.jpg',
-  'licorice-d.jpg',
-  'licorice-l.jpg',
-  'pixels-d.png',
-  'pixels-l.png',
+  'grid-d.jxl',
+  'grid-l.jxl',
+  'licorice-d.jxl',
+  'licorice-l.jxl',
+  'pixels-d.jxl',
+  'pixels-l.jxl',
   'symbolic-d.jxl',
   'symbolic-l.jxl',
-  'truchet-d.jpg',
-  'truchet-l.jpg',
-  'vnc-d.png',
-  'vnc-l.png',
-  'wood-d.jpg',
-  'wood-l.jpg'
+  'truchet-d.jxl',
+  'truchet-l.jxl',
+  'vnc-d.jxl',
+  'vnc-l.jxl',
+  'wood-d.jxl',
+  'wood-l.jxl'
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)

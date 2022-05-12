@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Wood</name>
-    <filename>@BACKGROUNDDIR@/wood-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/wood-d.jpg</filename-dark>
+    <filename>@BACKGROUNDDIR@/wood-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/wood-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3465a4</pcolor>
