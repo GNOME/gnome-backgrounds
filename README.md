@@ -40,6 +40,9 @@ Many photographic sources look great as a thumbnail or scaled down, but at 1:1 a
 
 Images should look decent even on lower quality displays. Techniques such as dithering should be used for elements with low contrast areas that would otherwise be prone for color banding.
 
+## Background "source"
+To easily create derivative works, the [wallpaper-assets repo](https://gitlab.gnome.org/Teams/Design/wallpaper-assets) contains most of the abstract wallpapers as Blender project files.
+
 ## License
 
 CCBYSA / Public Domain / CC0 is preferred. Authorship does need to be sourced, all attribution goes to the AUTHORS file.
