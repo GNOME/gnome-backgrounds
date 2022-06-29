@@ -17,6 +17,7 @@ backgrounds = [
   'grid-l.jxl',
   'licorice-d.jxl',
   'licorice-l.jxl',
+  'oceans.svg',
   'pixels-d.jxl',
   'pixels-l.jxl',
   'symbolic-d.jxl',
