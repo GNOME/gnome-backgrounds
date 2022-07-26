@@ -3,8 +3,8 @@ dataconf.set('BACKGROUNDDIR', backgrounddir)
 dataconf.set('datadir', datadir)
 
 backgrounds = [
-  'adwaita-d.jxl',
-  'adwaita-l.jxl',
+  'adwaita-d.webp',
+  'adwaita-l.webp',
   'blobs-d.svg',
   'blobs-l.svg',
   'drool-d.svg',
@@ -13,21 +13,21 @@ backgrounds = [
   'dune-l.svg',
   'field-d.svg',
   'field-l.svg',
-  'grid-d.jxl',
-  'grid-l.jxl',
-  'licorice-d.jxl',
-  'licorice-l.jxl',
+  'grid-d.webp',
+  'grid-l.webp',
+  'licorice-d.webp',
+  'licorice-l.webp',
   'oceans.svg',
-  'pixels-d.jxl',
-  'pixels-l.jxl',
-  'symbolic-d.jxl',
-  'symbolic-l.jxl',
-  'truchet-d.jxl',
-  'truchet-l.jxl',
-  'vnc-d.jxl',
-  'vnc-l.jxl',
-  'wood-d.jxl',
-  'wood-l.jxl'
+  'pixels-d.webp',
+  'pixels-l.webp',
+  'symbolic-d.webp',
+  'symbolic-l.webp',
+  'truchet-d.webp',
+  'truchet-l.webp',
+  'vnc-d.webp',
+  'vnc-l.webp',
+  'wood-d.webp',
+  'wood-l.webp'
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)

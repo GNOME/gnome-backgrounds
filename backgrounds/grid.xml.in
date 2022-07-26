@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Grid</name>
-    <filename>@BACKGROUNDDIR@/grid-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/grid-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/grid-l.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/grid-d.webp</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#a55a01</pcolor>

@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Pixels</name>
-    <filename>@BACKGROUNDDIR@/pixels-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/pixels-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/pixels-l.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/pixels-d.webp</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#967864</pcolor>
