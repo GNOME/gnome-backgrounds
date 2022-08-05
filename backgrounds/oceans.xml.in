@@ -2,11 +2,11 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Field</name>
+    <name>Oceans</name>
     <filename>@BACKGROUNDDIR@/oceans.svg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#26a269</pcolor>
+    <pcolor>#6aadd5</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
