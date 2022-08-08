@@ -40,6 +40,7 @@ foreach metadata : [
   'field.xml',
   'grid.xml',
   'licorice.xml',
+  'oceans.xml',
   'pixels.xml',
   'symbolic.xml',
   'truchet.xml',
