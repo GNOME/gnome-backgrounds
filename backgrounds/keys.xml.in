@@ -2,12 +2,12 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Licorice</name>
-    <filename>@BACKGROUNDDIR@/licorice-l.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/licorice-d.webp</filename-dark>
+    <name>Keys</name>
+    <filename>@BACKGROUNDDIR@/keys-l.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/keys-d.webp</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#1A7D88</pcolor>
+    <pcolor>#aaaaaa</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
