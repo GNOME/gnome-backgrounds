@@ -2,12 +2,12 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Grid</name>
-    <filename>@BACKGROUNDDIR@/grid-l.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/grid-d.webp</filename-dark>
+    <name>Pills</name>
+    <filename>@BACKGROUNDDIR@/pills-l.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/pills-d.webp</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#a55a01</pcolor>
+    <pcolor>#d3a778</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
