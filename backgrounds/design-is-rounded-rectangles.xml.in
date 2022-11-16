@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Design is Rounded Rectangles</name>
+    <filename>@BACKGROUNDDIR@/design-is-rounded-rectangles-l.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/design-is-rounded-rectangles-d.webp</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#b75e5c</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>

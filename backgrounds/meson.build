@@ -7,6 +7,8 @@ backgrounds = [
   'adwaita-l.webp',
   'blobs-d.svg',
   'blobs-l.svg',
+  'design-is-rounded-rectangles-d.webp',
+  'design-is-rounded-rectangles-l.webp',
   'drool-d.svg',
   'drool-l.svg',
   'dune-d.svg',
@@ -25,9 +27,7 @@ backgrounds = [
   'truchet-d.webp',
   'truchet-l.webp',
   'vnc-d.webp',
-  'vnc-l.webp',
-  'wood-d.webp',
-  'wood-l.webp'
+  'vnc-l.webp'
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)
@@ -36,6 +36,7 @@ foreach metadata : [
   'adwaita.xml',
   'blobs.xml',
   'drool.xml',
+  'design-is-rounded-rectangles.xml', 
   'dune.xml',
   'field.xml',
   'keys.xml',
@@ -44,8 +45,7 @@ foreach metadata : [
   'pixels.xml',
   'symbolic.xml',
   'truchet.xml',
-  'vnc.xml',
-  'wood.xml']
+  'vnc.xml']
   configure_file(
     input: metadata + '.in',
     output: metadata,
