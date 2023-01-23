@@ -38,7 +38,7 @@ foreach metadata : [
   'drool.xml',
   'design-is-rounded-rectangles.xml', 
   'dune.xml',
-  'field.xml',
+  'fold.xml',
   'keys.xml',
   'oceans.xml',
   'pills.xml',
