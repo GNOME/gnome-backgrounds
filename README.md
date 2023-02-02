@@ -20,9 +20,7 @@ GNOME is deployed globally. Be aware of some bad connotations in certain geograp
 
 #### Technical Constraints
 
-##### Resolution
-
-It is recommended to submit wallpapers of 4 megapixels and above. Photos should generally come in the standard size of 4096x2160px, with no artifacts such as chromatic aberration. The wallpapers get scaled with the `background-size: cover` equivalent method but due to portrait aspect for displays being rather rare and the texture size being a real constraint we have not switched to square backgrounds yet. Do take various possible display aspect ratios into consideration when submitting wallpapers with strong reliance on composition. Important elements might get cropped.
+GNOME Human Interface Guidelines povide some [background on size and aspect ratio](https://developer.gnome.org/hig/reference/backgrounds.html) for the wallpapers.
 
 ##### File size
 
