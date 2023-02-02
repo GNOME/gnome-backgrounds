@@ -5,8 +5,8 @@
    width="4096"
    height="4096"
    version="1.1"
-   sodipodi:docname="layer-modes-d.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="blobs-d.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    inkscape:export-filename="adwaita-d.webp"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -32,11 +32,11 @@
        inkscape:collect="always"
        id="linearGradient12824">
       <stop
-         style="stop-color:#c64600;stop-opacity:1"
+         style="stop-color:#d64700;stop-opacity:1;"
          offset="0"
          id="stop12820" />
       <stop
-         style="stop-color:#c64600;stop-opacity:1"
+         style="stop-color:#301200;stop-opacity:1;"
          offset="1"
          id="stop12822" />
     </linearGradient>
@@ -654,7 +654,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="colos"
-     style="display:inline;mix-blend-mode:overlay;fill-opacity:1;stroke:url(#linearGradient12826)">
+     style="display:inline;mix-blend-mode:multiply;fill-opacity:1;stroke:url(#linearGradient12826);opacity:0.69844049">
     <rect
        style="fill:url(#meshgradient14011);fill-opacity:1;stroke:none;stroke-width:0.851851;-inkscape-stroke:none;stop-color:#000000"
        id="rect12758"
