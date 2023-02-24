@@ -4,7 +4,7 @@ This module contains a set of backgrounds packaged with the GNOME desktop.
 
 ## Design Guidelines
 
-![Defaults](defaults.jpg)
+![Defaults](defaults.webp)
 
 ### Default
 
