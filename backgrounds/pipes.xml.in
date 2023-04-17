@@ -2,9 +2,9 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Dune</name>
-    <filename>@BACKGROUNDDIR@/dune-l.svg</filename>
-    <filename-dark>@BACKGROUNDDIR@/dune-d.svg</filename-dark>
+    <name>Pipes</name>
+    <filename>@BACKGROUNDDIR@/pipes-l.jpg</filename>
+    <filename-dark>@BACKGROUNDDIR@/pipes-d.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#f7a957</pcolor>
