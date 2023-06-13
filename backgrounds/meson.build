@@ -17,7 +17,6 @@ backgrounds = [
   'keys-l.webp',
   'morphogenesis-d.svg',
   'morphogenesis-l.svg',
-  'oceans.svg',
   'pills-d.webp',
   'pills-l.webp',
   'pipes-d.jpg',
