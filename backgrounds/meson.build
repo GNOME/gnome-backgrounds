@@ -41,7 +41,6 @@ foreach metadata : [
   'fold.xml',
   'keys.xml',
   'morphogenesis.xml',
-  'oceans.xml',
   'pills.xml',
   'pipes.xml',
   'pixels.xml',
