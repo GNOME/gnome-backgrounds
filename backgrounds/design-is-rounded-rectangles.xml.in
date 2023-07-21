@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Design is Rounded Rectangles</name>
-    <filename>@BACKGROUNDDIR@/design-is-rounded-rectangles-l.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/design-is-rounded-rectangles-d.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/design-is-rounded-rectangles-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/design-is-rounded-rectangles-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#b75e5c</pcolor>

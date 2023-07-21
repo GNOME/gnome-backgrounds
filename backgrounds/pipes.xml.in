@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Pipes</name>
-    <filename>@BACKGROUNDDIR@/pipes-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/pipes-d.jpg</filename-dark>
+    <filename>@BACKGROUNDDIR@/pipes-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/pipes-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#f7a957</pcolor>

@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Keys</name>
-    <filename>@BACKGROUNDDIR@/keys-l.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/keys-d.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/keys-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/keys-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#aaaaaa</pcolor>

@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Fold</name>
-    <filename>@BACKGROUNDDIR@/fold-l.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/fold-d.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/fold-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/fold-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#26a269</pcolor>
