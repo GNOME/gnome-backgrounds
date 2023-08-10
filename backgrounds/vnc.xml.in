@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>VNC</name>
-    <filename>@BACKGROUNDDIR@/vnc-l.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/vnc-d.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/vnc-l.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/vnc-d.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#77767B</pcolor>

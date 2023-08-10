@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Amber</name>
-    <filename>@BACKGROUNDDIR@/amber-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/amber-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/amber-l.jpg</filename>
+    <filename-dark>@BACKGROUNDDIR@/amber-d.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#ff7800</pcolor>

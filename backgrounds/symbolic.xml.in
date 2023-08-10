@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Symbolics</name>
-    <filename>@BACKGROUNDDIR@/symbolic-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/symbolic-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/symbolic-l.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/symbolic-d.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#26a269</pcolor>

@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Truchet</name>
-    <filename>@BACKGROUNDDIR@/truchet-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/truchet-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/truchet-l.jpg</filename>
+    <filename-dark>@BACKGROUNDDIR@/truchet-d.jpg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#ac5e0b</pcolor>
