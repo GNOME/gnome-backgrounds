@@ -5,6 +5,8 @@ dataconf.set('datadir', datadir)
 backgrounds = [
   'adwaita-d.jpg',
   'adwaita-l.jpg',
+  'amber-d.jpg',
+  'amber-l.jpg',
   'blobs-d.svg',
   'blobs-l.svg',
   'design-is-rounded-rectangles-d.jpg',
@@ -33,6 +35,7 @@ install_data(backgrounds, install_dir: backgrounddir)
 
 foreach metadata : [
   'adwaita.xml',
+  'amber.xml',
   'blobs.xml',
   'drool.xml',
   'design-is-rounded-rectangles.xml', 
