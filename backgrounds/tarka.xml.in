@@ -3,11 +3,11 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Truchet</name>
-    <filename>@BACKGROUNDDIR@/truchet-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/truchet-d.jpg</filename-dark>
+    <filename>@BACKGROUNDDIR@/tarka-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/tarka-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#ac5e0b</pcolor>
+    <pcolor>#bea7c1</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>

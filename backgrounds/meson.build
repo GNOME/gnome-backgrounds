@@ -25,8 +25,8 @@ backgrounds = [
   'pixels-l.jpg',
   'symbolic-d.png',
   'symbolic-l.png',
-  'truchet-d.jpg',
-  'truchet-l.jpg',
+  'tarka-d.jxl',
+  'tarka-l.jxl',
   'vnc-d.png',
   'vnc-l.png'
 ]
@@ -45,7 +45,7 @@ foreach metadata : [
   'pills.xml',
   'pixels.xml',
   'symbolic.xml',
-  'truchet.xml',
+  'tarka.xml',
   'vnc.xml']
   configure_file(
     input: metadata + '.in',
