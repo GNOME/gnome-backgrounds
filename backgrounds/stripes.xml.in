@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Truchet</name>
+    <filename>@BACKGROUNDDIR@/stripes-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/stripes-d.jxl</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#2374a3</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>

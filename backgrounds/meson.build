@@ -23,6 +23,8 @@ backgrounds = [
   'pills-l.jpg',
   'pixels-d.jpg',
   'pixels-l.jpg',
+  'stripes-d.jxl',
+  'stripes-l.jxl',
   'symbolic-d.png',
   'symbolic-l.png',
   'tarka-d.jxl',
@@ -44,6 +46,7 @@ foreach metadata : [
   'morphogenesis.xml',
   'pills.xml',
   'pixels.xml',
+  'stripes.xml',
   'symbolic.xml',
   'tarka.xml',
   'vnc.xml']
