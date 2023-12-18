@@ -5,8 +5,8 @@ dataconf.set('datadir', datadir)
 backgrounds = [
   'adwaita-d.jpg',
   'adwaita-l.jpg',
-  'amber-d.jpg',
-  'amber-l.jpg',
+  'amber-d.jxl',
+  'amber-l.jxl',
   'blobs-d.svg',
   'blobs-l.svg',
   'design-is-rounded-rectangles-d.jpg',
