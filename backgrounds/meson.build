@@ -50,6 +50,7 @@ foreach metadata : [
   'geometrics2.xml',
   'keys.xml',
   'morphogenesis.xml',
+  'neogeo.xml',
   'pills.xml',
   'pixels.xml',
   'stripes.xml',
