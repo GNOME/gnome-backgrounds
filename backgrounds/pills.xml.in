@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Pills</name>
-    <filename>@BACKGROUNDDIR@/pills-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/pills-d.jpg</filename-dark>
+    <filename>@BACKGROUNDDIR@/pills-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/pills-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#d3a778</pcolor>
