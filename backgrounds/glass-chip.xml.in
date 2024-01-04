@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Fold</name>
-    <filename>@BACKGROUNDDIR@/geometrics3-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/geometrics3-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/glass-chip-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/glass-chip-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#26a269</pcolor>
