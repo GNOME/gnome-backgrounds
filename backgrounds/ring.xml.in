@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Fold</name>
-    <filename>@BACKGROUNDDIR@/geometrics4-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/geometrics4-d.jxl</filename-dark>
+    <filename>@BACKGROUNDDIR@/ring-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/ring-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#26a269</pcolor>
