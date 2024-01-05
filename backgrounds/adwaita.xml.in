@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Default Background</name>
-    <filename>@BACKGROUNDDIR@/adwaita-l.jpg</filename>
-    <filename-dark>@BACKGROUNDDIR@/adwaita-d.jpg</filename-dark>
+    <filename>@BACKGROUNDDIR@/adwaita-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/adwaita-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>
