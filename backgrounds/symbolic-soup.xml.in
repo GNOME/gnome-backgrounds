@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Symbolics</name>
+    <filename>@BACKGROUNDDIR@/symbolic-soup-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/symbolic-soup-d.jxl</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#26a269</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>

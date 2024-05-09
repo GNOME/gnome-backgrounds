@@ -29,6 +29,8 @@ backgrounds = [
   'ring-l.jxl',
   'symbolic-d.png',
   'symbolic-l.png',
+  'symbolic-soup-d.jxl',
+  'symbolic-soup-l.jxl',
   'tarka-d.jxl',
   'tarka-l.jxl',
   'vnc-d.png',
@@ -51,6 +53,7 @@ foreach metadata : [
   'pixels.xml',
   'ring.xml',
   'symbolic.xml',
+  'symbolic-soup.xml',
   'tarka.xml',
   'vnc.xml']
   configure_file(
