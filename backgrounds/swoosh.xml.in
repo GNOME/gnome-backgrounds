@@ -2,12 +2,12 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Symbolics</name>
-    <filename>@BACKGROUNDDIR@/symbolic-soup-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/symbolic-soup-d.jxl</filename-dark>
+    <name>Swoosh</name>
+    <filename>@BACKGROUNDDIR@/swoosh-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/swoosh-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#B9B5AE</pcolor>
+    <pcolor>#730166</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
