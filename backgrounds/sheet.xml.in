@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Swoosh</name>
+    <filename>@BACKGROUNDDIR@/sheet-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/sheet-d.jxl</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#1a5fb4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
