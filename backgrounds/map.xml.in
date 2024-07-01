@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Map</name>
+    <filename>@BACKGROUNDDIR@/map-l.svg</filename>
+    <filename-dark>@BACKGROUNDDIR@/map-d.svg</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#241f31</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
