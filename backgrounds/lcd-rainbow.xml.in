@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>LCD Rainbow</name>
+    <filename>@BACKGROUNDDIR@/lcd-rainbow-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/lcd-rainbow-d.jxl</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#f9f06b</pcolor>
+    <scolor>#c64600</scolor>
+  </wallpaper>
+</wallpapers>

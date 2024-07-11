@@ -58,6 +58,7 @@ foreach metadata : [
   'geometrics.xml',
   'glass-chip.xml',
   'lcd.xml',
+  'lcd-rainbow.xml',
   'map.xml',
   'mollnar.xml',
   'morphogenesis.xml',
