@@ -19,6 +19,8 @@ backgrounds = [
   'glass-chip-l.jxl',
   'lcd-d.jxl',
   'lcd-l.jxl',
+  'lcd-rainbow-d.jxl',
+  'lcd-rainbow-l.jxl',
   'map-d.svg',
   'map-l.svg',
   'mollnar-d.svg',
