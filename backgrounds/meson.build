@@ -68,7 +68,6 @@ foreach metadata : [
   'pills.xml',
   'pixels.xml',
   'ring.xml',
-  'roundhex.xml',
   'sheet.xml',
   'symbolic.xml',
   'symbolic-soup.xml',
