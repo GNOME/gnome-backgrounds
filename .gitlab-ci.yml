@@ -1,13 +1,34 @@
-image: registry.fedoraproject.org/fedora:latest
+include:
+  - component: gitlab.gnome.org/GNOME/citemplates/release-service@master
+    inputs:
+      dist-job-name: "build"
+      tarball-artifact-path: "${TARBALL_ARTIFACT_PATH}"
 
 variables:
-  DEPENDENCIES: meson ninja-build gettext
+  MESON_BUILD_DIR: _build
+  _DESTDIR: "$CI_PROJECT_DIR/destdir/"
+  TARBALL_ARTIFACT_PATH: "${MESON_BUILD_DIR}/meson-dist/${CI_PROJECT_NAME}-${CI_COMMIT_TAG}.tar.xz"
   GIT_DEPTH: "5"
 
 build:
-  before_script:
-    - dnf update -y --nogpgcheck && dnf install -y --nogpgcheck $DEPENDENCIES
+  image: "quay.io/gnome_infrastructure/gnome-build-meta:core-nightly"
   script:
-    - meson _build
-    - ninja -C _build
-    - DESTDIR="$(pwd)/destdir" ninja -C _build install
+    - git config --global --add safe.directory $CI_PROJECT_DIR
+    - meson setup "${MESON_BUILD_DIR}"
+    - meson compile -C "${MESON_BUILD_DIR}"
+    - mkdir -p $_DESTDIR
+    - meson install -C ${MESON_BUILD_DIR} --no-rebuild --destdir=${_DESTDIR}
+
+    - meson dist -C "${MESON_BUILD_DIR}" --no-tests --include-subprojects
+  after_script:
+    # Cleanup the destdir and thus container volume once we are done
+    - rm -rvf $_DESTDIR
+  artifacts:
+    name: "${CI_JOB_NAME}-${CI_COMMIT_REF_NAME}"
+    when: always
+    paths:
+      - "${TARBALL_ARTIFACT_PATH}"
+      - "${MESON_BUILD_DIR}/meson-logs/"
+      - "${MESON_BUILD_DIR}/meson-dist/"
+    reports:
+      junit: "${MESON_BUILD_DIR}/meson-logs/testlog.junit.xml"
