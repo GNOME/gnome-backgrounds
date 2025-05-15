@@ -57,7 +57,7 @@ foreach metadata : [
   'adwaita.xml',
   'amber.xml',
   'blobs.xml',
-  'Candy-reborn.xml',
+  'candy-reborn.xml',
   'drool.xml',
   'fold.xml',
   'geometrics.xml',
