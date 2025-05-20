@@ -2,9 +2,9 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Fold</name>
-    <filename>@BACKGROUNDDIR@/progress-rainbow-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/progress-rainbow-d.jxl</filename-dark>
+    <name>Pride</name>
+    <filename>@BACKGROUNDDIR@/pride-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/pride-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#26a269</pcolor>
