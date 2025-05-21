@@ -2,7 +2,7 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Fold</name>
+    <name>Progress pride</name>
     <filename>@BACKGROUNDDIR@/progress-pride-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/progress-pride-d.jxl</filename-dark>
     <options>zoom</options>
