@@ -49,6 +49,8 @@ backgrounds = [
   'swoosh-l.jxl',
   'tarka-d.jxl',
   'tarka-l.jxl',
+  'tarkov-pills-d.jxl',
+  'tarkov-pills-l.jxl',
   'vnc-d.png',
   'vnc-l.png'
 ]
@@ -79,6 +81,7 @@ foreach metadata : [
   'symbolic-soup.xml',
   'swoosh.xml',
   'tarka.xml',
+  'tarkov-pills.xml',
   'vnc.xml']
   configure_file(
     input: metadata + '.in',
