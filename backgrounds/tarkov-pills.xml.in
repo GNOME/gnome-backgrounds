@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Tarkov Pills</name>
-    <filename>@BACKGROUNDDIR@/tarkov-pills-l.png</filename>
-    <filename-dark>@BACKGROUNDDIR@/tarkov-pills-d.png</filename-dark>
+    <filename>@BACKGROUNDDIR@/tarkov-pills-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/tarkov-pills-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#77767B</pcolor>
