@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Curvy</name>
+    <filename>@BACKGROUNDDIR@/curvy-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/curvy-d.jxl</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#86b6ef</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
