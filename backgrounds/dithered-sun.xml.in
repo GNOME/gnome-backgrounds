@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Drool</name>
+    <filename>@BACKGROUNDDIR@/dithered-sun-l.svg</filename>
+    <filename-dark>@BACKGROUNDDIR@/dithered-sun-d.svg</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#e1ffb9</pcolor>
+    <scolor>#5c0526</scolor>
+  </wallpaper>
+</wallpapers>
