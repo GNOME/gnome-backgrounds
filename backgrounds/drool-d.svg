@@ -5,7 +5,7 @@
    version="1.1"
    id="svg13"
    sodipodi:docname="drool-d.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,9 +20,50 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="svg13"
+     inkscape:zoom="0.13027606"
+     inkscape:cx="2732.6586"
+     inkscape:cy="2141.6061"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <defs
      id="defs12">
+    <linearGradient
+       id="linearGradient19">
+      <stop
+         style="stop-color:#d72639;stop-opacity:1;"
+         offset="0"
+         id="stop18" />
+      <stop
+         style="stop-color:#241f31;stop-opacity:1"
+         offset="1"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient17">
+      <stop
+         style="stop-color:#b21e1e;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+      <stop
+         style="stop-color:#e3500b;stop-opacity:1;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16">
+      <stop
+         style="stop-color:#db4c09;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+      <stop
+         style="stop-color:#ff8800;stop-opacity:1;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
     <linearGradient
        id="a">
       <stop
@@ -145,7 +186,7 @@
        y2="3778.1279" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#d"
+       xlink:href="#linearGradient19"
        id="linearGradient13"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-1.1278826,-0.30221523,0.30221523,-1.1278826,-17903.776,1812.3738)"
@@ -155,17 +196,17 @@
        y2="6072.8438" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#e"
+       xlink:href="#linearGradient16"
        id="linearGradient14"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.82566738,-0.82566738,0.82566738,0.82566738,-16298.659,3897.2226)"
+       gradientTransform="matrix(0.96673273,-0.96673273,0.96673273,0.96673273,-18724.858,3734.8425)"
        x1="9625.167"
        y1="8426.9668"
        x2="10706.418"
        y2="7833.3643" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#f"
+       xlink:href="#linearGradient17"
        id="linearGradient15"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0112319,-0.583835,0.583835,1.0112319,-8756.3032,2381.7226)"
@@ -176,10 +217,10 @@
   </defs>
   <rect
      style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14);fill-opacity:1;stroke-width:0.107426;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-     width="5322.8291"
-     height="4177.9048"
-     x="-500.59799"
-     y="-100.636"
+     width="6232.2349"
+     height="4891.7002"
+     x="-1007.1747"
+     y="-238.517"
      rx="1.454"
      ry="1.454"
      id="rect12" />
