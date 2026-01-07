@@ -2,12 +2,12 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Fold</name>
-    <filename>@BACKGROUNDDIR@/geometrics-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/geometrics-d.jxl</filename-dark>
+    <name>Balls</name>
+    <filename>@BACKGROUNDDIR@/balls-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/balls-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#26a269</pcolor>
+    <pcolor>#241f31</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
 </wallpapers>
