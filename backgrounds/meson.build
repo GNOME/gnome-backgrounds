@@ -45,6 +45,8 @@ backgrounds = [
   'tarka-l.jxl',
   'tarkov-pills-d.jxl',
   'tarkov-pills-l.jxl',
+  'tubes-d.jxl',
+  'tubes-l.jxl',
   'vnc-d.png',
   'vnc-l.png'
 ]
@@ -73,6 +75,7 @@ foreach metadata : [
   'symbolic.xml',
   'tarka.xml',
   'tarkov-pills.xml',
+  'tubes.xml',
   'vnc.xml']
   configure_file(
     input: metadata + '.in',
