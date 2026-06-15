@@ -7,7 +7,7 @@
     <filename-dark>@BACKGROUNDDIR@/tubes-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
+    <pcolor>#010000</pcolor>
+    <scolor>#270F06</scolor>
   </wallpaper>
 </wallpapers>

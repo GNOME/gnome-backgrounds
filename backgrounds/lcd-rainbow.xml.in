@@ -7,7 +7,7 @@
     <filename-dark>@BACKGROUNDDIR@/lcd-rainbow-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#f9f06b</pcolor>
-    <scolor>#c64600</scolor>
+    <pcolor>#DBDBDB</pcolor>
+    <scolor>#E5E5E5</scolor>
   </wallpaper>
 </wallpapers>

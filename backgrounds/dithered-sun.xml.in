@@ -7,7 +7,7 @@
     <filename-dark>@BACKGROUNDDIR@/dithered-sun-d.jxl</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#e1ffb9</pcolor>
-    <scolor>#5c0526</scolor>
+    <pcolor>#CCFCAF</pcolor>
+    <scolor>#7BDECB</scolor>
   </wallpaper>
 </wallpapers>
