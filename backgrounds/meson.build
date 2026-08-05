@@ -15,6 +15,8 @@ backgrounds = [
   'blendpills-l.jxl',  
   'curvy-d.jxl',
   'curvy-l.jxl',
+  'curvaturingster-d.jxl',
+  'curvaturingster-l.jxl',
   'dithered-sun-d.jxl',
   'dithered-sun-l.jxl',
   'drool-d.svg',
