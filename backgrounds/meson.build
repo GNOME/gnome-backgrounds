@@ -63,6 +63,7 @@ foreach metadata : [
   'balls.xml',
   'blobs.xml',
   'blendpills.xml',
+  'curvaturingster.xml',
   'curvy.xml',
   'dithered-sun.xml',
   'drool.xml',
