@@ -5,6 +5,7 @@
     <name>VNC</name>
     <filename>@BACKGROUNDDIR@/vnc-l.png</filename>
     <filename-dark>@BACKGROUNDDIR@/vnc-d.png</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/vnc-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#77767B</pcolor>

@@ -5,6 +5,7 @@
     <name>Blendpills</name>
     <filename>@BACKGROUNDDIR@/blendpills-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/blendpills-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/blendpills-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#BE9F4D</pcolor>

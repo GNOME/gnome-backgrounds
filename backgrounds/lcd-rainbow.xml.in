@@ -5,6 +5,7 @@
     <name>LCD Rainbow</name>
     <filename>@BACKGROUNDDIR@/lcd-rainbow-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/lcd-rainbow-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/lcd-rainbow-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#DBDBDB</pcolor>

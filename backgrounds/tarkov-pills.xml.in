@@ -5,6 +5,7 @@
     <name>Tarkov Pills</name>
     <filename>@BACKGROUNDDIR@/tarkov-pills-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/tarkov-pills-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/tarkov-pills-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#9997AC</pcolor>

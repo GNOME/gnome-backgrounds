@@ -5,6 +5,7 @@
     <name>Pixels</name>
     <filename>@BACKGROUNDDIR@/progress-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/progress-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/progress-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#D3C9DF</pcolor>

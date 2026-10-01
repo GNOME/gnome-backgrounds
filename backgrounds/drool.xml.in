@@ -5,6 +5,7 @@
     <name>Drool</name>
     <filename>@BACKGROUNDDIR@/drool-l.svg</filename>
     <filename-dark>@BACKGROUNDDIR@/drool-d.svg</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/drool-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#89B7EF</pcolor>

@@ -5,6 +5,7 @@
     <name>Curvy</name>
     <filename>@BACKGROUNDDIR@/curvy-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/curvy-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/curvy-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#8A8988</pcolor>

@@ -5,6 +5,7 @@
     <name>Pills</name>
     <filename>@BACKGROUNDDIR@/pills-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/pills-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/pills-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#B03546</pcolor>

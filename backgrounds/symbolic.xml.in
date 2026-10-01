@@ -5,6 +5,7 @@
     <name>Symbolics</name>
     <filename>@BACKGROUNDDIR@/symbolic-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/symbolic-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/symbolic-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#2C78CB</pcolor>

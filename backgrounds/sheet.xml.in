@@ -5,6 +5,7 @@
     <name>Swoosh</name>
     <filename>@BACKGROUNDDIR@/sheet-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/sheet-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/sheet-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#10499F</pcolor>

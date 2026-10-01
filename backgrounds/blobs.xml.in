@@ -5,6 +5,7 @@
     <name>Blobs</name>
     <filename>@BACKGROUNDDIR@/blobs-l.svg</filename>
     <filename-dark>@BACKGROUNDDIR@/blobs-d.svg</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/blobs-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#322842</pcolor>

@@ -5,6 +5,7 @@
     <name>Fold</name>
     <filename>@BACKGROUNDDIR@/fold-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/fold-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/fold-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#EE9526</pcolor>

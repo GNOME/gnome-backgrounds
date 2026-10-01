@@ -5,6 +5,7 @@
     <name>Map</name>
     <filename>@BACKGROUNDDIR@/map-l.svg</filename>
     <filename-dark>@BACKGROUNDDIR@/map-d.svg</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/map-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#EFF5FF</pcolor>
