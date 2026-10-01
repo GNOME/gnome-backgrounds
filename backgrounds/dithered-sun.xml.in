@@ -5,6 +5,7 @@
     <name>Dithered Sun</name>
     <filename>@BACKGROUNDDIR@/dithered-sun-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/dithered-sun-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/dithered-sun-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#CCFCAF</pcolor>

@@ -5,6 +5,7 @@
     <name>Balls</name>
     <filename>@BACKGROUNDDIR@/balls-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/balls-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/balls-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3C3635</pcolor>

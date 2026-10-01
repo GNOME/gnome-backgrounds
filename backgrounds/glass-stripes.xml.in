@@ -5,6 +5,7 @@
     <name>Fold</name>
     <filename>@BACKGROUNDDIR@/glass-stripes-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/glass-stripes-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/glass-stripes-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#EF9A49</pcolor>

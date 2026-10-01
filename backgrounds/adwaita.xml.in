@@ -5,6 +5,7 @@
     <name>Default Background</name>
     <filename>@BACKGROUNDDIR@/adwaita-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/adwaita-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/adwaita-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#044BFD</pcolor>

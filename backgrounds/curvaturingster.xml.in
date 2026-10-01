@@ -5,6 +5,7 @@
     <name>Curvaturingster</name>
     <filename>@BACKGROUNDDIR@/curvaturingster-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/curvaturingster-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/curvaturingster-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#8B6571</pcolor>

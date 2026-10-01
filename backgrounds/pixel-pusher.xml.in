@@ -5,6 +5,7 @@
     <name>Pixel Pusher</name>
     <filename>@BACKGROUNDDIR@/pixel-pusher-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/pixel-pusher-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/pixel-pusher-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#1A1427</pcolor>

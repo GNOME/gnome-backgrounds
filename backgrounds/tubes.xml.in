@@ -5,6 +5,7 @@
     <name>Series of Tubes</name>
     <filename>@BACKGROUNDDIR@/tubes-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/tubes-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/tubes-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#010000</pcolor>

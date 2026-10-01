@@ -5,6 +5,7 @@
     <name>Morphogenesis</name>
     <filename>@BACKGROUNDDIR@/morphogenesis-l.svg</filename>
     <filename-dark>@BACKGROUNDDIR@/morphogenesis-d.svg</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/morphogenesis-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#E48579</pcolor>

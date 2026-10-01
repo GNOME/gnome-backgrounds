@@ -5,6 +5,7 @@
     <name>Fold</name>
     <filename>@BACKGROUNDDIR@/glass-chip-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/glass-chip-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/glass-chip-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#24364E</pcolor>

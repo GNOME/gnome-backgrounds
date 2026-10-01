@@ -5,6 +5,7 @@
     <name>Pixels</name>
     <filename>@BACKGROUNDDIR@/pixels-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/pixels-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/pixels-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#92B1F3</pcolor>
