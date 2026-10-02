@@ -3,12 +3,12 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Pixels</name>
-    <filename>@BACKGROUNDDIR@/pixels-l.jxl</filename>
-    <filename-dark>@BACKGROUNDDIR@/pixels-d.jxl</filename-dark>
-    <thumbnail>@BACKGROUNDDIR@/pixels-thumbnail.png</thumbnail>
+    <!-- points at the timeline, not an image; a timed wallpaper has no
+         <thumbnail> sidecar, so pcolor/scolor stand in for the preview. -->
+    <filename>@BACKGROUNDDIR@/pixels-timed.xml</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#92B1F3</pcolor>
-    <scolor>#8AA5F6</scolor>
+    <pcolor>#3465A4</pcolor>
+    <scolor>#3465A4</scolor>
   </wallpaper>
 </wallpapers>
