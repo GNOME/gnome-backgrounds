@@ -2,13 +2,13 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>Default Background</name>
+    <name>Adwaita</name>
     <filename>@BACKGROUNDDIR@/adwaita-l.jxl</filename>
     <filename-dark>@BACKGROUNDDIR@/adwaita-d.jxl</filename-dark>
     <thumbnail>@BACKGROUNDDIR@/adwaita-thumbnail.png</thumbnail>
     <options>zoom</options>
     <shade_type>solid</shade_type>
-    <pcolor>#044BFD</pcolor>
-    <scolor>#0234E5</scolor>
+    <pcolor>#7A9BC1</pcolor>
+    <scolor>#7A9BC1</scolor>
   </wallpaper>
 </wallpapers>
