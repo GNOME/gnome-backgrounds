@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Progressive Trout</name>
+    <filename>@BACKGROUNDDIR@/progressive-trout-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/progressive-trout-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/progressive-trout-thumbnail.png</thumbnail>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#27401F</pcolor>
+    <scolor>#27401F</scolor>
+  </wallpaper>
+</wallpapers>
