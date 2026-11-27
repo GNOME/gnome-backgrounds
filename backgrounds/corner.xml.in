@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Corner</name>
+    <filename>@BACKGROUNDDIR@/corner-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/corner-d.jxl</filename-dark>
+    <thumbnail>@BACKGROUNDDIR@/corner-thumbnail.png</thumbnail>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#697497</pcolor>
+    <scolor>#697497</scolor>
+  </wallpaper>
+</wallpapers>
